@@ -70,13 +70,13 @@
 <tr>
     <td>1.0</td>
     <td>26/04/2025</td>
-    <td>Rafael Andres Vivanco Salazar</td>
+    <td>Oblitas Davila, Mariano Moises</td>
     <td>Creación y redacción del Startup Profile</td>
 </tr>
 <tr>
     <td>1.1</td>
     <td>26/04/2025</td>
-    <td>Rafael Andres Vivanco Salazar</td>
+    <td>Oblitas Davila, Mariano Moises</td>
     <td>Creación y redacción de los segmentos objetivos</td>
 </tr>
 <tr>
@@ -88,19 +88,19 @@
 <tr>
     <td>1.3</td>
     <td>26/04/2025</td>
-    <td>Victor Andres Cruz Ibarra</td>
+    <td>Cardenas Minaya, Ricardo Fernando</td>
     <td>Documentación y análisis de las entrevistas a nuestros segmentos objetivos.</td>
 </tr>
 <tr>
     <td>1.4</td>
     <td>26/04/2025</td>
-    <td>Victor Andres Cruz Ibarra</td>
+    <td>Cardenas Minaya, Ricardo Fernando</td>
     <td>Creación y maquetación de la sección 'Needfinding' y sus diagramas. De la misma forma, se completo la redaccion de las historias de usuario y el to-be scenario mapping.</td>
 </tr>
 <tr>
     <td>1.5</td>
     <td>26/04/2025</td>
-    <td>Rafael Andres Vivanco Salazar</td>
+    <td>Oblitas Davila, Mariano Moises</td>
     <td>Creación del impact mapping asi como la asignacion de user story points en el product backlog.</td>
 </tr>
 <tr>
@@ -136,43 +136,43 @@
 <tr>
     <td>1.11</td>
     <td>10/05/2025</td>
-    <td>Rafael Andres Vivanco Salazar</td>
+    <td>Oblitas Davila, Mariano Moises</td>
     <td>Corrección de los story points del product backlog</td>
 </tr>
 <tr>
     <td>1.12</td>
     <td>10/05/2025</td>
-    <td>Rafael Andres Vivanco Salazar</td>
+    <td>Oblitas Davila, Mariano Moises</td>
     <td>Corrección de porcentajes en segmentos objetivos</td>
 </tr>
 <tr>
     <td>2.0</td>
     <td>13/05/2025</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Planeación y documentación del Sprint 2</td>
 </tr>
 <tr>
     <td>2.1</td>
     <td>13/05/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino y Victor Cruz</td>
+    <td>Ariana Cecilia Agreda Sobrino y Ricardo Cardenas</td>
     <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.2</td>
     <td>13/05/2025</td>
-    <td>Claudia Belledonne y Rafael Vivanco</td>
+    <td>Claudia Belledonne y Mariano Oblitas</td>
     <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
 </tr>
 </tr>
     <td>2.3</td>
     <td>14/05/2025</td>
-    <td>Mauricio Elera  y Victor Cruz</td>
+    <td>Mauricio Elera  y Ricardo Cardenas</td>
     <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
 </tr>
     </tr>
     <td>3.0</td>
     <td>14/06/2025</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Documentación de Validation Interviews </td>
 </tr>
 </tr>
@@ -184,19 +184,19 @@
 </tr>
     <td>3.2</td>
     <td>16/06/2025</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Creación y documentación del Sprint Backlog 3 </td>
 </tr>
 </tr>
     <td>3.3</td>
     <td>17/06/2025</td>
-    <td>Ariana Agreda y Rafael Vivanco</td>
+    <td>Ariana Agreda y Mariano Oblitas</td>
     <td>Redacción de Development Evidence for Sprint Review </td>
 </tr>
 </tr>
     <td>3.4</td>
     <td>17/06/2025</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Documentación de Execution Evidence for Sprint Review </td>
 </tr>
 </tr>
@@ -214,7 +214,7 @@
 <tr>
     <td>4.0</td>
     <td>03/07/2025</td>
-    <td>Victor Andres Cruz Ibarra</td>
+    <td>Cardenas Minaya, Ricardo Fernando</td>
     <td>Actualización de índice y estructura general para incluir el Sprint 4 correctamente enlazado.</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@
 <tr>
     <td>4.2</td>
     <td>04/07/2025</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Redacción y documentación del Sprint Backlog 4, detallando tareas técnicas y responsables.</td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@
 <tr>
     <td>4.4</td>
     <td>04/07/2025</td>
-    <td>Victor Andres Cruz Ibarra</td>
+    <td>Cardenas Minaya, Ricardo Fernando</td>
     <td>Documentación y redacción de Execution Evidence for Sprint Review con imágenes y descripciones del Sprint 4.</td>
 </tr>
 <tr>
@@ -274,9 +274,9 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Se puede identificar a los integrantes como: 
 - Ariana Cecilia Agreda Sobrino: arii4w
 - Claudia Valeria Belledonne Espinoza: Cl4us-tb
-- Victor Andres Cruz Ibarra: Elandrehs
+- Cardenas Minaya, Ricardo Fernando: RicardoCardenas
 - Mauricio Daniel Elera Rodríguez: Maur1xio
-- Rafael Andres Vivanco Salazar: RafaelVivanco
+- Oblitas Davila, Mariano Moises: MarianoOblitas
 
 
 Asimismo, se explican las ramas que tenemos hasta el momento: 
@@ -511,7 +511,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Victor Andres Cruz Ibarra</b></p>
+<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, lideré la ejecución del proceso de investigación con usuarios, diseñando y registrando cuatro entrevistas clave para el levantamiento de necesidades. Posteriormente, realicé el análisis detallado de estas entrevistas, lo cual sirvió como base para el desarrollo del Needfinding. A partir de esto, elaboré entregables fundamentales como los User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y el As-is Scenario Mapping. Además, desarrollé el Ubiquitous Language y participé activamente en la elaboración del To-Be Scenario Mapping, así como en la redacción de User Stories para la especificación de requerimientos.</p>
         <p><b>TP1:</b></p>
@@ -522,7 +522,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>Me encargué de conectar el plan de mantenimiento con el backend, asegurando que las vistas funcionaran de forma dinámica y actualizada. También revisé las funcionalidades de edición de planes y colaboré en la validación general del sistema. Coordiné con el equipo los avances y ayudé en la organización de entregables finales.</p>
           <br>
           
-<p><b>Rafael Andres Vivanco Salazar</b></p>
+<p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, participé activamente en la elaboración del Solution Profile, incluyendo el desarrollo de los antecedentes y la definición del problema central del proyecto. Además, lideré la implementación del proceso de Lean UX, trabajando en la redacción de los Problem Statements, Assumptions e Hypothesis Statements. También estructuré el Lean UX Canvas de manera colaborativa con el equipo. Finalmente, contribuí a la identificación de los segmentos objetivo y participé en la construcción del Impact Mapping y el primer Product Backlog.</p>
         <p><b>TP1:</b></p>
@@ -568,7 +568,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Victor Andres Cruz Ibarra</b></p>
+<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi participación en estas tareas ayudó a consolidar un liderazgo compartido centrado en el entendimiento profundo de las necesidades del usuario. Al asumir la responsabilidad de esta etapa clave, promoví una dinámica de trabajo colaborativa, impulsando decisiones basadas en evidencia que alinearon al equipo hacia una solución centrada en el usuario.</p>
         <p><b>TP1:</b></p>
@@ -579,7 +579,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>Esta etapa me ayudó a reafirmar que el liderazgo conjunto se basa en apoyar al equipo y tomar responsabilidad en tareas clave. Disfruté poder ayudar a otros y asegurar que lo que hicimos se entregue con calidad.</p>
           <br>
           
-<p><b>Rafael Andres Vivanco Salazar</b></p>
+<p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi participación en estas entregas permitió al equipo establecer una base estratégica clara y orientada a objetivos desde el inicio del proyecto. Fomenté la toma de decisiones compartida y apoyé la distribución equitativa de responsabilidades, promoviendo un liderazgo conjunto basado en la colaboración y la alineación de ideas.</p>
         <p><b>TP1:</b></p>
@@ -632,7 +632,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Victor Andres Cruz Ibarra</b></p>
+<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Fomenté un entorno colaborativo al involucrar al equipo en la validación de entrevistas y en la interpretación conjunta de hallazgos. Guié la planificación de las tareas relacionadas con la fase de Needfinding y su vinculación con los requerimientos del sistema, asegurando que todas las voces del equipo fueran consideradas durante el análisis. La definición del Ubiquitous Language y la elaboración del To-Be Scenario Mapping permitieron alinear los objetivos del proyecto con las necesidades reales de los usuarios.</p>
         <p><b>TP1:</b></p>
@@ -643,7 +643,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>Ayudé a definir las metas del cierre técnico, asegurando que el plan de mantenimiento, la edición y eliminación de planes funcionaran bien. Coordiné con compañeros para validar funcionalidades y corregir bugs en los endpoints y vistas. Nos organizamos para revisar todo a tiempo.</p>
           <br>
           
-<p><b>Rafael Andres Vivanco Salazar</b></p>
+<p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Contribuí a generar un ambiente inclusivo al facilitar espacios de diálogo para construir los elementos del Lean UX y definir los objetivos del proyecto desde diversas perspectivas. Propuse una planificación clara de las tareas para el Sprint 1 relacionadas con el perfil de solución y el Lean UX, asegurando una distribución equitativa del trabajo. Además, apoyé la organización del backlog inicial en función de los impactos y metas establecidas por el equipo.</p>
         <p><b>TP1:</b></p>
@@ -691,7 +691,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
           <br>
 
           
-<p><b>Victor Andres Cruz Ibarra</b></p>
+<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Esta etapa me permitió mejorar mis habilidades de análisis colaborativo y planificación orientada al usuario. Aprendí la importancia de trabajar de forma inclusiva para construir soluciones significativas. Me comprometo a seguir promoviendo la escucha activa y la organización de tareas basadas en objetivos comunes en los próximos sprints.</p>
         <p><b>TP1:</b></p>
@@ -702,7 +702,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
         <p>Este sprint reforzó mi compromiso con el cumplimiento ordenado de objetivos. Me permitió ver cómo una buena planificación colectiva facilita el cierre de un proyecto complejo. Me llevo herramientas prácticas para futuros proyectos donde el trabajo colaborativo sea clave.</p>
           <br>
           
-<p><b>Rafael Andres Vivanco Salazar</b></p>
+<p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Esta experiencia me permitió fortalecer mis habilidades de planificación estratégica y trabajo colaborativo. Comprendí el valor de integrar diferentes puntos de vista desde el inicio del proyecto para lograr una visión compartida. Me comprometo a seguir promoviendo un entorno inclusivo y centrado en la organización y el cumplimiento de objetivos en los siguientes entregables.</p>
         <p><b>TP1:</b></p>
@@ -734,8 +734,8 @@ Con una interfaz intuitiva y flujos de trabajo optimizados, Mecanaut ayuda a té
 | :---: | ----- |
 | <img src="./img/group-members/Claudia Belledonne.png" alt="Claudia Belledonne" width="300"/> | **Claudia Belledonne \- u202210259** <br> Mi nombre es Claudia Belledonne, tengo 20 años y me encuentro en mi segundo año de Ingeniería de Software en la UPC. En general, soy alguien creativa, responsable, dedicada y manejo bien el hacer muchas tareas a la vez. Para este trabajo, me comprometo a brindar mi máximo esfuerzo y dedicación. |
 | <img src="./img/group-members/Mauricio Elera.png" alt="Mauricio Elera" width="300"/> | **Mauricio Elera \- u202313702** <br> Mi nombre es Mauricio Elera, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona proactiva, organizada y con muchas ganas de aprender. Estoy comprometido con el trabajo en equipo y dispuesto a aportar todo lo necesario para que nuestro proyecto sea exitoso. |
-| <img src="./img/group-members/Victor Cruz.png" alt="Victor Cruz" width="300"/> | **Victor Cruz \- u202311053** <br> Mi nombre es Victor Cruz, tengo 19 años y estoy cursando mi 5to ciclo de la carrera de Ingeniería de Software en la UPC. Soy una persona entusiasta, creativa y comprometida con cada actividad que realizo. Estoy decidido a dar lo mejor de mi en este proyecto para lograr resultados de calidad. |
-| <img src="./img/group-members/Rafael Vivanco.png" alt="Rafael Vivanco" width="300"/>| **Rafael Vivanco \- u202311064** <br> Mi nombre es Rafael Vivanco, tengo 19 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable con facilidad para adaptarme a distintos entornos y manejar varias tareas a la vez. Siempre doy lo mejor de mí en cada proyecto, aportando dedicación, esfuerzo y actitud positiva. |
+| <img src="./img/group-members/Ricardo Cardenas.png" alt="Ricardo Cardenas" width="300"/> | **Ricardo Cardenas \- u202310004** <br> Mi nombre es Ricardo Cardenas Minaya, soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta, creativa y comprometida con cada actividad que realizo. Estoy decidido a dar lo mejor de mí en este proyecto para lograr resultados de calidad. |
+| <img src="./img/group-members/Mariano Oblitas.png" alt="Mariano Oblitas" width="300"/>| **Mariano Oblitas \- u202310222** <br> Mi nombre es Mariano Oblitas Davila, soy estudiante de Ingeniería de Software en la UPC. Me considero una persona responsable, con facilidad para adaptarme a distintos entornos y manejar varias tareas a la vez. Aporto dedicación, esfuerzo y actitud positiva en cada proyecto. |
 <br>
 
 ## 1.2. Solution Profile
@@ -3547,11 +3547,11 @@ Diagrama de clases basado en bounded contexts:
             
 - Claudia Valeria Belledonne Espinoza
             
-- Victor Andres Cruz Ibarra
+- Cardenas Minaya, Ricardo Fernando
             
 - Mauricio Daniel Elera Rodríguez
             
-- Rafael Andres Vivanco Salazar
+- Oblitas Davila, Mariano Moises
         
    </td>
     </tr>
@@ -3630,7 +3630,7 @@ Diagrama de clases basado en bounded contexts:
     <td>C</td>
   </tr>
   <tr>
-    <td>Cruz, Victor</td>
+    <td>Cardenas, Ricardo</td>
     <td> </td>
     <td>C</td>
     <td>C</td>
@@ -3640,8 +3640,8 @@ Diagrama de clases basado en bounded contexts:
     <td>C</td>
   </tr>
   <tr>
-    <td>Vivanco, Rafael</td>
-    <td>RafaelVivanco</td>
+    <td>Oblitas, Mariano</td>
+    <td>MarianoOblitas</td>
     <td>C</td>
     <td>L</td>
     <td>C</td>
@@ -3726,7 +3726,7 @@ Diagrama de clases basado en bounded contexts:
     <td align="justify">Crear componente pricing-section</td>
     <td align="justify">Generar el componente pricing-section para esta sección.</td>
     <td>0.3 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3734,7 +3734,7 @@ Diagrama de clases basado en bounded contexts:
     <td align="justify">Codificar estructura HTML de pricing-section</td>
     <td align="justify">Maqueta la estructura visual con tarjetas (cards) en un contenedor principal que mantenga alineación responsiva.</td>
     <td>1 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3742,7 +3742,7 @@ Diagrama de clases basado en bounded contexts:
     <td align="justify">Estilar la sección de precios según el diseño (CSS)</td>
     <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects si aplica.</td>
     <td>1 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -3750,7 +3750,7 @@ Diagrama de clases basado en bounded contexts:
     <td align="justify">Implementar el switch “Mensual / Anual</td>
     <td align="justify">Desarrolla el botón deslizante de alternancia entre pago mensual/anual de forma visual y funcional.</td>
     <td>0.5 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
 </tr>
 
@@ -3827,7 +3827,7 @@ Diagrama de clases basado en bounded contexts:
   <td align="justify">Crear componente footer</td>
   <td align="justify">Generar un componente exclusivo para el footer.</td>
   <td>0.3 hr</td>
-  <td>Victor Cruz</td>
+  <td>Ricardo Cardenas</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3835,7 +3835,7 @@ Diagrama de clases basado en bounded contexts:
   <td align="justify">Codificar estructura HTML del footer</td>
   <td align="justify">Maquetar el footer en base al diseño visual.</td>
   <td>1 hr</td>
-  <td>Victor Cruz</td>
+  <td>Ricardo Cardenas</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3843,7 +3843,7 @@ Diagrama de clases basado en bounded contexts:
   <td align="justify">Estilizar fondo degradado, íconos y tipografía con CSS</td>
   <td align="justify">Colores, fuentes (por ejemplo Montserrat), márgenes y hover effects.</td>
   <td>1 hr</td>
-  <td>Victor Cruz</td>
+  <td>Ricardo Cardenas</td>
   <td>Done</td>
 </tr>
 <tr>
@@ -3851,7 +3851,7 @@ Diagrama de clases basado en bounded contexts:
   <td align="justify">Agregar enlaces funcionales o placeholders</td>
   <td align="justify">Asignar rutas internas o externas a los enlaces del footer, o usar placeholders si aún no están definidas.</td>
   <td>1 hr</td>
-  <td>Victor Cruz</td>
+  <td>Ricardo Cardenas</td>
   <td>Done</td>
 </tr>
 
@@ -3974,8 +3974,8 @@ A continuación, se detalla la participación específica de cada integrante del
 | Agreda Sobrino, Ariana Cecilia   | Implementación de las secciones "Navbar" y "Hero" |
 | Belledone Espinoza, Claudia      | Implementación de las secciones "Products" y "Benefits" |
 | Elera Rodríguez, Mauricio Daniel | Implenmentación de las secciones "FAQ" e inicialización del setup |
-| Vivanco , Rafael                    | Implementación de la sección "Plans" y "FAQ" |
-| Cruz, Victor                   | Implementación de la sección "Footer"  |
+| Oblitas, Mariano                    | Implementación de la sección "Plans" y "FAQ" |
+| Cardenas, Ricardo                   | Implementación de la sección "Footer"  |
 
 > **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
 
@@ -4035,11 +4035,11 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
             
 - Claudia Valeria Belledonne Espinoza
             
-- Victor Andres Cruz Ibarra
+- Cardenas Minaya, Ricardo Fernando
             
 - Mauricio Daniel Elera Rodríguez
             
-- Rafael Andres Vivanco Salazar
+- Oblitas Davila, Mariano Moises
         
    </td>
     </tr>
@@ -4081,8 +4081,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 | Agreda, Ariana                      | arii4w           | C    | C    | L    | C    | C    | L    | C    | C    | L    | C    | C    | C    | C    | L    | C    | C    | L    |
 | Belledonne, Claudia                 | Cl4us-tb         | L    | C    | C    | C    | L    | C    | L    | L    | C    | C    | C    | C    | L    | C    | C    | L    | C    |
 | Elera, Mauricio                     | Maur1xio         | C    | L    | C    | L    | C    | C    | C    | C    | C    | L    | L    | L    | C    | C    | L    | C    | C    |
-| Cruz, Victor                        | Elandrehs        | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    | C    |
-| Vivanco, Rafael                     | RafaelVivanco    | C    | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    |
+| Cardenas, Ricardo                        | RicardoCardenas        | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    | C    |
+| Oblitas, Mariano                     | MarianoOblitas    | C    | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    |
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -4142,7 +4142,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Crear formulario para registrar líneas de producción</td>
     <td align="justify">Generar formulario para ingresar datos de las líneas de producción.</td>
     <td>1.5 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4150,7 +4150,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Estilizar formulario de líneas de producción</td>
     <td align="justify">Aplicar diseño visual a los campos de entrada.</td>
     <td>1 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -4202,7 +4202,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Crear componente de calendario de mantenimiento</td>
     <td align="justify">Desarrollar la vista del calendario con los planes de mantenimiento.</td>
     <td>2 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4210,7 +4210,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Estilizar calendario de mantenimiento</td>
     <td align="justify">Aplicar los estilos para que el calendario se vea visualmente atractivo.</td>
     <td>1 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
 
@@ -4222,7 +4222,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Crear funcionalidad de filtro para planes de mantenimiento</td>
     <td align="justify">Desarrollar la funcionalidad para filtrar por fecha, tipo o estado.</td>
     <td>1.5 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4230,7 +4230,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Estilizar interfaz de filtro</td>
     <td align="justify">Aplicar diseño adecuado para los filtros (inputs, botones).</td>
     <td>1 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -4262,7 +4262,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Crear reporte de orden de trabajo</td>
     <td align="justify">Desarrollar funcionalidad para generar el reporte final de órdenes de trabajo.</td>
     <td>2 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4270,7 +4270,7 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
     <td align="justify">Estilizar reporte de orden de trabajo</td>
     <td align="justify">Diseñar la vista para la visualización del reporte final (tablas, botones, etc.).</td>
     <td>1 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
 
@@ -4430,8 +4430,8 @@ A continuación, se detalla la participación específica de cada integrante del
 | Agreda Sobrino, Ariana Cecilia    | US32: Sección Hero del sitio web |
 | Belledone Espinoza, Claudia       | US13: Sección de beneficios del sistema <br> US14: Sección precios del sitio web |
 | Elera Rodríguez, Mauricio Daniel  | US17: Sección dudas del sitio web |
-| Vivanco, Rafael                   | US14: Sección precios del sitio web <br> US17: Sección dudas del sitio web |
-| Cruz, Victor                      | US15: Sección footer del sitio web |
+| Oblitas, Mariano                   | US14: Sección precios del sitio web <br> US17: Sección dudas del sitio web |
+| Cardenas, Ricardo                      | US15: Sección footer del sitio web |
 
 > **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
 
@@ -4486,9 +4486,9 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
             
 - Mauricio Daniel Elera Rodríguez
             
-- Victor Andres Cruz Ibarra
+- Cardenas Minaya, Ricardo Fernando
 
-- Rafael Andres Vivanco Salazar
+- Oblitas Davila, Mariano Moises
    </td>
     </tr>
     <tr>
@@ -4565,8 +4565,8 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
     <td>C</td>
   </tr>
   <tr>
-    <td>Cruz, Victor</td>
-    <td>Elandrehs</td>
+    <td>Cardenas, Ricardo</td>
+    <td>RicardoCardenas</td>
     <td>C</td>
     <td>L</td>
     <td>C</td>
@@ -4575,8 +4575,8 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
     <td>C</td>
   </tr>
     <tr>
-    <td>Vivanco, Rafael</td>
-    <td>RafaelVivanco</td>
+    <td>Oblitas, Mariano</td>
+    <td>MarianoOblitas</td>
     <td>L</td>
     <td>C</td>
     <td>C</td>
@@ -4667,7 +4667,7 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
     <td align="justify">Diseñar modelo de plan de mantenimiento</td>
     <td align="justify">Definir la estructura de datos para registrar un nuevo plan de mantenimiento (dinámico o estático).</td>
     <td>4 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>In Progress</td>
 </tr>
 <tr>
@@ -4675,7 +4675,7 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
     <td align="justify">Crear endpoint POST para orden de trabajo</td>
     <td align="justify">Desarrollar el endpoint que reciba los datos del plan de mantenimiento y los almacene correctamente en la base de datos.</td>
     <td>5 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>In Progress</td>
 </tr>
 
@@ -4727,7 +4727,7 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
     <td align="justify">Desarrollar endpoint GET para consultar ítems</td>
     <td align="justify">Obtener información detallada de cada ítem del inventario para verificar su disponibilidad.</td>
     <td>3 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>To Do</td>
 </tr>
 
@@ -4941,8 +4941,8 @@ A continuación, se detalla la participación específica de cada integrante del
 | Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos MySQL. Participó en la definición de relaciones entre entidades y persistencia.      |
 | Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
 | Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
-| Vivanco Salazar, Rafael Andres | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
-| Cruz Ibarra, Victor Andres | Participó en la recopilación de requerimientos técnicos para el backend y colaboró en la validación de los endpoints mediante pruebas funcionales con Postman.      |
+| Oblitas Davila, Mariano Moises | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
+| Cardenas Minaya, Ricardo Fernando | Participó en la recopilación de requerimientos técnicos para el backend y colaboró en la validación de los endpoints mediante pruebas funcionales con Postman.      |
 
 
 
@@ -4991,8 +4991,8 @@ Captura de colaboracion en github:
 - Ariana Cecilia Agreda Sobrino<br/>
 - Claudia Valeria Belledonne Espinoza<br/>
 - Mauricio Daniel Elera Rodríguez<br/>
-- Victor Andres Cruz Ibarra<br/>
-- Rafael Andres Vivanco Salazar
+- Cardenas Minaya, Ricardo Fernando<br/>
+- Oblitas Davila, Mariano Moises
         </td>
     </tr>
     <tr>
@@ -5119,8 +5119,8 @@ Captura de colaboracion en github:
     <td>C</td>
   </tr>
   <tr>
-    <td>Cruz, Victor</td>
-    <td>Elandrehs</td>
+    <td>Cardenas, Ricardo</td>
+    <td>RicardoCardenas</td>
     <td>C</td>
     <td>C</td>
     <td>C</td>
@@ -5140,8 +5140,8 @@ Captura de colaboracion en github:
     <td>C</td>
   </tr>
   <tr>
-    <td>Vivanco, Rafael</td>
-    <td>RafaelVivanco</td>
+    <td>Oblitas, Mariano</td>
+    <td>MarianoOblitas</td>
     <td>C</td>
     <td>C</td>
     <td>C</td>
@@ -5202,7 +5202,7 @@ Captura de colaboracion en github:
     <td align="justify">Conectar endpoints del backend con la vista de plan de mantenimiento</td>
     <td align="justify">Permitir agregar un plan desde el frontend, enviando datos al backend y mostrando confirmación visual.</td>
     <td>4 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
 
@@ -5250,7 +5250,7 @@ Captura de colaboracion en github:
     <td align="justify">Aplicar diseño responsive al sistema</td>
     <td align="justify">Asegurar que todas las vistas se adapten a móviles, tablets y pantallas grandes utilizando CSS y Flex/Grid.</td>
     <td>2 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -5274,7 +5274,7 @@ Captura de colaboracion en github:
     <td align="justify">Conectar vista de registro de técnicos</td>
     <td align="justify">Permitir al administrador registrar técnicos desde el frontend usando la API correspondiente.</td>
     <td>2 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -5298,7 +5298,7 @@ Captura de colaboracion en github:
     <td align="justify">Agregar funcionalidad para registrar cambios en las lecturas de las métricas de las maquinarias</td>
     <td align="justify">Permitir seleccionar la maquinaria y metrica a registrar. Creacion de un plan dinamico en caso corresponda.</td>
     <td>3 hr</td>
-    <td>Victor Cruz</td>
+    <td>Ricardo Cardenas</td>
     <td>Done</td>
   </tr>
 
@@ -5322,7 +5322,7 @@ Captura de colaboracion en github:
     <td align="justify">Subir un informe resumen de la orden de trabajo</td>
     <td align="justify">Permitir agregar comentarios y subir imagenes de evidencia de la ejecución.</td>
     <td>2 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -5370,7 +5370,7 @@ Captura de colaboracion en github:
     <td align="justify">Eliminar técnicos desde la interfaz</td>
     <td align="justify">Permitir eliminar técnicos desde el panel de administración enviando solicitud al backend.</td>
     <td>2 hr</td>
-    <td>Rafael Vivanco</td>
+    <td>Mariano Oblitas</td>
     <td>Done</td>
   </tr>
 
@@ -5918,8 +5918,8 @@ Cada integrante asumió responsabilidades clave que permitieron cumplir con los 
 | Agreda Sobrino, Ariana Cecilia   | Participó en la validación de vistas conectadas al backend, especialmente en perfiles de usuario. Coordinó pruebas funcionales y colaboró en el ajuste visual de componentes clave.      |
 | Belledone Espinoza, Claudia      | Lideró la conexión e integración de funcionalidades críticas como el registro, login y perfil de administrador. Gestionó validaciones y resolvió errores en endpoints de autenticación.        |
 | Elera Rodríguez, Mauricio Daniel | Implementó y ajustó endpoints para login, métricas y gestión de inventario. Validó la conexión backend-frontend, y colaboró en pruebas y correcciones en vistas relacionadas.                  |
-| Vivanco Salazar, Rafael Andres | Se encargó de conectar el plan de mantenimiento al backend, implementar la lógica de edición y eliminación de planes, y validar los flujos funcionales completos desde frontend.      |
-| Cruz Ibarra, Victor Andres | Participó en la conexión y validación de vistas de usuario técnico, asegurando el diseño responsive. Realizó ajustes visuales finales y pruebas integradas con endpoints.      |
+| Oblitas Davila, Mariano Moises | Se encargó de conectar el plan de mantenimiento al backend, implementar la lógica de edición y eliminación de planes, y validar los flujos funcionales completos desde frontend.      |
+| Cardenas Minaya, Ricardo Fernando | Participó en la conexión y validación de vistas de usuario técnico, asegurando el diseño responsive. Realizó ajustes visuales finales y pruebas integradas con endpoints.      |
 
 
 #### Evidencia de colaboración en GitHub
