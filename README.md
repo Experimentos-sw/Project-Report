@@ -423,120 +423,120 @@ Criterio: La capacidad de reconocer responsabilidades éticas y profesionales en
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
+        <p align="justify">En los entregables de TB1 (Style Guidelines, Wireframes y Prototype), ejercí mi responsabilidad ética al integrar estándares de accesibilidad y diseñar flujos transparentes, asegurando que la solución sea inclusiva y respete la privacidad del usuario.</p>
           <br>
 
         
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
+        <p align="justify">En TB1, lideré el diseño de la base de datos y el Backlog bajo una responsabilidad profesional firme, asegurando que el modelado garantice la privacidad de los datos y que las historias de usuario contemplen un impacto social positivo y ético.</p>
           <br>
 
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
+        <p align="justify">En TB1, diseñé los wireframes, mockups y prototipos aplicando una responsabilidad ética centrada en la accesibilidad universal, asegurando que la interfaz sea inclusiva y elimine barreras para diversos perfiles de usuario en un contexto global.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, lideré la ejecución del proceso de investigación con usuarios, diseñando y registrando cuatro entrevistas clave para el levantamiento de necesidades. Posteriormente, realicé el análisis detallado de estas entrevistas, lo cual sirvió como base para el desarrollo del Needfinding. A partir de esto, elaboré entregables fundamentales como los User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y el As-is Scenario Mapping. Además, desarrollé el Ubiquitous Language y participé activamente en la elaboración del To-Be Scenario Mapping, así como en la redacción de User Stories para la especificación de requerimientos.</p>
+        <p align="justify">En TB1, lideré la investigación y el Needfinding bajo una responsabilidad ética, utilizando User Personas y Empathy Maps para realizar juicios informados que aseguren que los requerimientos de software respondan genuinamente a las necesidades y al contexto social de los usuarios reales.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, participé activamente en la elaboración del Solution Profile, incluyendo el desarrollo de los antecedentes y la definición del problema central del proyecto. Además, lideré la implementación del proceso de Lean UX, trabajando en la redacción de los Problem Statements, Assumptions e Hypothesis Statements. También estructuré el Lean UX Canvas de manera colaborativa con el equipo. Finalmente, contribuí a la identificación de los segmentos objetivo y participé en la construcción del Impact Mapping y el primer Product Backlog.</p>
+        <p align="justify">En TB1, lideré el proceso de Lean UX y el Solution Profile para realizar juicios informados mediante la validación de hipótesis, asegurando que la solución responda con responsabilidad ética al impacto social y económico de los segmentos objetivo.</p>
       </td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
+        <p align="justify">Mi contribución fomentó un liderazgo colaborativo y una distribución justa de tareas, demostrando responsabilidad profesional al asegurar un entorno de trabajo ético que garantiza la integridad y calidad de la solución de ingeniería desde su origen.</p>
           <br>
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
+        <p align="justify">Mi liderazgo colaborativo y la distribución equitativa de tareas consolidaron mi responsabilidad profesional, asegurando que el equipo tome juicios informados que priorizan la integridad ética y el impacto positivo de nuestra solución en la sociedad.</p>
           <br>
           
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
+        <p align="justify">El uso de wireframes y prototipos en TB1 permitió realizar juicios informados sobre la solución, asumiendo mi responsabilidad ética al garantizar una comunicación transparente que alinea el diseño técnico con el impacto social y las expectativas reales del usuario.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Mi participación en estas tareas ayudó a consolidar un liderazgo compartido centrado en el entendimiento profundo de las necesidades del usuario. Al asumir la responsabilidad de esta etapa clave, promoví una dinámica de trabajo colaborativa, impulsando decisiones basadas en evidencia que alinearon al equipo hacia una solución centrada en el usuario.</p>
+        <p align="justify">Al impulsar decisiones basadas en evidencia y el entendimiento del usuario, ejercí mi capacidad de realizar juicios informados, asumiendo la responsabilidad ética de asegurar que la solución de ingeniería responda legítimamente al impacto social y humano del proyecto.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Mi participación en estas entregas permitió al equipo establecer una base estratégica clara y orientada a objetivos desde el inicio del proyecto. Fomenté la toma de decisiones compartida y apoyé la distribución equitativa de responsabilidades, promoviendo un liderazgo conjunto basado en la colaboración y la alineación de ideas.</p>
+        <p align="justify">Mi participación estratégica facilitó la toma de juicios informados en equipo, asegurando que los objetivos del proyecto estén alineados con una responsabilidad ética que considera el impacto social y económico de nuestra solución de ingeniería.</p>
       </td>
     </tr>
 
 
     
 <tr>
-      <td>Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. </td>
+      <td>Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales.</td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
+        <p align="justify">En TB1, emití juicios informados al definir los objetivos del Sprint y proponer ideas para la landing page, asegurando que la solución considere el impacto social en los usuarios y la viabilidad económica del proyecto mediante una planificación de tareas organizada y eficiente.</p>
           <br>
 
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
+        <p align="justify">Durante TB1, emití juicios informados al planificar el Sprint 1 con una perspectiva inclusiva, asegurando que las metas y la documentación reflejen un impacto social positivo y una gestión económica eficiente de los recursos del proyecto.</p>
           <br>
 
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
+        <p align="justify">Al programar la landing page en TB1, emití juicios informados para integrar las propuestas del equipo de forma equitativa, asegurando una solución técnica que minimiza el desperdicio de recursos y maximiza la inclusión del usuario final.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Fomenté un entorno colaborativo al involucrar al equipo en la validación de entrevistas y en la interpretación conjunta de hallazgos. Guié la planificación de las tareas relacionadas con la fase de Needfinding y su vinculación con los requerimientos del sistema, asegurando que todas las voces del equipo fueran consideradas durante el análisis. La definición del Ubiquitous Language y la elaboración del To-Be Scenario Mapping permitieron alinear los objetivos del proyecto con las necesidades reales de los usuarios.</p>
+        <p align="justify">En TB1, emití juicios informados al liderar el Needfinding y el To-Be Scenario Mapping, asegurando que los requerimientos consideren el impacto social al centrarse en necesidades reales y el impacto económico al evitar el desarrollo de funcionalidades innecesarias.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Contribuí a generar un ambiente inclusivo al facilitar espacios de diálogo para construir los elementos del Lean UX y definir los objetivos del proyecto desde diversas perspectivas. Propuse una planificación clara de las tareas para el Sprint 1 relacionadas con el perfil de solución y el Lean UX, asegurando una distribución equitativa del trabajo. Además, apoyé la organización del backlog inicial en función de los impactos y metas establecidas por el equipo.</p>
+        <p align="justify">Durante TB1, emití juicios informados al facilitar el proceso de Lean UX, integrando diversas perspectivas para asegurar que los objetivos del proyecto generen un impacto social inclusivo y una gestión económica eficiente de los recursos desde el backlog inicial.</p>
       </td>
       
 <td>
     <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
+        <p align="justify">Esta experiencia fortaleció mi capacidad de emitir juicios informados al integrar diversas perspectivas, garantizando que nuestras decisiones de ingeniería consideren un impacto social inclusivo y una ejecución económica eficiente en los próximos ciclos de desarrollo.</p>
           <br>
 
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
+        <p align="justify">Mi enfoque en la planificación y documentación facilitó la emisión de juicios informados, estableciendo una base sólida que considera el impacto económico del proyecto y asegura una solución con alto valor social e inclusivo.</p>
           <br>
         
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
-        <p align="justify">Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
+        <p align="justify">Programar la landing page en TB1 me permitió emitir juicios informados sobre la eficiencia del código y la usabilidad, asegurando una solución con un impacto económico óptimo para el proyecto y un impacto social positivo mediante el cumplimiento de estándares de accesibilidad.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Esta etapa me permitió mejorar mis habilidades de análisis colaborativo y planificación orientada al usuario. Aprendí la importancia de trabajar de forma inclusiva para construir soluciones significativas. Me comprometo a seguir promoviendo la escucha activa y la organización de tareas basadas en objetivos comunes en los próximos sprints.</p>
+        <p align="justify">Esta etapa consolidó mi capacidad de emitir juicios informados mediante un análisis colaborativo, garantizando que la planificación de ingeniería genere un impacto social inclusivo y una gestión económica eficiente basada en objetivos compartidos para los próximos sprints.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
-        <p align="justify">Esta experiencia me permitió fortalecer mis habilidades de planificación estratégica y trabajo colaborativo. Comprendí el valor de integrar diferentes puntos de vista desde el inicio del proyecto para lograr una visión compartida. Me comprometo a seguir promoviendo un entorno inclusivo y centrado en la organización y el cumplimiento de objetivos en los siguientes entregables.</p>
+        <p align="justify">Esta experiencia fortaleció mi capacidad de emitir juicios informados al integrar diversas perspectivas en la planificación estratégica, asegurando que los objetivos del proyecto respondan a un impacto social inclusivo y a una gestión económica eficiente de los recursos.</p>
       </td>
     </tr>
   </tbody>
