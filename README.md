@@ -405,11 +405,10 @@ __TB1__
 
 [Anexos](#anexos)
 
-
 # Student Outcome
-ABET – EAC - Student Outcome 5
+ABET – EAC - Student Outcome 4
 
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+Criterio: La capacidad de reconocer responsabilidades éticas y profesionales en situaciones de ingeniería y hacer juicios informados, que deben considerar el impacto de las soluciones de ingeniería en contextos globales, económicos, ambientales y sociales.
 
 <table>
   <tr>
@@ -420,244 +419,124 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     </thead>
   <tbody>
     <tr>
-      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
+      <td><b>Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software.</b></td>
       <td>
 <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint pude aportar liderazgo al desarrollar la vista principal del usuario Empresario (US4). Coordiné con el equipo detalles de diseño y navegación, buscando que todos estuviéramos alineados. Me gustó escuchar sugerencias y trabajar de forma conjunta.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al liderar la implementación de los endpoints para obtener los roles de usuario y las métricas de maquinarias. Me aseguré de que las métricas fueran precisas y fáciles de interpretar, lo cual fue crucial para la toma de decisiones dentro del sistema. Esta responsabilidad me permitió asumir un papel de liderazgo en el desarrollo de funcionalidades clave para el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>En el TF participé activamente en la conexión de funcionalidades clave del frontend con el backend. Apoyé en la revisión final de tareas asignadas, ayudando a otros integrantes con la validación de componentes y pruebas de vista. Me aseguré de que el flujo del usuario en los perfiles funcionara correctamente. Además, me mantuve en comunicación constante con el equipo para resolver problemas de integración.</p>
           <br>
 
         
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
-         <p><b>TP1:</b></p>
-        <p>Asumí la vista de registro de usuario (US1) y me enfoqué en compartir mis conocimientos con el equipo. Me gustó ayudar en la parte de validación y aprender también de mis compañeros.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al tomar la iniciativa en la implementación de las validaciones para el registro de usuarios y en el diseño de los modelos para los ítems de inventario y activos. Fui responsable de asegurar que las funciones claves estuvieran correctamente implementadas y protegidas, liderando el aspecto de la seguridad y la estructuración de datos en el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>En la entrega final asumí un rol de liderazgo en la integración del formulario de registro, el login y el perfil del administrador, asegurándome de que todas las validaciones funcionaran correctamente. Guié al equipo en la revisión de bugs finales y coordiné entregables técnicos, brindando soporte a cada miembro para que completaran sus tareas a tiempo.</p>
           <br>
 
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
-        <p><b>TP1:</b></p>
-        <p>Lideré la implementación del inicio de sesión (US2) coordinando la lógica y flujo con el equipo. Me sentí cómodo proponiendo ideas y escuchando a los demás.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al liderar la implementación de los endpoints para obtener los roles de usuario y las métricas de maquinarias. Me aseguré de que las métricas fueran precisas y fáciles de interpretar, lo cual fue crucial para la toma de decisiones dentro del sistema. Esta responsabilidad me permitió asumir un papel de liderazgo en el desarrollo de funcionalidades clave para el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>Durante el TF participé en la conexión del backend con funcionalidades del inventario y el sistema de autenticación. Me aseguré de que los endpoints de inicio de sesión y métricas funcionaran de forma estable. También colaboré con pruebas y ajustes de lógica en el sistema de visualización de activos.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, lideré la ejecución del proceso de investigación con usuarios, diseñando y registrando cuatro entrevistas clave para el levantamiento de necesidades. Posteriormente, realicé el análisis detallado de estas entrevistas, lo cual sirvió como base para el desarrollo del Needfinding. A partir de esto, elaboré entregables fundamentales como los User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y el As-is Scenario Mapping. Además, desarrollé el Ubiquitous Language y participé activamente en la elaboración del To-Be Scenario Mapping, así como en la redacción de User Stories para la especificación de requerimientos.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint trabajé en la vista de listado de usuarios registrados (US3) y ayudé a que el equipo participara en decisiones técnicas. Me gustó ver cómo sumamos ideas para mejorar la funcionalidad.</p>
-        <p><b>TB2:</b></p>
-        <p>En este sprint, fui responsable del diseño y desarrollo de los modelos para los ítems de inventario y activos. Además, desarrollé el endpoint GET para consultar los ítems del inventario. Mi enfoque estuvo en garantizar que las tareas estuvieran bien definidas, planificadas y distribuidas entre el equipo. Me aseguré de que todas las partes del proyecto estuvieran alineadas con los objetivos, y promoví una comunicación constante con el equipo para asegurarme de que todas las dudas se resolvieran a tiempo, creando un ambiente inclusivo y colaborativo.</p>
-        <p><b>TF:</b></p>
-        <p>Me encargué de conectar el plan de mantenimiento con el backend, asegurando que las vistas funcionaran de forma dinámica y actualizada. También revisé las funcionalidades de edición de planes y colaboré en la validación general del sistema. Coordiné con el equipo los avances y ayudé en la organización de entregables finales.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Durante TB1, participé activamente en la elaboración del Solution Profile, incluyendo el desarrollo de los antecedentes y la definición del problema central del proyecto. Además, lideré la implementación del proceso de Lean UX, trabajando en la redacción de los Problem Statements, Assumptions e Hypothesis Statements. También estructuré el Lean UX Canvas de manera colaborativa con el equipo. Finalmente, contribuí a la identificación de los segmentos objetivo y participé en la construcción del Impact Mapping y el primer Product Backlog.</p>
-        <p><b>TP1:</b></p>
-        <p>Desarrollé la vista de perfil del usuario Empresario (US5) y propuse mejoras en la experiencia de usuario. Coordiné con mis compañeros para validar detalles importantes.</p>
-        <p><b>TB2:</b></p>
-        <p>En este sprint, me encargué de desarrollar el endpoint POST para la creación de órdenes de trabajo relacionadas con los planes de mantenimiento. Trabajé en estrecha colaboración con mi equipo para asegurar que las tareas estuvieran bien planificadas y cumplidas dentro del tiempo estimado. Coordiné las metas del sprint y me aseguré de que mis responsabilidades estuvieran alineadas con los objetivos globales del equipo. Además, mantuve una comunicación abierta y compartí avances regularmente, lo que contribuyó a un entorno inclusivo donde todos podíamos contribuir y apoyar a los demás.</p>
-        <p><b>TF:</b></p>
-        <p>Fui responsable de verificar que las vistas responsive funcionaran correctamente. Realicé los ajustes finales en la visualización del perfil de técnico y colaboré con la conexión de endpoints desde frontend. También estuve atento a los detalles visuales, asegurando que la interfaz sea clara y funcional.</p>
       </td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint confirmé que el liderazgo compartido ayuda a que todos trabajemos con mayor claridad y motivación. Me di cuenta de que al escuchar a mis compañeros logramos integrar sus ideas de manera efectiva y eso elevó la calidad del trabajo.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió practicar el liderazgo en tareas técnicas críticas. Aprendí la importancia de tener datos precisos y claros para el análisis posterior, lo que es esencial en sistemas complejos. Me siento más segura en la toma de decisiones técnicas y en la gestión de tareas de desarrollo.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa final me permitió reafirmar la importancia del liderazgo compartido, especialmente cuando surgen tareas urgentes. Aprendí que apoyar a otros en sus entregables también es una forma de liderazgo, y que estar presente para el equipo es clave para cerrar el proyecto exitosamente.</p>
           <br>
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
-        <p><b>TP1:</b></p>
-        <p>Aprendí que compartir mis conocimientos no solo fortalece al equipo, sino que también me permite aprender de los demás. Esta colaboración nos ayudó a construir funcionalidades más sólidas y con menos errores.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió aplicar y fortalecer mis habilidades en diseño de modelos y validación de datos. Asumí un papel de liderazgo técnico, lo que me ayudó a comprender la importancia de la seguridad y la integridad de los datos en el desarrollo de sistemas. Me siento más preparada para liderar tareas complejas en futuros sprints.</p>
-        <p><b>TF:</b></p>
-        <p>Este cierre me permitió consolidar mis habilidades como líder técnica. Saber coordinar, revisar código y apoyar en tareas críticas fueron aspectos clave en este sprint. Me llevo la experiencia de haber sido un punto de apoyo para el equipo cuando más lo necesitaba.</p>
           <br>
           
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Entendí que liderar no es solo dirigir, sino también facilitar espacios donde todos puedan aportar. Esto hizo que encontráramos mejores soluciones y que el equipo trabajara con mayor confianza.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió mejorar mi capacidad para liderar tareas técnicas importantes. Aprendí la importancia de la validación de datos y cómo asegurar que todo funcione correctamente en el backend. Me siento más confiado en mi capacidad para asumir responsabilidades y coordinar mis esfuerzos para avanzar en el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>Me di cuenta de que un liderazgo efectivo también se da desde la responsabilidad técnica. Guiar la implementación de endpoints críticos fue clave para el éxito del proyecto. Aprendí que trabajar de forma ordenada y predecible es lo que más ayuda al equipo en momentos finales.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi participación en estas tareas ayudó a consolidar un liderazgo compartido centrado en el entendimiento profundo de las necesidades del usuario. Al asumir la responsabilidad de esta etapa clave, promoví una dinámica de trabajo colaborativa, impulsando decisiones basadas en evidencia que alinearon al equipo hacia una solución centrada en el usuario.</p>
-        <p><b>TP1:</b></p>
-        <p>Este Sprint me enseñó que abrir espacios para la participación técnica de todos mejora el producto final. Además, hace que el equipo se sienta escuchado y más involucrado en las decisiones.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió entender cómo la colaboración efectiva y la planificación de tareas son esenciales para lograr los objetivos del equipo. Aprendí la importancia de la organización y la comunicación continua, y cómo estas prácticas contribuyen a un entorno de trabajo más eficiente y armonioso. Estoy más consciente de cómo puedo contribuir a un equipo para alcanzar metas de manera efectiva.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa me ayudó a reafirmar que el liderazgo conjunto se basa en apoyar al equipo y tomar responsabilidad en tareas clave. Disfruté poder ayudar a otros y asegurar que lo que hicimos se entregue con calidad.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi participación en estas entregas permitió al equipo establecer una base estratégica clara y orientada a objetivos desde el inicio del proyecto. Fomenté la toma de decisiones compartida y apoyé la distribución equitativa de responsabilidades, promoviendo un liderazgo conjunto basado en la colaboración y la alineación de ideas.</p>
-        <p><b>TP1:</b></p>
-        <p>Validar ideas con el equipo me ayudó a enriquecer la propuesta de interfaz. Escuchar distintas perspectivas permitió que la experiencia del usuario fuera más completa y cuidada.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me ayudó a entender mejor cómo un entorno colaborativo mejora la eficiencia en el cumplimiento de objetivos. Aprendí que planificar tareas y mantener una comunicación constante son claves para un trabajo en equipo exitoso. Me siento más cómodo en la toma de decisiones y en la coordinación con el equipo para cumplir nuestras metas de manera eficaz.</p>
-        <p><b>TF:</b></p>
-        <p>El liderazgo en este sprint se reflejó en asumir tareas específicas y ejecutarlas con compromiso. Trabajar en equipo para solucionar problemas pequeños pero urgentes me enseñó que el liderazgo también está en los detalles que consolidan un buen producto.</p>
       </td>
     </tr>
 
 
     
 <tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales. </td>
       <td>
         <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
-        <p><b>TP1:</b></p>
-        <p>Ayudé a mantener un buen ambiente de equipo. Propuse espacios de revisión donde todos pudimos aportar y planificar tareas para lograr nuestros objetivos sin problemas.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al trabajar de manera inclusiva con el equipo para implementar los endpoints de roles de usuario y métricas de maquinarias. Me aseguré de establecer metas claras para las métricas que debían ser calculadas y trabajé de manera colaborativa para asegurar que todos estuviéramos alineados en cuanto a los objetivos del sprint. Me aseguré de cumplir con los plazos establecidos y de coordinarme con el equipo para cualquier ajuste necesario.</p>
-        <p><b>TF:</b></p>
-        <p>Durante el TF me aseguré de cumplir con mis tareas de forma oportuna y brindé soporte a compañeros que necesitaban ayuda en pruebas. Coordiné con el equipo detalles de vista y validación. Aporté a las reuniones finales de revisión y cumplimos con los objetivos planificados.</p>
           <br>
 
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
-        <p><b>TP1:</b></p>
-        <p>Fomenté la colaboración organizando reuniones donde todos expusimos avances y dudas. Esto nos ayudó a cumplir las metas con buena organización.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al crear un entorno inclusivo y colaborativo, donde compartí ideas y trabajé de manera estrecha con el equipo para diseñar las validaciones de seguridad y los modelos de inventario y activos. Me aseguré de que todos los miembros del equipo tuvieran claridad sobre las tareas y de que todas las acciones estuvieran alineadas con los objetivos del sprint. Coordiné las tareas de manera eficaz para asegurar que se cumplieran los plazos.</p>
-        <p><b>TF:</b></p>
-        <p>Me encargué de revisar que las funcionalidades clave del registro, login y perfil de administrador estuvieran completas, validadas y alineadas con lo planificado. Me aseguré de que cada integrante tuviera claro su objetivo final, promoviendo la resolución de problemas de forma proactiva y colaborativa.</p>
           <br>
 
           
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
-        <p><b>TP1:</b></p>
-        <p>Busqué que el equipo tuviera espacios para compartir desafíos y planificar juntos. Así logramos avanzar de forma ordenada y colaborativa.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con este Student Outcome al trabajar de manera colaborativa con mi equipo para desarrollar los endpoints POST y GET para usuarios. Me aseguré de que las metas para el sprint estuvieran claras y de que las tareas estuvieran planificadas y distribuidas de forma eficiente. Coordiné con mis compañeros para asegurarme de que las tareas avanzaran de manera sincronizada, y me aseguré de cumplir con los objetivos establecidos para la implementación de los endpoints.</p>
-        <p><b>TF:</b></p>
-        <p>Participé activamente en el cumplimiento de metas técnicas relacionadas al sistema de login e inventario. Coordiné tareas técnicas con compañeros para que todas las conexiones funcionaran correctamente y propuse soluciones rápidas ante errores detectados.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Fomenté un entorno colaborativo al involucrar al equipo en la validación de entrevistas y en la interpretación conjunta de hallazgos. Guié la planificación de las tareas relacionadas con la fase de Needfinding y su vinculación con los requerimientos del sistema, asegurando que todas las voces del equipo fueran consideradas durante el análisis. La definición del Ubiquitous Language y la elaboración del To-Be Scenario Mapping permitieron alinear los objetivos del proyecto con las necesidades reales de los usuarios.</p>
-        <p><b>TP1:</b></p>
-        <p>Promoví la comunicación constante entre todos, lo que facilitó el trabajo en equipo y nos permitió cumplir los objetivos planteados.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al tomar la iniciativa en el desarrollo del modelo y los endpoints para los ítems de inventario y activos. Aunque mi tarea era técnica, busqué siempre involucrar al equipo en las decisiones relacionadas con la estructura de datos y los requerimientos del sistema. Ayudé a guiar el desarrollo de las tareas para asegurar que todos estuviéramos alineados y que las tareas avanzaran en conjunto, proporcionando liderazgo en áreas clave.</p>
-        <p><b>TF:</b></p>
-        <p>Ayudé a definir las metas del cierre técnico, asegurando que el plan de mantenimiento, la edición y eliminación de planes funcionaran bien. Coordiné con compañeros para validar funcionalidades y corregir bugs en los endpoints y vistas. Nos organizamos para revisar todo a tiempo.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Contribuí a generar un ambiente inclusivo al facilitar espacios de diálogo para construir los elementos del Lean UX y definir los objetivos del proyecto desde diversas perspectivas. Propuse una planificación clara de las tareas para el Sprint 1 relacionadas con el perfil de solución y el Lean UX, asegurando una distribución equitativa del trabajo. Además, apoyé la organización del backlog inicial en función de los impactos y metas establecidas por el equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Motivé al equipo a compartir ideas y sugerencias en todo momento. Esto nos permitió avanzar de manera fluida y cumplir con las metas del Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al trabajar en equipo, proporcionando liderazgo en las tareas relacionadas con el desarrollo del endpoint de las órdenes de trabajo. Aunque mi tarea era técnica, tomé la iniciativa en el diseño de la API y en la estructura necesaria para que las órdenes se registraran correctamente en la base de datos. Aseguré que el diseño estuviera alineado con los requerimientos y que todos los miembros del equipo pudieran comprender el flujo del trabajo, contribuyendo a una colaboración efectiva.</p>
-        <p><b>TF:</b></p>
-        <p>Contribuí a la planificación del cierre técnico de vistas de usuario, asegurando que el diseño responsive estuviera aplicado correctamente. También participé en la validación de perfiles, ayudando a compañeros a cumplir con sus entregables y haciendo revisiones conjuntas antes del cierre.</p>
       </td>
       
 <td>
     <p><b>Ariana Cecilia Agreda Sobrino</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
-        <p><b>TP1:</b></p>
-        <p>Crear espacios de diálogo constante ayudó a que el equipo se sintiera más unido. Planificar juntos nos permitió cumplir objetivos con orden y evitó que alguien quedara descolgado.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió fortalecer mis habilidades de colaboración y planificación de tareas. Aprendí la importancia de tener metas claras y asegurarse de que todos los miembros del equipo trabajen en la misma dirección. Ahora me siento más confiada en crear un entorno inclusivo y en asegurarme de que se cumplan los objetivos establecidos.</p>
-        <p><b>TF:</b></p>
-        <p>Este cierre me ayudó a ver el valor de planificar y mantener una actitud colaborativa hasta el final. Me siento más preparada para proyectos donde la organización, el cumplimiento y la colaboración constante son esenciales para lograr buenos resultados.</p>
           <br>
 
           
 <p><b>Claudia Valeria Belledonne Espinoza</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
-        <p><b>TP1:</b></p>
-        <p>Tener reuniones continuas y bien enfocadas fue importante para que todos supiéramos nuestras responsabilidades. Esto evitó confusiones y nos permitió mantener un ritmo constante durante el Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió ver cómo un entorno colaborativo mejora la eficiencia del equipo. Aprendí a planificar y distribuir tareas de manera equitativa y asegurarme de que todos estuvieran involucrados en las decisiones clave. Me siento más preparada para seguir trabajando de manera inclusiva y contribuir al éxito del equipo.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa final me permitió reforzar mi capacidad para planificar tareas y acompañar al equipo en su cumplimiento. Mantener el enfoque organizacional fue clave, y aprendí que generar espacios claros de trabajo mejora el ritmo y los resultados del grupo.</p>
           <br>
         
 
 <p><b>Mauricio Daniel Elera Rodríguez</b></p>
         <p><b>TB1:</b></p>
         <p align="justify">Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
-        <p><b>TP1:</b></p>
-        <p>Planificar en conjunto nos permitió organizarnos mejor y evitar retrabajos. Siento que eso hizo que todos estuviéramos más comprometidos con las metas del Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió practicar la importancia de establecer metas claras y planificar las tareas de manera efectiva. Aprendí cómo gestionar tareas técnicas dentro de un entorno colaborativo, donde cada miembro del equipo aporta de manera significativa. Me siento más cómodo trabajando en equipo y coordinando esfuerzos para cumplir los objetivos del sprint.</p>
-        <p><b>TF:</b></p>
-        <p>Aprendí que en las etapas finales lo más importante es tener claridad en las metas y trabajar coordinadamente. Me siento más confiado en mi capacidad para colaborar y contribuir al cumplimiento de objetivos con eficiencia.</p>
           <br>
 
           
 <p><b>Cardenas Minaya, Ricardo Fernando</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Esta etapa me permitió mejorar mis habilidades de análisis colaborativo y planificación orientada al usuario. Aprendí la importancia de trabajar de forma inclusiva para construir soluciones significativas. Me comprometo a seguir promoviendo la escucha activa y la organización de tareas basadas en objetivos comunes en los próximos sprints.</p>
-        <p><b>TP1:</b></p>
-        <p>Mantener la comunicación constante fue clave para no perder el rumbo. Esto permitió que el trabajo fuera más fluido y que cumpliéramos con lo que nos habíamos propuesto.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió trabajar de manera más integrada con el equipo, liderando el desarrollo de tareas técnicas y asegurando que todos trabajáramos hacia el mismo objetivo. Aprendí que el liderazgo no solo implica tomar decisiones, sino también estar atento a las necesidades del equipo y fomentar una comunicación fluida. Me siento más preparado para liderar en proyectos futuros y contribuir a la dirección del equipo.</p>
-        <p><b>TF:</b></p>
-        <p>Este sprint reforzó mi compromiso con el cumplimiento ordenado de objetivos. Me permitió ver cómo una buena planificación colectiva facilita el cierre de un proyecto complejo. Me llevo herramientas prácticas para futuros proyectos donde el trabajo colaborativo sea clave.</p>
           <br>
           
 <p><b>Oblitas Davila, Mariano Moises</b></p>
        <p><b>TB1:</b></p>
         <p align="justify">Esta experiencia me permitió fortalecer mis habilidades de planificación estratégica y trabajo colaborativo. Comprendí el valor de integrar diferentes puntos de vista desde el inicio del proyecto para lograr una visión compartida. Me comprometo a seguir promoviendo un entorno inclusivo y centrado en la organización y el cumplimiento de objetivos en los siguientes entregables.</p>
-        <p><b>TP1:</b></p>
-        <p>Fomentar la participación y el intercambio de ideas hizo que el ambiente de trabajo fuera más cómodo y colaborativo. Esto facilitó que todos se involucraran en las decisiones y lográramos avanzar sin bloqueos.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió desarrollar mis habilidades de liderazgo dentro de un equipo. Aprendí que liderar no solo implica tomar decisiones, sino también asegurarse de que todos estén bien informados y colaboren activamente en la ejecución de las tareas. Estoy más confiado en mi capacidad para coordinarme con otros y asumir responsabilidades clave en el desarrollo de tareas complejas.</p>
-        <p><b>TF:</b></p>
-        <p>Comprendí que cumplir objetivos en grupo requiere coordinación continua y atención a los detalles. Me siento más capaz de trabajar en equipo incluso en momentos de alta presión y contribuir con soluciones rápidas y efectivas.</p>
       </td>
     </tr>
   </tbody>
