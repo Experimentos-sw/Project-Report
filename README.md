@@ -3362,11 +3362,11 @@ Diagrama de clases basado en bounded contexts:
 
 <h3>Repositorios de GitHub:</h3>
 <ul>
-  <li><strong>Organización en GitHub:</strong> <a href="https://github.com/awawaTech">https://github.com/awawaTech</a></li>
-  <li><strong>Informe del Proyecto:</strong> <a href="https://github.com/awawaTech/Project-Report">https://github.com/awawaTech/Project-Report</a></li>
-  <li><strong>Landing Page:</strong> <a href="https://github.com/awawaTech/mecanaut-landing-page">https://github.com/awawaTech/mecanaut-landing-page</a></li>
-  <li><strong>SPA Frontend:</strong> <a href="https://github.com/awawaTech/mecanaut-fronted">https://github.com/awawaTech/mecanaut-fronted</a></li>
-  <li><strong>Backend API:</strong> <a href="https://github.com/awawaTech/mecanaut-back">https://github.com/awawaTech/mecanaut-back</a></li>
+  <li><strong>Organización en GitHub:</strong> <a href="https://github.com/Experimentos-sw">https://github.com/Experimentos-sw</a></li>
+  <li><strong>Informe del Proyecto:</strong> <a href="https://github.com/Experimentos-sw/Project-Report">https://github.com/Experimentos-sw/Project-Report</a></li>
+  <li><strong>Landing Page:</strong> <a href="https://github.com/Experimentos-sw/mecanaut-landing-page">https://github.com/Experimentos-sw/mecanaut-landing-page</a></li>
+  <li><strong>SPA Frontend:</strong> <a href="https://github.com/Experimentos-sw/mecanaut-frontend">https://github.com/Experimentos-sw/mecanaut-frontend</a></li>
+  <li><strong>Backend API:</strong> <a href="https://github.com/Experimentos-sw/mecanaut-backend">https://github.com/Experimentos-sw/mecanaut-backend</a></li>
 </ul>
 
 <h3>Flujo de Trabajo GitFlow</h3>
@@ -6203,11 +6203,6 @@ Mecanauts no solo resuelve los problemas inmediatos de las empresas, sino que ti
 **Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
 
 
-# Video About-the-Team.
-![image](https://github.com/user-attachments/assets/95e68b0a-e793-4933-9ffe-b59ae6ead8d3)
-
-link: https://youtu.be/ch44ZfRNnuE
-
 # Video About-the-Product.
 ![image](https://github.com/user-attachments/assets/60510df1-2ead-496b-9559-5532f6067382)
 
@@ -6221,19 +6216,10 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 
 Para acceder a los diferentes recursos del proyecto, puedes visitar los siguientes enlaces:
 
-- Video exposición TB1: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/Es7LsKR8jrtAm3Eih7QsQm4B6zQNcCRNPp4Q7ShqOVCGoA?e=Izawmc](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/Es7LsKR8jrtAm3Eih7QsQm4B6zQNcCRNPp4Q7ShqOVCGoA?e=Izawmc)
-- Landing Page desplegado del proyecto: [https://zealous-moss-0e183d81e.6.azurestaticapps.net/](https://zealous-moss-0e183d81e.6.azurestaticapps.net/)
-- Repositorio de la Landing Page: [https://github.com/awawaTech/mecanaut-landing-page](https://github.com/awawaTech/mecanaut-landing-page)
-- Documentación del Proyecto: [https://github.com/awawaTech/Project-Report](https://github.com/awawaTech/Project-Report)
-- Video exposición TP1: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/EqV7XG3MjIdKqtKWRBkYUzEBoPuAjLCYm_iKfNx94Q5Hyw?e=JT2uUQ](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202315044_upc_edu_pe/EqV7XG3MjIdKqtKWRBkYUzEBoPuAjLCYm_iKfNx94Q5Hyw?e=JT2uUQ)
-- Video de exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315044_upc_edu_pe/EQFbL1s4DUxNiw3qzYBfiloBmXPhTYM-2DC2kas0xCRIqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EVZnL9
-- Frontend App desplegado del proyecto: [https://agreeable-glacier-01474611e.6.azurestaticapps.net/](https://agreeable-glacier-01474611e.6.azurestaticapps.net/)
-- Backend desplegado del proyecto: https://mecanautbk-fffeemd3bqdwebce.centralus-01.azurewebsites.net/swagger/index.html
+- Landing Page desplegado del proyecto: [https://mecanaut-landing-page.vercel.app/](https://mecanaut-landing-page.vercel.app/)
+- Repositorio de la Landing Page: [https://github.com/Experimentos-sw/mecanaut-landing-page](https://github.com/Experimentos-sw/mecanaut-landing-page)
+- Documentación del Proyecto: [https://github.com/Experimentos-sw/Project-Report](https://github.com/Experimentos-sw/Project-Report)
+- Backend desplegado del proyecto: https://mecanaut-api-csdaced4hjenb0d4.canadacentral-01.azurewebsites.net/swagger/index.html
 - Video About The product:
 - https://youtu.be/cW31cmfSuA8
 - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQZYuCOUrwROqPTL4T3q65kBQR6OupO11aRn8NsnEDmTSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pzeLdc
-- Video About The team:
-- https://youtu.be/ch44ZfRNnuE
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/Eatgx8ofihRLkXpFKcXZp-kBTvydQxAIaxjAxhq3S3nfew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=U4mI7y
-
-- Video de exposición TF1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/Eay_GspBRr9FpCsQL_32EcEBwGkP_YEOKtyR-VBO0e86vw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iuDM3N
