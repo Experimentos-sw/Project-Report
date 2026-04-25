@@ -265,70 +265,17 @@
 
 
 # Project Report Collaboration Insights
-[Link de repositorio del reporte:](https://github.com/awawaTech/Project-Report): https://github.com/awawaTech/Project-Report
+[Link de repositorio del reporte:](https://github.com/Experimentos-sw/Project-Report): https://github.com/Experimentos-sw/Project-Report
 
 ## Github Collaboration Insights
-
-Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
-
-Se puede identificar a los integrantes como: 
-- Ariana Cecilia Agreda Sobrino: arii4w
-- Claudia Valeria Belledonne Espinoza: Cl4us-tb
-- Cardenas Minaya, Ricardo Fernando: RicardoCardenas
-- Mauricio Daniel Elera Rodríguez: Maur1xio
-- Oblitas Davila, Mariano Moises: MarianoOblitas
-
-
-Asimismo, se explican las ramas que tenemos hasta el momento: 
-- main: Aún no se encuentra representada, pues se hace un merge en cada entrega al ser la rama principal del proyecto.
-- develop: Representada por la rama blanca. Se trata de la rama principal para el proceso del desarrollo del proyecto.
-- feature/x: Representada por las ramas inferiores a develop (azul y verde). Se utilizan para el desarrollo de cada uno de los contribuyentes
-
-<div>
-  <p><img src="img/evidence/ntw.png" alt="Network Graph TB1" width="700px" /></p>
-</div>
 
 Los siguientes gráficos muestran analíticos en cuanto a los commits que cada integrante del grupo ha estado realizando en el repositorio.
 
 __TB1__
 
 <div>
-  <p><img src="img/evidence/contri.png" alt="Contributors" width="700px" /></p>
+  <p><img src="img/evidence/tb1evidence.png" alt="Contributors" width="700px" /></p>
 </div>
-<div>
-  <p><img src="img/evidence/over.png" alt="Overview" width="700px" /></p>
-</div>
-
-__TP__
-
-<div>
-  <p><img src="img/evidence/contribuitors2.png" alt="Contributors" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/sprint2/network145.png" alt="Overview" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/sprint2/pulse145.png" alt="Pulse" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/evidence/sprint2-backlog.png" alt="Backlog2" width="700px" /></p>
-</div>
-
-__TB2__
-![image](https://github.com/user-attachments/assets/5dfcf980-e381-4518-9f48-162c949468cd)
-![image](https://github.com/user-attachments/assets/6949fc70-d158-4592-bffe-913d2b69ed5c)
-
-__TF__
-
-![image](https://github.com/user-attachments/assets/618dadcc-c2f7-4184-8cde-75c1db97c865)
-![image](https://github.com/user-attachments/assets/4dffde79-b15b-4c88-a202-e6e750ae6f02)
-
-![image](https://github.com/user-attachments/assets/f4bf2d43-b5e5-4f86-8705-51699160e5fc)
-![image](https://github.com/user-attachments/assets/2f2619d6-cdb6-4740-85ea-9e32b221d3ce)
-
-![image](https://github.com/user-attachments/assets/510b30fb-c9e8-4ac0-b426-d7f35693e212)
-![image](https://github.com/user-attachments/assets/afad32d5-78f0-4646-8f42-544b098a141b)
-
 
 ---
 
