@@ -3,7 +3,7 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Ingeniería de Software - 2025-1</strong><br> 
+    <strong>Ingeniería de Software - 2026-1</strong><br> 
     <strong>Curso: 1ASI0732 Diseño de Experimentos de Ingeniería de Software</strong><br>
     <strong>NRC: 10253</strong><br>
     <strong>Profesor: Juan Carlos Tinoco Licas</strong><br>
