@@ -48,221 +48,68 @@
 </div>
 
 <p align="center">
-    <strong>Abril, 2026</strong>
+    <strong>Mayo, 2026</strong>
 </p>
 <br>
+
+<div style="page-break-after: always;"></div>
 
 <h1 align="center">Registro de versiones del Informe</h1>
 </br>
 <table>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-<tr>
-    <td>0</td>
-    <td>18/04/2025</td>
-    <td>Claudia Belledonne</td>
-    <td>Creación del reporte.</td>
-</tr>
-<tr>
-    <td>1.0</td>
-    <td>26/04/2025</td>
-    <td>Oblitas Davila, Mariano Moises</td>
-    <td>Creación y redacción del Startup Profile</td>
-</tr>
-<tr>
-    <td>1.1</td>
-    <td>26/04/2025</td>
-    <td>Oblitas Davila, Mariano Moises</td>
-    <td>Creación y redacción de los segmentos objetivos</td>
-</tr>
-<tr>
-    <td>1.2</td>
-    <td>26/04/2025</td>
-    <td>Claudia Belledonne</td>
-    <td>Creación y redacción de los análisis competitivo asi como las propuesta de estrategias para enfrentarlo.</td>
-</tr>
-<tr>
-    <td>1.3</td>
-    <td>26/04/2025</td>
-    <td>Cardenas Minaya, Ricardo Fernando</td>
-    <td>Documentación y análisis de las entrevistas a nuestros segmentos objetivos.</td>
-</tr>
-<tr>
-    <td>1.4</td>
-    <td>26/04/2025</td>
-    <td>Cardenas Minaya, Ricardo Fernando</td>
-    <td>Creación y maquetación de la sección 'Needfinding' y sus diagramas. De la misma forma, se completo la redaccion de las historias de usuario y el to-be scenario mapping.</td>
-</tr>
-<tr>
-    <td>1.5</td>
-    <td>26/04/2025</td>
-    <td>Oblitas Davila, Mariano Moises</td>
-    <td>Creación del impact mapping asi como la asignacion de user story points en el product backlog.</td>
-</tr>
-<tr>
-    <td>1.6</td>
-    <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino, Claudia Belldonne</td>
-    <td>Documentación de los style guidelines. Documentación de la seccion de la arquitectura de la información.</td>
-</tr>
-<tr>
-    <td>1.7</td>
-    <td>26/04/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino</td>
-    <td>Creación y documentación del Landing Page UI Design, Web Applications UX/UI Design y Web Applications Prototyping.</td>
-</tr>
-<tr>
-    <td>1.8</td>
-    <td>26/04/2025</td>
-    <td>Mauricio Elera, Claudia Belledonne</td>
-    <td>Creación y documentación del la sección de Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design.</td>
-</tr>
-<tr>
-    <td>1.9</td>
-    <td>26/04/2025</td>
-    <td>Mauricio Elera</td>
-    <td>Creación e implementación de la sección Software Configuration Management.</td>
-</tr>
-<tr>
-    <td>1.10</td>
-    <td>26/04/2025</td>
-    <td>Claudia Belledonne</td>
-    <td>Planeación y documentación del Sprint 1</td>
-</tr>
-<tr>
-    <td>1.11</td>
-    <td>10/05/2025</td>
-    <td>Oblitas Davila, Mariano Moises</td>
-    <td>Corrección de los story points del product backlog</td>
-</tr>
-<tr>
-    <td>1.12</td>
-    <td>10/05/2025</td>
-    <td>Oblitas Davila, Mariano Moises</td>
-    <td>Corrección de porcentajes en segmentos objetivos</td>
-</tr>
-<tr>
-    <td>2.0</td>
-    <td>13/05/2025</td>
-    <td>Mariano Oblitas</td>
-    <td>Planeación y documentación del Sprint 2</td>
-</tr>
-<tr>
-    <td>2.1</td>
-    <td>13/05/2025</td>
-    <td>Ariana Cecilia Agreda Sobrino y Ricardo Cardenas</td>
-    <td>Creación y redacción de Execution Evidence for Sprint Review.</td>
-</tr>
-</tr>
-    <td>2.2</td>
-    <td>13/05/2025</td>
-    <td>Claudia Belledonne y Mariano Oblitas</td>
-    <td>Creación y redacción de Services Documentation Evidence for Sprint Review.</td>
-</tr>
-</tr>
-    <td>2.3</td>
-    <td>14/05/2025</td>
-    <td>Mauricio Elera  y Ricardo Cardenas</td>
-    <td>Creación y redacción de Software Deployment Evidence for Sprint Review</td>
-</tr>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificaciones</th>
     </tr>
-    <td>3.0</td>
-    <td>14/06/2025</td>
-    <td>Ricardo Cardenas</td>
-    <td>Documentación de Validation Interviews </td>
-</tr>
-</tr>
-    <td>3.1</td>
-    <td>16/06/2025</td>
-    <td>Mauricio Elera, Claudia Belledonne</td>
-    <td>Creación del Sprint 3 y documentación del Sprint Planning 3 y Aspect Leaders and Collaborators </td>
-</tr>
-</tr>
-    <td>3.2</td>
-    <td>16/06/2025</td>
-    <td>Mariano Oblitas</td>
-    <td>Creación y documentación del Sprint Backlog 3 </td>
-</tr>
-</tr>
-    <td>3.3</td>
-    <td>17/06/2025</td>
-    <td>Ariana Agreda y Mariano Oblitas</td>
-    <td>Redacción de Development Evidence for Sprint Review </td>
-</tr>
-</tr>
-    <td>3.4</td>
-    <td>17/06/2025</td>
-    <td>Ricardo Cardenas</td>
-    <td>Documentación de Execution Evidence for Sprint Review </td>
-</tr>
-</tr>
-    <td>3.6</td>
-    <td>19/06/2025</td>
-    <td>Claudia Belledonne</td>
-    <td>Creación y redacción de Services Documentation Evidence for Sprint Review </td>
-</tr>
-</tr>
-    <td>3.7</td>
-    <td>20/06/2025</td>
-    <td>Mauricio Elera, Ariana Agreda</td>
-    <td>Redacción de Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint</td>
-</tr>
-<tr>
-    <td>4.0</td>
-    <td>03/07/2025</td>
-    <td>Cardenas Minaya, Ricardo Fernando</td>
-    <td>Actualización de índice y estructura general para incluir el Sprint 4 correctamente enlazado.</td>
-</tr>
-<tr>
-    <td>4.1</td>
-    <td>03/07/2025</td>
-    <td>Mauricio Elera</td>
-    <td>Redacción de Sprint Planning 4 y Aspect Leaders and Collaborators correspondientes al Sprint 4.</td>
-</tr>
-<tr>
-    <td>4.2</td>
-    <td>04/07/2025</td>
-    <td>Mariano Oblitas</td>
-    <td>Redacción y documentación del Sprint Backlog 4, detallando tareas técnicas y responsables.</td>
-</tr>
-<tr>
-    <td>4.3</td>
-    <td>04/07/2025</td>
-    <td>Ariana Agreda</td>
-    <td>Documentación y redacción de Development Evidence for Sprint Review del Sprint 4.</td>
-</tr>
-<tr>
-    <td>4.4</td>
-    <td>04/07/2025</td>
-    <td>Cardenas Minaya, Ricardo Fernando</td>
-    <td>Documentación y redacción de Execution Evidence for Sprint Review con imágenes y descripciones del Sprint 4.</td>
-</tr>
-<tr>
-    <td>4.5</td>
-    <td>05/07/2025</td>
-    <td>Claudia Belledonne</td>
-    <td>Documentación y redacción de Services Documentation Evidence for Sprint Review correspondiente al Sprint 4.</td>
-</tr>
-<tr>
-    <td>4.6</td>
-    <td>05/07/2025</td>
-    <td>Mauricio Elera</td>
-    <td>Documentación de Software Deployment Evidence for Sprint Review del Sprint 4, incluyendo despliegue local y Docker.</td>
-</tr>
-<tr>
-    <td>4.7</td>
-    <td>06/07/2025</td>
-    <td>Claudia Belledonne y Ariana Agreda</td>
-    <td>Redacción de Team Collaboration Insights during Sprint con análisis individual y conclusiones por miembro.</td>
-</tr>
+    <tr>
+        <td>0.0</td>
+        <td>20/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Creación inicial del proyecto y estructura del informe.</td>
+    </tr>
+    <tr>
+        <td>0.1</td>
+        <td>21/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Capítulo I: Introducción (Startup Profile, Solution Profile y Segmentos objetivo).</td>
+    </tr>
+    <tr>
+        <td>0.2</td>
+        <td>22/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Capítulo II: Requirements Elicitation & Analysis (competidores, entrevistas, Needfinding y Ubiquitous Language).</td>
+    </tr>
+    <tr>
+        <td>0.3</td>
+        <td>23/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Capítulo III: Requirements Specification (to-be scenario mapping, user stories, product backlog e impact mapping).</td>
+    </tr>
+    <tr>
+        <td>0.4</td>
+        <td>24/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Capítulo IV: Product Design (style guidelines, arquitectura de información, diseño de landing page, UX/UI de aplicaciones web, prototipos, arquitectura de software, diseño orientado a objetos y diseño de base de datos).</td>
+    </tr>
+    <tr>
+        <td>0.5</td>
+        <td>25/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Capítulo V: Product Implementation (gestión de configuración, implementación y despliegue, colaboración del equipo y video del producto).</td>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>27/04/2025</td>
+        <td>Equipo de proyecto</td>
+        <td>Entrega del AV1: integración final de todos los capítulos y revisión conjunta.</td>
+    </tr>
 </table>
 
-</br>
+<br>
 
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 [Link de repositorio del reporte:](https://github.com/awawaTech/Project-Report): https://github.com/awawaTech/Project-Report
@@ -290,35 +137,7 @@ Asimismo, se explican las ramas que tenemos hasta el momento:
 
 Los siguientes gráficos muestran analíticos en cuanto a los commits que cada integrante del grupo ha estado realizando en el repositorio.
 
-__TB1__
-
-<div>
-  <p><img src="img/evidence/contri.png" alt="Contributors" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/evidence/over.png" alt="Overview" width="700px" /></p>
-</div>
-
-__TP__
-
-<div>
-  <p><img src="img/evidence/contribuitors2.png" alt="Contributors" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/sprint2/network145.png" alt="Overview" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/sprint2/pulse145.png" alt="Pulse" width="700px" /></p>
-</div>
-<div>
-  <p><img src="img/evidence/sprint2-backlog.png" alt="Backlog2" width="700px" /></p>
-</div>
-
-__TB2__
-![image](https://github.com/user-attachments/assets/5dfcf980-e381-4518-9f48-162c949468cd)
-![image](https://github.com/user-attachments/assets/6949fc70-d158-4592-bffe-913d2b69ed5c)
-
-__TF__
+__AV1__
 
 ![image](https://github.com/user-attachments/assets/618dadcc-c2f7-4184-8cde-75c1db97c865)
 ![image](https://github.com/user-attachments/assets/4dffde79-b15b-4c88-a202-e6e750ae6f02)
@@ -337,132 +156,131 @@ __TF__
 [Student Outcome](#student-outcome)
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2 Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
 
-[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-- [2.1. Competidores](#21-competidores)
-  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-- [2.2. Entrevistas](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-- [2.3. Needfinding](#23-needfinding)
-  - [2.3.1. User Personas](#231-user-personas)
-  - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation-analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
 
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Product Backlog.](#33-product-backlog)
+  - [3.4. Impact Mapping.](#34-impact-mapping)
+
+[Avance de Conclusiones, Bibliografía y Anexos.](#avance-de-conclusiones-bibliografía-y-anexos)
 
 [Capítulo IV: Product Design](#capítulo-iv-product-design)
-- [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-- [4.2. Information Architecture](#42-information-architecture)
-  - [4.2.1. Organization Systems.](#421-organization-systems)
-  - [4.2.2. Labeling Systems.](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems.](#424-searching-systems)
-  - [4.2.5. Navigation Systems.](#425-navigation-systems)
-- [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-- [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
-- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
-- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams.](#471-class-diagrams)
-  - [4.7.2. Class Dictionary.](#472-class-dictionary)
-- [4.8. Database Design.](#48-database-design)
-  - [4.8.1. Database Diagram.](#481-database-diagram)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+    - [4.1.3. Mobile Style Guidelines.](#413-mobile-style-guidelines)
+      - [4.1.3.1. iOS Mobile Style Guidelines.](#4131-ios-mobile-style-guidelines)
+      - [4.1.3.2. Android Mobile Style Guidelines.](#4132-android-mobile-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Mobile Applications UX/UI Design.](#44-mobile-applications-uxui-design)
+    - [4.4.1. Mobile Applications Wireframes.](#441-mobile-applications-wireframes)
+    - [4.4.2. Mobile Applications Wireflow Diagrams.](#442-mobile-applications-wireflow-diagrams)
+    - [4.4.3. Mobile Applications Mock-ups.](#443-mobile-applications-mock-ups)
+    - [4.4.4. Mobile Applications User Flow Diagrams.](#444-mobile-applications-user-flow-diagrams)
+  - [4.5. Mobile Applications Prototyping.](#45-mobile-applications-prototyping)
+    - [4.5.1. Android Mobile Applications Prototyping.](#451-android-mobile-applications-prototyping)
+    - [4.5.2. iOS Mobile Applications Prototyping.](#452-ios-mobile-applications-prototyping)
+  - [4.6. Web Applications UX/UI Design.](#46-web-applications-uxui-design)
+    - [4.6.1. Web Applications Wireframes.](#461-web-applications-wireframes)
+    - [4.6.2. Web Applications Wireflow Diagrams.](#462-web-applications-wireflow-diagrams)
+    - [4.6.3. Web Applications Mock-ups.](#463-web-applications-mock-ups)
+    - [4.6.4. Web Applications User Flow Diagrams.](#464-web-applications-user-flow-diagrams)
+  - [4.7. Web Applications Prototyping.](#47-web-applications-prototyping)
+  - [4.8. Domain-Driven Software Architecture.](#48-domain-driven-software-architecture)
+    - [4.8.1. Software Architecture Context Diagram.](#481-software-architecture-context-diagram)
+    - [4.8.2. Software Architecture Container Diagrams.](#482-software-architecture-container-diagrams)
+    - [4.8.3. Software Architecture Components Diagrams.](#483-software-architecture-components-diagrams)
+  - [4.9. Software Object-Oriented Design.](#49-software-object-oriented-design)
+    - [4.9.1. Class Diagrams.](#491-class-diagrams)
+    - [4.9.2. Class Dictionary.](#492-class-dictionary)
+  - [4.10. Database Design.](#410-database-design)
+    - [4.10.1. Relational/Non-Relational Database Diagram.](#4101-relationalnon-relational-database-diagram)
 
-[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-- [5.1. Software Configuration Management.](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management.](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-    - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-1)
-    - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-    - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
-    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
-    - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-    - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-    - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
-  - [5.2.4. Sprint 4](#524-sprint-4)
-    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-    - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
-    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-    - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
-    - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
-    - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
-    - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews.](#53-validation-interviews)
-  - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-the-Product.](#54-video-about-the-product)
+[Capítulo V: Product Implementation](#capítulo-v-product-implementation)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide-conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Product Implementation & Deployment.](#52-product-implementation-deployment)
+    - [5.2.1. Sprint Backlogs.](#521-sprint-backlogs)
+    - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
+    - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
+    - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio-saas)
+    - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+    - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+    - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
+    - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
+  - [5.3. Video About-the-Product.](#53-video-about-the-product)
+
+[Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-validation)
+  - [6.1. Testing Suites & Validation](#61-testing-suites-validation)
+    - [6.1.1. Core Entities Unit Tests.](#611-core-entities-unit-tests)
+    - [6.1.2. Core Integration Tests.](#612-core-integration-tests)
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4. Core System Tests.](#614-core-system-tests)
+
+[Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
+  - [7.1. Continuous Integration](#71-continuous-integration)
+    - [7.1.1. Tools and Practices.](#711-tools-and-practices)
+    - [7.1.2. Build & Test Suite Pipeline Components.](#712-build-test-suite-pipeline-components)
+  - [7.2. Continuous Delivery](#72-continuous-delivery)
+    - [7.2.1. Tools and Practices.](#721-tools-and-practices)
+    - [7.2.2. Stages Deployment Pipeline Components.](#722-stages-deployment-pipeline-components)
+  - [7.3. Continuous deployment](#73-continuous-deployment)
+    - [7.3.1. Tools and Practices.](#731-tools-and-practices)
+    - [7.3.2. Production Deployment Pipeline Components.](#732-production-deployment-pipeline-components)
 
 [Conclusiones](#conclusiones)
-- [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-
-[Video About-the-Team.](#video-about-the-team)
 
 [Bibliografía](#bibliografía)
 
 [Anexos](#anexos)
 
+---
+
+<div style="page-break-after: always;"></div>
+
 
 # Student Outcome
-ABET – EAC - Student Outcome 5
 
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<p><b>ABET – EAC - Student Outcome 4:</b> La capacidad de reconocer responsabilidades éticas y profesionales en situaciones de ingeniería y hacer juicios informados, que deben considerar el impacto de las soluciones de ingeniería en contextos globales, económicos, ambientales y sociales.</p>
 
 <table>
   <tr>
@@ -470,257 +288,42 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
     <td><b>Acciones realizadas</b></td>
     <td><b>Conclusiones</b></td>
   </tr>
-    </thead>
-  <tbody>
-    <tr>
-      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
-      <td>
-<p><b>Ariana Cecilia Agreda Sobrino</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, trabajé en los siguientes entregables clave: Style Guidelines, Landing Page Wireframes y Mockup, Web Applications Wireframes, Wireflow Diagram, User Flow Diagram y Prototype.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint pude aportar liderazgo al desarrollar la vista principal del usuario Empresario (US4). Coordiné con el equipo detalles de diseño y navegación, buscando que todos estuviéramos alineados. Me gustó escuchar sugerencias y trabajar de forma conjunta.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al liderar la implementación de los endpoints para obtener los roles de usuario y las métricas de maquinarias. Me aseguré de que las métricas fueran precisas y fáciles de interpretar, lo cual fue crucial para la toma de decisiones dentro del sistema. Esta responsabilidad me permitió asumir un papel de liderazgo en el desarrollo de funcionalidades clave para el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>En el TF participé activamente en la conexión de funcionalidades clave del frontend con el backend. Apoyé en la revisión final de tareas asignadas, ayudando a otros integrantes con la validación de componentes y pruebas de vista. Me aseguré de que el flujo del usuario en los perfiles funcionara correctamente. Además, me mantuve en comunicación constante con el equipo para resolver problemas de integración.</p>
-          <br>
-
-        
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, tomé un rol activo en la elaboración del análisis competitivo y en la propuesta de estrategias clave para el proyecto. Guié la redacción de las historias de usuario, los epics y la estructuración del product backlog, fomentando siempre la toma de decisiones conjunta y el liderazgo compartido en las etapas iniciales del trabajo. Finalmente, lidere el modelado del diagrama de la base de datos relacional para el trabajo.</p>
-         <p><b>TP1:</b></p>
-        <p>Asumí la vista de registro de usuario (US1) y me enfoqué en compartir mis conocimientos con el equipo. Me gustó ayudar en la parte de validación y aprender también de mis compañeros.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al tomar la iniciativa en la implementación de las validaciones para el registro de usuarios y en el diseño de los modelos para los ítems de inventario y activos. Fui responsable de asegurar que las funciones claves estuvieran correctamente implementadas y protegidas, liderando el aspecto de la seguridad y la estructuración de datos en el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>En la entrega final asumí un rol de liderazgo en la integración del formulario de registro, el login y el perfil del administrador, asegurándome de que todas las validaciones funcionaran correctamente. Guié al equipo en la revisión de bugs finales y coordiné entregables técnicos, brindando soporte a cada miembro para que completaran sus tareas a tiempo.</p>
-          <br>
-
-          
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Durante el desarrollo de la TB1, me encargué del diseño de la interfaz de usuario de la landing page, creando su wireframe y mock-up para establecer tanto la estructura como el diseño visual final. También trabajé en el diseño de la experiencia y la interfaz de usuario de la aplicación web, desarrollando los wireframes, los diagramas de wireflow para ilustrar el flujo de interacciones entre pantallas, los mock-ups detallados y los diagramas de flujo de usuario para visualizar las rutas dentro de la aplicación. Además, creé prototipos interactivos de la aplicación web para probar las funcionalidades y la experiencia del usuario antes de la implementación final.</p>
-        <p><b>TP1:</b></p>
-        <p>Lideré la implementación del inicio de sesión (US2) coordinando la lógica y flujo con el equipo. Me sentí cómodo proponiendo ideas y escuchando a los demás.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al liderar la implementación de los endpoints para obtener los roles de usuario y las métricas de maquinarias. Me aseguré de que las métricas fueran precisas y fáciles de interpretar, lo cual fue crucial para la toma de decisiones dentro del sistema. Esta responsabilidad me permitió asumir un papel de liderazgo en el desarrollo de funcionalidades clave para el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>Durante el TF participé en la conexión del backend con funcionalidades del inventario y el sistema de autenticación. Me aseguré de que los endpoints de inicio de sesión y métricas funcionaran de forma estable. También colaboré con pruebas y ajustes de lógica en el sistema de visualización de activos.</p>
-          <br>
-
-          
-<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, lideré la ejecución del proceso de investigación con usuarios, diseñando y registrando cuatro entrevistas clave para el levantamiento de necesidades. Posteriormente, realicé el análisis detallado de estas entrevistas, lo cual sirvió como base para el desarrollo del Needfinding. A partir de esto, elaboré entregables fundamentales como los User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y el As-is Scenario Mapping. Además, desarrollé el Ubiquitous Language y participé activamente en la elaboración del To-Be Scenario Mapping, así como en la redacción de User Stories para la especificación de requerimientos.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint trabajé en la vista de listado de usuarios registrados (US3) y ayudé a que el equipo participara en decisiones técnicas. Me gustó ver cómo sumamos ideas para mejorar la funcionalidad.</p>
-        <p><b>TB2:</b></p>
-        <p>En este sprint, fui responsable del diseño y desarrollo de los modelos para los ítems de inventario y activos. Además, desarrollé el endpoint GET para consultar los ítems del inventario. Mi enfoque estuvo en garantizar que las tareas estuvieran bien definidas, planificadas y distribuidas entre el equipo. Me aseguré de que todas las partes del proyecto estuvieran alineadas con los objetivos, y promoví una comunicación constante con el equipo para asegurarme de que todas las dudas se resolvieran a tiempo, creando un ambiente inclusivo y colaborativo.</p>
-        <p><b>TF:</b></p>
-        <p>Me encargué de conectar el plan de mantenimiento con el backend, asegurando que las vistas funcionaran de forma dinámica y actualizada. También revisé las funcionalidades de edición de planes y colaboré en la validación general del sistema. Coordiné con el equipo los avances y ayudé en la organización de entregables finales.</p>
-          <br>
-          
-<p><b>Oblitas Davila, Mariano Moises</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Durante TB1, participé activamente en la elaboración del Solution Profile, incluyendo el desarrollo de los antecedentes y la definición del problema central del proyecto. Además, lideré la implementación del proceso de Lean UX, trabajando en la redacción de los Problem Statements, Assumptions e Hypothesis Statements. También estructuré el Lean UX Canvas de manera colaborativa con el equipo. Finalmente, contribuí a la identificación de los segmentos objetivo y participé en la construcción del Impact Mapping y el primer Product Backlog.</p>
-        <p><b>TP1:</b></p>
-        <p>Desarrollé la vista de perfil del usuario Empresario (US5) y propuse mejoras en la experiencia de usuario. Coordiné con mis compañeros para validar detalles importantes.</p>
-        <p><b>TB2:</b></p>
-        <p>En este sprint, me encargué de desarrollar el endpoint POST para la creación de órdenes de trabajo relacionadas con los planes de mantenimiento. Trabajé en estrecha colaboración con mi equipo para asegurar que las tareas estuvieran bien planificadas y cumplidas dentro del tiempo estimado. Coordiné las metas del sprint y me aseguré de que mis responsabilidades estuvieran alineadas con los objetivos globales del equipo. Además, mantuve una comunicación abierta y compartí avances regularmente, lo que contribuyó a un entorno inclusivo donde todos podíamos contribuir y apoyar a los demás.</p>
-        <p><b>TF:</b></p>
-        <p>Fui responsable de verificar que las vistas responsive funcionaran correctamente. Realicé los ajustes finales en la visualización del perfil de técnico y colaboré con la conexión de endpoints desde frontend. También estuve atento a los detalles visuales, asegurando que la interfaz sea clara y funcional.</p>
-      </td>
-      <td>
-        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Mi contribución ayudó a consolidar un liderazgo colaborativo desde el comienzo del proyecto, alineando al equipo hacia metas compartidas y distribuyendo las responsabilidades de manera justa.</p>
-        <p><b>TP1:</b></p>
-        <p>En este Sprint confirmé que el liderazgo compartido ayuda a que todos trabajemos con mayor claridad y motivación. Me di cuenta de que al escuchar a mis compañeros logramos integrar sus ideas de manera efectiva y eso elevó la calidad del trabajo.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió practicar el liderazgo en tareas técnicas críticas. Aprendí la importancia de tener datos precisos y claros para el análisis posterior, lo que es esencial en sistemas complejos. Me siento más segura en la toma de decisiones técnicas y en la gestión de tareas de desarrollo.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa final me permitió reafirmar la importancia del liderazgo compartido, especialmente cuando surgen tareas urgentes. Aprendí que apoyar a otros en sus entregables también es una forma de liderazgo, y que estar presente para el equipo es clave para cerrar el proyecto exitosamente.</p>
-          <br>
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Mi participación permitió fortalecer el liderazgo colaborativo desde el inicio del proyecto, alineando al equipo en objetivos comunes y distribuyendo responsabilidades de forma equitativa.</p>
-        <p><b>TP1:</b></p>
-        <p>Aprendí que compartir mis conocimientos no solo fortalece al equipo, sino que también me permite aprender de los demás. Esta colaboración nos ayudó a construir funcionalidades más sólidas y con menos errores.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió aplicar y fortalecer mis habilidades en diseño de modelos y validación de datos. Asumí un papel de liderazgo técnico, lo que me ayudó a comprender la importancia de la seguridad y la integridad de los datos en el desarrollo de sistemas. Me siento más preparada para liderar tareas complejas en futuros sprints.</p>
-        <p><b>TF:</b></p>
-        <p>Este cierre me permitió consolidar mis habilidades como líder técnica. Saber coordinar, revisar código y apoyar en tareas críticas fueron aspectos clave en este sprint. Me llevo la experiencia de haber sido un punto de apoyo para el equipo cuando más lo necesitaba.</p>
-          <br>
-          
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">El trabajo realizado en la TB1 mejoró la colaboración del equipo al facilitar una comunicación más clara y decisiones informadas gracias a los wireframes, mock-ups y prototipos. Estos entregables ayudaron a alinear objetivos y expectativas, fomentando un liderazgo compartido y una distribución equitativa de tareas, lo que fortaleció la responsabilidad y la colaboración dentro del equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Entendí que liderar no es solo dirigir, sino también facilitar espacios donde todos puedan aportar. Esto hizo que encontráramos mejores soluciones y que el equipo trabajara con mayor confianza.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió mejorar mi capacidad para liderar tareas técnicas importantes. Aprendí la importancia de la validación de datos y cómo asegurar que todo funcione correctamente en el backend. Me siento más confiado en mi capacidad para asumir responsabilidades y coordinar mis esfuerzos para avanzar en el proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>Me di cuenta de que un liderazgo efectivo también se da desde la responsabilidad técnica. Guiar la implementación de endpoints críticos fue clave para el éxito del proyecto. Aprendí que trabajar de forma ordenada y predecible es lo que más ayuda al equipo en momentos finales.</p>
-          <br>
-
-          
-<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Mi participación en estas tareas ayudó a consolidar un liderazgo compartido centrado en el entendimiento profundo de las necesidades del usuario. Al asumir la responsabilidad de esta etapa clave, promoví una dinámica de trabajo colaborativa, impulsando decisiones basadas en evidencia que alinearon al equipo hacia una solución centrada en el usuario.</p>
-        <p><b>TP1:</b></p>
-        <p>Este Sprint me enseñó que abrir espacios para la participación técnica de todos mejora el producto final. Además, hace que el equipo se sienta escuchado y más involucrado en las decisiones.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió entender cómo la colaboración efectiva y la planificación de tareas son esenciales para lograr los objetivos del equipo. Aprendí la importancia de la organización y la comunicación continua, y cómo estas prácticas contribuyen a un entorno de trabajo más eficiente y armonioso. Estoy más consciente de cómo puedo contribuir a un equipo para alcanzar metas de manera efectiva.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa me ayudó a reafirmar que el liderazgo conjunto se basa en apoyar al equipo y tomar responsabilidad en tareas clave. Disfruté poder ayudar a otros y asegurar que lo que hicimos se entregue con calidad.</p>
-          <br>
-          
-<p><b>Oblitas Davila, Mariano Moises</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Mi participación en estas entregas permitió al equipo establecer una base estratégica clara y orientada a objetivos desde el inicio del proyecto. Fomenté la toma de decisiones compartida y apoyé la distribución equitativa de responsabilidades, promoviendo un liderazgo conjunto basado en la colaboración y la alineación de ideas.</p>
-        <p><b>TP1:</b></p>
-        <p>Validar ideas con el equipo me ayudó a enriquecer la propuesta de interfaz. Escuchar distintas perspectivas permitió que la experiencia del usuario fuera más completa y cuidada.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me ayudó a entender mejor cómo un entorno colaborativo mejora la eficiencia en el cumplimiento de objetivos. Aprendí que planificar tareas y mantener una comunicación constante son claves para un trabajo en equipo exitoso. Me siento más cómodo en la toma de decisiones y en la coordinación con el equipo para cumplir nuestras metas de manera eficaz.</p>
-        <p><b>TF:</b></p>
-        <p>El liderazgo en este sprint se reflejó en asumir tareas específicas y ejecutarlas con compromiso. Trabajar en equipo para solucionar problemas pequeños pero urgentes me enseñó que el liderazgo también está en los detalles que consolidan un buen producto.</p>
-      </td>
-    </tr>
-
-
-    
-<tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-      <td>
-        <p><b>Ariana Cecilia Agreda Sobrino</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Fomenté un entorno de trabajo colaborativo desde el inicio del proyecto, promoviendo la participación equitativa entre los miembros del equipo. Propuse ideas creativas para la landing page y ayudé a definir los objetivos del Sprint 1. Participé activamente en la planificación de tareas, coordinando esfuerzos con mis compañeros para cumplir los entregables establecidos de manera organizada y puntual.</p>
-        <p><b>TP1:</b></p>
-        <p>Ayudé a mantener un buen ambiente de equipo. Propuse espacios de revisión donde todos pudimos aportar y planificar tareas para lograr nuestros objetivos sin problemas.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al trabajar de manera inclusiva con el equipo para implementar los endpoints de roles de usuario y métricas de maquinarias. Me aseguré de establecer metas claras para las métricas que debían ser calculadas y trabajé de manera colaborativa para asegurar que todos estuviéramos alineados en cuanto a los objetivos del sprint. Me aseguré de cumplir con los plazos establecidos y de coordinarme con el equipo para cualquier ajuste necesario.</p>
-        <p><b>TF:</b></p>
-        <p>Durante el TF me aseguré de cumplir con mis tareas de forma oportuna y brindé soporte a compañeros que necesitaban ayuda en pruebas. Coordiné con el equipo detalles de vista y validación. Aporté a las reuniones finales de revisión y cumplimos con los objetivos planificados.</p>
-          <br>
-
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Contribuí a crear un entorno colaborativo proponiendo metas claras para el Sprint 1 y apoyando la planificación de tareas desde una perspectiva inclusiva. Además, elaboré la documentación del sprint y del informe general, asegurando que las ideas del equipo fueran reflejadas de forma coherente y ordenada.</p>
-        <p><b>TP1:</b></p>
-        <p>Fomenté la colaboración organizando reuniones donde todos expusimos avances y dudas. Esto nos ayudó a cumplir las metas con buena organización.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al crear un entorno inclusivo y colaborativo, donde compartí ideas y trabajé de manera estrecha con el equipo para diseñar las validaciones de seguridad y los modelos de inventario y activos. Me aseguré de que todos los miembros del equipo tuvieran claridad sobre las tareas y de que todas las acciones estuvieran alineadas con los objetivos del sprint. Coordiné las tareas de manera eficaz para asegurar que se cumplieran los plazos.</p>
-        <p><b>TF:</b></p>
-        <p>Me encargué de revisar que las funcionalidades clave del registro, login y perfil de administrador estuvieran completas, validadas y alineadas con lo planificado. Me aseguré de que cada integrante tuviera claro su objetivo final, promoviendo la resolución de problemas de forma proactiva y colaborativa.</p>
-          <br>
-
-          
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Programé la landing page respetando las ideas y diseños planteados por el equipo, asegurando que todas las contribuciones se integraran de forma equitativa. Ayudé a planificar las tareas de desarrollo y a cumplir los plazos establecidos, fomentando un entorno colaborativo donde se valoraron todas las propuestas.</p>
-        <p><b>TP1:</b></p>
-        <p>Busqué que el equipo tuviera espacios para compartir desafíos y planificar juntos. Así logramos avanzar de forma ordenada y colaborativa.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con este Student Outcome al trabajar de manera colaborativa con mi equipo para desarrollar los endpoints POST y GET para usuarios. Me aseguré de que las metas para el sprint estuvieran claras y de que las tareas estuvieran planificadas y distribuidas de forma eficiente. Coordiné con mis compañeros para asegurarme de que las tareas avanzaran de manera sincronizada, y me aseguré de cumplir con los objetivos establecidos para la implementación de los endpoints.</p>
-        <p><b>TF:</b></p>
-        <p>Participé activamente en el cumplimiento de metas técnicas relacionadas al sistema de login e inventario. Coordiné tareas técnicas con compañeros para que todas las conexiones funcionaran correctamente y propuse soluciones rápidas ante errores detectados.</p>
-          <br>
-
-          
-<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Fomenté un entorno colaborativo al involucrar al equipo en la validación de entrevistas y en la interpretación conjunta de hallazgos. Guié la planificación de las tareas relacionadas con la fase de Needfinding y su vinculación con los requerimientos del sistema, asegurando que todas las voces del equipo fueran consideradas durante el análisis. La definición del Ubiquitous Language y la elaboración del To-Be Scenario Mapping permitieron alinear los objetivos del proyecto con las necesidades reales de los usuarios.</p>
-        <p><b>TP1:</b></p>
-        <p>Promoví la comunicación constante entre todos, lo que facilitó el trabajo en equipo y nos permitió cumplir los objetivos planteados.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al tomar la iniciativa en el desarrollo del modelo y los endpoints para los ítems de inventario y activos. Aunque mi tarea era técnica, busqué siempre involucrar al equipo en las decisiones relacionadas con la estructura de datos y los requerimientos del sistema. Ayudé a guiar el desarrollo de las tareas para asegurar que todos estuviéramos alineados y que las tareas avanzaran en conjunto, proporcionando liderazgo en áreas clave.</p>
-        <p><b>TF:</b></p>
-        <p>Ayudé a definir las metas del cierre técnico, asegurando que el plan de mantenimiento, la edición y eliminación de planes funcionaran bien. Coordiné con compañeros para validar funcionalidades y corregir bugs en los endpoints y vistas. Nos organizamos para revisar todo a tiempo.</p>
-          <br>
-          
-<p><b>Oblitas Davila, Mariano Moises</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Contribuí a generar un ambiente inclusivo al facilitar espacios de diálogo para construir los elementos del Lean UX y definir los objetivos del proyecto desde diversas perspectivas. Propuse una planificación clara de las tareas para el Sprint 1 relacionadas con el perfil de solución y el Lean UX, asegurando una distribución equitativa del trabajo. Además, apoyé la organización del backlog inicial en función de los impactos y metas establecidas por el equipo.</p>
-        <p><b>TP1:</b></p>
-        <p>Motivé al equipo a compartir ideas y sugerencias en todo momento. Esto nos permitió avanzar de manera fluida y cumplir con las metas del Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Cumplí con el Student Outcome al trabajar en equipo, proporcionando liderazgo en las tareas relacionadas con el desarrollo del endpoint de las órdenes de trabajo. Aunque mi tarea era técnica, tomé la iniciativa en el diseño de la API y en la estructura necesaria para que las órdenes se registraran correctamente en la base de datos. Aseguré que el diseño estuviera alineado con los requerimientos y que todos los miembros del equipo pudieran comprender el flujo del trabajo, contribuyendo a una colaboración efectiva.</p>
-        <p><b>TF:</b></p>
-        <p>Contribuí a la planificación del cierre técnico de vistas de usuario, asegurando que el diseño responsive estuviera aplicado correctamente. También participé en la validación de perfiles, ayudando a compañeros a cumplir con sus entregables y haciendo revisiones conjuntas antes del cierre.</p>
-      </td>
-      
-<td>
-    <p><b>Ariana Cecilia Agreda Sobrino</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Esta experiencia me permitió reforzar mis habilidades de liderazgo colaborativo y organización. Aprendí la importancia de escuchar distintas perspectivas para construir soluciones más sólidas y cohesionadas. Me comprometo a seguir fomentando un ambiente inclusivo en el equipo y a mantener el enfoque en el cumplimiento de metas en los próximos sprints.</p>
-        <p><b>TP1:</b></p>
-        <p>Crear espacios de diálogo constante ayudó a que el equipo se sintiera más unido. Planificar juntos nos permitió cumplir objetivos con orden y evitó que alguien quedara descolgado.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió fortalecer mis habilidades de colaboración y planificación de tareas. Aprendí la importancia de tener metas claras y asegurarse de que todos los miembros del equipo trabajen en la misma dirección. Ahora me siento más confiada en crear un entorno inclusivo y en asegurarme de que se cumplan los objetivos establecidos.</p>
-        <p><b>TF:</b></p>
-        <p>Este cierre me ayudó a ver el valor de planificar y mantener una actitud colaborativa hasta el final. Me siento más preparada para proyectos donde la organización, el cumplimiento y la colaboración constante son esenciales para lograr buenos resultados.</p>
-          <br>
-
-          
-<p><b>Claudia Valeria Belledonne Espinoza</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Mi enfoque en la planificación y documentación ayudó a establecer una base clara para el trabajo, promoviendo la participación de todos los miembros y facilitando el cumplimiento de los objetivos trazados en TB1.</p>
-        <p><b>TP1:</b></p>
-        <p>Tener reuniones continuas y bien enfocadas fue importante para que todos supiéramos nuestras responsabilidades. Esto evitó confusiones y nos permitió mantener un ritmo constante durante el Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió ver cómo un entorno colaborativo mejora la eficiencia del equipo. Aprendí a planificar y distribuir tareas de manera equitativa y asegurarme de que todos estuvieran involucrados en las decisiones clave. Me siento más preparada para seguir trabajando de manera inclusiva y contribuir al éxito del equipo.</p>
-        <p><b>TF:</b></p>
-        <p>Esta etapa final me permitió reforzar mi capacidad para planificar tareas y acompañar al equipo en su cumplimiento. Mantener el enfoque organizacional fue clave, y aprendí que generar espacios claros de trabajo mejora el ritmo y los resultados del grupo.</p>
-          <br>
-        
-
-<p><b>Mauricio Daniel Elera Rodríguez</b></p>
-        <p><b>TB1:</b></p>
-        <p align="justify">Trabajar en la programación de la landing page me permitió reforzar la colaboración, la organización de tareas y el compromiso para alcanzar los objetivos del sprint.</p>
-        <p><b>TP1:</b></p>
-        <p>Planificar en conjunto nos permitió organizarnos mejor y evitar retrabajos. Siento que eso hizo que todos estuviéramos más comprometidos con las metas del Sprint.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió practicar la importancia de establecer metas claras y planificar las tareas de manera efectiva. Aprendí cómo gestionar tareas técnicas dentro de un entorno colaborativo, donde cada miembro del equipo aporta de manera significativa. Me siento más cómodo trabajando en equipo y coordinando esfuerzos para cumplir los objetivos del sprint.</p>
-        <p><b>TF:</b></p>
-        <p>Aprendí que en las etapas finales lo más importante es tener claridad en las metas y trabajar coordinadamente. Me siento más confiado en mi capacidad para colaborar y contribuir al cumplimiento de objetivos con eficiencia.</p>
-          <br>
-
-          
-<p><b>Cardenas Minaya, Ricardo Fernando</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Esta etapa me permitió mejorar mis habilidades de análisis colaborativo y planificación orientada al usuario. Aprendí la importancia de trabajar de forma inclusiva para construir soluciones significativas. Me comprometo a seguir promoviendo la escucha activa y la organización de tareas basadas en objetivos comunes en los próximos sprints.</p>
-        <p><b>TP1:</b></p>
-        <p>Mantener la comunicación constante fue clave para no perder el rumbo. Esto permitió que el trabajo fuera más fluido y que cumpliéramos con lo que nos habíamos propuesto.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió trabajar de manera más integrada con el equipo, liderando el desarrollo de tareas técnicas y asegurando que todos trabajáramos hacia el mismo objetivo. Aprendí que el liderazgo no solo implica tomar decisiones, sino también estar atento a las necesidades del equipo y fomentar una comunicación fluida. Me siento más preparado para liderar en proyectos futuros y contribuir a la dirección del equipo.</p>
-        <p><b>TF:</b></p>
-        <p>Este sprint reforzó mi compromiso con el cumplimiento ordenado de objetivos. Me permitió ver cómo una buena planificación colectiva facilita el cierre de un proyecto complejo. Me llevo herramientas prácticas para futuros proyectos donde el trabajo colaborativo sea clave.</p>
-          <br>
-          
-<p><b>Oblitas Davila, Mariano Moises</b></p>
-       <p><b>TB1:</b></p>
-        <p align="justify">Esta experiencia me permitió fortalecer mis habilidades de planificación estratégica y trabajo colaborativo. Comprendí el valor de integrar diferentes puntos de vista desde el inicio del proyecto para lograr una visión compartida. Me comprometo a seguir promoviendo un entorno inclusivo y centrado en la organización y el cumplimiento de objetivos en los siguientes entregables.</p>
-        <p><b>TP1:</b></p>
-        <p>Fomentar la participación y el intercambio de ideas hizo que el ambiente de trabajo fuera más cómodo y colaborativo. Esto facilitó que todos se involucraran en las decisiones y lográramos avanzar sin bloqueos.</p>
-        <p><b>TB2:</b></p>
-        <p>Este sprint me permitió desarrollar mis habilidades de liderazgo dentro de un equipo. Aprendí que liderar no solo implica tomar decisiones, sino también asegurarse de que todos estén bien informados y colaboren activamente en la ejecución de las tareas. Estoy más confiado en mi capacidad para coordinarme con otros y asumir responsabilidades clave en el desarrollo de tareas complejas.</p>
-        <p><b>TF:</b></p>
-        <p>Comprendí que cumplir objetivos en grupo requiere coordinación continua y atención a los detalles. Me siento más capaz de trabajar en equipo incluso en momentos de alta presión y contribuir con soluciones rápidas y efectivas.</p>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td><b>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software</b></td>
+    <td>
+      <p><strong>Ariana Cecilia Agreda Sobrino</strong> – AV1: Lideré el Capítulo IV: Product Design. Reconocí mi responsabilidad ética al asegurar que las interfaces fueran accesibles y usables para distintos perfiles de usuario, cuidando que el diseño no excluyera a nadie.</p>
+      <p><strong>Claudia Valeria Belledonne Espinoza</strong> – AV1: Lideré el Capítulo II: Requirements Elicitation & Analysis. Asumí responsabilidad profesional al realizar entrevistas y análisis competitivo con rigor, cuidando la confidencialidad y evitando sesgos en la interpretación.</p>
+      <p><strong>Mauricio Daniel Elera Rodríguez</strong> – AV1: Lideré el Capítulo V: Product Implementation. Reconocí mi responsabilidad ética al aplicar buenas prácticas de configuración y despliegue, asegurando que el software fuera seguro y confiable.</p>
+      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> – AV1: Lideré el Capítulo I: Introducción. Asumí responsabilidad ética al definir el problema y representar fielmente a los segmentos objetivo, evitando exageraciones y manteniendo precisión profesional.</p>
+      <p><strong>Mariano Moisés Oblitas Dávila</strong> – AV1: Lideré el Capítulo III: Requirements Specification. Reconocí mi responsabilidad ética al definir historias de usuario y backlog, cuidando que las prioridades reflejaran necesidades reales y no intereses personales.</p>
+    </td>
+    <td>
+      <p>En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales</b></td>
+    <td>
+      <p><strong>Ariana Cecilia Agreda Sobrino</strong> – AV1: Emití juicios informados sobre el impacto social del diseño de interfaces, considerando la inclusión y accesibilidad como factores clave para distintos contextos.</p>
+      <p><strong>Claudia Valeria Belledonne Espinoza</strong> – AV1: Evalué el impacto económico y competitivo de la solución, emitiendo juicios sobre la sostenibilidad del proyecto en el mercado.</p>
+      <p><strong>Mauricio Daniel Elera Rodríguez</strong> – AV1: Consideré el impacto ambiental y social en la implementación, proponiendo prácticas de despliegue eficientes y seguras que redujeran riesgos.</p>
+      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> – AV1: Emití juicios informados sobre el impacto global de las entrevistas y el needfinding, asegurando que las soluciones fueran aplicables en distintos contextos.</p>
+      <p><strong>Mariano Moisés Oblitas Dávila</strong> – AV1: Evalué el impacto económico y organizacional de las especificaciones, considerando la viabilidad y sostenibilidad futura del proyecto.</p>
+    </td>
+    <td>
+      <p>Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos.</p>
+    </td>
+  </tr>
 </table>
 
 
+<div style="page-break-after: always;"></div>
 
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
-### 1.1.1 Descripción de la Startup 
+
+### 1.1.1. Descripción de la Startup
 
 **Mecanaut** es un software especializado para la gestión de mantenimiento industrial, diseñado para empresas que operan con maquinaria crítica. Permite registrar activos, materiales, líneas de producción y organizar tanto órdenes de trabajo correctivas como planes de mantenimiento preventivo.
 
@@ -728,10 +331,10 @@ Con una interfaz intuitiva y flujos de trabajo optimizados, Mecanaut ayuda a té
 <br>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-2. ### Perfiles de integrantes del equipo
 
-| <img src="./img/group-members/Ariana Agreda.png" alt="Ariana Agreda" width="300"/> | **Ariana Agreda \- u202315044** <br> Mi nombre es Ariana Agreda, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona creativa, responsable y comprometida con cada tarea. Por ello, estoy dispuesta a dedicar un gran esfuerzo y apoyo para que logremos los mejores resultados para el proyecto. |
+|  | Integrante |
 | :---: | ----- |
+| <img src="./img/group-members/Ariana Agreda.png" alt="Ariana Agreda" width="300"/> | **Ariana Agreda \- u202315044** <br> Mi nombre es Ariana Agreda, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona creativa, responsable y comprometida con cada tarea. Por ello, estoy dispuesta a dedicar un gran esfuerzo y apoyo para que logremos los mejores resultados para el proyecto. |
 | <img src="./img/group-members/Claudia Belledonne.png" alt="Claudia Belledonne" width="300"/> | **Claudia Belledonne \- u202210259** <br> Mi nombre es Claudia Belledonne, tengo 20 años y me encuentro en mi segundo año de Ingeniería de Software en la UPC. En general, soy alguien creativa, responsable, dedicada y manejo bien el hacer muchas tareas a la vez. Para este trabajo, me comprometo a brindar mi máximo esfuerzo y dedicación. |
 | <img src="./img/group-members/Mauricio Elera.png" alt="Mauricio Elera" width="300"/> | **Mauricio Elera \- u202313702** <br> Mi nombre es Mauricio Elera, tengo 18 años y soy estudiante del 5to ciclo de Ingeniería de Software en la UPC. Me considero una persona proactiva, organizada y con muchas ganas de aprender. Estoy comprometido con el trabajo en equipo y dispuesto a aportar todo lo necesario para que nuestro proyecto sea exitoso. |
 | <img src="./img/group-members/Ricardo Cardenas.png" alt="Ricardo Cardenas" width="300"/> | **Ricardo Cardenas \- u202310004** <br> Mi nombre es Ricardo Cardenas Minaya, soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta, creativa y comprometida con cada actividad que realizo. Estoy decidido a dar lo mejor de mí en este proyecto para lograr resultados de calidad. |
@@ -739,103 +342,100 @@ Con una interfaz intuitiva y flujos de trabajo optimizados, Mecanaut ayuda a té
 <br>
 
 ## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
+
+### 1.2.1. Antecedentes y problemática
+
 En empresas alrededor del mundo el mantenimiento de maquinaria es importante para garantizar la continuidad operativa y la eficiencia en la producción. Tradicionalmente, muchas empresas han gestionado el mantenimiento de forma manual (como hojas de cálculo o documentos físicos), lo que genera pérdida de información, y falta de seguimiento. 
 
 Con la creciente necesidad de optimizar recursos, reducir tiempos de inactividad y anticiparse a posibles fallas, han surgido sistemas asistidos por software. Sin embargo, muchos de estos sistemas son costosos y no se ajustan a la realidad de pequeñas y medianas empresas manufactureras.
 
-#### **Who (¿Quién?)**
+<table>
+  <tr>
+    <td><strong>Who (¿Quién?)</strong></td>
+    <td>Empresas con abundantes maquinarias, especialmente aquellas que operan en líneas de producción constantes con alta demanda de mercado, son las principales afectadas por problemas de mantenimiento. El administrador y sus técnicos encargados de estas tareas suelen carecer de herramientas digitales adecuadas.</td>
+  </tr>
+  <tr>
+    <td><strong>What (¿Qué?)</strong></td>
+    <td>Se requiere una solución tecnológica que permita gestionar eficientemente los mantenimientos preventivos y correctivos de maquinaria, así como el inventario de repuestos, los costos y personal técnico involucrado.</td>
+  </tr>
+  <tr>
+    <td><strong>Where (¿Dónde?)</strong></td>
+    <td>El problema ocurre en fábricas o talleres donde se utilizan diversas maquinarias dentro de líneas de producción. Es común en contextos donde no se cuenta con sistemas integrados o actualizados.</td>
+  </tr>
+  <tr>
+    <td><strong>When (¿Cuándo?)</strong></td>
+    <td>El problema se presenta constantemente durante las operaciones diarias, especialmente cuando ocurren fallas imprevistas, durante mantenimientos mal programados o cuando se necesita rastrear el historial de intervenciones.</td>
+  </tr>
+  <tr>
+    <td><strong>Why (¿Por qué?)</strong></td>
+    <td>Porque sin un control adecuado del mantenimiento, las empresas sufren pérdidas económicas debido a tiempos de inactividad (downtime), desgaste prematuro de equipos, mala gestión del stock de repuestos, y falta de información para tomar decisiones operativas como la asignación al personal.</td>
+  </tr>
+  <tr>
+    <td><strong>How (¿Cómo?)</strong></td>
+    <td>A través del desarrollo de un software llamado <em>Mecanaut</em>, se permitirá registrar activos, programar mantenimientos, monitorear KPIs determinados y administrar el inventario de repuestos, todo en una plataforma web que permita la ejecución de órdenes de trabajo.</td>
+  </tr>
+  <tr>
+    <td><strong>How Much (¿Cuánto?)</strong></td>
+    <td>Aunque el costo específico puede variar según la escala de la empresa, se estima que las pérdidas por mal mantenimiento pueden representar hasta un 5-10 % de la producción total anual, lo que justifica la inversión en un sistema automatizado como <em>Mecanaut</em>.</td>
+  </tr>
+</table>
 
-Empresas con abundantes  maquinarias, especialmente aquellas que operan en líneas de producción constantes con alta demanda de mercado, son las principales afectadas por problemas de mantenimiento. El administrador y sus técnicos encargados de estas tareas suelen carecer de herramientas digitales adecuadas.
 
-#### **What (¿Qué?)**
+### 1.2.2. Lean UX Process.
 
-Se requiere una solución tecnológica que permita gestionar eficientemente los mantenimientos preventivos y correctivos de maquinaria, así como el inventario de repuestos, los costos y personal técnico involucrado.
+#### 1.2.2.1. Lean UX Problem Statements.
 
-#### **Where (¿Dónde?)**
-
-El problema ocurre en fábricas o talleres donde se utilizan diversas maquinarias dentro de líneas de producción. Es común en contextos donde no se cuenta con sistemas integrados o actualizados.
-
-#### **When (¿Cuándo?)**
-
-El problema se presenta constantemente durante las operaciones diarias, especialmente cuando ocurren fallas imprevistas, durante mantenimientos mal programados o cuando se necesita rastrear el historial de intervenciones.
-
-#### **Why (¿Por qué?)**
-
-Porque sin un control adecuado del mantenimiento, las empresas sufren pérdidas económicas debido a tiempos de inactividad (downtime), desgaste prematuro de equipos, mala gestión del stock de repuestos, y falta de información para tomar decisiones operativas como la asignación al personal.
-
-#### **How (¿Cómo?)**
-
-A través del desarrollo de un software llamado *Mecanaut*, se permitirá registrar activos, programar mantenimientos, monitorear KPIs determinados y administrar el inventario de repuestos, todo en una plataforma web que permita la ejecución de órdenes de rabajo.
-
-#### **How Much (¿Cuánto?)**
-
-Aunque el costo específico puede variar según la escala de la empresa, se estima que las pérdidas por mal mantenimiento pueden representar hasta un 5-10 % de la producción total anual, lo que justifica la inversión en un sistema automatizado como *Mecanaut*.
-<br>
-
-### 1.2.2 Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
 Nuestro startup proporciona una plataforma que permite registrar cada activo y agruparlas en una línea de producción específica con el fin de planificar la ejecución del mantenimiento preventivo o correctivo y analizar KPIs determinados. Está dirigido específicamente a empresas de producción que a través de administradores requieran asignar los activos bajo supervisión al personal de mantenimiento, nuestra solución reduce los tiempos de inactividad ofreciendo control y seguimiento personalizado.
 
 Hemos identificado un factor crítico que afecta especialmente a las empresas de bajo y mediano tamaño respecto a la planificación de mantenimiento de sus activos . Este factor se manifiesta notoriamente en la pérdida de capital que se genera por los tiempos de inactividad debido a averías y entre órdenes de trabajo. 
 
 Ante este problema, surge la duda: ¿Cómo podemos automatizar la planificación de mantenimientos en activos y asignarlos al personal mediante una plataforma con un sistema efectivo e intuitivo para reducir el tiempo de inactividad y costos de mantenimiento? 
 
-##### **Domain:**
-
+**Domain:**
 Gestión de mantenimiento y activos para empresas del sector textil, industrial y transporte.
 
-##### **Customer Segments:**
-
+**Customer Segments:**
 Dueños de empresas y administradores de mantenimiento.
 
-##### **Pain Points:**
-
+**Pain Points:**
 * Falta de organización en los mantenimientos.  
 * Dificultad para visualizar métricas clave (KPIs).  
 * Riesgo de fallas costosas por no tener historial ni seguimiento.  
 * Uso de Excel o papel, sin herramientas digitales efectivas y seguras.
 
-##### **Gap:**
-
+**Gap:**
 Muchas soluciones actuales son costosas, complejas o no se adaptan empresas sin experiencia tecnológica. Mecanaut busca cubrir ese espacio con una solución accesible e intuitiva.
 
-##### **Vision / Strategy:**
-
+**Vision / Strategy:**
 Facilitar la transformación digital del mantenimiento de activos a través de una plataforma amigable, que permita registrar, visualizar y optimizar procesos integrando reportes automáticos.
 
-##### **Initial Segment:**
-
+**Initial Segment:**
 Dueños de empresas y administradores del sector productor textil, que ya reconocen la necesidad de controlar sus activos, pero aún no digitalizan sus procesos.
 <br>
 
-#### 1.2.2.2 **Lean UX Assumptions**
 
-**1.2.2.2.1 Users**
-
+**Users**
 * Personas con un rango de edad entre 30 y 70 años  
 * Administrador de mantenimiento y producción  
 * Técnico operativo de activos
 
 <br>
 
-**1.2.2.2.2 User outcomes:**  
+**User outcomes:**  
 **¿Quién es el usuario?** 
-
 Mis usuarios serán administradores de mantenimiento y técnicos operativos de maquinarias de un rango de edad entre 30 a 70 años que busquen gestionar equipos, planificar tareas, y deberán asegurar la continuidad operativa de las líneas de producción.
 
-**¿Dónde encaja nuestro producto en su trabajo o vida?**   
+**¿Dónde encaja nuestro producto en su trabajo o vida?** 
 Encaja en su rutina laboral diaria. Lo utilizan para programar mantenimientos, evitar tiempos muertos y tomar decisiones estratégicas basadas en reportes y KPIs.
 
-**¿Qué problemas tiene nuestro producto y cómo se puede resolver?**   
+**¿Qué problemas tiene nuestro producto y cómo se puede resolver?** 
 El problema puede estar en la complejidad inicial del sistema para usuarios mayores o menos familiarizados con la tecnología. Esto se resolverá con un sistema simplificado de navegación y capacitaciones a los usuarios.
 
-**¿Cuándo y cómo es usado nuestro producto?**   
+**¿Cuándo y cómo es usado nuestro producto?** 
 Se utiliza desde computadoras o tablets todos los días laborales: al iniciar turnos, para asignar órdenes de trabajo, hacer seguimiento o consultar historial de maquinaria.
 
-**¿Qué características son importantes?**   
+**¿Qué características son importantes?** 
 Algunas características importantes son:
-
 * Vista calendario de mantenimientos.  
 * Seguimiento de tareas en tiempo real.  
 * Panel de control KPIs (MTBF, MTTR, costos, etc.).  
@@ -844,16 +444,15 @@ Algunas características importantes son:
 * Registro de tiempos muertos en líneas de producción.
 
 **¿Cómo debe verse nuestro producto y cómo debe comportarse?** 
-
-Debe tener una interfaz profesional, clara y sin sobrecarga visual. El sistema debe ser estable, rápido y confiabl**e**, incluso con muchos activos registrados en líneas de producción.
+Debe tener una interfaz profesional, clara y sin sobrecarga visual. El sistema debe ser estable, rápido y confiable, incluso con muchos activos registrados en líneas de producción.
 <br>
 
-**1.2.2.2.3 Business outcomes:**
+**Business outcomes:**
 
-1. **Creo que mis clientes necesitan** reducir el **t**iempo de inactividad de sus maquinarias, optimizar sus procesos de mantenimiento y evitar pérdidas económicas debido a fallas imprevistas  
+1. **Creo que mis clientes necesitan** reducir el tiempo de inactividad de sus maquinarias, optimizar sus procesos de mantenimiento y evitar pérdidas económicas debido a fallas imprevistas  
 2. **Estas necesidades se pueden resolver** con *Mecanaut* que permite programar, ejecutar y monitorear mantenimientos preventivos, correctivos y predictivos de forma eficiente, guardando un historial de estos.  
 3. **Mis clientes iniciales serán** dueños y administradores de empresas. Su principal motivación es reducir costos operativos, prevenir paradas no planificadas y prolongar la vida útil de sus activos.  
-4. **El valor \#1 que un cliente quiere de mi servicio es** la **c**onfianza en que el software garantice el correcto seguimiento y ejecución del mantenimiento, evitando pérdidas económicas.  
+4. **El valor \#1 que un cliente quiere de mi servicio es** la confianza en que el software garantice el correcto seguimiento y ejecución del mantenimiento, evitando pérdidas económicas.  
 5. **El cliente también puede obtener estos beneficios adicionales:** Mayor control sobre los recursos utilizados (repuestos, tiempo, personal) y mejora en auditorías y cumplimiento de KPIs.  
 6. **Voy a adquirir la mayoría de mis clientes a través de** campañas de marketing digital y contacto directo con empresas.  
 7. **Haré dinero a través de la suscripción** anual o  mensual del software.  
@@ -871,10 +470,10 @@ Debe tener una interfaz profesional, clara y sin sobrecarga visual. El sistema d
     **Suposición N°4:** Se asume que el historial de mantenimiento y los activos previos a la implementación del software están documentados y disponibles para ser cargados al sistema.
 
 **¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
-
-Si se prueba que nuestras suposiciones clave son falsas, podríamos enfrentar serios desafíos en la sostenibilidad de Mecanaut como negocio. Por ejemplo, si las empresas no cuentan con información previa organizada sobre sus activos y mantenimiento**s**, el proceso de implementación será más lento y costoso, lo cual puede disuadir a nuevos clientes.
+Si se prueba que nuestras suposiciones clave son falsas, podríamos enfrentar serios desafíos en la sostenibilidad de Mecanaut como negocio. Por ejemplo, si las empresas no cuentan con información previa organizada sobre sus activos y mantenimientos, el proceso de implementación será más lento y costoso, lo cual puede disuadir a nuevos clientes.
 <br>
-#### 1.2.2.3 **Lean UX Hypothesis Statements**
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
 
 * **Creemos que** las empresas estarán dispuestas a digitalizar su proceso de mantenimiento si perciben beneficios claros en eficiencia y ahorro de costos.
 
@@ -893,14 +492,15 @@ Si se prueba que nuestras suposiciones clave son falsas, podríamos enfrentar se
 * **Sabremos que es verdad cuando** al menos el 50% de los nuevos clientes carguen su información de activos en la primera semana.
 <br>
 
-#### 1.2.2.4 **Lean UX Canvas**
+#### 1.2.2.4. Lean UX Canvas.
 
 ![Canvas](./img/Mecanaut-Lean-Ux-Canvas2.png)
 <br>
 
-## 1.3 Segmentos objetivo 
+## 1.3. Segmentos objetivo.
 
-### **Administrador de mantenimiento**
+
+**Administrador de mantenimiento**
 **Descripción:**  
 Responsables de asegurar que la maquinaria de producción funcione sin interrupciones. Lideran al equipo técnico, gestionan el inventario de repuestos y generan reportes para la dirección. Buscan herramientas digitales para centralizar el control de tareas, monitorear indicadores de mantenimiento y justificar inversiones en mejoras.
 <br>
@@ -923,7 +523,7 @@ Responsables de asegurar que la maquinaria de producción funcione sin interrupc
   * Reducción de tiempo de inactividad de equipos
 
 
-### **Técnico operativo**
+**Técnico operativo**
 **Descripción:**  
 Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y correctivo en planta. Necesitan una herramienta que les facilite registrar actividades, recibir órdenes de trabajo de forma clara, y reportar incidencias o necesidades de repuestos. Son quienes operan directamente con el sistema de Mecanaut en el campo.
 <br>
@@ -945,10 +545,15 @@ Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y co
   * Herramientas simples y visuales para trabajar en la planta.  
 <br>
 
+
+<div style="page-break-after: always;"></div>
+
 # Capítulo II: Requirements Elicitation & Analysis
 
-## 2.1. Competidores
-### 2.1.1. Análisis competitivo
+## 2.1. Competidores.
+
+### 2.1.1. Análisis competitivo.
+
 
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <tr>
@@ -1017,7 +622,6 @@ Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y co
 </td>
 
 </tr>
-
 
 <tr>
   <td rowspan="2"><strong>Perfil de Marketing</strong></td>
@@ -1321,24 +925,24 @@ Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y co
 </tr>
 </table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores.
 
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-#### Estrategia 1: Posicionamiento como solución especializada para la industria manufacturera
+<strong> Estrategia 1: Posicionamiento como solución especializada para la industria manufacturera</strong>
 - <p align="justify">A diferencia de competidores generalistas o diseñados para múltiples sectores, Mecanaut apuesta por un enfoque claro: ser el sistema de mantenimiento pensado exclusivamente para empresas con operaciones industriales o logísticas intensivas, como el sector textil, agroindustrial o de transporte interprovincial. Esta especialización le permite ofrecer flujos más adaptados al uso real en planta, términos técnicos familiares para los encargados de mantenimiento y configuraciones específicas para distintos tipos de maquinaria. Esta ventaja le otorga cercanía funcional y técnica con los procesos reales de producción.
 </p>
 
-#### Estrategia 2: Diferenciación por simplicidad de uso y adopción inmediata
+<strong> Estrategia 2: Diferenciación por simplicidad de uso y adopción inmediata</strong>
 - <p align="justify">Uno de los principales obstáculos para la digitalización del mantenimiento en empresas medianas es la complejidad y curva de aprendizaje de muchas soluciones. Mecanaut convierte esto en una ventaja competitiva al diseñar una interfaz intuitiva, con lenguaje claro y flujos guiados que permiten a los usuarios empezar a usar la plataforma desde el primer día. El objetivo es reducir el tiempo necesario para capacitar al equipo, evitar barreras técnicas, y facilitar la incorporación del software al día a día sin fricciones.
 </p>
 
-#### Estrategia 3: Aprovechamiento del vacío entre soluciones simples y complejas
+<strong> Estrategia 3: Aprovechamiento del vacío entre soluciones simples y complejas</strong>
 - <p align="justify">El análisis competitivo demuestra que existe un “espacio intermedio” poco atendido entre herramientas demasiado simples (que no cubren inventario ni KPIs) y herramientas demasiado complejas (difíciles de adoptar y costosas). Mecanaut se posiciona justamente en ese espacio, con una propuesta que combina profundidad funcional (MTBF, control de stock, órdenes planificadas) con facilidad de uso. Esto le permite responder a necesidades reales de mantenimiento sin exigir una infraestructura TI avanzada ni grandes inversiones.
 </p>
 
+## 2.2. Entrevistas.
 
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas.
+
 
 * **Modelo de Entrevista para Segmento Objetivo 1: Administrador de mantenimiento:**  
   * ¿Qué tipo de maquinaria utilizan en sus procesos productivos?
@@ -1386,7 +990,7 @@ Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y co
 
 <br>
 
-### 2.2.2. Registro de entrevistas 
+### 2.2.2. Registro de entrevistas.
 
 **Entrevistas a Administradores de mantenimiento**
 
@@ -1428,7 +1032,7 @@ Profesionales encargados de ejecutar las tareas de mantenimiento preventivo y co
 
 <br>
 
-### 2.2.3. Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas.
 
 **Análisis del segmento de administrador de mantenimiento**
 
@@ -1448,8 +1052,9 @@ En cuanto a los reportes, estos son solicitados al final del día por el jefe di
 
 <br>
 
-## 2.3. Needfinding
-### 2.3.1. User Personas
+## 2.3. Needfinding.
+
+### 2.3.1. User Personas.
 
 Esta sección presenta los artefactos del diseño centrado en el usuario desarrollados para MecaNaut, basados en entrevistas a administradores de mantenimiento y técnicos operativos, así como en el análisis de soluciones de la competencia. Se identificaron problemas recurrentes como el uso de herramientas manuales (Excel, papel, WhatsApp), fallas no planificadas, falta de visibilidad de indicadores y desorganización en la gestión de repuestos. Estos hallazgos guiaron la definición de requerimientos funcionales y oportunidades de mejora, asegurando que el sistema responda a necesidades reales con soluciones simples, eficientes y escalables.
 
@@ -1463,7 +1068,7 @@ Esta sección presenta los artefactos del diseño centrado en el usuario desarro
 
 <br>
 
-### 2.3.2. User Task Matrix
+### 2.3.2. User Task Matrix.
 
 | Task Matrix | Administrador de mantenimiento |  | Técnico Operativo |  |
 |--------------|--------------------------------|--|-------------------|--|
@@ -1514,7 +1119,7 @@ Estas tareas son críticas para asegurar la continuidad operativa y evitar tiemp
 
 <br>
 
-### 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping.
 
 **Administrador de mantenimiento:** 
 
@@ -1526,7 +1131,7 @@ Estas tareas son críticas para asegurar la continuidad operativa y evitar tiemp
 
 <br>
 
-### 2.3.4. Empathy Mapping
+### 2.3.4. Empathy Mapping.
 
 Para la elaboración de los Empathy Maps de los User Personas Claudia (Jefa de Producción) y Jonathan (Técnico Operativo), el equipo siguió un proceso estructurado que inició con una etapa de preparación, en la cual se revisaron las entrevistas realizadas y se consolidaron los hallazgos más relevantes sobre sus comportamientos, necesidades y emociones en su entorno laboral. A continuación, se colocó al User Persona en el centro de la herramienta, y se realizó una lluvia de ideas grupal para responder a las preguntas correspondientes. Esta información fue organizada en las secciones correspondientes del mapa, priorizando la comprensión profunda del usuario desde una perspectiva humana. Este proceso permitió desarrollar una representación empática sólida y realista de cada perfil, que orientará mejor las decisiones de diseño.
 
@@ -1540,7 +1145,7 @@ Para la elaboración de los Empathy Maps de los User Personas Claudia (Jefa de P
 
 <br>
 
-### 2.3.5. As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping.
 
 **Administrador de mantenimiento:**
 
@@ -1627,48 +1232,35 @@ Luego de este proceso, se consiguió el siguiente As-Is Scenario Mapping:
 
 <br>
 
-## 2.4. Ubiquitous Language
+## 2.4. Ubiquitous Language.
 
-Maintenance Request(Solicitud de mantenimiento): Petición generada por un usuario para atender un incidente o requerimiento de mantenimiento.
+<ul>
+  <li><strong>Maintenance Request (Solicitud de mantenimiento):</strong> Petición generada por un usuario para atender un incidente o requerimiento de mantenimiento.</li>
+  <li><strong>Incident (Incidente):</strong> Evento que interrumpe el funcionamiento normal de un equipo o instalación.</li>
+  <li><strong>Work Order (Orden de trabajo):</strong> Documento o registro formal que detalla las tareas a realizar para atender una solicitud de mantenimiento.</li>
+  <li><strong>Preventive Maintenance (Mantenimiento preventivo):</strong> Intervenciones programadas para evitar fallas o deterioro de los activos.</li>
+  <li><strong>Corrective Maintenance (Mantenimiento correctivo):</strong> Intervenciones realizadas tras detectar una falla o avería.</li>
+  <li><strong>Asset (Activo):</strong> Bien físico (máquina, equipo, infraestructura) que requiere mantenimiento o monitoreo.</li>
+  <li><strong>Technician (Técnico):</strong> Persona encargada de ejecutar tareas de mantenimiento, reparación o inspección.</li>
+  <li><strong>Downtime (Tiempo de inactividad):</strong> Tiempo durante el cual un activo no está operativo debido a un problema técnico.</li>
+  <li><strong>Maintenance Schedule (Cronograma de mantenimiento):</strong> Plan que define fechas y frecuencias para realizar tareas de mantenimiento.</li>
+  <li><strong>Mean Time Between Failures (MTBF):</strong> El tiempo promedio entre fallos de un equipo. Este valor es importante para evaluar la confiabilidad de las máquinas y para planificar el mantenimiento preventivo.</li>
+  <li><strong>Mean Time To Repair (MTTR):</strong> El tiempo promedio necesario para reparar un equipo después de una falla. Este valor es crucial para evaluar la eficiencia del proceso de reparación y la capacidad de recuperación.</li>
+  <li><strong>Spare Parts (Repuestos):</strong> Componentes o piezas necesarias para reparar o reemplazar partes de un activo.</li>
+  <li><strong>Checklist (Lista de verificación):</strong> Documento que contiene tareas o ítems que deben revisarse durante una intervención.</li>
+  <li><strong>Report (Informe):</strong> Documento que resume el trabajo realizado, hallazgos o resultados de una tarea de mantenimiento.</li>
+  <li><strong>Ticket:</strong> Registro en el sistema sobre un problema específico reportado.</li>
+  <li><strong>Maintenance History (Historial de mantenimiento):</strong> Registro acumulado de todas las intervenciones realizadas sobre un activo.</li>
+  <li><strong>Service Provider (Proveedor de servicios):</strong> Empresa o profesional externo encargado de brindar servicios de mantenimiento.</li>
+</ul>
 
-Incident(Incidente): Evento que interrumpe el funcionamiento normal de un equipo o instalación.
-
-Work Order(Orden de trabajo): Documento o registro formal que detalla las tareas a realizar para atender una solicitud de mantenimiento.
-
-Preventive Maintenance(Mantenimiento preventivo): Intervenciones programadas para evitar fallas o deterioro de los activos.
-
-Corrective Maintenance(Mantenimiento correctivo): Intervenciones realizadas tras detectar una falla o avería.
-
-Asset(Activo): Bien físico (máquina, equipo, infraestructura) que requiere mantenimiento o monitoreo.
-
-Technician(Técnico): Persona encargada de ejecutar tareas de mantenimiento, reparación o inspección.
-
-Downtime(Tiempo de inactividad): Tiempo durante el cual un activo no está operativo debido a un problema técnico.
-
-Maintenance Schedule(Cronograma de mantenimiento): Plan que define fechas y frecuencias para realizar tareas de mantenimiento.  
-Mean Time Between Failures(MTBF): El tiempo promedio entre fallos de un equipo. Este valor es importante para evaluar la confiabilidad de las máquinas y para planificar el mantenimiento preventivo.
-
-Mean Time To Repair(MTTR): El tiempo promedio necesario para reparar un equipo después de una falla. Este valor es crucial para evaluar la eficiencia del proceso de reparación y la capacidad de recuperación.
-
-Spare Parts(Repuestos): Componentes o piezas necesarias para reparar o reemplazar partes de un activo.
-
-Checklist(Lista de verificación): Documento que contiene tareas o ítems que deben revisarse durante una intervención.
-
-Report(Informe): Documento que resume el trabajo realizado, hallazgos o resultados de una tarea de mantenimiento.
-
-Ticket: Registro en el sistema sobre un problema específico reportado.
-
-Maintenance History(Historial de mantenimiento): Registro acumulado de todas las intervenciones realizadas sobre un activo.
-
-Service Provider(Proveedor de servicios): Empresa o profesional externo encargado de brindar servicios de mantenimiento.
-
-<br>
+<div style="page-break-after: always;"></div>
 
 # Capítulo III: Requirements Specification
 
 Después de comprender a profundidad a nuestros usuarios y sus contextos, pasamos a una etapa clave del proyecto: definir claramente qué debe hacer nuestra solución. En esta sección presentamos los requisitos que guiarán el desarrollo del producto digital, alineados con los hallazgos obtenidos. A través de herramientas como el *To-Be Scenario Mapping*, *User Stories*, *Impact Map* y *Product Backlog*, comenzamos a construir la base de una experiencia que responda verdaderamente a sus necesidades.
 
-## 3.1. To-Be Scenario Mapping
+## 3.1. To-Be Scenario Mapping.
 
 **1\. Preparación**
 
@@ -1727,7 +1319,7 @@ En comparación con el escenario actual, el To-Be Scenario introduce mejoras cla
 
 <br>
 
-## 3.2. User Stories
+## 3.2. User Stories.
 
 | Epic/ Story ID | Título | Descripción  | Criterios de aceptación | Linked ID |
 | :---- | :---- | :---- | :---- | :---- |
@@ -1744,7 +1336,7 @@ En comparación con el escenario actual, el To-Be Scenario introduce mejoras cla
 | US11 | Solicitud de repuestos | Como técnico, quiero solicitar repuestos faltantes, para poder realizar el mantenimiento. | Escenario 1: Solicitud correcta  **Given** que una tarea está activa. **When** faltan materiales. **Then** puede hacer una solicitud que se registra en el inventario. Escenario 2: Solicitud duplicada  **Given** que ya se solicitó ese material.  **When** el técnico intenta solicitarlo de nuevo.  **Then** el sistema le informa que ya existe una solicitud pendiente. | EP06 |
 | US12 | Revisión de inventario | Como administrador, quiero ver el inventario actualizado en tiempo real, para asegurar la disponibilidad de herramientas y materiales. | Escenario 1: Revisión de inventario **Given** que accedió al inventario. **When** selecciona las herramienta o materiales que desea revisar. **Then** el sistema refleja el inventario disponible en tiempo real. Escenario 2: Error en la base de datos **Given** que accedió al inventario. **When** hay un error de conexión con la base de datos. **Then** el sistema muestra un mensaje de error indicando que no se puede visualizar el inventario. | EP06 |
 | US13 | Sección de beneficios del sistema | Como usuario interesado, quiero conocer los beneficios del sistema, para evaluar su utilidad. | Escenario 1: Acceso a sección **Given** que el visitante entra a la landing page. **When** accede a la sección de beneficios. **Then** visualiza los beneficios con claridad. Escenario 2: Error de carga **Given** que hay un fallo de red. **When** accede a la sección. **Then** se muestra un mensaje de error de conexión. | EP08 |
-| US14 | Sección precios del sitio web | Como usuario interesado, quiero conocer los planes de precios (gratuito, corporativo, profesional), para elegir el que más se adapte a mis necesidades. | Escenario 1: Visualización correcta de planes **Given** que el visitante entra a la landing page. **When** accede a la sección de precios. **Then** visualiza claramente los tres planes disponibles. Escenario 2: Error de carga de planes **Given** que hay una interrupción del servicio. **When** accede a la sección de precios. **Then** se muestra un mensaje indicando que no se pudieron cargar los planes. | EP08 |
+| US14 | Sección precios del sitio web | Como usuario interesado, quiero conocer los planes de precios (gratuito, corporativo, profesional), para elegir el que más se adapte a mis necesidades. | Escenario 1: Visualización correcta de planes **Given** que el visitante entra a la landing page. **When** accede a la sección de precios. **Then** visualiza claramente los tres planes disponibles.  Escenario 2: Error de carga de planes **Given** que hay una interrupción del servicio. **When** accede a la sección de precios. **Then** se muestra un mensaje indicando que no se pudieron cargar los planes. | EP08 |
 | US15 |  Sección footer del sitio web | Como usuario interesado, quiero acceder a información útil en el footer, como contacto, políticas y enlaces rápidos. | Escenario 1: Footer accesible **Given** que el visitante llega al final de la página. **When** visualiza el footer. **Then** encuentra enlaces e información relevante organizada. Escenario 2: Footer incompleto **Given** que hay un error de carga. **When** accede al footer. **Then** solo se visualiza parcialmente o sin enlaces funcionales. | EP08 |
 | US16 | Navegación del sitio web | Como usuario interesado, quiero contar con una barra de navegación para explorar fácilmente el sitio. | Escenario 1: Navegación funcional **Given** que el visitante accede al sitio web. **When** utiliza la barra de navegación. **Then** puede moverse entre las secciones sin problemas. Escenario 2: Barra no visible **Given** que el sitio no carga correctamente. **When** intenta navegar. **Then** no puede ver la barra y no puede cambiar de sección. | EP08 |
 | US17 | Sección dudas del sitio web | Como usuario interesado, quiero consultar una sección de preguntas frecuentes para resolver mis dudas rápidamente. | Escenario 1: Acceso a preguntas frecuentes **Given** que el visitante entra a la landing page. **When** accede a la sección de dudas. **Then** visualiza preguntas y respuestas comunes organizadas. Escenario 2: Error al cargar contenido **Given** que hay un problema de conexión. **When** accede a la sección de dudas. **Then** se muestra un mensaje indicando que el contenido no está disponible. | EP08 |
@@ -1755,16 +1347,16 @@ En comparación con el escenario actual, el To-Be Scenario introduce mejoras cla
 | US22 | Inicio de sesión | Como administrador o técnico, quiero iniciar sesión en el sistema para acceder a mis funcionalidades. | Escenario 1: Inicio de sesión exitoso **Given** que el usuario tiene credenciales válidas. **When** las ingresa correctamente. **Then** accede a su panel de usuario. Escenario 2: Error en las credenciales **Given** que el usuario introduce datos incorrectos. **When** intenta iniciar sesión. **Then** el sistema indica que el usuario o la contraseña son inválidos. | EP09 |
 | US23 | Simulación de Registro de Métricas de Maquinarias | Como administrador, quiero simular el registro de métricas de una maquinaria necesitada. | Escenario 1: Simulación exitosa **Given** que accede al la vista de simulaciones. **When** actualiza una metrica. **Then** el sistema actualiza la metrica y se visualiza. Escenario 2: Campos inválidos al modificar **Given** una metrica inexistente. **When** deja campos obligatorios vacíos. **Then** el sistema bloquea la acción y solicita completar los datos. | EP02 |
 | US24 | Asignar tecnicos a orden de trabajo | Como administrador, asignar tecnicos a ordenes de trabajo, para que estos sepan sus deberes. | Escenario 1: Asignación exitosa **Given** se visualizan los cambios. **When** selecciona la opción asignar. **Then** el sistema asigna la lista de tecnicos. Escenario 2: Error al asignar inexistente **Given** que dicha orden no existe. **When** trata de asignar relación de tecnicos. **Then** el sistema muestra un mensaje indicando que no se encuentra la orden. | EP02 |
-| US25 | Eliminar activo | Como administrador, quiero eliminar activos que ya no están en uso, para mantener actualizada la base de datos. | Escenario 1: Eliminación exitosa **Given** que accede al listado de activos. **When** selecciona un activo y confirma su eliminación. **Then** el sistema lo elimina y actualiza los registros relacionados. Escenario 2: Error por dependencias activas **Given** que el activo está asociado a órdenes de trabajo activas. **When** intenta eliminarlo. **Then** el sistema muestra un error y no permite la acción. | EP01 |
+| US25 | Eliminar activo | Como administrador, quiero eliminar activos que ya no están en uso, para mantener actualizada la base de datos. | Escenario 1: Eliminación exitosa **Given** que accede al listado de activos.  **When** selecciona un activo y confirma su eliminación.  **Then** el sistema lo elimina y actualiza los registros relacionados. Escenario 2: Error por dependencias activas **Given** que el activo está asociado a órdenes de trabajo activas. **When** intenta eliminarlo. **Then** el sistema muestra un error y no permite la acción. | EP01 |
 | US26 | Eliminar orden de trabajo repentina | Como administrador, quiero eliminar órdenes de trabajo repentinas que fueron creadas por error, para mantener el calendario limpio. | Escenario 1: Eliminación correcta **Given** que accede a una orden de trabajo. **When** decide eliminarla. **Then** el sistema la elimina del calendario y del historial. Escenario 2: Orden ya finalizada **Given** que la orden ya fue completada. **When** intenta eliminarla. **Then** el sistema muestra un mensaje indicando que no puede eliminar tareas ya cerradas. | EP02 |
 | US27 | Visualización de perfil de administrador | Como administrador, quiero visualizar mi perfil, para revisar y actualizar mi información personal o de la cuenta. | Escenario 1: Visualización exitosa del perfil **Given** que el administrador accede a su cuenta. **When** abre la sección de perfil. **Then** el sistema muestra sus datos correctamente. Escenario 2: Error al cargar perfil **Given** que hay un problema de conexión. **When** intenta abrir su perfil. **Then** el sistema muestra un mensaje de error temporal. | EP09 |
 | US28 | Visualización de perfil de técnico | Como técnico, quiero visualizar mi perfil, para conocer mis datos y tareas asignadas. | Escenario 1: Acceso exitoso al perfil **Given** que el técnico inicia sesión. **When** abre su perfil desde el panel principal. **Then** visualiza sus datos personales y actividad reciente. Escenario 2: Perfil no encontrado **Given** que hay un error en la base de datos. **When** intenta cargar su perfil. **Then** el sistema muestra un mensaje indicando que no se encuentra el perfil. | EP09 |
 | US29 | Eliminar técnico | Como administrador, quiero eliminar técnicos que ya no forman parte del equipo, para mantener la base de datos limpia. | Escenario 1: Eliminación correcta **Given** que accede al listado de técnicos. **When** selecciona uno y confirma su eliminación. **Then** el sistema elimina al técnico y actualiza sus asignaciones. Escenario 2: Técnico con tareas pendientes **Given** que el técnico tiene tareas asignadas. **When** intenta eliminarlo. **Then** el sistema impide la acción e informa sobre las tareas activas. | EP09 |
 | US30 | Modificar perfil | Como usuario (técnico o administrador), quiero editar los datos de mi perfil, para mantener mi información actualizada. | Escenario 1: Modificación exitosa **Given** que el usuario accede a su perfil. **When** actualiza su información y guarda los cambios. **Then** el sistema confirma la modificación y actualiza los datos. Escenario 2: Error en formato de datos **Given** que el usuario ingresa datos inválidos (ej. email mal escrito). **When** intenta guardar los cambios. **Then** el sistema muestra errores específicos que debe corregir. | EP09 |
 | US31 | Actualización de inventario | Como administrador, quiero actualizar las cantidades de herramientas y materiales en el inventario, para su correcta información. | Escenario 1: Revisión de inventario **Given** que accedió al inventario. **When** actualiza las cantidades de herramientas o materiales. **Then** se muestra un mensaje diciendo que se actualizó el inventario con éxito. Escenario 2: Error en la base de datos **Given** que accedió al inventario. **When** intenta ingresar una cantidad inválida (como un número negativo) **Then** el sistema muestra un mensaje indicando que el valor ingresado no es válido. | EP06 |
-| US32 | Sección Hero del sitio web | Como usuario interesado, quiero ver una presentación clara del servicio apenas ingreso, para entender rápidamente qué ofrece Mecanaut y por qué me conviene usarlo. | Escenario 1: Visualización inicial del servicio **Given** que el usuario accede a la landing page **When** se carga la página **Then** se muestra el nombre del sistema, un subtítulo explicativo y una breve descripción del servicio en el centro de la pantalla. Escenario 2: Métricas destacadas visibles  **Given** que el usuario hace scroll o visualiza la sección completa **When** observa los indicadores de impacto (ej. menos fallas, menos tiempo perdido, mantenimientos programados) **Then** puede entender rápidamente los beneficios concretos de la plataforma. | EP07 |
+| US32 | Sección Hero del sitio web | Como usuario interesado, quiero ver una presentación clara del servicio apenas ingreso, para entender rápidamente qué ofrece Mecanaut y por qué me conviene usarlo. | Escenario 1: Visualización inicial del servicio **Given** que el usuario accede a la landing page **When** se carga la página **Then** se muestra el nombre del sistema, un subtítulo explicativo y una breve descripción del servicio en el centro de la pantalla.  Escenario 2: Métricas destacadas visibles  **Given** que el usuario hace scroll o visualiza la sección completa **When** observa los indicadores de impacto (ej. menos fallas, menos tiempo perdido, mantenimientos programados) **Then** puede entender rápidamente los beneficios concretos de la plataforma. | EP07 |
 | EP01 | Registro y organización inicial | Como administrador, quiero registrar los elementos y categorías del sistema, para organizar la información base de mantenimiento. | No corresponde | US01, US02, US25 |
-| EP02 | Gestión y planificación del plan de mantenimiento | Como administrador, quiero gestionar y planificar el plan de mantenimiento, para asegurar que las tareas se ejecuten en tiempo y forma. | No corresponde | US03, US04,US23, US24, US26 |
+| EP02 | Gestión y planificación del plan de mantenimiento | Como administrador, quiero gestionar y planificar el plan de mantenimiento, para asegurar que las tareas se ejecuten en tiempo y forma. | No corresponde | US03, US04, US23, US24, US26 |
 | EP03 | Métricas de desempeño | Como administrador, quiero visualizar indicadores clave del sistema, para evaluar el rendimiento del equipo técnico y la eficiencia operativa. | No corresponde | US07 |
 | EP04 | Ejecución técnica | Como técnico operativo, quiero recibir y completar las tareas de mantenimiento con claridad y respaldo, para asegurar un trabajo eficiente y sin errores. | No corresponde | US08, US18 |
 | EP05 | Responsive Design | Como usuario, quiero que la interfaz se adapte a cualquier dispositivo, para navegar cómodamente desde móviles, tablets o PCs. | No corresponde | US19 |
@@ -1781,15 +1373,15 @@ En comparación con el escenario actual, el To-Be Scenario introduce mejoras cla
 | TS05 | Get Planes de Mantenimiento | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** obtener los planes de mantenimiento existentes mediante una API **Para** mostrar el historial de mantenimientos. |
 | TS06 | Get Métricas de Maquinaria | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** obtener las métricas generales de mantenimiento mediante una API **Para** mostrar indicadores de desempeño en el dashboard. |
 | TS07 | Post Inventory Item | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** registrar un nuevo ítem en el inventario mediante una API **Para** mantener actualizado el stock de herramientas, materiales o equipos. |
-| TS08 | Get Inventory Item | **Como** desarrollador que trabaja en la aplicación de MecaNaut**Quiero** obtener los detalles de un ítem del inventario mediante una API**Para** visualizar su disponibilidad, ubicación y cantidad. |
+| TS08 | Get Inventory Item | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** obtener los detalles de un ítem del inventario mediante una API **Para** visualizar su disponibilidad, ubicación y cantidad. |
 | TS09 | Post Activo | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** registrar un activo mediante una API **Para** tenerlo disponible para programación de mantenimientos. |
 | TS10 | Get Activo | **Como** desarrollador que trabaja en la aplicación de MecaNaut **Quiero** obtener la información de un activo mediante una API **Para** mostrarla en el módulo de activos. |
 
 <br>
 
-## 3.3. Impact Mapping
+## 3.4. Impact Mapping.
 ![ImpactMap](./img/impact-mapping/Impact%20Map%20-%20Mecanaut.jpg)
-## 3.4. Product Backlog
+## 3.3. Product Backlog.
 
 | \#Orden | User Story ID | Título | Descripción | Story Points  |
 | ----- | ----- | ----- | ----- | ----- |
@@ -1832,22 +1424,25 @@ En comparación con el escenario actual, el To-Be Scenario introduce mejoras cla
 | 37 | TS05 | Get Órdenes de Trabajo | Como desarrollador que trabaja en la aplicación de MecaNaut Quiero obtener las órdenes de trabajo existentes mediante una API Para mostrar el historial de mantenimientos. | 3 |
 | 38 | TS06 | Get Métricas de Mantenimiento | Como desarrollador que trabaja en la aplicación de MecaNaut Quiero obtener las métricas generales de mantenimiento mediante una API Para mostrar indicadores de desempeño en el dashboard. | 3 |
 | 39 | TS07 | Post Inventory Item | Como desarrollador que trabaja en la aplicación de MecaNaut Quiero registrar un nuevo ítem en el inventario mediante una API Para mantener actualizado el stock de herramientas, materiales o equipos | 3 |
-| 40 | T08 | Get Inventory Item | Como desarrollador que trabaja en la aplicación de MecaNautQuiero obtener los detalles de un ítem del inventario mediante una APIPara visualizar su disponibilidad, ubicación y cantidad | 3 |
+| 40 | T08 | Get Inventory Item | Como desarrollador que trabaja en la aplicación de Mecanaut Quiero obtener los detalles de un ítem del inventario mediante una API Para visualizar su disponibilidad, ubicación y cantidad | 3 |
 | 41 | TS09 | Post Activo | Como desarrollador que trabaja en la aplicación de MecaNaut Quiero registrar un activo mediante una API Para tenerlo disponible para programación de mantenimientos | 3 |
 | 42 | TS10 | Get Activo | Como desarrollador que trabaja en la aplicación de MecaNaut Quiero obtener la información de un activo mediante una API Para mostrarla en el módulo de activos | 3 |
 <br>
    
+
+<div style="page-break-after: always;"></div>
+
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines
+## 4.1. Style Guidelines.
 
 Mecanaut revoluciona la administración y planificación de mantenimientos al reemplazar los procesos manuales con una plataforma web automatizada. Lo que antes era tedioso y complejo, ahora se convierte en una experiencia accesible, eficiente y al alcance de cualquier empresa.
 
-Nuestra identidad visual transmite tecnología, modernidad e innovación, sin perder una apariencia amigable que conecta con los usuarios y los hace sentir cómodos al interactuar con la plataforma. El diseño está pensado para ofrecer una interfaz intuitiva y flujos de trabajo optimizados, permitiendo a técnicos y administradores mantener sus equipos operativos, reducir tiempos de inactividad y tomar decisiones basadas en indicadores clave como MTTR, MTBF y costos operativos.
+Nuestra identidad visual transmite tecnología, modernidad e innovación, sin perder una apariencia amigable que conecta con los usuarios y los hace sentir cómodos al interactuar con la plataforma. El diseño está pensado para ofrecer una interfaz intuitiva y flujos de trabajo optimizados, permitiendo a técnicos y administradores mantener sus equipos operativos, reducir tiempos de inactividad y tomar decisiones basadas en indicadores clave.
 
 A través de una experiencia visual inspiradora y funcional, Mecanaut no solo cumple con las expectativas creativas de sus usuarios, sino que también los motiva a volver, generando una conexión duradera en cada uso.
 
-### 4.1.1. General Style Guidelines
+### 4.1.1. General Style Guidelines.
 
 <ul>
     <li>
@@ -1925,36 +1520,15 @@ Botones como “Filtro” emplean íconos sutiles y contornos en tonos morados. 
     </li>
 </ul>
 
-### 4.1.2. Web Style Guidelines
+### 4.1.2. Web Style Guidelines.
 
-<ul>
-    <li>Patrones de Lectura
-        <br>
-        En la sección de “Producto”, se emplea el patrón de lectura en F para dirigir la atención del usuario hacia los elementos clave, como la descripción de Mecanaut y los tipos de mantenimiento. Este enfoque asegura que títulos e imágenes importantes estén dentro del campo visual inicial, alineándose con la heurística de “reconocimiento antes que recuerdo”, al facilitar el acceso inmediato a la información esencial.
-        <img src="img/style-guidelines/patronf.png">
+### 4.1.3. Mobile Style Guidelines.
 
-<br>
-En secciones como “Beneficios”, se aplica el patrón de lectura en Z, llevando la vista del usuario desde la parte superior derecha hacia la inferior izquierda en un flujo diagonal. Esto permite visualizar cada beneficio de manera ordenada, mejorando la visibilidad del estado del sistema al mostrar claramente el avance de la interacción y las opciones disponibles.
-        <img src="img/style-guidelines/patronz.png">
-        <br>
-    </li>
-    <li>Navegación
-        <br>
-        La barra de navegación permanece visible y fija en la parte superior del sitio, ofreciendo al usuario un acceso constante a otras secciones. Esto fortalece la heurística de control y libertad, permitiendo una navegación flexible y evitando que el usuario se pierda durante su recorrido por la plataforma.
-                <img src="img/style-guidelines/navbar-en.png">
-        <img src="img/style-guidelines/navbar-es.png">
-        <br>
-    </li>
-    <li>Layout y Grid System
-        <br>
-        Diseño responsivo: El sitio utiliza un sistema de cuadrícula adaptable que mantiene una experiencia uniforme en distintos dispositivos. Esto refuerza la heurística de consistencia y estándares, ya que garantiza una navegación fluida sin importar el tamaño de pantalla.
-        <br>
-Organización del contenido: La información se presenta en bloques espaciados y bien estructurados, lo que reduce la carga cognitiva y favorece la eficiencia de uso. Así, los usuarios pueden identificar rápidamente los datos relevantes y navegar con mayor agilidad.
-        <br>
-    </li>
-</ul>
+#### 4.1.3.1. iOS Mobile Style Guidelines.
 
-## 4.2. Information Architecture
+#### 4.1.3.2. Android Mobile Style Guidelines.
+
+## 4.2. Information Architecture.
 
 <p align="justify">La arquitectura de información de Mecanaut está diseñada para facilitar la navegación de dos tipos principales de usuarios: administradores y técnicos de mantenimiento. La organización de la plataforma permite registrar y gestionar maquinaria, materiales y tareas de mantenimiento de forma eficiente. Esta estructura ayuda a que los usuarios ejecuten sus tareas de forma rápida y visualicen con claridad las prioridades operativas.</p>
 <br>
@@ -1989,6 +1563,7 @@ Organización del contenido: La información se presenta en bloques espaciados y
 <br>
 
 ### 4.2.2. Labeling Systems.
+
 <p align="justify">Mecanaut utiliza etiquetas claras, con el menor número de palabras necesario y una jerarquía visual consistente.</p>
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -2037,6 +1612,7 @@ Organización del contenido: La información se presenta en bloques espaciados y
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+
 <strong>Landing Page</strong>
 - **Title:** Mecanaut | Software de Mantenimiento Industrial  
 - **Meta Description:** Plataforma para registrar maquinaria, materiales y gestionar mantenimiento preventivo y correctivo.  
@@ -2052,6 +1628,7 @@ Organización del contenido: La información se presenta en bloques espaciados y
 <br>
 
 ### 4.2.4. Searching Systems.
+
 
 **Mecanaut proporciona un sistema de búsqueda integrado en las secciones clave:**
 
@@ -2082,7 +1659,7 @@ Los resultados se presentan en tablas interactivas y visualizaciones tipo calend
 
 ### 4.2.5. Navigation Systems.
 
-### Flujos de navegación
+**Flujos de navegación**
 
 - Desde el panel principal se accede directamente a los módulos clave: registro de activos, creación de órdenes, visualización de planes y seguimiento.
 
@@ -2093,7 +1670,9 @@ Los resultados se presentan en tablas interactivas y visualizaciones tipo calend
 <br>
 
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
+
 
 El wireframe de la landing page presenta la estructura base del sitio, destacando una cabecera fija que organiza los elementos esenciales: el logotipo, un menú de navegación con accesos a Inicio, Producto, Beneficios, Planes y FAQ, un selector de idioma (ES | EN) y dos CTA principales: “Iniciar sesión” y “Crear cuenta”. Justo debajo, el hero section introduce un título central (“Mecanaut”), un eslogan breve y la imagen de un portátil donde se proyectará posteriormente la interfaz de la plataforma.
 <br>
@@ -2129,7 +1708,9 @@ Heurísticas de usabilidad: <br>
 Wireframe
 <img src="img/landing-page/wireframe-landing-page.jpg"><br>
 
+
 ### 4.3.2. Landing Page Mock-up.
+
 
 El mockup visual de la landing page refuerza la estructura planteada en el wireframe, dándole vida a través del color, la tipografía y el estilo. El logotipo permanece en la parte superior acompañado de una breve descripción. Justo debajo, las tarjetas de métrica se ubican sobre una franja de color que aporta dinamismo y foco visual. La barra de navegación fija sigue presente, facilitando el acceso a las diferentes secciones informativas.
 
@@ -2164,8 +1745,27 @@ Landing Page en Inglés
 <img src="img/landing-page/mock-up-landing-page-en.jpg">
 <br>
 
-## 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
+
+## 4.4. Mobile Applications UX/UI Design.
+
+### 4.4.1. Mobile Applications Wireframes.
+
+### 4.4.2. Mobile Applications Wireflow Diagrams.
+
+### 4.4.3. Mobile Applications Mock-ups.
+
+### 4.4.4. Mobile Applications User Flow Diagrams.
+
+## 4.5. Mobile Applications Prototyping.
+
+### 4.5.1. Android Mobile Applications Prototyping.
+
+### 4.5.2. iOS Mobile Applications Prototyping.
+
+## 4.6. Web Applications UX/UI Design.
+
+### 4.6.1. Web Applications Wireframes.
+
 
 El diseño de la interfaz se basa en las heurísticas de Nielsen para ofrecer una experiencia intuitiva, clara y coherente. A lo largo de la web, cada elemento visual y funcional fue pensado para facilitar la navegación y reducir la carga cognitiva del usuario.
 <ul>
@@ -2234,8 +1834,7 @@ Configuración
 
 <br>
 
-
-### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.6.2. Web Applications Wireflow Diagrams.
 
 <img src="img/web-application-design/wireflow-crear-cuenta.jpg">
 <img src="img/web-application-design/wireflow-iniciar-sesion.jpg">
@@ -2247,7 +1846,8 @@ Configuración
 
 <br>
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.6.3. Web Applications Mock-ups.
+
 
 El mock-up de la app de Mecanaut se diseñó con el objetivo de lograr una interfaz visualmente atractiva, funcional y coherente con la identidad de la marca. Se priorizó una experiencia de usuario simple e intuitiva, aplicando principios de usabilidad, arquitectura de la información y diseño inclusivo para garantizar claridad, accesibilidad y eficiencia.
 
@@ -2343,7 +1943,9 @@ Configuración
 
 <br>
 
-### 4.4.3. Web Applications User Flow Diagrams.
+
+### 4.6.4. Web Applications User Flow Diagrams.
+
 
 <img src="img/web-application-design/userflow-crear-cuenta.jpg"> <br>
 User Goal: “Crear cuenta corporativa”<br>
@@ -2469,7 +2071,8 @@ Unappy Paths:
 
 <br>
 
-## 4.5. Web Applications Prototyping.
+## 4.7. Web Applications Prototyping.
+
 
 El prototipo web de Mecanaut ha sido creado bajo un enfoque centrado en el usuario, integrando principios sólidos de arquitectura de la información y las heurísticas de usabilidad de Nielsen para brindar una experiencia intuitiva, funcional y accesible. La navegación se organiza jerárquicamente, guiando al usuario de manera natural hacia las distintas secciones y herramientas del sistema.
 
@@ -2484,10 +2087,10 @@ https://www.youtube.com/watch?v=33yVUK49qWI
 
 https://github.com/user-attachments/assets/cf4a549d-6c93-4b95-ba80-9b9160aec81c
 
+<br>
 
+## 4.8. Domain-Driven Software Architecture.
 
-
-## 4.6. Domain-Driven Software Architecture.
 
 El **Domain-Driven Design (DDD)** pretende que el software represente con exactitud el mundo de negocio, favoreciendo la cooperación fluida entre desarrolladores y especialistas del dominio. Para lograrlo, DDD introduce:
 
@@ -2499,7 +2102,7 @@ En Mecanaut, esta filosofía permite separar responsabilidades (autenticación, 
 
 <br>
 
-### 4.6.1. Software Architecture Context Diagram.
+### 4.8.1. Software Architecture Context Diagram.
 
 El siguiente diagrama presenta en una sola vista el sistema Mecanaut, sus actores principales y los sistemas externos con los que se comunica:
 
@@ -2509,7 +2112,7 @@ El siguiente diagrama presenta en una sola vista el sistema Mecanaut, sus actore
 
 <br>
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.8.2. Software Architecture Container Diagrams.
 
 El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Para mostrar cómo se aplica DDD, se representan seis contenedores en forma de hexágono —los bounded contexts— dentro del monolito API Application.
 
@@ -2519,7 +2122,7 @@ El C2 hace “zoom” dentro del sistema y destaca los contenedores lógicos. Pa
 
 <br>
 
-### 4.6.3. Software Architecture Components Diagrams.
+### 4.8.3. Software Architecture Components Diagrams.
 En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los C3 de los bounded contexts identificados:
 
 * Work Order Context:  
@@ -2554,8 +2157,8 @@ En el nivel C3 profundizamos en cada contenedor. A continuación se muestran los
 
 <br>
 
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.9. Software Object-Oriented Design.
+### 4.9.1. Class Diagrams.
 
 
 Diagrama de clases basado en bounded contexts:
@@ -2564,13 +2167,12 @@ Diagrama de clases basado en bounded contexts:
 </div>
 <br>
 
-### 4.7.2. Class Dictionary.
-## Security Context
+### 4.9.2. Class Dictionary.
+**Security Context**<br>
+**Account**<br>
+**Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.<br>
 
-### Account
-**Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.
-
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2578,52 +2180,55 @@ Diagrama de clases basado en bounded contexts:
 | `plan` | `PlanType` | `private` | Plan de suscripción |
 | `maxUsers` | `int` | `private` | Límite de usuarios permitidos |
 | `maxAssets` | `int` | `private` | Límite de activos registrados |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `canAddUser(): boolean` | `public` | Devuelve **true** si aún no se alcanzó `maxUsers` |
 
 ---
 
-### User
-**Descripción**: Persona que accede al sistema en nombre de una cuenta.
+**User**<br>
+**Descripción**: Persona que accede al sistema en nombre de una cuenta.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `username` | `String` | `private` | Alias de inicio de sesión |
 | `email` | `String` | `private` | Correo electrónico |
 | `passwordHash` | `String` | `private` | Contraseña en hash |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `checkPassword(raw: String): boolean` | `public` | Valida `raw` contra `passwordHash` |
 
 ---
 
-### Role
-**Descripción**: Conjunto de permisos asignado a usuarios.
+**Role**<br>
+**Descripción**: Conjunto de permisos asignado a usuarios.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `name` | `String` | `private` | Nombre del rol (p. ej. `ADMIN`) |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `assignTo(user: User): void` | `public` | Asigna este rol a un usuario |
 
 ---
 
-### Permission
-**Descripción**: Permiso atómico para control de acceso.
+**Permission**<br>
+**Descripción**: Permiso atómico para control de acceso.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2631,24 +2236,25 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### MenuItem
-**Descripción**: Opción de menú visible según permisos.
+**MenuItem**<br>
+**Descripción**: Opción de menú visible según permisos.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `label` | `String` | `private` | Texto mostrado |
 | `route` | `String` | `private` | Ruta/URL destino |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isAccessibleBy(perms: List<Permission>): boolean` | `public` | **true** si el usuario posee los permisos requeridos |
 
 ---
 
-#### Interfaces del Security Context
+**Interfaces del Security Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IUserRepository` | `findByUsername(username): Optional<User>`<br>`save(user): User` |
@@ -2658,12 +2264,12 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Asset Management Context
+**Asset Management Context**
 
-### Asset
-**Descripción**: Maquinaria o equipo registrado en planta.
+**Asset**<br>
+**Descripción**: Maquinaria o equipo registrado en planta.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2671,35 +2277,38 @@ Diagrama de clases basado en bounded contexts:
 | `model` | `String` | `private` | Modelo de fabricante |
 | `serialNumber` | `String` | `private` | Número de serie |
 | `status` | `AssetStatus` | `private` | Estado operativo |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `scheduleMaintenance(plan: MaintenancePlan): void` | `public` | Asocia un plan preventivo al activo |
 
 ---
 
-### SparePart
-**Descripción**: Repuesto utilizable por los activos.
+**SparePart**<br>
+**Descripción**: Repuesto utilizable por los activos.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `code` | `String` | `private` | Código interno |
 | `stock` | `int` | `private` | Existencias |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isLowStock(): boolean` | `public` | **true** si el stock está por debajo del mínimo |
+<br>
 
 ---
 
-**Enum**  
-`AssetStatus { ACTIVE, INACTIVE, MAINTENANCE }`
+**Enum**<br>  
+`AssetStatus { ACTIVE, INACTIVE, MAINTENANCE }`<br>
 
-#### Interfaces del Asset Management Context
+**Interfaces del Asset Management Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IAssetRepository` | `findById(id): Optional<Asset>`<br>`save(asset): Asset` |
@@ -2707,63 +2316,69 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Maintenance Planning Context
+**Maintenance Planning Context**
 
-### MaintenancePlan
-**Descripción**: Definición de mantenimiento periódico.
+**MaintenancePlan**<br>
+**Descripción**: Definición de mantenimiento periódico.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `name` | `String` | `private` | Título del plan |
 | `frequency` | `Frequency` | `private` | Periodicidad |
 | `nextRun` | `LocalDate` | `private` | Próxima ejecución |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `generateTasks(): List<MaintenanceTask>` | `public` | Crea tareas futuras |
+<br>
 
 ---
 
-### MaintenanceTask
-**Descripción**: Tarea derivada de un plan.
+**MaintenanceTask**<br>
+**Descripción**: Tarea derivada de un plan.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `plannedDate` | `LocalDate` | `private` | Fecha programada |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `assign(slot: ScheduleSlot): void` | `public` | Asigna la tarea a un horario dado |
+<br>
 
 ---
 
-### ScheduleSlot
-**Descripción**: Franja de calendario disponible.
+**ScheduleSlot**<br>
+**Descripción**: Franja de calendario disponible.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `date` | `LocalDate` | `private` | Día |
 | `startTime` | `LocalTime` | `private` | Hora de inicio |
 | `endTime` | `LocalTime` | `private` | Hora de fin |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `conflictsWith(other: ScheduleSlot): boolean` | `public` | Detecta solapamiento |
+<br>
 
 ---
 
-**Enum**  
-`Frequency { DAILY, WEEKLY, MONTHLY, USAGE }`
+**Enum**<br>  
+`Frequency { DAILY, WEEKLY, MONTHLY, USAGE }`<br>
 
-#### Interfaces del Maintenance Planning Context
+**Interfaces del Maintenance Planning Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IPlanRepository` | `save(plan): MaintenancePlan` |
@@ -2771,27 +2386,29 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Work Order Context
+**Work Order Context**
 
-### WorkOrder
-**Descripción**: Orden de trabajo derivada de una tarea planificada.
+**WorkOrder**<br>
+**Descripción**: Orden de trabajo derivada de una tarea planificada.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `status` | `WorkOrderStatus` | `private` | Estado |
 | `openedAt` | `LocalDateTime` | `private` | Fecha de creación |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `close(): void` | `public` | Cierra la orden |
+<br>
 
 ---
 
-### WorkOrderLine
-**Descripción**: Detalle o paso de una orden.
+**WorkOrderLine**<br>
+**Descripción**: Detalle o paso de una orden.<br>
 
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
@@ -2799,8 +2416,8 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### Evidence
-**Descripción**: Evidencia (foto/firma) de ejecución.
+**Evidence**<br>
+**Descripción**: Evidencia (foto/firma) de ejecución.<br>
 
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
@@ -2809,22 +2426,22 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-**Enum**  
-`WorkOrderStatus { OPEN, IN_PROGRESS, CLOSED }`
+**Enum**<br>  
+`WorkOrderStatus { OPEN, IN_PROGRESS, CLOSED }`<br>
 
-#### Interfaces del Work Order Context
+**Interfaces del Work Order Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IWorkOrderRepository` | `save(order): WorkOrder` |
 
 ---
 
-## Predictive Analysis Context
+**Predictive Analysis Context**
 
-### SensorReading
-**Descripción**: Medición obtenida de un sensor IoT.
+**SensorReading**<br>
+**Descripción**: Medición obtenida de un sensor IoT.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -2832,22 +2449,26 @@ Diagrama de clases basado en bounded contexts:
 | `metric` | `String` | `private` | Tipo de métrica |
 | `value` | `double` | `private` | Valor |
 | `timestamp` | `LocalDateTime` | `private` | Momento de la lectura |
+<br>
 
 ---
 
-### AnalysisResult
+**AnalysisResult**<br>
+**Descripción**: Resultado del análisis predictivo.<br>
+
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `risk` | `RiskLevel` | `private` | Nivel de riesgo |
 | `predictedFailure` | `LocalDate` | `private` | Fecha estimada de fallo |
+<br>
 
 ---
 
 **Enum**  
 `RiskLevel { LOW, MEDIUM, HIGH }`
 
-#### Interfaces del Predictive Analysis Context
+**Interfaces del Predictive Analysis Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `ISensorGateway` | `fetch(assetId): List<SensorReading>` |
@@ -2855,30 +2476,36 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Notification Context
+**Notification Context**
 
-### NotificationTemplate
+**NotificationTemplate**<br>
+**Descripción**: Plantilla para comunicaciones.<br>
+
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `channel` | `String` | `private` | `EMAIL` / `SMS` |
 | `subject` | `String` | `private` | Asunto |
 | `body` | `String` | `private` | Texto con *placeholders* |
+<br>
 
 ---
 
-### Notification
+**Notification**<br>
+**Descripción**: Notificación enviada al usuario.<br>
+
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `status` | `NotificationStatus` | `private` | Estado actual |
+<br>
 
 ---
 
-**Enum**  
-`NotificationStatus { PENDING, SENT, FAILED }`
+**Enum**<br>  
+`NotificationStatus { PENDING, SENT, FAILED }`<br>
 
-#### Interfaces del Notification Context
+**Interfaces del Notification Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `INotificationRepository` | `save(n): Notification` |
@@ -2886,45 +2513,52 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Billing Context
+**Billing Context**
 
-### Subscription
+**Subscription**<br>
+**Descripción**: Suscripción del cliente.<br>
+
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `plan` | `PlanType` | `private` | Plan activo |
 | `start` | `LocalDate` | `private` | Inicio |
 | `end` | `LocalDate` | `private` | Fin |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isActive(): boolean` | `public` | Verifica vigencia |
 
 ---
 
-### Invoice
+**Invoice**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `total` | `BigDecimal` | `private` | Importe |
 | `issuedAt` | `LocalDate` | `private` | Fecha de emisión |
+<br>
 
 ---
 
-### Payment
+**Payment**<br>
+**Descripción**: Pago realizado por el usuario.<br>
+
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `amount` | `BigDecimal` | `private` | Monto |
 | `paidAt` | `LocalDateTime` | `private` | Fecha de pago |
+<br>
 
 ---
 
-**Enum**  
-`PlanType { BASIC, PRO, ENTERPRISE }`
+**Enum**<br>  
+`PlanType { BASIC, PRO, ENTERPRISE }`<br>
 
-#### Interfaces del Billing Context
+**Interfaces del Billing Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IBillingRepository` | `save(sub): Subscription` |
@@ -2933,12 +2567,12 @@ Diagrama de clases basado en bounded contexts:
 
 
 
-## Security Context
+**Security Context**
 
-### Account
-**Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.
+**Account**<br>
+**Descripción**: Organización cliente suscrita a la plataforma, con límites de usuarios y activos definidos por su plan.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2947,17 +2581,18 @@ Diagrama de clases basado en bounded contexts:
 | `maxUsers` | `int` | `private` | Límite de usuarios permitidos |
 | `maxAssets` | `int` | `private` | Límite de activos registrados |
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `canAddUser(): boolean` | `public` | Devuelve **true** si aún no se alcanzó `maxUsers` |
+<br>
 
 ---
 
-### User
-**Descripción**: Persona que accede al sistema en nombre de una cuenta.
+**User**<br>
+**Descripción**: Persona que accede al sistema en nombre de una cuenta.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2965,33 +2600,35 @@ Diagrama de clases basado en bounded contexts:
 | `email` | `String` | `private` | Correo electrónico |
 | `passwordHash` | `String` | `private` | Contraseña en hash |
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `checkPassword(raw: String): boolean` | `public` | Valida `raw` contra `passwordHash` |
+<br>
 
 ---
 
-### Role
-**Descripción**: Conjunto de permisos asignado a usuarios.
+**Role**<br>
+**Descripción**: Conjunto de permisos asignado a usuarios.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `name` | `String` | `private` | Nombre del rol (p. ej. `ADMIN`) |
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `assignTo(user: User): void` | `public` | Asigna este rol a un usuario |
+<br>
 
 ---
 
-### Permission
-**Descripción**: Permiso atómico para control de acceso.
+**Permission**<br>
+**Descripción**: Permiso atómico para control de acceso.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -2999,24 +2636,25 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### MenuItem
-**Descripción**: Opción de menú visible según permisos.
+**MenuItem**<br>
+**Descripción**: Opción de menú visible según permisos.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `label` | `String` | `private` | Texto mostrado |
 | `route` | `String` | `private` | Ruta/URL destino |
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isAccessibleBy(perms: List<Permission>): boolean` | `public` | **true** si el usuario posee los permisos requeridos |
+<br>
 
 ---
 
-#### Interfaces del Security Context
+**Interfaces del Security Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IUserRepository` | `findByUsername(username): Optional<User>`<br>`save(user): User` |
@@ -3026,12 +2664,12 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Asset Management Context
+**Asset Management Context**
 
-### Asset
-**Descripción**: Maquinaria o equipo registrado en planta.
+**Asset**<br>
+**Descripción**: Maquinaria o equipo registrado en planta.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -3039,35 +2677,37 @@ Diagrama de clases basado en bounded contexts:
 | `model` | `String` | `private` | Modelo de fabricante |
 | `serialNumber` | `String` | `private` | Número de serie |
 | `status` | `AssetStatus` | `private` | Estado operativo |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `scheduleMaintenance(plan: MaintenancePlan): void` | `public` | Asocia un plan preventivo al activo |
 
 ---
 
-### SparePart
-**Descripción**: Repuesto utilizable por los activos.
+**SparePart**<br>
+**Descripción**: Repuesto utilizable por los activos.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
 | `code` | `String` | `private` | Código interno |
 | `stock` | `int` | `private` | Existencias |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isLowStock(): boolean` | `public` | **true** si el stock está por debajo del mínimo |
 
 ---
 
-**Enum**  
-`AssetStatus { ACTIVE, INACTIVE, MAINTENANCE }`
+**Enum**<br>  
+`AssetStatus { ACTIVE, INACTIVE, MAINTENANCE }`<br>
 
-#### Interfaces del Asset Management Context
+**Interfaces del Asset Management Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IAssetRepository` | `findById(id): Optional<Asset>`<br>`save(asset): Asset` |
@@ -3075,63 +2715,66 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Maintenance Planning Context
+**Maintenance Planning Context**
 
-### MaintenancePlan
-**Descripción**: Definición de mantenimiento periódico.
+**MaintenancePlan**<br>
+**Descripción**: Definición de mantenimiento periódico.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `name` | `String` | `private` | Título del plan |
 | `frequency` | `Frequency` | `private` | Periodicidad |
 | `nextRun` | `LocalDate` | `private` | Próxima ejecución |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `generateTasks(): List<MaintenanceTask>` | `public` | Crea tareas futuras |
 
 ---
 
-### MaintenanceTask
-**Descripción**: Tarea derivada de un plan.
+**MaintenanceTask**<br>
+**Descripción**: Tarea derivada de un plan.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `plannedDate` | `LocalDate` | `private` | Fecha programada |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `assign(slot: ScheduleSlot): void` | `public` | Asigna la tarea a un horario dado |
 
 ---
 
-### ScheduleSlot
-**Descripción**: Franja de calendario disponible.
+**ScheduleSlot**<br>
+**Descripción**: Franja de calendario disponible.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `date` | `LocalDate` | `private` | Día |
 | `startTime` | `LocalTime` | `private` | Hora de inicio |
 | `endTime` | `LocalTime` | `private` | Hora de fin |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `conflictsWith(other: ScheduleSlot): boolean` | `public` | Detecta solapamiento |
 
 ---
 
-**Enum**  
-`Frequency { DAILY, WEEKLY, MONTHLY, USAGE }`
+**Enum**<br>  
+`Frequency { DAILY, WEEKLY, MONTHLY, USAGE }`<br>
 
-#### Interfaces del Maintenance Planning Context
+**Interfaces del Maintenance Planning Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IPlanRepository` | `save(plan): MaintenancePlan` |
@@ -3139,37 +2782,40 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Work Order Context
+**Work Order Context**
 
-### WorkOrder
-**Descripción**: Orden de trabajo derivada de una tarea planificada.
+**WorkOrder**<br>
+**Descripción**: Orden de trabajo derivada de una tarea planificada.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `status` | `WorkOrderStatus` | `private` | Estado |
 | `openedAt` | `LocalDateTime` | `private` | Fecha de creación |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `close(): void` | `public` | Cierra la orden |
 
 ---
 
-### WorkOrderLine
-**Descripción**: Detalle o paso de una orden.
+**WorkOrderLine**<br>
+**Descripción**: Detalle o paso de una orden.<br>
 
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `description` | `String` | `private` | Texto descriptivo |
 
 ---
 
-### Evidence
-**Descripción**: Evidencia (foto/firma) de ejecución.
+**Evidence**<br>
+**Descripción**: Evidencia (foto/firma) de ejecución.<br>
 
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `url` | `String` | `private` | Ubicación del archivo |
@@ -3180,19 +2826,19 @@ Diagrama de clases basado en bounded contexts:
 **Enum**  
 `WorkOrderStatus { OPEN, IN_PROGRESS, CLOSED }`
 
-#### Interfaces del Work Order Context
+**Interfaces del Work Order Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IWorkOrderRepository` | `save(order): WorkOrder` |
 
 ---
 
-## Predictive Analysis Context
+**Predictive Analysis Context**
 
-### SensorReading
-**Descripción**: Medición obtenida de un sensor IoT.
+**SensorReading**<br>
+**Descripción**: Medición obtenida de un sensor IoT.<br>
 
-#### Atributos
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -3203,7 +2849,10 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### AnalysisResult
+**AnalysisResult**<br>
+**Descripción**: Resultado del análisis predictivo.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -3215,7 +2864,7 @@ Diagrama de clases basado en bounded contexts:
 **Enum**  
 `RiskLevel { LOW, MEDIUM, HIGH }`
 
-#### Interfaces del Predictive Analysis Context
+**Interfaces del Predictive Analysis Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `ISensorGateway` | `fetch(assetId): List<SensorReading>` |
@@ -3223,9 +2872,12 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Notification Context
+**Notification Context**
 
-### NotificationTemplate
+**NotificationTemplate**<br>
+**Descripción**: Plantilla para notificaciones.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador único |
@@ -3235,7 +2887,10 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### Notification
+**Notification**<br>
+**Descripción**: Notificación enviada o pendiente.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -3246,7 +2901,7 @@ Diagrama de clases basado en bounded contexts:
 **Enum**  
 `NotificationStatus { PENDING, SENT, FAILED }`
 
-#### Interfaces del Notification Context
+**Interfaces del Notification Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `INotificationRepository` | `save(n): Notification` |
@@ -3254,24 +2909,31 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-## Billing Context
+**Billing Context**
 
-### Subscription
+**Subscription**<br>
+**Descripción**: Suscripción activa del cliente.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
 | `plan` | `PlanType` | `private` | Plan activo |
 | `start` | `LocalDate` | `private` | Inicio |
 | `end` | `LocalDate` | `private` | Fin |
+<br>
 
-#### Métodos
+**Métodos**
 | Firma | Visibilidad | Descripción |
 | ----- | ----------- | ----------- |
 | `isActive(): boolean` | `public` | Verifica vigencia |
 
 ---
 
-### Invoice
+**Invoice**<br>
+**Descripción**: Factura generada tras el servicio.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -3280,7 +2942,10 @@ Diagrama de clases basado en bounded contexts:
 
 ---
 
-### Payment
+**Payment**<br>
+**Descripción**: Registro de pago realizado por el cliente.<br>
+
+**Atributos**
 | Nombre | Tipo | Visibilidad | Descripción |
 | ------ | ---- | ----------- | ----------- |
 | `id` | `UUID` | `private` | Identificador |
@@ -3292,7 +2957,7 @@ Diagrama de clases basado en bounded contexts:
 **Enum**  
 `PlanType { BASIC, PRO, ENTERPRISE }`
 
-#### Interfaces del Billing Context
+**Interfaces del Billing Context**
 | Nombre | Métodos clave |
 | ------ | ------------- |
 | `IBillingRepository` | `save(sub): Subscription` |
@@ -3300,16 +2965,20 @@ Diagrama de clases basado en bounded contexts:
 
 <br>
 
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+## 4.10. Database Design.
+
+### 4.10.1. Relational/Non-Relational Database Diagram.
 
 <img src="img/database/bdd.png"></img>
 
 <br>
 
-# Capítulo V: Product Implementation, Validation & Deployment
+<div style="page-break-after: always;"></div>
+
+# Capítulo V: Product Implementation
 
 ## 5.1. Software Configuration Management.
+
 ### 5.1.1. Software Development Environment Configuration.
 
 <h2>1. Project Management</h2>
@@ -3512,154 +3181,17 @@ Diagrama de clases basado en bounded contexts:
 
 <br>
 
-## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-<table>
-    <tr>
-        <td>Sprint #</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Planning Background</strong></th>
-    </tr>
-    <tr>
-        <td>Date</td>
-        <td>22/04/2025</td>
-    </tr>
-     <tr>
-        <td>Time</td>
-        <td>10:00 AM</td>
-    </tr>
-     <tr>
-        <td>Location</td>
-        <td>Reunión virtual – Discord</td>
-    </tr>
-    <tr>
-        <td>Prepared By</td>
-        <td>Claudia Belledonne</td>
-    </tr>
-    <tr>
-        <td>Attendees (to planning meeting)</td>
-        <td>
+## 5.2. Product Implementation & Deployment.
 
-- Ariana Cecilia Agreda Sobrino
-            
-- Claudia Valeria Belledonne Espinoza
-            
-- Cardenas Minaya, Ricardo Fernando
-            
-- Mauricio Daniel Elera Rodríguez
-            
-- Oblitas Davila, Mariano Moises
-        
-   </td>
-    </tr>
-    <tr>
-        <td>Sprint 1 – 1 Review Summary</td>
-        <td>No aplica al ser el primer sprint entregado</td>
-    </tr>
-    <tr>
-        <td>Sprint 1 – 1 Retrospective Summary</td>
-        <td>No aplica al ser el primer sprint entregado</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
-    </tr>
-    <tr>
-        <td>Sprint 1 Goal</td>
-        <td>
-<strong>Nuestra meta fue</strong> desplegar el landing page que presente claramente los beneficios, procesos y precios del sistema. 
+### 5.2.1. Sprint Backlogs.
 
-<strong>Creemos que</strong> esto genera comprensión y confianza en los clientes potenciales. 
-
-<strong>Esto se confirmará</strong> cuando los usuarios puedan acceder a la página de destino y navegar por todas las secciones informativas (beneficios, precios, preguntas frecuentes, pie de página, etc.) desde múltiples dispositivos.
-    </td>
-    </tr>
-     <tr>
-        <td>Sprint 1 Velocity  </td>
-        <td>14 Story Points.</td>
-    </tr>
-     <tr>
-        <td>Sum of Story Points  </td>
-        <td>14 Story Points.</td>
-    </tr>
-</table>
-
-#### 5.2.1.2. Aspect Leaders and Collaborators.
-
-<table>
-  <tr>
-    <th>Team Member (Last Name, First Name)</th>
-    <th>GitHub Username</th>
-    <th>Sección de beneficios del sistema<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección precios del sitio web<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección dudas del sitio web<br/>Leader (L) / Collaborator (C)</th>
-    <th>Navegación del sitio web<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección footer del sitio web<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección Hero del sitio web<br/>Leader (L) / Collaborator (C)</th>
-  </tr>
-  <tr>
-    <td>Agreda, Ariana</td>
-    <td>arii4w</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>L</td>
-  </tr>
-  <tr>
-    <td>Belledonne, Claudia</td>
-    <td>Cl4us-tb</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Elera, Mauricio</td>
-    <td>Maur1xio</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Cardenas, Ricardo</td>
-    <td> </td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Oblitas, Mariano</td>
-    <td>MarianoOblitas</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-</table>
-
-<br>
-
-#### 5.2.1.3. Sprint Backlog 1
-
+<h2> Sprint 1 </h2>
 <p>El objetivo de este primer sprint fue desarrollar la primera versión de la Landing Page de nuestro sistema Mecanaut, enfocada en presentar la propuesta de valor del producto a potenciales usuarios. Esta versión incluye las secciones clave que comunican los beneficios, planes, preguntas frecuentes, footer y navegación general.</p>
 
 
 ![image](https://github.com/user-attachments/assets/8d30753d-dc89-47a1-9577-2bd45fe0a130)
 <p>[link:https://trello.com/invite/b/680a6cc7e8740865732b2289/ATTI0f0d254cd7c3649f29efcc5f9b5924a54D385D43/open-source](https://trello.com/invite/b/6809859e0eeb459935939fdd/ATTIbd99f0fb344dbb6087c9b4fca8759803429C15BE/apps-web)</p>
+
 
 <table>
   <tr>
@@ -3885,206 +3417,8 @@ Diagrama de clases basado en bounded contexts:
 
 </table>
 
+<h2> Sprint 2</h2>
 
-#### 5.2.1.4. Development Evidence for Sprint Review.
-
-| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
-|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
-| https://github.com/awawaTech/mecanaut-l4nding-page                          | main     | 50cb013               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 26/04/2025           |
-|                                                                            | develop  | a19fe32               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 26/04/2025           |
-|                                                                            | develop  | 5c8ae91               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 26/04/2025           |
-|                                                                            | develop  | 8b7d2ac               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 26/04/2025           |
-|                                                                            | main     | 50cb013…a52b2c8       | chore(release): merge release 1.0.0 into main | First release containing Hero, Navbar and base styling                              | 26/04/2025           |
-|                                                                            | develop  | c7adf4e               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 26/04/2025           |
-
-
-
-<br>
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-
-Durante este Sprint se logró implementar de forma completa la Landing Page del proyecto Macanet. Esta vista inicial permite a los usuarios conocer las funcionalidades clave del sistema, resolver dudas frecuentes y visualizar la propuesta de valor. Se trabajó en secciones como el header, sección de producto, sección de preguntas frecuentes (FAQ) y el footer, garantizando una navegación fluida y una presentación clara de los objetivos del producto.
-
-A continuación, se presentan capturas de pantalla de las vistas desarrolladas:
-
-Inicio:
-
-![image](/img/landing-sprint/inicio1.png)
-
-Producto:
-
-![image](/img/landing-sprint/product1.png)
-
-Beneficios:
-
-![image](/img/landing-sprint/benefits1.png)
-
-Planes:
-
-![image](/img/landing-sprint/plans1.png)
-
-Faq:
-
-![image](/img/landing-sprint/faq1.png)
-
-Footer:
-
-![image](/img/landing-sprint/footer1.png)
-
-<br>
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Durante este Sprint no se desarrollaron ni documentaron Web Services, ya que el objetivo principal fue la implementación de la Landing Page como primer entregable del sistema. Por ello, en esta fase del proyecto no se dispone de endpoints disponibles ni de documentación OpenAPI.
-
-La elaboración de la documentación de servicios está prevista para los próximos Sprints, cuando comience el desarrollo del backend y se defina la estructura inicial de la API que permitirá la integración con las vistas web implementadas.
-
-La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
-<br>
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Durante este Sprint se logró exitosamente el despliegue de la Landing Page de la solución **Mecanaut** a través del servicio **Azure Static Web Apps**, en línea con el enfoque de entrega incremental del producto.
-
-## Actividades ejecutadas:
-- Se creó una cuenta en **Azure** y se configuró un **grupo de recursos compartido** para optimizar la gestión de los servicios asociados.
-- Se realizó el **despliegue** de la Landing Page desde su **repositorio de GitHub** mediante **Azure Static Web Apps**, habilitando así un flujo automatizado de publicación a través de **GitHub Actions**.
-- Se implementó y verificó el flujo de **CI/CD** (Integración y Entrega Continua), asegurando que cada **commit** realizado sobre la rama **main** actualice automáticamente la aplicación desplegada.
-- Se validó la **disponibilidad** y el **correcto funcionamiento** del producto accediendo al **dominio asignado por Azure**.
-
-![image](/img/landing-sprint/inicio1.png)
-![image](/img/landing-sprint/product1.png)
-![image](/img/landing-sprint/benefits1.png)
-![image](/img/landing-sprint/plans1.png)
-![image](/img/landing-sprint/faq1.png)
-![image](/img/landing-sprint/footer1.png)
-
-Video de Demostración e Implementación:
-[Ver video de Demostración e Implementación](https://upcedupe-my.sharepoint.com/personal/u202315044_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202315044%5Fupc%5Fedu%5Fpe%2FDocuments%2FApplicacionesWebTB1&ga=1) 
-
-
-<br>
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-Durante el desarrollo del Sprint, cada miembro del equipo participó activamente en la implementación de la **Landing Page**, dividiéndose por secciones según el diseño y el contenido definido previamente.
-
-A continuación, se detalla la participación específica de cada integrante del equipo:
-
-| **Nombre**                       | **Actividad** |
-| ---------------------------------|------------|
-| Agreda Sobrino, Ariana Cecilia   | Implementación de las secciones "Navbar" y "Hero" |
-| Belledone Espinoza, Claudia      | Implementación de las secciones "Products" y "Benefits" |
-| Elera Rodríguez, Mauricio Daniel | Implenmentación de las secciones "FAQ" e inicialización del setup |
-| Oblitas, Mariano                    | Implementación de la sección "Plans" y "FAQ" |
-| Cardenas, Ricardo                   | Implementación de la sección "Footer"  |
-
-> **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
-
-![image](https://github.com/user-attachments/assets/2c9649af-a9bc-49e9-bc2a-6efd5880d762)
-![image](https://github.com/user-attachments/assets/7207afe3-de13-41fb-99f9-90c94a52da92)
-
-
-<br>
-
-##### Evidencia de colaboración en GitHub
-
-A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
-
-![image](img/evidence/contributors.png)
-
-![image](img/evidence/network-graph.png)
-![image](img/evidence/eviden1.png)
-
-
-##### Repositorio de trabajo:
-
-- [Repositorio de la Landing Page en GitHub](https://github.com/awawaTech/mecanaut-landing-page)
-
-Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
-
-### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2
-<table>
-    <tr>
-        <td>Sprint #</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Planning Background</strong></th>
-    </tr>
-    <tr>
-        <td>Date</td>
-        <td>13/05/2025</td>
-    </tr>
-     <tr>
-        <td>Time</td>
-        <td>08:00 AM</td>
-    </tr>
-     <tr>
-        <td>Location</td>
-        <td>Reunión virtual – Discord</td>
-    </tr>
-    <tr>
-        <td>Prepared By</td>
-        <td>Claudia Belledonne</td>
-    </tr>
-    <tr>
-        <td>Attendees (to planning meeting)</td>
-        <td>
-
-- Ariana Cecilia Agreda Sobrino
-            
-- Claudia Valeria Belledonne Espinoza
-            
-- Cardenas Minaya, Ricardo Fernando
-            
-- Mauricio Daniel Elera Rodríguez
-            
-- Oblitas Davila, Mariano Moises
-        
-   </td>
-    </tr>
-    <tr>
-        <td>Sprint 2 – Review Summary</td>
-        <td>Durante el segundo sprint se corrigieron los Story Points del Product Backlog y se ajustaron los Hypothesis Statements según el feedback recibido. Además, se implementaron funciones clave en la app frontend con Vue, incluyendo routing, language switcher, organización basada en DDD, componentes reutilizables y consumo de una fake API. El sistema fue desplegado exitosamente para su visualización por el equipo y stakeholders.</td>
-    </tr>
-    <tr>
-        <td>Sprint 2 – Retrospective Summary</td>
-        <td>El equipo destacó mejoras en la organización del código y en la estructura del proyecto gracias a la aplicación de buenas prácticas como DDD. También se valoró positivamente el despliegue temprano. Como puntos a mejorar, se identificó la necesidad de definir mejor los criterios de aceptación y mantener la documentación técnica actualizada para facilitar el desarrollo continuo.</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
-    </tr>
-    <tr>
-        <td>Sprint 2 Goal</td>
-        <td>
-<strong>Nuestra meta fue</strong> implementar las funcionalidades clave del frontend de la aplicación para ofrecer una experiencia inicial fluida y navegable. 
-
-<strong>Creemos que</strong> esto facilita la interacción del usuario con el sistema y permite validar tempranamente la estructura técnica y visual.
-
-<strong>Esto se confirmará</strong> cuando los usuarios puedan acceder a la aplicación desplegada, navegar entre secciones mediante el sistema de rutas, cambiar el idioma, visualizar datos simulados desde una fake API y notar una interfaz coherente gracias al uso de componentes reutilizables y una organización basada en DDD.
-    </td>
-    </tr>
-     <tr>
-        <td>Sprint 2 Velocity  </td>
-        <td>94 Story Points.</td>
-    </tr>
-     <tr>
-        <td>Sum of Story Points  </td>
-        <td>94 Story Points.</td>
-    </tr>
-</table>
-
-#### 5.2.2.2. Aspect Leaders and Collaborators.
-
-| Team Member (Last Name, First Name) | GitHub Username | US01 | US02 | US03 | US04 | US05 | US06 | US07 | US08 | US09 | US10 | US11 | US12 | US18 | US19 | US20 | US21 | US22 |
-|-------------------------------------|------------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Agreda, Ariana                      | arii4w           | C    | C    | L    | C    | C    | L    | C    | C    | L    | C    | C    | C    | C    | L    | C    | C    | L    |
-| Belledonne, Claudia                 | Cl4us-tb         | L    | C    | C    | C    | L    | C    | L    | L    | C    | C    | C    | C    | L    | C    | C    | L    | C    |
-| Elera, Mauricio                     | Maur1xio         | C    | L    | C    | L    | C    | C    | C    | C    | C    | L    | L    | L    | C    | C    | L    | C    | C    |
-| Cardenas, Ricardo                        | RicardoCardenas        | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    | C    |
-| Oblitas, Mariano                     | MarianoOblitas    | C    | C    | C    | C    | C    | C    | C    | C    | L    | C    | C    | C    | C    | C    | C    | C    | C    |
-
-#### 5.2.2.3. Sprint Backlog 2
 
 <p>El objetivo de este segundo sprint fue implementar funcionalidades clave del frontend de la aplicación de Mecanaut, enfocándonos en estructurar la arquitectura del proyecto con un enfoque DDD, incorporar rutas para la navegación, añadir un switcher de idiomas, reutilizar componentes, consumir datos desde una fake API y desplegar la aplicación para revisión del equipo.</p>
 
@@ -4277,316 +3611,8 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
 </table>
 
 
-#### 5.2.1.4. Development Evidence for Sprint Review.
+<h2> Sprint 3 </h2>
 
-| Repository                                                                 | Branch   | Commit Id             | Commit Message                              | Commit Message Body                                                                 | Committed on (Date) |
-|----------------------------------------------------------------------------|----------|------------------------|----------------------------------------------|--------------------------------------------------------------------------------------|----------------------|
-| https://github.com/awawaTech/mecanaut-l4nding-page                          | main     | 79dfc1a               | Setup commit: Vue project                    | Initial project scaffold created with Vue CLI and pushed to main                    | 13/05/2025           |
-|                                                                            | develop  | 7b3f5d2               | feat(hero): implement hero section           | Added HTML and CSS for the HeroComponent with responsive design                     | 13/05/2025           |
-|                                                                            | develop  | 4d9a56f               | feat(navbar): add top navigation bar         | Created a reusable NavbarComponent with anchor links to sections                    | 13/05/2025           |
-|                                                                            | develop  | 22c7e92               | style(global): add font and color variables  | Set up global SCSS variables for font family, primary and secondary colors          | 13/05/2025           |
-|                                                                            | main     | 79dfc1a…b4d7e16       | chore(release): merge release 1.1.0 into main | Second release with Hero, Navbar and base styling enhancements                       | 13/05/2025           |
-|                                                                            | develop  | b8c81e1               | ci: configure GitHub Actions for deploy      | Set up CI/CD workflow for automatic deployment to Azure Static Web Apps             | 13/05/2025           |
-|                                                                            | develop  | e3d5420               | feat(pricing): add pricing section           | Added HTML and CSS for the PricingComponent with responsive design and toggle option | 13/05/2025           |
-|                                                                            | develop  | d7f8b5a               | feat(footer): add footer section             | Created FooterComponent and linked important pages                                  | 13/05/2025           |
-|                                                                            | develop  | 0a5e57b               | style(pricing): add pricing section styling  | Applied design styles to the pricing section with hover effects                     | 13/05/2025           |
-|                                                                            | main     | 79dfc1a…e8c9b57       | chore(release): merge release 1.2.0 into main | Third release with Pricing and Footer components                                    | 13/05/2025           |
-
-<br>
-
-#### 5.2.2.5. Execution Evidence for Sprint Review.
-En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanaut. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, generar órdenes de trabajo correctivas y asignar personal técnico a ellas, establecer planes de mantenimiento para las líneas de producción, y permitir a los técnicos consultar sus órdenes de trabajo diarias.<br/>
-
-A continuación, se presentan capturas de pantalla de las principales vistas implementadas durante este sprint:<br/>
-
-
-#### Machinery Manager View  
-![Login View](img/sprint2/machinery.png)
-
-
-#### Machinery Form View  
-![Login View](img/sprint2/machinery-form.png)
-
-#### Machinery Form View  
-![Login View](img/sprint2/machinery-form.png)
-
-### Maintenance Plans
-![alt text](img/sprint2/image1.png)
-
-### Maintenance Plans Select
-![alt text](img/sprint2/image2.png)
-
-### Maintenance Plans Dynamic
-![alt text](img/sprint2/image3.png)
-
-### Maintenance Plans Static
-![alt text](img/sprint2/image4.png)
-
-### Maintenance Plans Calendar
-![alt text](img/sprint2/image10.png)
-
-### Maintenance Plans Static
-![alt text](img/sprint2/image5.png)
-
-### Spare Parts Inventory
-![alt text](img/sprint2/image6.png)
-
-### Spare Parts Inventory Form
-![alt text](img/sprint2/image7.png)
-
-### Purchase Order
-![alt text](img/sprint2/image8.png)
-
-### Purchase Order Form
-![alt text](img/sprint2/image9.png)
-
-### Create Account
-![alt text](img/sprint2/img11.png)
-
-### Login
-![alt text](img/sprint2/img12.png)
-
-
-
-
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Durante este Sprint no se desarrollaron ni documentaron Web Services, dado que el enfoque principal estuvo en la implementación del FrontEnd de la Aplicación Web, con todas sus vistas. Por lo tanto, no se cuenta con endpoints disponibles ni documentación generada en OpenAPI en esta etapa del proyecto.
-
-La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
-
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-Durante este Sprint, se avanzó de manera significativa en el proceso de Deployment de los principales componentes del sistema, incluyendo la Landing Page, las Aplicaciones Web y los Servicios Web (API). A continuación, se describen las acciones realizadas y se documentan con capturas y explicaciones técnicas.
-
-##### 1. Crear nuevo recurso SPA dentro de mismo grupo de recursos
-Se seleccionó Azure como plataforma de despliegue por su facilidad de integración con herramientas de desarrollo y CI/CD. Las principales acciones realizadas fueron:
-
-![alt text](/img/sprint2/azure1.png)
-
-![alt text](/img/sprint2/azure2.png)
-
-
-Captura 1: Configuración del proyecto en Azure
-
-##### 2. Configuración de Repositorios y Automatización de Deployment (CI/CD)
-Se integraron los repositorios de GitHub con el servicio de despliegue, permitiendo una integración continua y despliegue automático tras cada push a las ramas principales:
-
-- Se conectaron los repositorios de GitHub a Azure.
-- Se configuró un pipeline de CI/CD para que se realicen los siguientes pasos:
-    - Instalación de dependencias.
-    - Ejecución de pruebas.
-    - Construcción del proyecto.
-
-![alt text](/img/sprint2/azure3.png)
-![alt text](/img/sprint2/azure4.png)
-
-  
-
-Captura 2: Registro de despliegue exitoso tras push en rama main
-
-##### 3. Deployment de la Aplicación Web
-La App Web fue desplegada como una SPA (Single Page Application), asegurando el correcto enrutamiento y carga de componentes dinámicos. El build se generó con npm run build y fue subido al entorno de producción.
-
-![alt text](/img/sprint2/azure5.png)
-
-![alt text](/img/sprint2/azure6.png)
-
-
-##### 4. Deployment de los Servicios Web (API)
-Se simuló el backend utilizando MockAPI, el cual proporcionó soporte para peticiones REST y autenticación básica. Se verificó la correcta funcionalidad de las rutas implementadas mediante pruebas exhaustivas con Postman. <br/>
-
-Solo creamos 2 recursos (ya que es el límite gratiuto que tiene mockapi).
-![alt text](/img/sprint2/mock1.png)
-
-Lo probamos en Postman o Thuder Client:
-![alt text](/img/sprint2/mock2.png)
-
-## Actividades ejecutadas:
-- Se creó el proyecto base en **Vue** utilizando **Vite** como herramienta de construcción para un entorno ágil y moderno.
-- Se estructuró la aplicación con **ruteo dinámico** usando **Vue Router**, permitiendo una navegación fluida entre vistas según los perfiles de usuario.
-- Se implementaron componentes reutilizables clave como el **Navbar** y secciones de navegación según el diseño base.
-- Se construyeron vistas correspondientes a las historias de usuario:
-  - **US1:** Registro de usuario (estructura inicial del formulario).
-  - **US2:** Inicio de sesión para usuarios registrados.
-  - **US4:** Vista principal para el tipo de usuario **Empresario**, mostrando accesos a funcionalidades relevantes.
-  - **US6:** Vista principal para el tipo de usuario **Técnico de mantenimiento**, con enfoque en tareas operativas.
-- Se aplicaron estilos globales y configuraciones de diseño responsivo para garantizar una experiencia coherente en distintos dispositivos.
-- Se mantuvo la estructura de carpetas bajo una convención clara para facilitar la escalabilidad y mantenimiento del proyecto.
-
-> Este avance representa un paso importante hacia la construcción funcional del sistema, permitiendo validar interacciones clave y sentar la base para futuras integraciones con el backend.
-
-
-<br>
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-Durante el desarrollo del Sprint 2, cada miembro del equipo trabajó en las secciones de la **Frontend App ** de Mecanaut, avanzando con las User Stories del Product Backlog asignadas. Las tareas fueron divididas entre los integrantes del equipo, con el objetivo de completar las secciones clave del sitio.
-
-A continuación, se detalla la participación específica de cada integrante del equipo, asociada a las User Stories que implementaron:
-
-| **Nombre**                       | **Actividad (User Stories)** |
-| --------------------------------- | ---------------------------- |
-| Agreda Sobrino, Ariana Cecilia    | US32: Sección Hero del sitio web |
-| Belledone Espinoza, Claudia       | US13: Sección de beneficios del sistema <br> US14: Sección precios del sitio web |
-| Elera Rodríguez, Mauricio Daniel  | US17: Sección dudas del sitio web |
-| Oblitas, Mariano                   | US14: Sección precios del sitio web <br> US17: Sección dudas del sitio web |
-| Cardenas, Ricardo                      | US15: Sección footer del sitio web |
-
-> **Nota:** Algunos integrantes colaboraron en secciones compartidas para asegurar consistencia en diseño y funcionalidad.
-
-![image](https://github.com/user-attachments/assets/53ea8b06-5856-4508-917f-06e13a796538)
-
-![image](https://github.com/user-attachments/assets/49f5b981-e92d-46d3-8ed7-36a4a2999968)
-
-
-<br>
-
-##### Evidencia de colaboración en GitHub
-
-A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
-
-![image](https://github.com/user-attachments/assets/1957e126-da2b-4eb3-8b2d-5abf18bbcbc3)
-
-![image](https://github.com/user-attachments/assets/dbe220f7-def2-4f41-a155-0d8b25d4e2f9)
-
-### 5.2.3. Sprint 3
-#### 5.2.3.1. Sprint Planning 3
-<table>
-    <tr>
-        <td>Sprint #</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Planning Background</strong></th>
-    </tr>
-    <tr>
-        <td>Date</td>
-        <td>15/06/2025</td>
-    </tr>
-     <tr>
-        <td>Time</td>
-        <td> 11:00 AM</td>
-    </tr>
-     <tr>
-        <td>Location</td>
-        <td>Reunión virtual – Discord</td>
-    </tr>
-    <tr>
-        <td>Prepared By</td>
-        <td>Claudia Belledonne</td>
-    </tr>
-    <tr>
-        <td>Attendees (to planning meeting)</td>
-        <td>
-
-- Ariana Cecilia Agreda Sobrino
-            
-- Claudia Valeria Belledonne Espinoza
-            
-- Mauricio Daniel Elera Rodríguez
-            
-- Cardenas Minaya, Ricardo Fernando
-
-- Oblitas Davila, Mariano Moises
-   </td>
-    </tr>
-    <tr>
-        <td>Sprint 3 – 2 Review Summary</td>
-        <td>Durante la revisión del Sprint 2, se logró desarrollar e implementar las funcionalidades esenciales de la página web para una gestión integral. Esto incluyó la gestión de usuarios (creación e inicio de sesión para cuentas corporativas y de usuario), la administración de activos (maquinarias), la gestión de la línea de producción, la planificación del mantenimiento y el menú de órdenes de trabajo. Se recibieron comentarios positivos sobre la claridad de la información y la navegación de estas nuevas funcionalidades.</td>
-    </tr>
-    <tr>
-        <td>Sprint 3 – 2 Retrospective Summary</td>
-        <td>En la retrospectiva del Sprint 2, se destacó como aspectos positivos la buena comunicación y coordinación durante el sprint, así como una mayor claridad en la definición de tareas desde la planificación. Sin embargo, se identificaron oportunidades de mejora, como refinar la estimación de tiempos para evitar retrasos en tareas complejas y distribuir mejor la carga de trabajo.</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
-    </tr>
-    <tr>
-        <td>Sprint 3 Goal</td>
-        <td>
-<strong>Nuestra meta para este sprint es</strong> desarrollar e implementar las funcionalidades esenciales del backend para la aplicación MecaNaut, enfocándonos en la creación de APIs REST para la gestión de usuarios (registro y consulta), administración de roles, manejo de órdenes de trabajo (creación y seguimiento), control de inventario (registro y consulta de ítems) y gestión de activos (maquinarias y equipos).
-
-<strong>Creemos que</strong> esto proporcionará una base técnica sólida para el correcto funcionamiento del sistema, permitiendo el almacenamiento seguro de datos y la comunicación efectiva entre el frontend y el backend.
-
-<strong>Esto se confirmará</strong> cuando las APIs de usuarios permitan registrar y consultar datos correctamente. Se validará que las APIs de órdenes de trabajo faciliten la creación y listado de órdenes sin errores, mientras que las APIs de inventario soporten el registro de ítems y la consulta de su información. Finalmente, se confirmará cuando las APIs de activos permitan el registro y consulta de detalles de equipos, y las métricas de mantenimiento puedan generarse y consultarse adecuadamente, garantizando que los usuarios gestionen eficientemente sus operaciones desde la página web.
-    </td>
-    </tr>
-     <tr>
-        <td>Sprint 3 Velocity  </td>
-        <td>35 Story Points.</td>
-    </tr>
-     <tr>
-        <td>Sum of Story Points  </td>
-        <td>34 Story Points.</td>
-    </tr>
-</table>
-
-#### 5.2.3.2. Aspect Leaders and Collaborators.
-<table>
-  <tr>
-    <th>Team Member (Last Name, First Name)</th>
-    <th>GitHub Username</th>
-    <th>Sección API Gestión de Usuarios<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección API Órdenes de Trabajo<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección API Inventario<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección API Plan de Mantenimiento<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección API Gestión de Activos<br/>Leader (L) / Collaborator (C)</th>
-    <th>Sección API Métricas<br/>Leader (L) / Collaborator (C)</th>
-  </tr>
-  <tr>
-    <td>Agreda, Ariana</td>
-    <td>arii4w</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-  </tr>
-  <tr>
-    <td>Belledonne, Claudia</td>
-    <td>Cl4us-tb</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Elera, Mauricio</td>
-    <td>Maur1xio</td>
-    <td>L</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Cardenas, Ricardo</td>
-    <td>RicardoCardenas</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-    <tr>
-    <td>Oblitas, Mariano</td>
-    <td>MarianoOblitas</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-</table>
-
-#### 5.2.3.3. Sprint Backlog 3.
 <p>El objetivo de este tercer sprint es desarrollar las APIs esenciales del backend para la gestión de usuarios (registro y autenticación), administración de inventario (registro y consulta de ítems), control de activos (maquinarias y equipos), generación de órdenes de trabajo y reportes de métricas de mantenimiento. Esto proporcionará la base técnica para el funcionamiento integral del sistema y la futura integración con el frontend.</p>
 ![image](https://github.com/user-attachments/assets/743ce2a4-09ec-463d-aaf6-3f69dcac2ed9)
 <p>link: https://trello.com/invite/b/6856e1e8c088d7020dccd927/ATTI90b6034f0cedf76620020ee88e41c87eB625855C/mecanaout-opensource</p>
@@ -4764,410 +3790,8 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 </table>
 
-#### 5.2.3.4. Development Evidence for Sprint Review.
-En este sprint, se lograron avances fundamentales en la construcción de la lógica del backend para Mecanaut, priorizando la gestión de usuarios, activos, órdenes de trabajo, métricas y elementos de inventario. Se implementaron múltiples endpoints REST para el registro y recuperación de datos clave, permitiendo sentar las bases para una interacción fluida con el frontend y asegurar la persistencia de la información operativa. Las validaciones, modelos de datos y estructuras de control fueron diseñadas con énfasis en escalabilidad y mantenibilidad.<br/>
+<h2> Sprint 4 </h2>
 
-A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades:  <br/>
-
-| Repository                                                                                           | Branch  | Commit Id | Commit Message                                 | Commit Message Body                                                              | Committed on (Date) |
-| ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | 81f3a1c   | feat(user): implement POST user registration   | Added endpoint for user creation with validation and password hashing            | 10/06/2025         |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | 94b2e8d   | feat(user): add GET user by ID                 | Implemented GET endpoint to retrieve user information with role mapping          | 17/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | a72d3c7   | feat(order): implement POST maintenance plan         | Created model and controller logic to register new work orders in DB             | 17/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | b51f2a9   | feat(order): add GET a maintenance plan          | Endpoint to retrieve and filter work orders by date, status, and priority        | 18/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | c12ff9b   | feat(metrics): implement machinery metrics | Developed metric calculation logic from completed orders                         | 18/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | d72ca6e   | feat(inventory): add POST inventory item       | Enabled registration of inventory tools and materials with validation rules      | 18/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | e49d8f0   | feat(asset): implement POST asset registration | Created data structure and API for adding new equipment or machines              | 19/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | f28c9ad   | ci: update CI pipeline for backend deployment  | Modified GitHub Actions for backend automatic deployment on sprint release       | 19/06/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | main    | f28c9ad   | chore(release): merge Sprint 3 backend to main | Merged all Sprint 3 backend features including users, assets, orders and metrics | 19/06/2025          |
-
-
-#### 5.2.3.5. Execution Evidence for Sprint Review.
-En este sprint, hemos logrado implementar las funcionalidades fundamentales para la gestión inicial del sistema Mecanaut. Esto incluye la capacidad de registrar y gestionar maquinarias y líneas de producción, establecer planes de mantenimiento para las líneas de producción entre otros.<br/>
-
-A continuación, se presentan capturas de pantalla de las principales funcionalidades implementadas durante este sprint:<br/>
-
-#### Evidencia 1: Registro de Plantas
-![image](https://github.com/user-attachments/assets/ca3bd3b7-4b30-4f0a-9a18-138fb59b5b47)
-![image](https://github.com/user-attachments/assets/9d3c31b4-3513-4349-860f-3a7ac9bab299)
-![image](https://github.com/user-attachments/assets/1c0154f3-8392-44d8-bee8-52b4ec8da180)
-
-
-#### Evidencia 2: Listado de maquinarias registradas
-![image](https://github.com/user-attachments/assets/343996b8-f1d4-4f6f-a74e-0f156dd5a030)
-![image](https://github.com/user-attachments/assets/9ebecd2f-aea6-4329-91e9-634e0d78b40b)
-
-
-#### Evidencia 3: Registro de línea de producción
-![image](https://github.com/user-attachments/assets/ef9a15b0-90c1-4a22-bdf3-f6a696c51913)
-![image](https://github.com/user-attachments/assets/64af89ab-c320-4aa0-9e0f-29eb817f6fa5)
-![image](https://github.com/user-attachments/assets/31926553-c322-4da2-ac1d-dbb4970e5679)
-
-#### Evidencia 4: Obtener métricas de maquinaria
-![image](https://github.com/user-attachments/assets/d8829fad-f539-4e0a-876c-3b7fcd21c1f2)
-![image](https://github.com/user-attachments/assets/75f24a42-e25d-4224-9341-7e9bee568820)
-
-
-
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
-Durante este Sprint, se avanzó significativamente en la documentación de los servicios web desarrollados para el backend del sistema Mecanaut, utilizando OpenAPI (Swagger). Esta documentación permite la visualización, prueba e integración futura con el frontend y facilita la validación de la estructura de los endpoints REST implementados.
-
-Los endpoints documentados corresponden a las funcionalidades clave desarrolladas durante el Sprint, incluyendo el registro y consulta de maquinarias, líneas de producción, órdenes de trabajo, métricas de mantenimiento y gestión de usuarios. A través de Swagger UI, los desarrolladores pueden interactuar con cada uno de estos servicios, visualizar sus parámetros, realizar llamadas HTTP con datos de ejemplo y observar las respuestas correspondientes.
-
-| Módulo               | Acción                        | Método | Endpoint                  | Parámetros (ejemplo)                                                         | Respuesta (ejemplo)                                                         |
-| -------------------- | ----------------------------- | ------ | ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Maquinarias          | Registrar maquinaria          | POST   | `/api/maquinarias`        | `{"nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}`             | `{"id": 1, "nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}`   |
-|                      | Listar maquinarias            | GET    | `/api/maquinarias`        | -                                                                            | `[{"id": 1, "nombre": "Compresora", "modelo": "XK-120", "serie": "A1234"}]` |
-| Líneas de Producción | Registrar línea de producción | POST   | `/api/lineas-produccion`  | `{"nombre": "Línea 1", "prioridad": 2}`                                      | `{"id": 1, "nombre": "Línea 1", "prioridad": 2}`                            |
-|                      | Consultar líneas              | GET    | `/api/lineas-produccion`  | -                                                                            | `[{"id": 1, "nombre": "Línea 1", "prioridad": 2}]`                          |
-| Planes de Mantenimiento   | Crear plan de mantenimiento        | POST   | `/api/maintenance-plan` | `{"name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1}` | `{"id": 1, "name": "Plan Prueba", "startDate": "2025-06-20", "endDate": "2025-06-20", "status": "ACTIVE", "productionLineId": 1, "cyclePeriodInDays": 10, "durationInDays": 1, "items": []}`                    |
-|                      | Consultar plan             | GET    | `/api/maintenance-plan`            | -                                                                            | `[{"id": 1, "estado": "ACTIVE"}]`                  |
-| Métricas (MTTR/MTBF) | Obtener métricas              | GET    | `/api/metricas/mttr-mtbf` | -                                                                            | `{"mttr": 5.2, "mtbf": 48.3}`                                               |
-| Autenticación        | Login de usuario              | POST   | `/api/auth/login`         | `{"email": "admin@Mecanaut.com", "password": "123456"}`                       | `{"token": "eyJhbGciOi..."}`                                                |
-
-#### Capturas de la documentación OpenAPI/Swagger
-
-- Endpoint GET /api/v1/roles – Obtener todos los roles
-![image](https://github.com/user-attachments/assets/ff24f69b-b608-4f34-a29e-2722a8153a22)
-
-
-- Endpoint POST /api/v1/authentication/sign-up – Registro de usuario
-![image](https://github.com/user-attachments/assets/cad232f5-65d1-4494-a910-8a598f442b1d)
-
-
-- Endpoint GET /api/v1/metric-definitions – Obtener todas las definiciones de métricas
-![image](https://github.com/user-attachments/assets/c95defec-7c69-4399-ba45-947a4ad21078)
-
-  
-- Endpoint POST /api/maquinarias – Registro de maquinaria
-![image](https://github.com/user-attachments/assets/ab20b452-58f4-48f2-bbb4-84913f9ddef1)
-
-
-- Endpoint POST /api/v1/maintenance-plans/dynamic – Crear plan de mantenimiento estático
-![image](https://github.com/user-attachments/assets/0af52037-c86c-4c10-98a3-68f12dd198f6)
-
-
-- Endpoint GET /api/v1/maintenance-plans/static/{planId} – Obtener plan de mantenimiento dinámico
-![image](https://github.com/user-attachments/assets/2fe60178-9029-40e4-aabc-35bba9e483f5)
-
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-Durante este Sprint, se avanzó en el proceso de Deployment del backend de la aplicación Mecanaut, enfocándose en el despliegue inicial de los Web Services en un entorno de desarrollo accesible, con el objetivo de facilitar la validación funcional por parte del equipo y sentar las bases para futuras integraciones con el frontend.
-
-#### Actividades realizadas en el Sprint 3:
-
-# Despliegue de **Mecanaut-Backend** – Guía de Producción (.NET 9 + MySQL en Azure) (Windows 10/11)
-
-> Esta sección describe el proceso seguido para poner en línea la API desarrollada en **.NET 7** sobre una **Azure Web App** y una **Azure Database for MySQL – Flexible Server**.  
-> La aplicación quedó operativa en:  
-> https://mecanautbk-fffeemd3bqdwebce.centralus-01.azurewebsites.net/swagger/index.html
-
-1. **Requisitos previos**  
-   • Suscripción activa en Microsoft Azure.  
-   • **Visual Studio 2022** (Community o superior) con el workload «Desarrollo de ASP.NET y web».  
-   • **.NET 7 SDK** instalado localmente.  
-   • Acceso al repositorio Git del proyecto.
-
-2. **Creación de la base de datos (Azure Database for MySQL)**  
-   1. Portal de Azure → *Create a resource* → *Azure Database for MySQL – Flexible Server*.  
-   2. Configura:  
-      – *Resource Group*: `MecanautRG`  
-      – *Server name*: `mecanaut-mysql` (único)  
-      – *Region*: Central US  
-      – *Version*: 8.0  
-      – *Authentication*: Password → usuario `admin` y contraseña segura  
-   3. Pestaña *Networking*: elige **Public access**, marca  
-      «Allow public access from Azure services» y «Add current client IP».  
-   4. Revisa y crea. Una vez desplegado, copia la cadena de conexión ADO.NET, por ejemplo:  
-      ```
-      Server=mecanaut-mysql.mysql.database.azure.com;Port=3306;Database=MecanautDb;
-      User Id=admin@mecanaut-mysql;Password=<PASSWORD>;Ssl Mode=Required;
-      ```
-
-3. **Preparar el proyecto .NET**  
-   • En `appsettings.json` agrega:  
-     ```json
-     "ConnectionStrings": {
-       "DefaultConnection": "Server=mecanaut-mysql.mysql.database.azure.com;Port=3306;Database=MecanautDb;User Id=admin@mecanaut-mysql;Password=<PASSWORD>;Ssl Mode=Required;"
-     }
-     ```  
-   • Para producción, sobreescribe la cadena mediante la variable de entorno  
-     `ConnectionStrings__DefaultConnection`.
-
-4. **Crear la Azure Web App**  
-   1. Portal → *Create a resource* → *App Service*.  
-   2. Parámetros clave:  
-      – *Publish*: **Code**  
-      – *Runtime stack*: **.NET 7 (LTS)**  
-      – *OS*: **Windows**  
-      – *Region*: Central US  
-      – *Plan*: `MecanautPlan` (B1/S1 según presupuesto)  
-   3. Crea y, desde la pestaña *Overview*, descarga el **Publish Profile** (`*.PublishSettings`).
-
-5. **Publicar desde Visual Studio**  
-   1. Abre la solución → clic derecho sobre el proyecto → *Publish*.  
-   2. Selecciona **Import Profile** y carga el archivo `.PublishSettings`.  
-   3. En *Settings* agrega la cadena de conexión:  
-      – *Name*: `DefaultConnection`  
-      – *Type*: **MySQL**  
-   4. Pulsa **Publish**; Visual Studio compilará y usará *Web Deploy* para subir la aplicación.
-
-6. **Variables de entorno adicionales**  
-   • `ASPNETCORE_ENVIRONMENT = Production`  
-   • Cualquier secreto (JWT, etc.) se define en *Configuration → Application settings*.
-
-7. **Verificación**  
-   Abre la URL del servicio o entra directamente en el Swagger:  
-   https://mecanautbk-fffeemd3bqdwebce.centralus-01.azurewebsites.net/swagger/index.html  
-   Comprueba que los endpoints operen y que la API interactúe con la base de datos MySQL.
-
-#### Capturas del Proceso de Deployment
-
-
-![Evidencia 1:](/img/sprint3/prod2/prod1.png)
-![Evidencia 2:](/img/sprint3/prod2/prod2.png)
-![Evidencia 3:](/img/sprint3/prod2/prod3.png)
-![Evidencia 4:](/img/sprint3/prod2/prod4.png)
-![Evidencia 5:](/img/sprint3/prod2/prod5.png)
-![Evidencia 6:](/img/sprint3/prod2/prod6.png)
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
-Durante el desarrollo de este Sprint, el equipo colaboró de forma activa y coordinada en la implementación de las funcionalidades principales del backend del sistema Mecanaut. La colaboración se centró en la creación de entidades de dominio, el desarrollo de controladores REST, la configuración del entorno de desarrollo con .NET y MySQL, y la documentación de servicios con Swagger (OpenAPI).<br/>
-
-A continuación, se detalla la participación específica de cada integrante del equipo en las principales áreas funcionales del backend:
-
-| **Nombre**                       | **Actividad**                                                                                                                                                              |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Agreda Sobrino, Ariana Cecilia   | Responsable del modelado de entidades principales y configuración de la base de datos MySQL. Participó en la definición de relaciones entre entidades y persistencia.      |
-| Belledone Espinoza, Claudia      | Encargada de la lógica de negocio y servicios de autenticación. Desarrolló la estructura de seguridad, generación de tokens JWT y configuración de rutas protegidas.       |
-| Elera Rodríguez, Mauricio Daniel | Implementó los controladores REST y validaciones. Participó activamente en la construcción de endpoints para entidades como usuarios, técnicos y órdenes.                  |
-| Oblitas Davila, Mariano Moises | Responsable de la documentación con Swagger. Estructuró el despliegue local del backend con Docker.      |
-| Cardenas Minaya, Ricardo Fernando | Participó en la recopilación de requerimientos técnicos para el backend y colaboró en la validación de los endpoints mediante pruebas funcionales con Postman.      |
-
-
-
-#### Evidencia de colaboración en GitHub
-A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial del backend, donde se evidencia la participación activa de todos los miembros del equipo en el Sprint 3. <br/>
-
-Captura de colaboracion en github:
-
-
-![Evidencia Git1:](/img/sprint3/network3.png)
-![Evidencia Git2:](/img/sprint3/contribuitors3.png)
-![Evidencia Git3:](/img/sprint3/git.png)
-![Evidencia Git4:](/img/sprint3/commit.png)
-
-<br>
-
-### 5.2.4. Sprint 4
-#### 5.2.4.1. Sprint Planning 4
-<table>
-    <tr>
-        <td>Sprint #</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Planning Background</strong></th>
-    </tr>
-    <tr>
-        <td>Date</td>
-        <td>04/07/2025</td>
-    </tr>
-    <tr>
-        <td>Time</td>
-        <td>10:00 AM</td>
-    </tr>
-    <tr>
-        <td>Location</td>
-        <td>Reunión virtual – Discord</td>
-    </tr>
-    <tr>
-        <td>Prepared By</td>
-        <td>Claudia Belledonne</td>
-    </tr>
-    <tr>
-        <td>Attendees (to planning meeting)</td>
-        <td>
-- Ariana Cecilia Agreda Sobrino<br/>
-- Claudia Valeria Belledonne Espinoza<br/>
-- Mauricio Daniel Elera Rodríguez<br/>
-- Cardenas Minaya, Ricardo Fernando<br/>
-- Oblitas Davila, Mariano Moises
-        </td>
-    </tr>
-    <tr>
-        <td>Sprint 4 – 3 Review Summary</td>
-        <td>Durante el Sprint 3 se desarrollaron las APIs principales que conforman la base del backend del sistema MecaNaut, incluyendo endpoints para usuarios, roles, activos, órdenes de trabajo, métricas de mantenimiento y manejo de inventario. Estas APIs fueron implementadas con validaciones básicas, conexión a la base de datos y pruebas locales. Este avance permitió tener un backend listo para ser consumido por el frontend en el siguiente sprint.</td>
-    </tr>
-    <tr>
-        <td>Sprint 4 – 3 Retrospective Summary</td>
-        <td>En la retrospectiva del Sprint 3 se valoró positivamente la correcta estructuración de los endpoints y el trabajo en equipo para mantener la coherencia del sistema. Se destacó la aplicación de buenas prácticas REST y el uso de controladores organizados. Sin embargo, se identificó como mejora la necesidad de probar la integración del frontend con las APIs desde etapas tempranas, así como documentar más detalladamente cada funcionalidad implementada.</td>
-    </tr>
-    <tr>
-        <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
-    </tr>
-    <tr>
-        <td>Sprint 4 Goal</td>
-        <td>
-<strong>Nuestra meta para este sprint es</strong> integrar y conectar exitosamente el frontend con el backend, asegurando que los datos fluyan correctamente entre ambos mediante los endpoints REST creados en el sprint anterior.
-
-<strong>Creemos que</strong> esto permitirá validar el sistema de forma funcional, permitiendo que los usuarios interactúen con información real (no simulada) desde la interfaz, y facilitando la detección de errores lógicos o de comunicación entre capas.
-
-<strong>Esto se confirmará</strong> cuando se prueben todos los flujos principales del sistema desde el navegador, incluyendo registro, inicio de sesión, visualización de inventario, planes de mantenimiento y órdenes de trabajo; y se compruebe que estos interactúan sin errores con el backend.
-        </td>
-    </tr>
-    <tr>
-        <td>Sprint 4 Velocity</td>
-        <td>47 Story Points.</td>
-    </tr>
-    <tr>
-        <td>Sum of Story Points</td>
-        <td>47 Story Points.</td>
-    </tr>
-</table>
-
-
-
-<br>
-
-#### 5.2.4.2. Aspect Leaders and Collaborators.
-
-
-<table>
-  <tr>
-    <th>Team Member (Last Name, First Name)</th>
-    <th>GitHub Username</th>
-    <th>US09</th>
-    <th>US11</th>
-    <th>US12</th>
-    <th>US18</th>
-    <th>US19</th>
-    <th>US20</th>
-    <th>US21</th>
-    <th>US22</th>
-    <th>US23</th>
-    <th>US24</th>
-    <th>US25</th>
-    <th>US26</th>
-    <th>US27</th>
-    <th>US28</th>
-    <th>US29</th>
-    <th>US30</th>
-    <th>US31</th>
-  </tr>
-  <tr>
-    <td>Agreda, Ariana</td>
-    <td>arii4w</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Belledonne, Claudia</td>
-    <td>Cl4us-tb</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>L</td>
-    <td>L</td>
-  </tr>
-  <tr>
-    <td>Elera, Mauricio</td>
-    <td>Maur1xio</td>
-    <td>C</td>
-    <td>L</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Cardenas, Ricardo</td>
-    <td>RicardoCardenas</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Oblitas, Mariano</td>
-    <td>MarianoOblitas</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-    
-</table>
-
-
-<br>
-
-
-#### 5.2.4.3. Sprint Backlog 4.
 <p>El objetivo de este cuarto sprint es conectar las funcionalidades desarrolladas previamente en el backend con la interfaz del usuario, permitiendo la integración completa del sistema. Se trabajó en implementar, consumir y validar los endpoints desde el frontend para funcionalidades clave como el registro de cuentas, técnicos y planes de mantenimiento, así como la gestión de inventario, perfiles de usuario, tareas realizadas y visualización en distintos dispositivos. Esto permitió asegurar la comunicación entre capas y garantizar una experiencia funcional y coherente para usuarios técnicos y administradores dentro del sistema Mecanaut.</p>
 
 ![image](https://github.com/user-attachments/assets/46f7a1a0-ab2a-4907-9566-905d4eaf7afb)
@@ -5398,821 +4022,390 @@ Captura de colaboracion en github:
     <td>Done</td>
   </tr>
 </table>
+<br>
+<br>
 
+### 5.2.2. Implemented Landing Page Evidence
+
+
+Inicio:
+
+![image](/img/landing-sprint/inicio1.png)
+
+Producto:
+
+![image](/img/landing-sprint/product1.png)
+
+Beneficios:
+
+![image](/img/landing-sprint/benefits1.png)
+
+Planes:
+
+![image](/img/landing-sprint/plans1.png)
+
+Faq:
+
+![image](/img/landing-sprint/faq1.png)
+
+Footer:
+
+![image](/img/landing-sprint/footer1.png)
+
+
+### 5.2.3. Implemented Frontend-Web Application Evidence
+
+
+
+**Machinery Manager View**
+![Login View](img/sprint2/machinery.png)
+
+**Machinery Form View**
+![Login View](img/sprint2/machinery-form.png)
+
+#### Machinery Form View  
+![Login View](img/sprint2/machinery-form.png)
+
+**Maintenance Plans**
+![alt text](img/sprint2/image1.png)
+
+**Maintenance Plans Select**
+![alt text](img/sprint2/image2.png)
+
+**Maintenance Plans Dynamic**
+![alt text](img/sprint2/image3.png)
+
+**Maintenance Plans Static**
+![alt text](img/sprint2/image4.png)
+
+**Maintenance Plans Calendar**
+![alt text](img/sprint2/image10.png)
+
+**Maintenance Plans Static**
+![alt text](img/sprint2/image5.png)
+
+**Spare Parts Inventory**
+![alt text](img/sprint2/image6.png)
+
+**Spare Parts Inventory Form**
+![alt text](img/sprint2/image7.png)
+
+**Purchase Order**
+![alt text](img/sprint2/image8.png)
+
+**Purchase Order Form**
+![alt text](img/sprint2/image9.png)
+
+**Create Account**
+![alt text](img/sprint2/img11.png)
+
+**Login**
+![alt text](img/sprint2/img12.png)
+
+
+### 5.2.4. Acuerdo de Servicio - SaaS
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
+
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
+
+
+**Evidencia 1: Registro de Plantas**
+![image](https://github.com/user-attachments/assets/ca3bd3b7-4b30-4f0a-9a18-138fb59b5b47)
+![image](https://github.com/user-attachments/assets/9d3c31b4-3513-4349-860f-3a7ac9bab299)
+![image](https://github.com/user-attachments/assets/1c0154f3-8392-44d8-bee8-52b4ec8da180)
+
+
+**Evidencia 2: Listado de maquinarias registradas**
+![image](https://github.com/user-attachments/assets/343996b8-f1d4-4f6f-a74e-0f156dd5a030)
+![image](https://github.com/user-attachments/assets/9ebecd2f-aea6-4329-91e9-634e0d78b40b)
+
+
+**Evidencia 3: Registro de línea de producción**
+![image](https://github.com/user-attachments/assets/ef9a15b0-90c1-4a22-bdf3-f6a696c51913)
+![image](https://github.com/user-attachments/assets/64af89ab-c320-4aa0-9e0f-29eb817f6fa5)
+![image](https://github.com/user-attachments/assets/31926553-c322-4da2-ac1d-dbb4970e5679)
+
+**Evidencia 4: Obtener métricas de maquinaria**
+![image](https://github.com/user-attachments/assets/d8829fad-f539-4e0a-876c-3b7fcd21c1f2)
+![image](https://github.com/user-attachments/assets/75f24a42-e25d-4224-9341-7e9bee568820)
+
+### 5.2.7. RESTful API documentation
+
+**Bounded Context: Authentication**
+
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/authentication/sign-in` | `POST` | **Sign in**<br><br>_Sign in a user_ | - | **Esquema:** `SignInResource`<br><br>**Propiedades:**<br>- `username`: string<br>- `password`: string | **200**: The user was authenticated <br>Esq: `AuthenticatedUserResource` |
+| `/api/v1/authentication/sign-up` | `POST` | **Sign-up**<br><br>_Sign up a new user_ | - | **Esquema:** `SignUpResource`<br><br>**Propiedades:**<br>- `ruc`: string<br>- `legalName`: string<br>- `commercialName`: string<br>- `address`: string<br>- `city`: string<br>- `country`: string<br>- `tenantPhone`: string<br>- `tenantEmail`: string<br>- `website`: string<br>- `subscriptionPlanId`: integer<br>- `username`: string<br>- `password`: string<br>- `email`: string<br>- `firstName`: string<br>- `lastName`: string | **201**: The user was created successfully  |
 
 <br>
 
+**Bounded Context: DynamicMaintenancePlans**
 
-#### 5.2.4.4. Development Evidence for Sprint Review.
-En este sprint, se consolidaron las conexiones clave del sistema Mecanaut, enfocándose en la autenticación de usuarios y la gestión estructurada de plantas y líneas de producción. Se configuraron rutas protegidas, controladores REST y modelos de datos relacionados, garantizando un flujo seguro y coherente de la información. Además, se realizaron pruebas funcionales para validar el comportamiento esperado del backend, asegurando su integración efectiva con el frontend. Estas implementaciones permiten al sistema manejar jerarquías industriales reales y preparan el camino para los módulos de asignación de maquinaria y seguimiento de mantenimiento.<br/>
-
-A continuación, se presenta una tabla con los commits relacionados con la implementación de estas funcionalidades:  <br/>
-
-| Repository                                                                                           | Branch  | Commit Id | Commit Message                                 | Commit Message Body                                                              | Committed on (Date) |
-| ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | branchcode   | feat(user): implement POST user registration   | Added endpoint for user creation with validation and password hashing            | 05/07/2025         |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | develop | branchcode   | feat(user): add GET user by ID                 | Implemented GET endpoint to retrieve user information with role mapping          | 05/07/2025          |
-| [https://github.com/awawaTech/mecanaut-fronted](https://github.com/awawaTech/mecanaut-fronted) | main    | 79dfc1a…e8c9b57   | chore(release): merge Sprint 4 frontend to main | Merged all Sprint 4 frontend including users, plants, machines, metric-definitions,inventory-parts, assets, orders and production-lines | 06/07/2025          |
-| [https://github.com/awawaTech/mecanaut-back](https://github.com/awawaTech/mecanaut-back) | main    | f28c9ad   | chore(release): merge Sprint 4 backend to main | Merged all Sprint 4 backend features including users, plants, machines, metric-definitions,inventory-parts, assets, orders and production-lines | 06/07/2025          |
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/dynamic-maintenance-plans` | `GET` | **/api/v1/dynamic-maintenance-plans** | `plantLineId`<br>(query, Opt)<br>_Type:_ string | - | **200**: OK <br>Esq: `Array of DynamicMaintenancePlanWithDetailsResource` |
+| `/api/v1/dynamic-maintenance-plans` | `POST` | **/api/v1/dynamic-maintenance-plans** | - | **Esquema:** `SaveDynamicMaintenancePlanResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `metricId`: string<br>- `amount`: string<br>- `productionLineId`: string<br>- `plantLineId`: string<br>- `machines`: array<br>- `tasks`: array | **200**: OK <br>Esq: `DynamicMaintenancePlanResource` |
+| `/api/v1/dynamic-maintenance-plans/{id}` | `GET` | **/api/v1/dynamic-maintenance-plans/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `DynamicMaintenancePlanResource` |
+| `/api/v1/dynamic-maintenance-plans/test-plan-id` | `GET` | **/api/v1/dynamic-maintenance-plans/test-plan-id** | `machineId`<br>(query, Opt)<br>_Type:_ integer (int64)<br><br>`metricId`<br>(query, Opt)<br>_Type:_ integer (int64)<br><br>`amount`<br>(query, Opt)<br>_Type:_ number (double) | - | **200**: OK <br>Esq: `integer` |
 
 <br>
 
-#### 5.2.4.5. Execution Evidence for Sprint Review.
-En este sprint final, se consolidó la conexión integral entre frontend y backend del sistema Mecanaut. Esto permitió validar funcionalidades clave, entre ellas el proceso de autenticación de usuarios, la visualización y gestión de plantas, así como la asignación de líneas de producción a dichas plantas. Estas integraciones garantizan que el sistema funcione de manera fluida y que los roles asignados puedan operar correctamente en sus respectivos contextos.
+**Bounded Context: ExecutedWorkOrders**
 
-A continuación, se presentan algunas de las evidencias visuales que demuestran el funcionamiento correcto de estas funcionalidades:<br/>
-
-#### Evidencia 1: Authentication
-![Evidencia au1:](/img/sprint-4/au1.png)  
-![Evidencia au2:](/img/sprint-4/au2.png)  
-![Evidencia au3:](/img/sprint-4/au3.png)  
-![Evidencia au4:](/img/sprint-4/au4.png)  
-
-
-#### Evidencia 2: Plants
-![Evidencia pl1:](/img/sprint-4/pl1.png)  
-![Evidencia pl2:](/img/sprint-4/pl2.png)  
-![Evidencia pl3:](/img/sprint-4/pl3.png)  
-![Evidencia pl4:](/img/sprint-4/pl4.png)  
-
-
-#### Evidencia 3: Production Lines
-![lp1](https://github.com/user-attachments/assets/0380f40c-ae54-4fdb-b99b-1ce4eb038962)
-![lp2](https://github.com/user-attachments/assets/44212ee0-c1e7-4023-a0ba-d08dac898e90)
-![lp3](https://github.com/user-attachments/assets/9b4d7dd9-e65b-4768-bd89-3c00e9242ea3)
-![lp4](https://github.com/user-attachments/assets/dc8cff1d-5afb-4358-9c8a-30952693eb42)
-
-
-#### Evidencia 4: Inventory Parts
-![image](https://github.com/user-attachments/assets/da4fa1e2-a032-45b0-b2d7-dfb451a0f580)
-![image](https://github.com/user-attachments/assets/88e8d49c-3df9-4187-8e79-d66b629935a5)
-
-#### Evidencia 4: Purchase Orders
-![image](https://github.com/user-attachments/assets/82b1a328-7b26-4c46-a8b9-be5afd128c0f)
-![image](https://github.com/user-attachments/assets/b326ce50-35d9-4cc7-a239-227ec5265794)
-
-#### Evidencia 5: Work Order
-![image](https://github.com/user-attachments/assets/e5c03f12-0633-4faa-91f7-578b8cba1d81)
-![image](https://github.com/user-attachments/assets/1a1df60d-26b0-4317-9f03-9ac0717df11d)
-
-#### Evidencia 6: Maintenance Plan
-![image](https://github.com/user-attachments/assets/b206f883-01a6-4fb1-94a3-be4a645b40b9)
-![image](https://github.com/user-attachments/assets/9e296ed0-8051-494c-ba6a-df41c17a2f1c)
-
-#### Evidencia 6: Metrics
-![image](https://github.com/user-attachments/assets/78216cf1-3fad-49d3-99f3-1587056adc08)
-![image](https://github.com/user-attachments/assets/30663b55-505a-4bb7-b7f9-de4e01b07b43)
-
-#### Evidencia 6: Personal Management
-![image](https://github.com/user-attachments/assets/370d2ad9-141d-4d28-be9c-0463b0c86b51)
-![image](https://github.com/user-attachments/assets/c071c375-aac7-4c8e-b5f5-0926c150044d)
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/executed-work-orders` | `POST` | **/api/v1/executed-work-orders** | - | **Esquema:** `SaveExecutedWorkOrderResource`<br><br>**Propiedades:**<br>- `code`: string<br>- `annotations`: string<br>- `executionDate`: string<br>- `productionLineId`: integer<br>- `intervenedMachineIds`: array<br>- `assignedTechnicianIds`: array<br>- `executedTasks`: array<br>- `usedProducts`: array<br>- `files`: array<br>- `workOrderId`: integer | **200**: OK  |
+| `/api/v1/executed-work-orders/{id}` | `GET` | **/api/v1/executed-work-orders/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
+| `/api/v1/executed-work-orders/production-line/{lineId}` | `GET` | **/api/v1/executed-work-orders/production-line/{lineId}** | `lineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
 
 <br>
 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
-##### Inventory Parts
+**Bounded Context: ImageStorage**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/inventory-parts` | POST | `/api/inventory-parts` |
-
----
-
-**Parámetros (Request Body):**  
-```
-{
-  "code": "FLT-120",
-  "name": "Filtro de Aceite HF-120",
-  "description": "Filtro hidráulico para sistema de alta presión, rosca M20×1.5",
-  "currentStock": 45,
-  "minStock": 10,
-  "unitPrice": 27.50,
-  "plantId": 3
-}
-```
-
-**Ejemplo Response (201 Created):**  
-```
-{
-  "id": 1,
-  "code": "FLT-120",
-  "name": "Filtro de Aceite HF-120",
-  "description": "Filtro hidráulico para sistema de alta presión, rosca M20×1.5",
-  "currentStock": 45,
-  "minStock": 10,
-  "unitPrice": 27.5,
-  "stockStatus": null
-}
-```
-
-**Descripción:**  
-Permite registrar una nueva parte de inventario vinculada a una planta específica.
-![image](https://github.com/user-attachments/assets/569b604b-b3c4-469f-812b-d5f3f770144b)
-![image](https://github.com/user-attachments/assets/6ef74e04-d8df-4053-bf4e-c2217b7fb209)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/image-storage/upload` | `POST` | **/api/image-storage/upload** | - | **Tipo:** `object` | **200**: OK  |
 
 <br>
 
-##### Inventory Parts (GET)
+**Bounded Context: InventoryParts**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/inventory-parts` | GET | `/api/inventory-parts?plantId=1` |
-
----
-
-**Parámetros (Query):**  
-```
-plantId: 1
-```
-
-**Ejemplo Response (200 OK):**  
-```
-[
-  {
-    "id": 2,
-    "code": "BRG-102",
-    "name": "Rodamiento de bolas 6304",
-    "description": "Rodamiento de bolas de acero para eje de 20 mm",
-    "currentStock": 25,
-    "minStock": 5,
-    "unitPrice": 15,
-    "stockStatus": null
-  },
-  {
-    "id": 3,
-    "code": "SEAL-210",
-    "name": "Sello mecánico tipo 210",
-    "description": "Sello mecánico de dos anillos para bombas centrífugas",
-    "currentStock": 12,
-    "minStock": 3,
-    "unitPrice": 42.75,
-    "stockStatus": null
-  }
-]
-```
-
-**Descripción:**  
-Permite consultar todas las partes de inventario filtradas por `plantId`.
-![image](https://github.com/user-attachments/assets/d7a91bfa-c256-4f09-a285-48870c153b4e)
-![image](https://github.com/user-attachments/assets/ced391da-144d-4a71-8122-4e91329bc39c)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/inventory-parts` | `GET` | **/api/inventory-parts** | `plantId`<br>(query, Opt)<br>_Type:_ integer (int32) | - | **200**: OK <br>Esq: `Array of InventoryPartResource` |
+| `/api/inventory-parts` | `POST` | **/api/inventory-parts** | - | **Esquema:** `CreateInventoryPartResource`<br><br>**Propiedades:**<br>- `code`: string<br>- `name`: string<br>- `description`: string<br>- `currentStock`: integer<br>- `minStock`: integer<br>- `unitPrice`: number<br>- `plantId`: integer | **201**: Created <br>Esq: `InventoryPartResource`<br><br>**400**: Bad Request <br>Esq: `ProblemDetails` |
+| `/api/inventory-parts/{id}` | `GET` | **/api/inventory-parts/{id}** | `id`<br>(path, Req)<br>_Type:_ string | - | **200**: OK <br>Esq: `InventoryPartResource`<br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
+| `/api/inventory-parts/{id}` | `PUT` | **/api/inventory-parts/{id}** | `id`<br>(path, Req)<br>_Type:_ string | **Esquema:** `UpdateInventoryPartResource`<br><br>**Propiedades:**<br>- `description`: string<br>- `currentStock`: integer<br>- `minStock`: integer<br>- `unitPrice`: number | **200**: OK <br>Esq: `InventoryPartResource`<br><br>**400**: Bad Request <br>Esq: `ProblemDetails`<br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
+| `/api/inventory-parts/{id}` | `DELETE` | **/api/inventory-parts/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **204**: No Content <br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
+| `/api/inventory-parts/{id}/decrease` | `PUT` | **/api/inventory-parts/{id}/decrease** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Tipo:** `integer` | **200**: OK  |
 
 <br>
 
-##### Purchase Orders (POST)
+**Bounded Context: MachineMetrics**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/purchase-orders` | POST | `/api/purchase-orders` |
-
----
-
-**Parámetros (Request Body):**  
-```
-{
-  "orderNumber": "ORD-001",
-  "inventoryPartId": 1,
-  "quantity": 15,
-  "totalPrice": 100,
-  "plantId": 1,
-  "deliveryDate": "2025-07-08T03:58:18.753Z"
-}
-```
-
-**Ejemplo Response (201 Created):**  
-```
-{
-  "id": 1,
-  "orderNumber": "ORD-001",
-  "inventoryPartId": 1,
-  "quantity": 15,
-  "totalPrice": 100,
-  "orderDate": "2025-07-07T03:58:39.1737074Z",
-  "deliveryDate": "2025-07-08T03:58:18.753Z",
-  "status": "Created",
-  "plantId": 1
-}
-```
-
-**Descripción:**  
-Permite registrar una nueva orden de compra, vinculada a una parte de inventario y a una planta, incluyendo cantidad, precio total y fecha de entrega.
-![image](https://github.com/user-attachments/assets/75336ee8-7a7c-4526-8c6d-29f20166e023)
-
-![image](https://github.com/user-attachments/assets/d137d639-ac96-439b-845c-c001a3a0c545)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/machines/{machineId}/metrics` | `POST` | **/api/v1/machines/{machineId}/metrics** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `RecordMetricResource`<br><br>**Propiedades:**<br>- `metricId`: integer<br>- `value`: number<br>- `measuredAt`: string | **200**: OK  |
+| `/api/v1/machines/{machineId}/metrics` | `GET` | **/api/v1/machines/{machineId}/metrics** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of CurrentMetricResource` |
+| `/api/v1/machines/{machineId}/metrics/{metricId}` | `GET` | **/api/v1/machines/{machineId}/metrics/{metricId}** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64)<br><br>`metricId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `CurrentMetricResource` |
+| `/api/v1/machines/{machineId}/metrics/{metricId}/readings` | `GET` | **/api/v1/machines/{machineId}/metrics/{metricId}/readings** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64)<br><br>`metricId`<br>(path, Req)<br>_Type:_ integer (int64)<br><br>`from`<br>(query, Opt)<br>_Type:_ string (date-time)<br><br>`to`<br>(query, Opt)<br>_Type:_ string (date-time)<br><br>`page`<br>(query, Opt)<br>_Type:_ integer (int32)<br><br>`size`<br>(query, Opt)<br>_Type:_ integer (int32) | - | **200**: OK <br>Esq: `Array of MetricReadingResource` |
 
 <br>
 
-##### Work Orders (POST)
+**Bounded Context: Machines**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/v1/work-orders` | POST | `/api/v1/work-orders` |
-
----
-
-**Parámetros (Request Body):**  
-```
-{
-  "code": "PH-67890",
-  "date": "2025-07-07T02:11:22.986Z",
-  "productionLineId": 1,
-  "type": "Corrective",
-  "machineIds": [
-    201,
-    204
-  ],
-  "tasks": [
-    "Cambio de aceite del compresor",
-    "Inspección y limpieza de ventiladores",
-    "Verificación de presión hidráulica"
-  ],
-  "technicianIds": [
-    3,
-    6
-  ]
-}
-
-```
-
-**Ejemplo Response (201 Created):**  
-```
-{
-  "id": 1,
-  "code": "PH-67890",
-  "status": "Pending",
-  "type": "Corrective",
-  "date": "2025-07-07T02:11:22.986Z",
-  "productionLineId": 1,
-  "machineIds": [
-    201,
-    204
-  ],
-  "technicianIds": [
-    3,
-    6
-  ],
-  "tasks": [
-    "Cambio de aceite del compresor",
-    "Inspección y limpieza de ventiladores",
-    "Verificación de presión hidráulica"
-  ]
-}
-```
-
-**Descripción:**  
-Permite crear una nueva orden de trabajo asociando línea de producción, máquinas, técnicos y tareas programadas.
-![image](https://github.com/user-attachments/assets/6ad9abb1-4f70-42ee-b893-d684167e0ae5)
-![image](https://github.com/user-attachments/assets/218ed4db-adbb-41d9-92a0-295e7eb19e5e)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/machines` | `GET` | **/api/v1/machines** | - | - | **200**: OK <br>Esq: `Array of MachineResource` |
+| `/api/v1/machines` | `POST` | **/api/v1/machines** | - | **Esquema:** `RegisterMachineResource`<br><br>**Propiedades:**<br>- `serialNumber`: string<br>- `name`: string<br>- `manufacturer`: string<br>- `plantId`: integer<br>- `model`: string<br>- `type`: string<br>- `powerConsumption`: number<br>- `metrics`: array | **200**: OK <br>Esq: `MachineResource` |
+| `/api/v1/machines/available` | `GET` | **/api/v1/machines/available** | - | - | **200**: OK <br>Esq: `Array of MachineResource` |
+| `/api/v1/machines/maintenance-due` | `GET` | **/api/v1/machines/maintenance-due** | - | - | **200**: OK <br>Esq: `Array of MachineResource` |
+| `/api/v1/machines/{id}` | `GET` | **/api/v1/machines/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `MachineResource` |
+| `/api/v1/machines/{machineId}/assign` | `PUT` | **/api/v1/machines/{machineId}/assign** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `AssignMachineResource`<br><br>**Propiedades:**<br>- `productionLineId`: integer | **200**: OK <br>Esq: `MachineResource` |
+| `/api/v1/machines/{machineId}/maintenance/start` | `PUT` | **/api/v1/machines/{machineId}/maintenance/start** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
+| `/api/v1/machines/{machineId}/maintenance/complete` | `PUT` | **/api/v1/machines/{machineId}/maintenance/complete** | `machineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
+| `/api/v1/machines/production-line/{lineId}` | `GET` | **/api/v1/machines/production-line/{lineId}** | `lineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of MachineResource` |
+| `/api/v1/machines/plant/{plantId}` | `GET` | **/api/v1/machines/plant/{plantId}** | `plantId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of MachineResource` |
 
 <br>
 
-##### Work Orders (GET)
+**Bounded Context: MetricDefinitions**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/v1/work-orders/{id}` | GET | `/api/v1/work-orders/3` |
-
----
-
-**Parámetros (Path):**  
-```
-id: 3
-```
-
-**Ejemplo Response (200 OK):**  
-```
-{
-  "id": 1,
-  "code": "PH-67890",
-  "status": "Pending",
-  "type": "Corrective",
-  "date": "2025-07-07T02:11:22.986",
-  "productionLineId": 1,
-  "machineIds": [
-    201,
-    204
-  ],
-  "technicianIds": [
-    3,
-    6
-  ],
-  "tasks": [
-    "Cambio de aceite del compresor",
-    "Inspección y limpieza de ventiladores",
-    "Verificación de presión hidráulica"
-  ]
-}
-```
-
-**Descripción:**  
-Permite consultar una orden de trabajo específica por su `id`.
-![image](https://github.com/user-attachments/assets/87744ca0-3a19-45d8-aa47-698f528dd159)
-![image](https://github.com/user-attachments/assets/d2c8838d-3f73-4481-9130-2c083b28520b)
-
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/metric-definitions` | `GET` | **/api/v1/metric-definitions** | - | - | **200**: OK <br>Esq: `Array of MetricDefinitionResource` |
 
 <br>
 
+**Bounded Context: Plants**
 
-##### Executed Work Orders (POST)
-
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/v1/executed-work-orders` | POST | `/api/v1/executed-work-orders` |
-
----
-
-**Parámetros (Request Body):**  
-```
-{
-  "code": "Plan de Mantenimiento Mensual - Línea 1.2",
-  "annotations": "Esto realmente necesita validaciones",
-  "executionDate": "2025-07-06T18:26:09.356Z",
-  "productionLineId": 1,
-  "intervenedMachineIds": [
-    2
-  ],
-  "assignedTechnicianIds": [
-    1
-  ],
-  "executedTasks": [
-    "Cambio de aceite del compresor"
-  ],
-  "usedProducts": [
-    {
-      "productId": 1,
-      "quantity": 10
-    }
-  ],
-  "files": [
-    "fotiotp2"
-  ],
-  "workOrderId": 1
-}
-```
-
-**Ejemplo Response (200 OK):**  
-```
-{
-  "code": "Plan de Mantenimiento Mensual - Línea 1.2",
-  "annotations": "Esto realmente necesita validaciones",
-  "executionDate": "2025-07-06T18:26:09.356Z",
-  "productionLineId": 1,
-  "intervenedMachineIds": [
-    2
-  ],
-  "assignedTechnicianIds": [
-    1
-  ],
-  "executedTasks": [
-    "Cambio de aceite del compresor"
-  ],
-  "usedProducts": [
-    {
-      "productId": 1,
-      "quantity": 10
-    }
-  ],
-  "files": [
-    "fotiotp2"
-  ],
-  "workOrderId": 1
-}
-```
-
-**Descripción:**  
-Permite registrar la ejecución de una orden de trabajo, indicando máquinas intervenidas, técnicos asignados, tareas realizadas, productos utilizados y archivos de evidencia.
-![image](https://github.com/user-attachments/assets/b3fa0435-bc01-48c7-ac7a-145d6e97d4c4)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/plants` | `GET` | **/api/v1/plants** | - | - | **200**: OK <br>Esq: `Array of PlantResource` |
+| `/api/v1/plants` | `POST` | **/api/v1/plants** | - | **Esquema:** `CreatePlantResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `address`: string<br>- `city`: string<br>- `country`: string<br>- `phone`: string<br>- `email`: string | **200**: OK <br>Esq: `PlantResource` |
+| `/api/v1/plants/{id}` | `GET` | **/api/v1/plants/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `PlantResource` |
+| `/api/v1/plants/{id}` | `PUT` | **/api/v1/plants/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `UpdatePlantResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `address`: string<br>- `city`: string<br>- `country`: string<br>- `phone`: string<br>- `email`: string | **200**: OK <br>Esq: `PlantResource` |
+| `/api/v1/plants/{id}/activate` | `PUT` | **/api/v1/plants/{id}/activate** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
+| `/api/v1/plants/{id}/deactivate` | `PUT` | **/api/v1/plants/{id}/deactivate** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
 
 <br>
 
-##### Executed Work Orders (GET)
+**Bounded Context: ProductionLines**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/v1/executed-work-orders/{id}` | GET | `/api/v1/executed-work-orders/1` |
-
----
-
-**Parámetros (Path):**  
-```
-id: 1
-```
-
-**Ejemplo Response (200 OK):**  
-```
-{
-{
-  "id": 1,
-  "code": "Plan de Mantenimiento Mensual - Línea 1.2",
-  "annotations": "Esto realmente necesita validaciones",
-  "executionDate": "2025-07-06T18:26:09.356",
-  "productionLineId": 1,
-  "intervenedMachineIds": [
-    2
-  ],
-  "assignedTechnicianIds": [
-    1
-  ],
-  "executedTasks": [
-    "Cambio de aceite del compresor"
-  ],
-  "usedProducts": [
-    {
-      "productId": 1,
-      "quantity": 10
-    }
-  ],
-  "executionImages": [
-    "fotiotp2"
-  ]
-}
-```
-
-**Descripción:**  
-Permite consultar la información de una orden de trabajo ejecutada específica mediante su `id`.
-
-![image](https://github.com/user-attachments/assets/1389748c-0653-4029-8c71-88f5dbe80dfa)
-![image](https://github.com/user-attachments/assets/f7cc6709-c23a-4ee7-9757-4b20f981c288)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/production-lines` | `GET` | **/api/v1/production-lines** | `plantId`<br>(query, Opt)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of ProductionLineResource` |
+| `/api/v1/production-lines` | `POST` | **/api/v1/production-lines** | - | **Esquema:** `CreateProductionLineResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `code`: string<br>- `capacityUnitsPerHour`: number<br>- `plantId`: integer | **200**: OK <br>Esq: `ProductionLineResource` |
+| `/api/v1/production-lines/running` | `GET` | **/api/v1/production-lines/running** | - | - | **200**: OK <br>Esq: `Array of ProductionLineResource` |
+| `/api/v1/production-lines/plant/{plantId}` | `GET` | **/api/v1/production-lines/plant/{plantId}** | `plantId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of ProductionLineResource` |
+| `/api/v1/production-lines/{id}` | `GET` | **/api/v1/production-lines/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `ProductionLineResource` |
+| `/api/v1/production-lines/{id}/start` | `PUT` | **/api/v1/production-lines/{id}/start** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
+| `/api/v1/production-lines/{id}/stop` | `PUT` | **/api/v1/production-lines/{id}/stop** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `StopProductionResource`<br><br>**Propiedades:**<br>- `reason`: string | **200**: OK  |
 
 <br>
 
-##### Image Storage (POST)
+**Bounded Context: PurchaseOrders**
 
-| Endpoint | Verbo HTTP | Sintaxis |
-|----------|-------------|----------|
-| `/api/image-storage/upload` | POST | `/api/image-storage/upload` |
-
----
-
-**Parámetros (Request Body):**  
-```
-File: string(binary)
-Tipo de envío: multipart/form-data
-Ejemplo: archivo PNG o JPG cargado desde el formulario
-```
-
-**Ejemplo Response (200 OK):**  
-```
-{
-  "url": "https://res.cloudinary.com/dgrsgm8ok/image/upload/v1751859599/mecanaut/yctcwltydtsnzrzwfxh3.jpg"
-}
-```
-
-**Descripción:**  
-Permite subir una imagen al servidor y almacenarla en **Cloudinary**, devolviendo la URL pública de acceso al archivo.
-
-![image](https://github.com/user-attachments/assets/c910518a-7a44-48c6-a2de-b816cbd5e58b)
-
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/purchase-orders` | `GET` | **/api/purchase-orders** | `plantId`<br>(query, Opt)<br>_Type:_ integer (int32) | - | **200**: OK <br>Esq: `Array of PurchaseOrderResource` |
+| `/api/purchase-orders` | `POST` | **/api/purchase-orders** | - | **Esquema:** `CreatePurchaseOrderResource`<br><br>**Propiedades:**<br>- `orderNumber`: string<br>- `inventoryPartId`: integer<br>- `quantity`: integer<br>- `totalPrice`: number<br>- `plantId`: integer<br>- `deliveryDate`: string | **201**: Created <br>Esq: `PurchaseOrderResource`<br><br>**400**: Bad Request <br>Esq: `ProblemDetails` |
+| `/api/purchase-orders/{id}` | `GET` | **/api/purchase-orders/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `PurchaseOrderResource`<br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
+| `/api/purchase-orders/{id}` | `DELETE` | **/api/purchase-orders/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **204**: No Content <br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
+| `/api/purchase-orders/{id}/complete` | `PATCH` | **/api/purchase-orders/{id}/complete** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `PurchaseOrderResource`<br><br>**400**: Bad Request <br>Esq: `ProblemDetails`<br><br>**404**: Not Found <br>Esq: `ProblemDetails` |
 
 <br>
 
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+**Bounded Context: Roles**
 
-Durante este Sprint no se realizaron nuevos despliegues de la infraestructura principal, ya que tanto la Landing Page, la Web Application y los Web Services ya se encontraban desplegados y operativos desde Sprints anteriores. 
-
-Sin embargo, como parte de la mejora del flujo de trabajo y almacenamiento de evidencias, se implementó la integración con **Cloudinary** para gestionar de forma centralizada las imágenes generadas en la ejecución de órdenes de trabajo. Esta integración permite subir, almacenar y servir de forma eficiente los archivos multimedia (evidencias fotográficas) sin sobrecargar el servidor backend ni el almacenamiento local.
-
-Para ello, se crearon cuentas y recursos en **Cloudinary**, se configuraron las variables necesarias, se implementaron credenciales seguras y se realizaron pruebas de carga y recuperación de imágenes, asegurando que el servicio esté correctamente enlazado con el backend desplegado.
-
-Se adjuntan a continuación capturas y de los pasos realizados durante este Sprint para evidenciar la configuración de Cloudinary, la gestión de credenciales y la integración en la lógica del backend.
-
-- Primero creamos una cuenta en cloudinary
-
-![image](https://github.com/user-attachments/assets/d921d8fb-4055-435e-b5ee-c431e919f583)
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/roles` | `GET` | **Get all roles** | - | - | **200**: OK  |
 
 <br>
 
-- Luego, descargamos las dependencias necesarias en nuestro proyecto asi como guardar las credenciales
+**Bounded Context: Skills**
 
-![image](https://github.com/user-attachments/assets/cfbf904b-41b7-451a-9157-14c3f6781845)
-![image](https://github.com/user-attachments/assets/94c5f2d5-3b2d-4852-bd3c-0ad9b05f8f92)
-
-<br>
-
-- En la VM donde tenemos desplegado nuestro Backend configuramos las variables de entorno. Una vez esto hecho, reiniciamos la VM.
-![image](https://github.com/user-attachments/assets/c39d9ff5-74b7-46d3-9f05-ca63050540ad)
-![image](https://github.com/user-attachments/assets/afc0c4b8-538e-41d5-8eb8-b29bb17981bd)
-
-<br>
-
-- Despues de haber configurado correctamente, validamos que ya estamos conectados y guardamos correctamente nuestras imagenes.
-![image](https://github.com/user-attachments/assets/5f0f6cc7-59e7-4232-b425-e4a76ac946f6)
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/skills` | `POST` | **/api/v1/skills** | - | **Esquema:** `CreateSkillResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `description`: string<br>- `category`: string | **200**: OK <br>Esq: `SkillResource` |
+| `/api/v1/skills` | `GET` | **/api/v1/skills** | - | - | **200**: OK <br>Esq: `Array of SkillResource` |
+| `/api/v1/skills/{skillId}` | `GET` | **/api/v1/skills/{skillId}** | `skillId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `SkillResource` |
+| `/api/v1/skills/{skillId}` | `PUT` | **/api/v1/skills/{skillId}** | `skillId`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `UpdateSkillResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `description`: string<br>- `category`: string | **200**: OK <br>Esq: `SkillResource` |
+| `/api/v1/skills/{skillId}` | `DELETE` | **/api/v1/skills/{skillId}** | `skillId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK  |
 
 <br>
 
+**Bounded Context: SubscriptionPlans**
 
-#### 5.2.4.8. Team Collaboration Insights during Sprint.
-Durante el desarrollo del Sprint Final, el equipo demostró una coordinación efectiva para integrar todas las funcionalidades desarrolladas en los sprints anteriores y consolidar el sistema Mecanaut como un producto funcional. Las tareas se enfocaron en la conexión completa entre el frontend y backend, validación de vistas y endpoints, manejo de perfiles, login seguro y operaciones CRUD críticas como órdenes de trabajo, inventario y mantenimiento.<br/>
-
-Cada integrante asumió responsabilidades clave que permitieron cumplir con los objetivos propuestos del sprint. A continuación, se detalla la participación específica en las áreas principales de trabajo colaborativo:
-
-| **Nombre**                       | **Actividad**                                                                                                                                                              |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Agreda Sobrino, Ariana Cecilia   | Participó en la validación de vistas conectadas al backend, especialmente en perfiles de usuario. Coordinó pruebas funcionales y colaboró en el ajuste visual de componentes clave.      |
-| Belledone Espinoza, Claudia      | Lideró la conexión e integración de funcionalidades críticas como el registro, login y perfil de administrador. Gestionó validaciones y resolvió errores en endpoints de autenticación.        |
-| Elera Rodríguez, Mauricio Daniel | Implementó y ajustó endpoints para login, métricas y gestión de inventario. Validó la conexión backend-frontend, y colaboró en pruebas y correcciones en vistas relacionadas.                  |
-| Oblitas Davila, Mariano Moises | Se encargó de conectar el plan de mantenimiento al backend, implementar la lógica de edición y eliminación de planes, y validar los flujos funcionales completos desde frontend.      |
-| Cardenas Minaya, Ricardo Fernando | Participó en la conexión y validación de vistas de usuario técnico, asegurando el diseño responsive. Realizó ajustes visuales finales y pruebas integradas con endpoints.      |
-
-
-#### Evidencia de colaboración en GitHub
-A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial del backend y del frontend, donde se evidencia la participación activa de todos los miembros del equipo en el Sprint 4. <br/>
-
-Capturas de colaboracion en github:
-
-Backend:
-
-![image](https://github.com/user-attachments/assets/1a8e9f88-8967-4bb5-8c3a-ea98972607f8)
-![image](https://github.com/user-attachments/assets/529084cf-2ad3-4697-8037-e3be78299329)
-![image](https://github.com/user-attachments/assets/ef067d95-c992-403f-b59f-4cc4469140c2)
-
-
-Frontend:
-![image](https://github.com/user-attachments/assets/d927a5ab-a5cd-4ba6-bc45-07d2cc2a8fe7)
-![image](https://github.com/user-attachments/assets/2d3c9ad5-b538-45c4-a0b4-5f3ea572b549)
-![image](https://github.com/user-attachments/assets/dc20753e-e3b6-41d1-82fc-46151e017ff5)
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/subscription-plans` | `POST` | **/api/v1/subscription-plans** | - | **Esquema:** `CreateSubscriptionPlanResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `description`: string<br>- `price`: number<br>- `currency`: string<br>- `maxMachines`: integer<br>- `maxUsers`: integer<br>- `supportPriority`: boolean<br>- `predictiveMaintenance`: boolean<br>- `advancedAnalytics`: boolean | **200**: OK <br>Esq: `SubscriptionPlanResource` |
+| `/api/v1/subscription-plans` | `GET` | **/api/v1/subscription-plans** | - | - | **200**: OK <br>Esq: `Array of SubscriptionPlanResource` |
+| `/api/v1/subscription-plans/{id}` | `GET` | **/api/v1/subscription-plans/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `SubscriptionPlanResource` |
+| `/api/v1/subscription-plans/{id}` | `PUT` | **/api/v1/subscription-plans/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Esquema:** `UpdateSubscriptionPlanResource`<br><br>**Propiedades:**<br>- `name`: string<br>- `description`: string<br>- `price`: number<br>- `currency`: string<br>- `maxMachines`: integer<br>- `maxUsers`: integer<br>- `supportPriority`: boolean<br>- `predictiveMaintenance`: boolean<br>- `advancedAnalytics`: boolean | **200**: OK  |
+| `/api/v1/subscription-plans/{id}/status` | `PUT` | **/api/v1/subscription-plans/{id}/status** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Tipo:** `string` | **200**: OK  |
 
 <br>
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
+**Bounded Context: Users**
 
-Se llevaron a cabo entrevistas breves con usuarios finales de los dos perfiles clave en la plataforma: técnicos de mantenimiento y administradores de mantenimiento. Estas entrevistas tienen como finalidad validar la claridad, utilidad y usabilidad general de la aplicación web y su landing page, considerando los flujos de usuario más relevantes para cada perfil.
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/users/{id}` | `GET` | **Get a user by its id**<br><br>_Get a user by its id_ | `id`<br>(path, Req)<br>_Type:_ integer (int32) | - | **200**: The user was found <br>Esq: `UserResource` |
+| `/api/v1/users/{id}` | `PUT` | **Update user** | `id`<br>(path, Req)<br>_Type:_ integer (int32) | **Esquema:** `UpdateUserResource`<br><br>**Propiedades:**<br>- `email`: string<br>- `firstName`: string<br>- `lastName`: string<br>- `roles`: array | **200**: OK  |
+| `/api/v1/users/{id}` | `DELETE` | **Delete user** | `id`<br>(path, Req)<br>_Type:_ integer (int32) | - | **200**: OK  |
+| `/api/v1/users` | `GET` | **Get all users**<br><br>_Get all users_ | - | - | **200**: The users were found <br>Esq: `Array of UserResource` |
+| `/api/v1/users` | `POST` | **Create user** | - | **Esquema:** `CreateUserResource`<br><br>**Propiedades:**<br>- `username`: string<br>- `password`: string<br>- `email`: string<br>- `firstName`: string<br>- `lastName`: string<br>- `roles`: array | **200**: OK  |
 
-Durante las sesiones, se mostró a los entrevistados tanto la landing page como una versión funcional de la aplicación web. A partir de ello, se les invitó a realizar tareas específicas y responder preguntas diseñadas para recoger percepciones sobre navegación, comprensión de funcionalidades y barreras de uso.
+<br>
 
-**Preguntas sobre la Landing Page** 
+**Bounded Context: WorkOrders**
 
-1. ¿La información presentada en la página inicial te parece útil y relevante para entender la solución?
+| Endpoint | Método | Nombre / Descripción | Parámetros | Body Requerido | Respuestas |
+| --- | --- | --- | --- | --- | --- |
+| `/api/v1/work-orders` | `POST` | **/api/v1/work-orders** | - | **Esquema:** `CreateWorkOrderResource`<br><br>**Propiedades:**<br>- `code`: string<br>- `date`: string<br>- `productionLineId`: integer<br>- `type`: string<br>- `machineIds`: array<br>- `tasks`: array<br>- `technicianIds`: array | **200**: OK <br>Esq: `WorkOrderResource` |
+| `/api/v1/work-orders/{id}` | `GET` | **/api/v1/work-orders/{id}** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `WorkOrderResource` |
+| `/api/v1/work-orders/by-production-line/{productionLineId}` | `GET` | **/api/v1/work-orders/by-production-line/{productionLineId}** | `productionLineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of WorkOrderResource` |
+| `/api/v1/work-orders/by-production-line-to-execute/{productionLineId}` | `GET` | **/api/v1/work-orders/by-production-line-to-execute/{productionLineId}** | `productionLineId`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `Array of WorkOrderResource` |
+| `/api/v1/work-orders/{id}/complete` | `PUT` | **/api/v1/work-orders/{id}/complete** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | - | **200**: OK <br>Esq: `WorkOrderResource` |
+| `/api/v1/work-orders/{id}/technicians` | `PUT` | **/api/v1/work-orders/{id}/technicians** | `id`<br>(path, Req)<br>_Type:_ integer (int64) | **Tipo:** `array` | **200**: OK <br>Esq: `WorkOrderResource` |
 
-2. ¿Sientes que la sección “FAQ” transmite confianza y claridad sobre quién está detrás del sistema?
+<br>
 
-3. ¿Crees que el contenido es claro y está bien organizado, o hay algo que deberíamos ajustar?
+### 5.2.8. Team Collaboration Insights
 
-4. ¿Cómo percibes el diseño visual general de la página? ¿Te parece adecuado para una solución orientada a mantenimiento industrial?
+## 5.3. Video About-the-Product.
 
-5. ¿Quedó claro desde un primer momento cuál es el propósito de la aplicación?
+![image](https://github.com/user-attachments/assets/60510df1-2ead-496b-9559-5532f6067382)
 
-6. ¿Después de navegar por la página, te sentirías motivado a registrarte y probar la aplicación? ¿Por qué?
+link: https://www.youtube.com/watch?v=cW31cmfSuA8
 
-**Preguntas sobre la aplicación**
 
-**Para Administradores de Mantenimiento**
-Se considerará los userflows de:
+<div style="page-break-after: always;"></div>
 
-* Registro e inicio de sesión
+# Capítulo VI: Product Verification & Validation
 
-* Gestión del personal técnico
+## 6.1. Testing Suites & Validation
 
-* Registro de nuevos planes de mantenimiento
+### 6.1.1. Core Entities Unit Tests.
 
-* Registro de repuestos y solicitud de órdenes de adquisición
+### 6.1.2. Core Integration Tests.
 
-1. ¿Te pareció clara y sencilla la experiencia de creación de cuenta para tu empresa?
+### 6.1.3. Core Behavior-Driven Development
 
-2. ¿Qué agregarías o quitarías para facilitar este registro inicial?
- 
-3. ¿Te resultó intuitivo el proceso para agregar una nueva línea de producción?
- 
-4. ¿Fue fácil identificar dónde registrar una nueva máquina?
- 
-5. ¿La funcionalidad para generar el plan mensual es clara y fácil de usar?
- 
-6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
+### 6.1.4. Core System Tests.
 
+<div style="page-break-after: always;"></div>
 
-**Para Técnicos de Mantenimiento**
-Para Técnicos de Mantenimiento
+# Capítulo VII: DevOps Practices
 
-* Registro e inicio de sesión
+## 7.1. Continuous Integration
 
-* Visualización de maquinaria asignada
-  
-* Consulta y edición de información de maquinaria
-  
-* Consulta de planes de mantenimiento activos
-  
-* Revisión del calendario semanal y mensual con tareas asignadas
+### 7.1.1. Tools and Practices.
 
+### 7.1.2. Build & Test Suite Pipeline Components.
 
-1. ¿Pudiste crear tu cuenta e iniciar sesión sin inconvenientes?
+## 7.2. Continuous Delivery
 
-2. ¿Fue clara la navegación para acceder al listado de maquinarias?
+### 7.2.1. Tools and Practices.
 
-3. ¿Te resultó fácil consultar los datos de una máquina y editarlos si era necesario?
+### 7.2.2. Stages Deployment Pipeline Components.
 
-4. ¿Pudiste visualizar sin dificultad los planes de mantenimiento asociados a tus tareas?
+## 7.3. Continuous deployment
 
-5. ¿Qué tan intuitivo te pareció el calendario semanal y mensual? ¿Lograste identificar correctamente los días en los que tienes planes activos?
+### 7.3.1. Tools and Practices.
 
-6. ¿Hubo algún punto del proceso en el que te sentiste confundido o desorientado?
+### 7.3.2. Production Deployment Pipeline Components.
 
-
-### 5.3.2. Registro de Entrevistas.
-### Segmento 1: Administradores de Mantenimiento
-
-#### Entrevista #1
-- **Nombre completo:** Albano Romero
-- **Edad:** 28
-- **Cargo / Rol en la empresa:**  Administrador de mantenimiento en sector minero
-- **Enlace del video:** [Validation Interview 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 0:00 s
-- **Fin:** 22:07 s
- <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
-
-#### Entrevista #2
-- **Nombre completo:** Samy Ramirez
-- **Edad:** 30
-- **Cargo / Rol en la empresa:** Administrador de Mantenimiento de sector medico
-- **Enlace del video:** [Validation Interview 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 22:08 s
-- **Fin:** 32:23 s
- <img src="img/interviews/entrevista-validacion-administrador-2.png">
-
-#### Entrevista #3
-- **Nombre completo:** Marcos Salazar
-- **Edad:** 35
-- **Cargo / Rol en la empresa:** Administrador de Mantenimiento en sector textil
-- **Enlace del video:** [Validation Interview 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 32:28 s
-- **Fin:** 52:08 s
- <img src="img/interviews/entrevista-validacion-administrador-3.png">
-
-### Segmento 2: Técnicos Operativos
-
-#### Entrevista #1
-- **Nombre completo:**  Lucero Avalos
-- **Edad:**  27
-- **Puesto o función que desempeñas:** Técnica en sector de textiles
-- **Enlace del video:** [Validation Interview 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 52:08 s
-- **Fin:** 01:08:30 s
- <img src="img/interviews/entrevista-validacion-tecnico-1.png">
-
-#### Entrevista #2
-- **Nombre completo:** Adriano Sanchez
-- **Edad:** 23
-- **Puesto o función que desempeñas:** Técnico de mantenimiento en maquinaria textil
-- **Enlace del video:** [Validation Interview 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 01:08 :30 s
-- **Fin:** 01:23 :14 s
- <img src="img/interviews/entrevista-validacion-tecnico-2.png">
-
-#### Entrevista #3
-- **Nombre completo:** Luis Gomez
-- **Edad:** 23 años  
-- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [Validation Interview 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio:** 01:23 :14 s
-- **Fin:** 01:40 :08 s
- <img src="img/interviews/entrevista-validacion-tecnico-3.png">
-
-
-### 5.3.3. Evaluaciones según heurísticas  
-**Sitio o Aplicación Evaluada:** MecaNet  
-
-**Tareas evaluadas:**  
-
-La presente evaluación de usabilidad se centró en analizar la experiencia de usuario al completar las siguientes funcionalidades dentro de la plataforma:
-
-- Ingreso a la aplicación desde la landing page  
-- Registro de cuenta en la plataforma  
-- Proceso de inicio de sesión  
-- Acceso y visualización de la pantalla principal  
-- Navegación por el calendario (semanal y mensual)  
-- Consulta del inventario (repuestos y solicitudes de adquisición)  
-- Gestión de activos (maquinarias y líneas de producción)  
-- Revisión de órdenes de trabajo  
-- Consulta y seguimiento de planes de mantenimiento  
-- Gestión del personal técnico  
-- Acceso a la configuración de cuenta  
-
-Quedan fuera del alcance de esta evaluación:
-
-- Recuperación de contraseña o cuenta  
-- Visualización de reportes e indicadores  
-- Funcionalidades específicas del perfil técnico  
-
----
-
-### Escala de severidad  
-*Los hallazgos fueron clasificados con base en la siguiente escala de severidad:*  
-
-|***Nivel***|***Descripción***|
-| :-: | :-: |
-|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
-|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
-|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
-|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
-
----
-
-### Tabla resumen
-
-|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
-| :- | :- | :- | :- |
-|1| No existe un medio directo de contacto en la landing page | 3 | Usability: Help and documentation |
-|2| El formulario de registro está restringido solo a usuarios administradores | 4 | Usability: Flexibility and efficiency of use |
-
----
-
-### Descripción de problemas
-
----
-
-#### **PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page  
-
-**Severidad:** 3  
-**Heurística violada:** Usability: Help and documentation  
-
-**Descripción:**  
-La página de inicio del sistema cuenta con una sección de preguntas frecuentes, sin embargo, no brinda una forma directa de contacto como un formulario, correo visible o botón de soporte. Esta omisión puede dificultar que usuarios potenciales aclaren dudas específicas, reduciendo la posibilidad de conversión o retención inicial.
-
-**Imagen:**  
-<img src="img/interviews/heuristicasA.png" width="600px">
-
-**Recomendación:**  
-Implementar un formulario de contacto sencillo con campos como nombre, correo y mensaje, además de una notificación visual de confirmación al enviarlo. También puede considerarse incluir accesos directos a canales alternativos (correo, WhatsApp o chat en vivo).
-
----
-
-#### **PROBLEMA #2:** El registro de cuenta está limitado a administradores  
-
-**Severidad:** 4  
-**Heurística violada:** Usability: Flexibility and efficiency of use  
-
-**Descripción:**  
-Actualmente, la opción de registro está diseñada únicamente para administradores, impidiendo que los técnicos creen sus propias cuentas. Esta limitación obliga a que el administrador registre a todos los técnicos manualmente, lo cual genera fricción en el proceso de adopción y uso inicial de la plataforma.
-
-**Imagen:**  
-<img src="img/interviews/heuristicasB.png" width="600px">
-
-**Recomendación:**  
-Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el formulario de registro inicial. Esto facilitaría que cada usuario se incorpore según su rol correspondiente, sin depender de terceros, y promueve una experiencia más fluida y autónoma.
-
-
-#### Repositorio de trabajo:
-* Repositorio del Backend en GitHub: https://github.com/awawaTech/mecanaut-back
-
-El equipo mantuvo una comunicación constante durante todo el Sprint, utilizando herramientas colaborativas como GitHub y reuniones breves, permitiendo una integración progresiva de los módulos desarrollados y asegurando que cada funcionalidad contara con aportes técnicos y revisiones cruzadas por parte de todos los miembros.
 
 
 # Conclusiones
-## Conclusiones y recomendaciones.
- ### Problema Principal
+<h2> Conclusiones y recomendaciones.</h2>
+**Problema Principal**
 En la actualidad, muchas empresas industriales enfrentan problemas debido al uso de métodos manuales y herramientas dispersas para gestionar el mantenimiento de sus activos. Esto genera ineficiencias, paros no programados y decisiones basadas en información incompleta o errónea.
 
-### La Solución de Mecanaut
+**La Solución de Mecanaut**
 Mecanaut proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
 
-### Beneficios Clave para los Usuarios
+**Beneficios Clave para los Usuarios**
 
 - **Administradores**: Mejor toma de decisiones gracias a la automatización de procesos y visualización clara de KPIs. Esto permite una mayor eficiencia en la planificación y ejecución de mantenimiento.
   
 - **Técnicos**: Acceso en tiempo real a las órdenes de trabajo, tareas asignadas y un sistema claro para registrar y hacer seguimiento de las actividades. Esto optimiza la productividad y reduce los errores operativos.
 
-### Optimización de Procesos
+**Optimización de Procesos**
 La plataforma de Mecanaut mejora la eficiencia operativa al automatizar tareas repetitivas y ofrecer una visibilidad clara de los indicadores clave de rendimiento (KPIs), lo que permite decisiones más rápidas y basadas en datos.
 
-### Enfoque en la Simplicidad
+**Enfoque en la Simplicidad**
 Mecanauts ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
 
-### Accesibilidad y Facilidad de Uso
+**Accesibilidad y Facilidad de Uso**
 La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca experiencia en tecnología. El diseño visual con colores y tipografía claras facilita la navegación, especialmente en entornos industriales.
 
-### Enfoque Centrado en el Usuario
+**Enfoque Centrado en el Usuario**
 Las mejoras están alineadas con las necesidades reales de los usuarios, basadas en entrevistas y en un análisis detallado de los flujos de trabajo actuales. La plataforma se adapta a las tareas diarias de los usuarios sin sobrecargarlo de funciones innecesarias.
 
-### Mercado Potencial
+**Mercado Potencial**
 Mecanauts tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
 
-### Visión a Futuro
+**Visión a Futuro**
 Mecanauts no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
 
-## Recomendaciones 
+<h2> Recomendaciones </h2>
 
 **Fomentar la Colaboración Constante**: Es importante mantener una comunicación fluida entre todos los miembros del equipo durante todo el proceso de desarrollo. Utilizar herramientas de gestión de proyectos y reuniones regulares para asegurar que todos estén alineados con los objetivos y plazos.
 
 **Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
 
 
-# Video About-the-Product.
-![image](https://github.com/user-attachments/assets/60510df1-2ead-496b-9559-5532f6067382)
-
-link: https://www.youtube.com/watch?v=cW31cmfSuA8
-
 # Bibliografía
 McKinsey & Company. (2021). Innovación a través de la disrupción digital en servicio a clientes. [https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service](https://www.mckinsey.com/pe/our-insights/innovation-through-the-digital-disruption-of-customer-service) 
 
 
-# 8. Anexos 
+# Anexos 
 
 Para acceder a los diferentes recursos del proyecto, puedes visitar los siguientes enlaces:
 
