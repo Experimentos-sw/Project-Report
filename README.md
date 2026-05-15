@@ -1943,19 +1943,19 @@ Landing Page en Inglés
 
 ### 4.4.1. Mobile Applications Wireframes.
 
-<img src="img/mobile-implementation/Inicio de Sesión.png"><br>
+![imagemobile](img/mobile-wireframes/Inicio%20de%20Sesión.png)
 
-<img src="img/mobile-implementation/Inicio.png"><br>
+![imagemobile](img/mobile-wireframes/Inicio.png)
 
-<img src="img/mobile-implementation/Calendario Mensual.png"><br>
+![imagemobile](img/mobile-wireframes/Calendario%20Mensual.png)
 
-<img src="img/mobile-implementation/Gestión de Repuestos.png"><br>
+![imagemobile](img/mobile-wireframes/Gestión%20de%20Repuestos.png)
 
-<img src="img/mobile-implementation/Gestión de Líneas de Producción.png"><br>
+![imagemobile](img/mobile-wireframes/Gestión%20de%20Líneas%20de%20Producción.png)
 
-<img src="img/mobile-implementation/Gestión de Maquinarias.png"><br>
+![imagemobile](img/mobile-wireframes/Gestión%20de%20Maquinarias.png)
 
-<img src="img/mobile-implementation/Nueva Línea de Producción (Modal).png"><br>
+![imagemobile](img/mobile-wireframes/Nueva%20Línea%20de%20Producción%20(Modal).png)
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 
