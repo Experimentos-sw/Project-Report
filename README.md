@@ -430,27 +430,97 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
   <tr>
     <td><b>4.c.1 Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software</b></td>
     <td>
-      <p><strong>Ariana Cecilia Agreda Sobrino</strong> – AV1: Lideré el Capítulo IV: Product Design. Reconocí mi responsabilidad ética al asegurar que las interfaces fueran accesibles y usables para distintos perfiles de usuario, cuidando que el diseño no excluyera a nadie.</p>
-      <p><strong>Claudia Valeria Belledonne Espinoza</strong> – AV1: Lideré el Capítulo II: Requirements Elicitation & Analysis. Asumí responsabilidad profesional al realizar entrevistas y análisis competitivo con rigor, cuidando la confidencialidad y evitando sesgos en la interpretación.</p>
-      <p><strong>Mauricio Daniel Elera Rodríguez</strong> – AV1: Lideré el Capítulo V: Product Implementation. Reconocí mi responsabilidad ética al aplicar buenas prácticas de configuración y despliegue, asegurando que el software fuera seguro y confiable.</p>
-      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> – AV1: Lideré el Capítulo I: Introducción. Asumí responsabilidad ética al definir el problema y representar fielmente a los segmentos objetivo, evitando exageraciones y manteniendo precisión profesional.</p>
-      <p><strong>Mariano Moisés Oblitas Dávila</strong> – AV1: Lideré el Capítulo III: Requirements Specification. Reconocí mi responsabilidad ética al definir historias de usuario y backlog, cuidando que las prioridades reflejaran necesidades reales y no intereses personales.</p>
+      <p><strong>Ariana Cecilia Agreda Sobrino</strong>
+
+– **AV1:** Lideré el Capítulo IV: Product Design. Reconocí mi responsabilidad ética al asegurar que las interfaces fueran accesibles y usables para distintos perfiles de usuario, cuidando que el diseño no excluyera a nadie.
+
+– **TB1:** Al desarrollar el Capítulo IV: Product Design, reconocí mi responsabilidad ética y profesional al proponer interfaces claras, accesibles y coherentes con las necesidades de los usuarios, evitando diseños confusos o excluyentes.
+      </p>
+<br>
+      <p><strong>Claudia Valeria Belledonne Espinoza</strong> 
+
+– **AV1:** Lideré el Capítulo II: Requirements Elicitation & Analysis. Asumí responsabilidad profesional al realizar entrevistas y análisis competitivo con rigor, cuidando la confidencialidad y evitando sesgos en la interpretación.
+
+– **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
+</p>
+
+<br>
+      <p><strong>Mauricio Daniel Elera Rodríguez</strong> 
+
+– **AV1:** Lideré el Capítulo V: Product Implementation. Reconocí mi responsabilidad ética al aplicar buenas prácticas de configuración y despliegue, asegurando que el software fuera seguro y confiable.
+
+– **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
+      </p>
+<br>
+      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> 
+
+– **AV1:** Lideré el Capítulo I: Introducción. Asumí responsabilidad ética al definir el problema y representar fielmente a los segmentos objetivo, evitando exageraciones y manteniendo precisión profesional.
+
+– **TB1:** Al desarrollar el Capítulo I: Introducción, asumió responsabilidad ética al definir el problema, la propuesta de solución y los segmentos objetivo de manera realista, evitando exagerar el alcance del producto y manteniendo claridad profesional.
+      </p>
+<br>
+      <p><strong>Mariano Moisés Oblitas Dávila</strong>
+      
+– **AV1:** Lideré el Capítulo III: Requirements Specification. Reconocí mi responsabilidad ética al definir historias de usuario y backlog, cuidando que las prioridades reflejaran necesidades reales y no intereses personales.
+
+– **TB1:** Al trabajar el Capítulo III: Requirements Specification, reconoció su responsabilidad ética al formular historias de usuario, backlog e impact mapping alineados con necesidades reales, priorizando el valor para el usuario y no solo intereses técnicos del equipo.
+      </p>
+<br>
     </td>
     <td>
-      <p>En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+      <p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+      <p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
+</p>
     </td>
   </tr>
   <tr>
     <td><b>4.c.2 Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales</b></td>
-    <td>
-      <p><strong>Ariana Cecilia Agreda Sobrino</strong> – AV1: Emití juicios informados sobre el impacto social del diseño de interfaces, considerando la inclusión y accesibilidad como factores clave para distintos contextos.</p>
-      <p><strong>Claudia Valeria Belledonne Espinoza</strong> – AV1: Evalué el impacto económico y competitivo de la solución, emitiendo juicios sobre la sostenibilidad del proyecto en el mercado.</p>
-      <p><strong>Mauricio Daniel Elera Rodríguez</strong> – AV1: Consideré el impacto ambiental y social en la implementación, proponiendo prácticas de despliegue eficientes y seguras que redujeran riesgos.</p>
-      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> – AV1: Emití juicios informados sobre el impacto global de las entrevistas y el needfinding, asegurando que las soluciones fueran aplicables en distintos contextos.</p>
-      <p><strong>Mariano Moisés Oblitas Dávila</strong> – AV1: Evalué el impacto económico y organizacional de las especificaciones, considerando la viabilidad y sostenibilidad futura del proyecto.</p>
-    </td>
-    <td>
-      <p>Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos.</p>
+<td>
+  <p><strong>Ariana Cecilia Agreda Sobrino</strong>
+
+– **AV1:** Emití juicios informados sobre el impacto social del diseño de interfaces, considerando la inclusión y accesibilidad como factores clave para distintos contextos.
+
+– **TB1:** Al desarrollar el Capítulo IV: Product Design, emití juicios informados sobre el impacto social de las interfaces, considerando que el diseño debía ser claro, accesible y usable para distintos tipos de usuarios.
+  </p>
+<br>
+
+  <p><strong>Claudia Valeria Belledonne Espinoza</strong> 
+
+– **AV1:** Evalué el impacto económico y competitivo de la solución, emitiendo juicios sobre la sostenibilidad del proyecto en el mercado.
+
+– **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, evalué el contexto competitivo y las necesidades del mercado, considerando el impacto económico y social que podía tener la solución propuesta.
+  </p>
+<br>
+
+  <p><strong>Mauricio Daniel Elera Rodríguez</strong> 
+
+– **AV1:** Consideré el impacto ambiental y social en la implementación, proponiendo prácticas de despliegue eficientes y seguras que redujeran riesgos.
+
+– **TB1:** Al desarrollar el Capítulo V: Product Implementation, consideré el impacto técnico y social de la implementación, priorizando una configuración ordenada, segura y eficiente para reducir riesgos en el uso del sistema.
+  </p>
+<br>
+
+  <p><strong>Ricardo Fernando Cárdenas Minaya</strong> 
+
+– **AV1:** Emití juicios informados sobre el impacto global de las entrevistas y el needfinding, asegurando que las soluciones fueran aplicables en distintos contextos.
+
+– **TB1:** Al desarrollar el Capítulo I: Introducción, emití juicios informados sobre el impacto social y económico del problema identificado, procurando que la propuesta de solución fuera realista y aplicable al contexto de los usuarios.
+  </p>
+<br>
+
+  <p><strong>Mariano Moisés Oblitas Dávila</strong>
+      
+– **AV1:** Evalué el impacto económico y organizacional de las especificaciones, considerando la viabilidad y sostenibilidad futura del proyecto.
+
+– **TB1:** Al trabajar el Capítulo III: Requirements Specification, evalué el impacto organizacional de las historias de usuario, backlog e impact mapping, asegurando que los requerimientos fueran viables y aportaran valor al proyecto.
+  </p>
+<br>
+
+</td> 
+<td> 
+    <p> – AV1: Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos. </p>
+        <p> - TB1: Como equipo, en la TB1 emitimos juicios informados considerando el impacto social, económico y organizacional de la solución. Esto nos permitió tomar decisiones más realistas, viables y alineadas con las necesidades de los usuarios y el contexto del proyecto.
+</p>
     </td>
   </tr>
 </table>
