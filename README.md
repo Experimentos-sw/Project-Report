@@ -4365,27 +4365,35 @@ Se seleccionó Azure como plataforma de despliegue por su facilidad de integraci
 ### 5.2.5. Implemented Native-Mobile Application Evidence
 
 **Login**
+
 ![imagemobile](img/mobile-implementation/signin-mobile.png)
 
 **Inicio**
+
 ![imagemobile](img/mobile-implementation/Inicio-mobile.png)
 
 **Administracion Personal**
+
 ![imagemobile](img/mobile-implementation/Administración-mobile.png)
 
 **Calendario**
+
 ![imagemobile](img/mobile-implementation/Calendario-mobile.png)
 
 **Payment y Planes**
+
 ![imagemobile](img/mobile-implementation/Configuración-mobile2.png)
 
 **Gestion Maquinaria**
+
 ![imagemobile](img/mobile-implementation/GestiónMaquinarias-mobile.png)
 
 **Gestion Producción**
+
 ![imagemobile](img/mobile-implementation/GestiónProduccion-mobile.png)
 
 **Gestion Repuestos**
+
 ![imagemobile](img/mobile-implementation/GestiónRepuestos-mobile.png)
 
 ### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
