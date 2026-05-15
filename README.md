@@ -210,6 +210,10 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 ![image](https://github.com/user-attachments/assets/510b30fb-c9e8-4ac0-b426-d7f35693e212)
 ![image](https://github.com/user-attachments/assets/afad32d5-78f0-4646-8f42-544b098a141b)
 
+
+**TB1**
+![image](https://github.com/user-attachments/assets/dd87e3a7-e848-491e-86bb-53c76ba9d5f6).
+
 ---
 
 # Contenido
