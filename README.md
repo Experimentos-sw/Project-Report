@@ -1959,6 +1959,10 @@ Landing Page en Inglés
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 
+![imagemobile](img/mobile-implementation/wireflowMobile1.png)
+
+![imagemobile](img/mobile-implementation/Wireflowmobile2.png)
+
 ### 4.4.3. Mobile Applications Mock-ups.
 
 **Login**
@@ -1994,6 +1998,12 @@ Landing Page en Inglés
 ![imagemobile](img/mobile-implementation/GestiónRepuestos-mobile.png)
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
+
+![imagemobile](img/mobile-implementation/userflowmobile1.png)
+
+![imagemobile](img/mobile-implementation/userflowmobile2.png)
+
+![imagemobile](img/mobile-implementation/userflowmobile3.png)
 
 ## 4.5. Mobile Applications Prototyping.
 
