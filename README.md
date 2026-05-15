@@ -4341,29 +4341,28 @@ Footer:
 ### 5.2.5. Implemented Native-Mobile Application Evidence
 
 **Login**
-![image](img/mobile-implementation/signin-mobile.png)
+![imagemobile](img/mobile-implementation/signin-mobile.png)
 
 **Inicio**
-![image](img/mobile-implementation/Inicio-mobile.png)
+![imagemobile](img/mobile-implementation/Inicio-mobile.png)
 
 **Administracion Personal**
-![image](img/mobile-implementation/Administración-mobile.png)
+![imagemobile](img/mobile-implementation/Administración-mobile.png)
 
 **Calendario**
-![image](img/mobile-implementation/Calendario-mobile.png)
+![imagemobile](img/mobile-implementation/Calendario-mobile.png)
 
 **Payment y Planes**
-![image](img/mobile-implementation/Configuración-mobile2.png)
+![imagemobile](img/mobile-implementation/Configuración-mobile2.png)
 
 **Gestion Maquinaria**
-![image](img/mobile-implementation/GestiónMaquinarias-mobile.png)
+![imagemobile](img/mobile-implementation/GestiónMaquinarias-mobile.png)
 
 **Gestion Producción**
-![image](img/mobile-implementation/GestiónProduccion-mobile.png)
+![imagemobile](img/mobile-implementation/GestiónProduccion-mobile.png)
 
 **Gestion Repuestos**
-![image](img/mobile-implementation/GestiónRepuestos-mobile.png)
-
+![imagemobile](img/mobile-implementation/GestiónRepuestos-mobile.png)
 
 ### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
@@ -4765,22 +4764,60 @@ Para lograr esto, se utilizó el framework de automatización **Cypress**, el cu
 # Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration
+<p>La Integración Continua (CI) es una práctica de desarrollo de software donde los miembros de nuestro equipo integran su trabajo frecuentemente en un repositorio compartido. Cada integración es verificada por una construcción automática para detectar errores de integración lo más rápido posible.</p>
 
 ### 7.1.1. Tools and Practices.
+<p>Para asegurar una integración fluida y un control de versiones riguroso, hemos implementado las siguientes herramientas y prácticas:</p>
+<ul>
+    <li><strong>GitHub:</strong> Utilizamos esta plataforma para el control de versiones, permitiéndonos gestionar ramas de desarrollo (development) y producción (main) de forma organizada.</li>
+    <li><strong>GitFlow:</strong> Aplicamos este diseño de flujo de trabajo para mantener una estructura clara en las ramas, facilitando el trabajo colaborativo y los procesos de <i>merge</i> en cada entrega.</li>
+</ul>
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+<p>El componente principal de nuestro pipeline de construcción y prueba incluye análisis automatizados para garantizar la calidad del código:</p>
+<ul>
+    <li><strong>GitHub Actions:</strong> Utilizamos flujos de trabajo automatizados en GitHub para ejecutar procesos de verificación cada vez que se realiza un <i>push</i> o un <i>pull request</i>, garantizando que el código sea compilable.</li>
+    <li><strong>Pruebas Unitarias:</strong> Implementamos suites de pruebas para entidades principales del sistema, asegurando que cada componente funcione correctamente de forma aislada antes de ser integrado.</li>
+</ul>
 
 ## 7.2. Continuous Delivery
+<p>La Entrega Continua (CD) es la capacidad de realizar cambios de cualquier tipo (nuevas características, configuraciones, correcciones de errores) en producción o en manos de los usuarios de manera segura y rápida.</p>
 
 ### 7.2.1. Tools and Practices.
+<p>Nuestras prácticas de entrega se centran en la automatización y eficiencia de los pipelines:</p>
+<ul>
+    <li><strong>Azure App Service (Continuous Deployment):</strong> Para el backend, hemos configurado un pipeline de despliegue continuo vinculado directamente a nuestro repositorio de GitHub. Azure detecta automáticamente los cambios en la rama principal, iniciando el proceso de <i>build</i> y <i>deploy</i> sin intervención manual.</li>
+    <li><strong>Azure Static Web Apps:</strong> Utilizado para el despliegue del frontend. Permite una integración nativa con GitHub, donde cada cambio verificado se refleja automáticamente en la URL pública de la aplicación web.</li>
+    <li><strong>Vercel:</strong> Para el Landing Page, practicamos la entrega continua mediante plataformas que ofrecen previsualizaciones automáticas y despliegues instantáneos tras la validación del código.</li>
+    <li><strong>Firebase App Distribution:</strong> En el desarrollo móvil, utilizamos esta herramienta para distribuir versiones de prueba de forma automatizada a los miembros del equipo, facilitando el ciclo de retroalimentación.</li>
+</ul>
 
 ### 7.2.2. Stages Deployment Pipeline Components.
+<p>El pipeline de entrega consta de las siguientes etapas críticas para validar el software antes de su liberación:</p>
+<ul>
+    <li><strong>Compilación (Build):</strong> El código fuente se compila y genera los artefactos necesarios para el entorno de pre-producción.</li>
+    <li><strong>Entorno de Staging (Pre-producción):</strong> Antes de la entrega final, el software se despliega en un entorno idéntico a producción para realizar pruebas de validación con usuarios beta.</li>
+    <li><strong>Validación de QA:</strong> Fase donde se ejecutan pruebas de integración y regresión para confirmar que no se han introducido errores nuevos en el sistema existente.</li>
+</ul>
 
 ## 7.3. Continuous deployment
+<p>El Despliegue Continuo lleva la automatización un paso más allá, donde cada cambio que pasa todas las etapas de producción se despliega automáticamente en el entorno final sin intervención manual humana.</p>
 
 ### 7.3.1. Tools and Practices.
+<p>Para lograr un despliegue sin fricciones en producción, utilizamos las siguientes prácticas:</p>
+<ul>
+    <li><strong>Azure Static Web Apps / Vercel:</strong> Herramientas utilizadas para el despliegue automatizado de nuestra Landing Page y aplicaciones frontend directamente desde los lanzamientos (releases) de GitHub.</li>
+    <li><strong>Automated Cloud Deployment:</strong> Gracias a la conexión entre GitHub y Azure, el proceso de <i>build</i> y <i>deploy</i> es totalmente automático. Al realizar un <i>merge</i> a la rama principal, el sistema se encarga de actualizar los servicios en la nube en cuestión de minutos.</li>
+</ul>
 
 ### 7.3.2. Production Deployment Pipeline Components.
+<p>Los componentes clave para el despliegue seguro en el entorno real son:</p>
+<ul>
+    <li><strong>Production Environment:</strong> El entorno final donde los usuarios acceden a la plataforma de gestión de activos.</li>
+    <li><strong>Monitoreo Continuo:</strong> Una vez desplegado, supervisamos constantemente el rendimiento y la estabilidad para detectar anomalías en tiempo real.</li>
+    <li><strong>Mecanismo de Reversión (Rollback):</strong> Contamos con la capacidad de revertir rápidamente a una versión anterior estable en caso de detectar fallas críticas post-despliegue en producción.</li>
+</ul>
+
 
 # Conclusiones
 
