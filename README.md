@@ -213,6 +213,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 <br>
 
 **TB1**
+
+
 ![image](https://github.com/user-attachments/assets/dd87e3a7-e848-491e-86bb-53c76ba9d5f6).
 
 ---
