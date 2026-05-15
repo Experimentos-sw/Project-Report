@@ -4242,6 +4242,10 @@ Footer:
 
 ![image](/img/landing-sprint/footer1.png)
 
+Proceso de despliegue:
+
+<br>
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
 **Machinery Manager View**
@@ -4289,6 +4293,26 @@ Footer:
 
 **Login**
 ![alt text](img/sprint2/img12.png)
+
+<br>
+
+Proceso de despliegue:
+
+1. Crear nuevo recurso SPA dentro de mismo grupo de recursos
+
+Se seleccionó Azure como plataforma de despliegue por su facilidad de integración con herramientas de desarrollo y CI/CD. Las principales acciones realizadas fueron:
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/af2d3666-636d-4a5e-9054-78c3c2d359a8" />
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/5ee0888c-2466-4a2e-a9c1-94529608f4ef" />
+
+2. Configuración de Repositorios y Automatización de Deployment (CI/CD)
+<img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/9ab2d96d-fdb6-4d47-aa96-d5015d11bc6a" />
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/d3030575-4840-4ac5-bee1-2fe8e97e147a" />
+
+3. Deployment de la Aplicación Web
+<img width="872" height="253" alt="image" src="https://github.com/user-attachments/assets/ca884187-858d-4374-a144-3813911bbe7d" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/114c3112-a378-4548-8d3b-8cd19c7d88ef" />
+
+<br>
 
 ### 5.2.4. Acuerdo de Servicio - SaaS
 
@@ -4383,6 +4407,30 @@ Footer:
 **Evidencia 4: Obtener métricas de maquinaria**
 ![image](https://github.com/user-attachments/assets/d8829fad-f539-4e0a-876c-3b7fcd21c1f2)
 ![image](https://github.com/user-attachments/assets/75f24a42-e25d-4224-9341-7e9bee568820)
+
+<br>
+
+Proceso de despliegue:
+
+- Creacion de recurso de base de datos en Azure
+<img width="704" height="569" alt="image" src="https://github.com/user-attachments/assets/e6f45d05-4f5d-4b9e-a0b5-29356618a35d" />
+<img width="665" height="592" alt="image" src="https://github.com/user-attachments/assets/01aac897-581b-4023-9eed-f7098eb14dd8" />
+
+- Configuracion del proyecto para despliegue y evidencias
+<img width="487" height="530" alt="image" src="https://github.com/user-attachments/assets/e228873d-65e7-4983-b0f3-0104e5d212df" />
+<img width="495" height="307" alt="image" src="https://github.com/user-attachments/assets/eb101ecf-e999-4ed9-b189-b13c301787d3" />
+<img width="701" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb64704-0715-4cdf-914b-b9d3b8a68b80" />
+<img width="705" height="241" alt="image" src="https://github.com/user-attachments/assets/251bcb56-d5a4-467d-bfa4-c615c9210b34" />
+
+- Configuración de recurso en Azure
+<img width="506" height="628" alt="image" src="https://github.com/user-attachments/assets/9f9d9360-0046-46f9-87d5-1cfd8e0ddd29" />
+<img width="581" height="606" alt="image" src="https://github.com/user-attachments/assets/0df1be44-78c0-43e5-b2e8-c8a33727382a" />
+<img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/ced4fe02-3e4e-4e9f-8929-f3b0b853b91f" />
+<img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/d54e8e25-0f24-4780-bfb8-541497502fd9" />
+<img width="679" height="391" alt="image" src="https://github.com/user-attachments/assets/9e4f432a-c31e-45f4-bb2e-08816af652f4" />
+<img width="696" height="335" alt="image" src="https://github.com/user-attachments/assets/80c3ed80-2a25-416f-a22a-b2884aa81598" />
+
+<br>
 
 ### 5.2.7. RESTful API documentation
 
