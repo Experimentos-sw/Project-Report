@@ -4210,7 +4210,30 @@ Footer:
 
 ### 5.2.5. Implemented Native-Mobile Application Evidence
 
-**Evidencia 1: Registro**
+**Login**
+![image](img/mobile-implementation/signin-mobile.png)
+
+**Inicio**
+![image](img/mobile-implementation/Inicio-mobile.png)
+
+**Administracion Personal**
+![image](img/mobile-implementation/Administración-mobile.png)
+
+**Calendario**
+![image](img/mobile-implementation/Calendario-mobile.png)
+
+**Payment y Planes**
+![image](img/mobile-implementation/Configuración-mobile2.png)
+
+**Gestion Maquinaria**
+![image](img/mobile-implementation/GestiónMaquinarias-mobile.png)
+
+**Gestion Producción**
+![image](img/mobile-implementation/GestiónProduccion-mobile.png)
+
+**Gestion Repuestos**
+![image](img/mobile-implementation/GestiónRepuestos-mobile.png)
+
 
 ### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
