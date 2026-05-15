@@ -198,44 +198,116 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 [Capítulo IV: Product Design](#capítulo-iv-product-design)
 
-- [4.1. Style Guidelines.](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
-  - [4.1.3. Mobile Style Guidelines.](#413-mobile-style-guidelines)
-    - [4.1.3.1. iOS Mobile Style Guidelines.](#4131-ios-mobile-style-guidelines)
-    - [4.1.3.2. Android Mobile Style Guidelines.](#4132-android-mobile-style-guidelines)
-- [4.2. Information Architecture.](#42-information-architecture)
-  - [4.2.1. Organization Systems.](#421-organization-systems)
-  - [4.2.2. Labeling Systems.](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems.](#424-searching-systems)
-  - [4.2.5. Navigation Systems.](#425-navigation-systems)
-- [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
-- [4.4. Mobile Applications UX/UI Design.](#44-mobile-applications-uxui-design)
-  - [4.4.1. Mobile Applications Wireframes.](#441-mobile-applications-wireframes)
-  - [4.4.2. Mobile Applications Wireflow Diagrams.](#442-mobile-applications-wireflow-diagrams)
-  - [4.4.3. Mobile Applications Mock-ups.](#443-mobile-applications-mock-ups)
-  - [4.4.4. Mobile Applications User Flow Diagrams.](#444-mobile-applications-user-flow-diagrams)
-- [4.5. Mobile Applications Prototyping.](#45-mobile-applications-prototyping)
-  - [4.5.1. Android Mobile Applications Prototyping.](#451-android-mobile-applications-prototyping)
-  - [4.5.2. iOS Mobile Applications Prototyping.](#452-ios-mobile-applications-prototyping)
-- [4.6. Web Applications UX/UI Design.](#46-web-applications-uxui-design)
-  - [4.6.1. Web Applications Wireframes.](#461-web-applications-wireframes)
-  - [4.6.2. Web Applications Wireflow Diagrams.](#462-web-applications-wireflow-diagrams)
-  - [4.6.3. Web Applications Mock-ups.](#463-web-applications-mock-ups)
-  - [4.6.4. Web Applications User Flow Diagrams.](#464-web-applications-user-flow-diagrams)
-- [4.7. Web Applications Prototyping.](#47-web-applications-prototyping)
-- [4.8. Domain-Driven Software Architecture.](#48-domain-driven-software-architecture)
-  - [4.8.1. Software Architecture Context Diagram.](#481-software-architecture-context-diagram)
-  - [4.8.2. Software Architecture Container Diagrams.](#482-software-architecture-container-diagrams)
-  - [4.8.3. Software Architecture Components Diagrams.](#483-software-architecture-components-diagrams)
-- [4.9. Software Object-Oriented Design.](#49-software-object-oriented-design)
-  - [4.9.1. Class Diagrams.](#491-class-diagrams)
-  - [4.9.2. Class Dictionary.](#492-class-dictionary)
-- [4.10. Database Design.](#410-database-design)
-  - [4.10.1. Relational/Non-Relational Database Diagram.](#4101-relationalnon-relational-database-diagram)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Github Collaboration Insights](#github-collaboration-insights)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.4. Impact Mapping.](#34-impact-mapping)
+  - [3.3. Product Backlog.](#33-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+    - [4.1.3. Mobile Style Guidelines.](#413-mobile-style-guidelines)
+      - [4.1.3.1. iOS Mobile Style Guidelines.](#4131-ios-mobile-style-guidelines)
+      - [4.1.3.2. Android Mobile Style Guidelines.](#4132-android-mobile-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Mobile Applications UX/UI Design.](#44-mobile-applications-uxui-design)
+    - [4.4.1. Mobile Applications Wireframes.](#441-mobile-applications-wireframes)
+    - [4.4.2. Mobile Applications Wireflow Diagrams.](#442-mobile-applications-wireflow-diagrams)
+    - [4.4.3. Mobile Applications Mock-ups.](#443-mobile-applications-mock-ups)
+    - [4.4.4. Mobile Applications User Flow Diagrams.](#444-mobile-applications-user-flow-diagrams)
+  - [4.5. Mobile Applications Prototyping.](#45-mobile-applications-prototyping)
+    - [4.5.1. Android Mobile Applications Prototyping.](#451-android-mobile-applications-prototyping)
+    - [4.5.2. iOS Mobile Applications Prototyping.](#452-ios-mobile-applications-prototyping)
+  - [4.6. Web Applications UX/UI Design.](#46-web-applications-uxui-design)
+    - [4.6.1. Web Applications Wireframes.](#461-web-applications-wireframes)
+    - [4.6.2. Web Applications Wireflow Diagrams.](#462-web-applications-wireflow-diagrams)
+    - [4.6.3. Web Applications Mock-ups.](#463-web-applications-mock-ups)
+    - [4.6.4. Web Applications User Flow Diagrams.](#464-web-applications-user-flow-diagrams)
+  - [4.7. Web Applications Prototyping.](#47-web-applications-prototyping)
+  - [4.8. Domain-Driven Software Architecture.](#48-domain-driven-software-architecture)
+    - [4.8.1. Software Architecture Context Diagram.](#481-software-architecture-context-diagram)
+    - [4.8.2. Software Architecture Container Diagrams.](#482-software-architecture-container-diagrams)
+    - [4.8.3. Software Architecture Components Diagrams.](#483-software-architecture-components-diagrams)
+  - [4.9. Software Object-Oriented Design.](#49-software-object-oriented-design)
+    - [4.9.1. Class Diagrams.](#491-class-diagrams)
+    - [4.9.2. Class Dictionary.](#492-class-dictionary)
+  - [4.10. Database Design.](#410-database-design)
+    - [4.10.1. Relational/Non-Relational Database Diagram.](#4101-relationalnon-relational-database-diagram)
+- [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Product Implementation \& Deployment.](#52-product-implementation--deployment)
+    - [5.2.1. Sprint Backlogs.](#521-sprint-backlogs)
+    - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
+    - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
+      - [Machinery Form View](#machinery-form-view)
+    - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio---saas)
+    - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
+    - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
+    - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
+    - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
+  - [5.3. Video About-the-Product.](#53-video-about-the-product)
+- [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
+  - [6.1. Testing Suites \& Validation](#61-testing-suites--validation)
+    - [6.1.1. Core Entities Unit Tests.](#611-core-entities-unit-tests)
+    - [6.1.2. Core Integration Tests.](#612-core-integration-tests)
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4. Core System Tests.](#614-core-system-tests)
+- [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
+  - [7.1. Continuous Integration](#71-continuous-integration)
+    - [7.1.1. Tools and Practices.](#711-tools-and-practices)
+    - [7.1.2. Build \& Test Suite Pipeline Components.](#712-build--test-suite-pipeline-components)
+  - [7.2. Continuous Delivery](#72-continuous-delivery)
+    - [7.2.1. Tools and Practices.](#721-tools-and-practices)
+    - [7.2.2. Stages Deployment Pipeline Components.](#722-stages-deployment-pipeline-components)
+  - [7.3. Continuous deployment](#73-continuous-deployment)
+    - [7.3.1. Tools and Practices.](#731-tools-and-practices)
+    - [7.3.2. Production Deployment Pipeline Components.](#732-production-deployment-pipeline-components)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
 
@@ -4090,7 +4162,55 @@ Footer:
 
 ### 5.2.4. Acuerdo de Servicio - SaaS
 
+<p>Este acuerdo regula el uso de la plataforma <strong>Mecanaut</strong>, propiedad de <strong>AwawaTech</strong>, y establece los términos bajo los cuales las empresas (clientes) y sus usuarios (administradores y técnicos) acceden a nuestros servicios.</p>
+
+<h4> 1. Definición del Servicio </h4>
+
+<p>Mecanaut es una solución de software como servicio que permite la gestión de activos, planificación de mantenimiento preventivo/correctivo y análisis de KPIs industriales. El servicio se presta a través de una aplicación web y herramientas de visualización de datos.</p>
+
+<h4> 2. Planes de Suscripción y Pago </h4>
+
+<p>El acceso al servicio está sujeto a la selección de uno de los siguientes planes detallados en nuestro Product Design:</p>
+<ul>
+    <li><strong>Plan Gratuito:</strong> Hasta 10 activos y 1 perfil de administrador.</li>
+    <li><strong>Plan Profesional:</strong> Hasta 50 activos y 5 administradores, incluyendo mantenimiento preventivo.</li>
+    <li><strong>Plan Enterprise:</strong> Activos y usuarios ilimitados con personalización avanzada.</li>
+    <li><strong>Facturación:</strong> Los pagos se realizan de forma mensual o anual según lo contratado.</li>
+</ul>
+
+<h4> 3. Responsabilidades del Usuario </h4>
+
+<ul>
+    <li><strong>Administradores:</strong> Son responsables de la veracidad de los datos de maquinaria, líneas de producción e inventario de repuestos registrados.</li>
+    <li><strong>Técnicos:</strong> Responsables del registro preciso de evidencias (fotos, comentarios) y cierre de órdenes de trabajo.</li>
+    <li><strong>Seguridad:</strong> El usuario es responsable de mantener la confidencialidad de sus credenciales de acceso.</li>
+</ul>
+
+<h4> 4. Propiedad Intelectual y Datos </h4>
+
+<ul>
+    <li><strong>Propiedad del Software:</strong> AwawaTech conserva todos los derechos sobre el código fuente, diseño y arquitectura de Mecanaut.</li>
+    <li><strong>Datos del Cliente:</strong> Los datos de activos y reportes generados pertenecen al cliente, pero Mecanaut tiene permiso para procesarlos con el fin de generar indicadores de desempeño (KPIs) como MTTR y MTBF.</li>
+</ul>
+
+<h4> 5. Disponibilidad y Soporte (SLA) </h4>
+
+<ul>
+    <li><strong>Disponibilidad:</strong> Mecanaut se compromete a mantener la plataforma operativa para garantizar la continuidad de las líneas de producción.</li>
+    <li><strong>Soporte:</strong> Se brindará soporte constante y asesoría en la implementación para mitigar la resistencia al cambio tecnológico.</li>
+</ul>
+
+<h4> 6. Limitación de Responsabilidad </h4>
+
+<p>Mecanaut ayuda a optimizar procesos, pero no se hace responsable por fallas mecánicas directas de la maquinaria o paradas de planta derivadas de una mala programación manual por parte de los administradores del cliente.</p>
+
+<h4> 7. Terminación del Servicio </h4>
+
+<p>El cliente puede cancelar su suscripción en cualquier momento. Al terminar la relación, el cliente tendrá un periodo de 30 días para exportar su historial de mantenimiento y activos antes de que la información sea eliminada de nuestros servidores activos.</p>
+
 ### 5.2.5. Implemented Native-Mobile Application Evidence
+
+**Evidencia 1: Registro**
 
 ### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
