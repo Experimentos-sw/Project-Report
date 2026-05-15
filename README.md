@@ -1999,7 +1999,15 @@ Landing Page en Inglés
 
 ### 4.5.1. Android Mobile Applications Prototyping.
 
+![imagemobile](img/mobile-implementation/mobilePrototype.png)
+
+https://www.figma.com/proto/SPFLusYscd4LBDsEJfKp7m/Mecanaut?node-id=4081-3291&p=f&t=NfbOLlRSAoIwoFUM-1&scaling=scale-down&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=4081%3A3291&show-proto-sidebar=1
+
 ### 4.5.2. iOS Mobile Applications Prototyping.
+
+![imagemobile](img/mobile-implementation/mobilePrototype.png)
+
+https://www.figma.com/proto/SPFLusYscd4LBDsEJfKp7m/Mecanaut?node-id=4081-3291&p=f&t=WJzrbO7GPOyKdbCv-1&scaling=scale-down&content-scaling=fixed&page-id=344%3A4100&starting-point-node-id=4081%3A3291&show-proto-sidebar=1
 
 ## 4.6. Web Applications UX/UI Design.
 
