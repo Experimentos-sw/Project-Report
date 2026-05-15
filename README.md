@@ -1943,9 +1943,55 @@ Landing Page en Inglés
 
 ### 4.4.1. Mobile Applications Wireframes.
 
+<img src="img/mobile-implementation/Inicio de Sesión.png"><br>
+
+<img src="img/mobile-implementation/Inicio.png"><br>
+
+<img src="img/mobile-implementation/Calendario Mensual.png"><br>
+
+<img src="img/mobile-implementation/Gestión de Repuestos.png"><br>
+
+<img src="img/mobile-implementation/Gestión de Líneas de Producción.png"><br>
+
+<img src="img/mobile-implementation/Gestión de Maquinarias.png"><br>
+
+<img src="img/mobile-implementation/Nueva Línea de Producción (Modal).png"><br>
+
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 
 ### 4.4.3. Mobile Applications Mock-ups.
+
+**Login**
+
+![imagemobile](img/mobile-implementation/signin-mobile.png)
+
+**Inicio**
+
+![imagemobile](img/mobile-implementation/Inicio-mobile.png)
+
+**Administracion Personal**
+
+![imagemobile](img/mobile-implementation/Administración-mobile.png)
+
+**Calendario**
+
+![imagemobile](img/mobile-implementation/Calendario-mobile.png)
+
+**Payment y Planes**
+
+![imagemobile](img/mobile-implementation/Configuración-mobile2.png)
+
+**Gestion Maquinaria**
+
+![imagemobile](img/mobile-implementation/GestiónMaquinarias-mobile.png)
+
+**Gestion Producción**
+
+![imagemobile](img/mobile-implementation/GestiónProduccion-mobile.png)
+
+**Gestion Repuestos**
+
+![imagemobile](img/mobile-implementation/GestiónRepuestos-mobile.png)
 
 ### 4.4.4. Mobile Applications User Flow Diagrams.
 
@@ -4370,31 +4416,19 @@ Se seleccionó Azure como plataforma de despliegue por su facilidad de integraci
 
 **Inicio**
 
-![imagemobile](img/mobile-implementation/Inicio-mobile.png)
+![imagemobile](img/mobile-implementation/inicioMobileApp.png)
 
 **Administracion Personal**
 
 ![imagemobile](img/mobile-implementation/Administración-mobile.png)
 
-**Calendario**
+**Administracion Repuestos**
 
-![imagemobile](img/mobile-implementation/Calendario-mobile.png)
+![imagemobile](img/mobile-implementation/mobile.png)
 
-**Payment y Planes**
-
-![imagemobile](img/mobile-implementation/Configuración-mobile2.png)
-
-**Gestion Maquinaria**
+**Administracion Maquinas**
 
 ![imagemobile](img/mobile-implementation/GestiónMaquinarias-mobile.png)
-
-**Gestion Producción**
-
-![imagemobile](img/mobile-implementation/GestiónProduccion-mobile.png)
-
-**Gestion Repuestos**
-
-![imagemobile](img/mobile-implementation/GestiónRepuestos-mobile.png)
 
 ### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
