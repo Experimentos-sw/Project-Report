@@ -105,6 +105,66 @@
         <td>Equipo de proyecto</td>
         <td>Entrega del AV1: integración final de todos los capítulos y revisión conjunta.</td>
     </tr>
+    <tr>
+    <td>1.1</td>
+    <td>10/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Actualización del Capítulo III: Requirements Specification, incluyendo mejoras en To-Be Scenario Mapping, User Stories, Product Backlog e Impact Mapping, alineando los requerimientos con los objetivos del producto.</td>
+</tr>
+<tr>
+    <td>1.2</td>
+    <td>11/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Avance del Capítulo V: configuración del entorno de desarrollo, organización del despliegue del software e implementación de evidencias del frontend web y landing page.</td>
+</tr>
+<tr>
+    <td>1.3</td>
+    <td>11/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Revisión y mejora de la arquitectura del software, corrección de diagramas C4 y apoyo en la documentación de gestión de código fuente y convenciones del proyecto.</td>
+</tr>
+<tr>
+    <td>1.4</td>
+    <td>12/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Actualización de diagramas de clases, fortalecimiento del diseño orientado a objetos y avance en la implementación del backend y sus evidencias técnicas.</td>
+</tr>
+<tr>
+    <td>1.5</td>
+    <td>12/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Avance en la implementación de microservicios, documentación de API RESTful y organización de evidencias relacionadas con los servicios backend del sistema.</td>
+</tr>
+<tr>
+    <td>1.6</td>
+    <td>13/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Desarrollo del Capítulo VI: Product Verification & Validation, incorporando pruebas unitarias, pruebas de integración, pruebas BDD y pruebas de sistema.</td>
+</tr>
+<tr>
+    <td>1.7</td>
+    <td>13/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Actualización del Capítulo V con Sprint Backlogs, evidencias de implementación web, móvil, backend, acuerdo de servicio SaaS y colaboración del equipo.</td>
+</tr>
+<tr>
+    <td>1.8</td>
+    <td>14/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Incorporación del Capítulo VII: DevOps Practices, incluyendo prácticas de integración continua, entrega continua, despliegue continuo y componentes de pipelines.</td>
+</tr>
+<tr>
+    <td>1.9</td>
+    <td>14/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Avance de conclusiones, bibliografía y anexos, integrando las evidencias finales del producto, validación, despliegue y trabajo colaborativo del equipo.</td>
+</tr>
+<tr>
+    <td>2.0</td>
+    <td>14/05/2025</td>
+    <td>Equipo de proyecto</td>
+    <td>Consolidación final del informe con los avances de los capítulos III, V, VI y VII, asegurando coherencia entre requerimientos, implementación, validación y prácticas DevOps.</td>
+</tr>
 </table>
 
 <br>
