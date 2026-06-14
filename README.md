@@ -222,50 +222,6 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 # Contenido
 
-[Student Outcome](#student-outcome)
-
-[Capítulo I: Introducción](#capítulo-i-introducción)
-
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2. Lean UX Process.](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-
-[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation-analysis)
-
-- [2.1. Competidores.](#21-competidores)
-  - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-- [2.2. Entrevistas.](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
-- [2.3. Needfinding.](#23-needfinding)
-  - [2.3.1. User Personas.](#231-user-personas)
-  - [2.3.2. User Task Matrix.](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
-  - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
-- [2.4. Ubiquitous Language.](#24-ubiquitous-language)
-
-[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-
-- [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-- [3.2. User Stories.](#32-user-stories)
-- [3.3. Product Backlog.](#33-product-backlog)
-- [3.4. Impact Mapping.](#34-impact-mapping)
-
-[Avance de Conclusiones, Bibliografía y Anexos.](#avance-de-conclusiones-bibliografía-y-anexos)
-
-[Capítulo IV: Product Design](#capítulo-iv-product-design)
-
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [Github Collaboration Insights](#github-collaboration-insights)
 - [Contenido](#contenido)
@@ -344,82 +300,81 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Product Implementation \& Deployment.](#52-product-implementation--deployment)
+  - [5.2. Product Implementation & Deployment.](#52-product-implementation--deployment)
     - [5.2.1. Sprint Backlogs.](#521-sprint-backlogs)
     - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
     - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-      - [Machinery Form View](#machinery-form-view)
     - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio---saas)
     - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
     - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
     - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
     - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
   - [5.3. Video About-the-Product.](#53-video-about-the-product)
-- [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
-  - [6.1. Testing Suites \& Validation](#61-testing-suites--validation)
+- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
+  - [6.1. Testing Suites & Validation](#61-testing-suites--validation)
     - [6.1.1. Core Entities Unit Tests.](#611-core-entities-unit-tests)
     - [6.1.2. Core Integration Tests.](#612-core-integration-tests)
     - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
     - [6.1.4. Core System Tests.](#614-core-system-tests)
+  - [6.2. Static testing & Verification](#62-static-testing--verification)
+    - [6.2.1. Static Code Analysis](#621-static-code-analysis)
+      - [6.2.1.1. Coding standard & Code conventions.](#6211-coding-standard--code-conventions)
+      - [6.2.1.2. Code Quality & Code Security.](#6212-code-quality--code-security)
+    - [6.2.2. Reviews](#622-reviews)
+  - [6.3. Validation Interviews.](#63-validation-interviews)
+    - [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
+    - [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-según-heurísticas)
+  - [6.4. Auditoría de Experiencias de Usuario.](#64-auditoría-de-experiencias-de-usuario)
+    - [6.4.1. Auditoría realizada.](#641-auditoría-realizada)
+      - [6.4.1.1. Información del grupo auditado.](#6411-información-del-grupo-auditado)
+      - [6.4.1.2. Cronograma de auditoría realizada.](#6412-cronograma-de-auditoría-realizada)
+      - [6.4.1.3. Contenido de auditoría realizada.](#6413-contenido-de-auditoría-realizada)
+    - [6.4.2. Auditoría recibida.](#642-auditoría-recibida)
+      - [6.4.2.1. Información del grupo auditor.](#6421-información-del-grupo-auditor)
+      - [6.4.2.2. Cronograma de auditoría recibida.](#6422-cronograma-de-auditoría-recibida)
+      - [6.4.2.3. Contenido de auditoría recibida.](#6423-contenido-de-auditoría-recibida)
+      - [6.4.2.4. Resumen de modificaciones para subsanar hallazgos.](#6424-resumen-de-modificaciones-para-subsanar-hallazgos)
 - [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
   - [7.1. Continuous Integration](#71-continuous-integration)
     - [7.1.1. Tools and Practices.](#711-tools-and-practices)
-    - [7.1.2. Build \& Test Suite Pipeline Components.](#712-build--test-suite-pipeline-components)
+    - [7.1.2. Build & Test Suite Pipeline Components.](#712-build--test-suite-pipeline-components)
   - [7.2. Continuous Delivery](#72-continuous-delivery)
     - [7.2.1. Tools and Practices.](#721-tools-and-practices)
     - [7.2.2. Stages Deployment Pipeline Components.](#722-stages-deployment-pipeline-components)
   - [7.3. Continuous deployment](#73-continuous-deployment)
     - [7.3.1. Tools and Practices.](#731-tools-and-practices)
     - [7.3.2. Production Deployment Pipeline Components.](#732-production-deployment-pipeline-components)
+  - [7.4. Continuous Monitoring](#74-continuous-monitoring)
+    - [7.4.1. Tools and Practices](#741-tools-and-practices)
+    - [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components)
+    - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)
+    - [7.4.4. Notification Pipeline Components.](#744-notification-pipeline-components)
+- [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+  - [8.1. Experiment Planning](#81-experiment-planning)
+    - [8.1.1. As-Is Summary.](#811-as-is-summary)
+    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [8.1.3. Experiment-Ready Questions.](#813-experiment-ready-questions)
+    - [8.1.4. Question Backlog.](#814-question-backlog)
+    - [8.1.5. Experiment Cards.](#815-experiment-cards)
+  - [8.2. Experiment Design](#82-experiment-design)
+    - [8.2.1. Hypotheses.](#821-hypotheses)
+    - [8.2.2. Domain Business Metrics](#822-domain-business-metrics)
+    - [8.2.3. Measures.](#823-measures)
+    - [8.2.4. Conditions.](#824-conditions)
+    - [8.2.5. Scale Calculations and Decisions.](#825-scale-calculations-and-decisions)
+    - [8.2.6. Methods Selection.](#826-methods-selection)
+    - [8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.](#827-data-analytics-goals-kpis-and-metrics-selection)
+    - [8.2.8. Web and Mobile Tracking Plan.](#828-web-and-mobile-tracking-plan)
+  - [8.3. Experimentation](#83-experimentation)
+    - [8.3.1. To-Be User Stories.](#831-to-be-user-stories)
+    - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-[Capítulo V: Product Implementation](#capítulo-v-product-implementation)
-
-- [5.1. Software Configuration Management.](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management.](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide-conventions)
-  - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-- [5.2. Product Implementation & Deployment.](#52-product-implementation-deployment)
-  - [5.2.1. Sprint Backlogs.](#521-sprint-backlogs)
-  - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
-  - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-  - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio-saas)
-  - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
-  - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
-  - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
-  - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
-- [5.3. Video About-the-Product.](#53-video-about-the-product)
-
-[Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-validation)
-
-- [6.1. Testing Suites & Validation](#61-testing-suites-validation)
-  - [6.1.1. Core Entities Unit Tests.](#611-core-entities-unit-tests)
-  - [6.1.2. Core Integration Tests.](#612-core-integration-tests)
-  - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
-  - [6.1.4. Core System Tests.](#614-core-system-tests)
-
-[Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
-
-- [7.1. Continuous Integration](#71-continuous-integration)
-  - [7.1.1. Tools and Practices.](#711-tools-and-practices)
-  - [7.1.2. Build & Test Suite Pipeline Components.](#712-build-test-suite-pipeline-components)
-- [7.2. Continuous Delivery](#72-continuous-delivery)
-  - [7.2.1. Tools and Practices.](#721-tools-and-practices)
-  - [7.2.2. Stages Deployment Pipeline Components.](#722-stages-deployment-pipeline-components)
-- [7.3. Continuous deployment](#73-continuous-deployment)
-  - [7.3.1. Tools and Practices.](#731-tools-and-practices)
-  - [7.3.2. Production Deployment Pipeline Components.](#732-production-deployment-pipeline-components)
-
-[Conclusiones](#conclusiones)
-
-[Bibliografía](#bibliografía)
-
-[Anexos](#anexos)
 
 ---
 
@@ -637,6 +592,8 @@ Dueños de empresas y administradores del sector productor textil, que ya recono
 - Técnico operativo de activos
 
 <br>
+
+#### 1.2.2.2. Lean UX Assumptions.
 
 **User outcomes:**  
 **¿Quién es el usuario?**
@@ -4909,9 +4866,47 @@ Para lograr esto, se utilizó el framework de automatización **Cypress**, el cu
 | **Flujo:** Registro completo de Activos en Planta (Aplicación Móvil - US01)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Descripción:** Para dar cumplimiento a la validación integral del sistema en diferentes entornos, este escenario simula la interacción _End-to-End_ en la aplicación móvil desarrollada con Flutter/Dart. Utilizando el framework nativo `integration_test` y configurando una resolución de pantalla adaptativa para el emulador, se automatiza el comportamiento de un Administrador desde el trabajo de campo. El script valida el flujo secuencial y dependiente: inicio de sesión seguro (US22), creación de una Planta, creación de una Línea de Producción, y finalmente, el registro de una Maquinaria (US01). La prueba asegura que la interfaz nativa procese los formularios correctamente, se comunique con la API de .NET (validando las respuestas HTTP 201 Created) y renderice los mensajes de éxito (`SnackBar`) sin errores de ciclo de vida. |
 | **Código de la Prueba:**<br><br> <img src="img/testing/e2e_mobile_codigo.png" alt="Código Flutter E2E US01">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Ejecución de la Prueba:**<br> https://youtu.be/QSfOc5dEHPo <br> <img src="img/testing/e2e_mobile_ejecucion.png" alt="Ejecución Flutter E2E en Emulador">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
+| **Ejecución de la Prueba:**<br> https://youtu.be/QSfOc5dEHPo <br> <img src="img/testing/e2e_mobile_ejecucion.png" alt="Ejecución Flutter E2E en Emulador">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 <br>
+
+## 6.2. Static testing & Verification
+
+### 6.2.1. Static Code Analysis
+
+#### 6.2.1.1. Coding standard & Code conventions.
+
+#### 6.2.1.2. Code Quality & Code Security.
+
+### 6.2.2. Reviews
+
+## 6.3. Validation Interviews.
+
+### 6.3.1. Diseño de Entrevistas.
+
+### 6.3.2. Registro de Entrevistas.
+
+### 6.3.3. Evaluaciones según heurísticas.
+
+## 6.4. Auditoría de Experiencias de Usuario.
+
+### 6.4.1. Auditoría realizada.
+
+#### 6.4.1.1. Información del grupo auditado.
+
+#### 6.4.1.2. Cronograma de auditoría realizada.
+
+#### 6.4.1.3. Contenido de auditoría realizada.
+
+### 6.4.2. Auditoría recibida.
+
+#### 6.4.2.1. Información del grupo auditor.
+
+#### 6.4.2.2. Cronograma de auditoría recibida.
+
+#### 6.4.2.3. Contenido de auditoría recibida.
+
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4971,6 +4966,60 @@ Para lograr esto, se utilizó el framework de automatización **Cypress**, el cu
     <li><strong>Monitoreo Continuo:</strong> Una vez desplegado, supervisamos constantemente el rendimiento y la estabilidad para detectar anomalías en tiempo real.</li>
     <li><strong>Mecanismo de Reversión (Rollback):</strong> Contamos con la capacidad de revertir rápidamente a una versión anterior estable en caso de detectar fallas críticas post-despliegue en producción.</li>
 </ul>
+
+## 7.4. Continuous Monitoring
+
+### 7.4.1. Tools and Practices
+
+### 7.4.2. Monitoring Pipeline Components
+
+### 7.4.3. Alerting Pipeline Components
+
+### 7.4.4. Notification Pipeline Components.
+
+
+<div style="page-break-after: always;"></div>
+
+# Capítulo VIII: Experiment-Driven Development
+
+## 8.1. Experiment Planning
+
+### 8.1.1. As-Is Summary.
+
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+
+### 8.1.3. Experiment-Ready Questions.
+
+### 8.1.4. Question Backlog.
+
+### 8.1.5. Experiment Cards.
+
+## 8.2. Experiment Design
+
+### 8.2.1. Hypotheses.
+
+### 8.2.2. Domain Business Metrics
+
+### 8.2.3. Measures.
+
+### 8.2.4. Conditions.
+
+### 8.2.5. Scale Calculations and Decisions.
+
+### 8.2.6. Methods Selection.
+
+### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
+
+### 8.2.8. Web and Mobile Tracking Plan.
+
+## 8.3. Experimentation
+
+### 8.3.1. To-Be User Stories.
+
+### 8.3.2. To-Be Product Backlog
+
+
+<div style="page-break-after: always;"></div>
 
 
 # Conclusiones
