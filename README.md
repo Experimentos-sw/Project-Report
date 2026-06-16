@@ -5183,13 +5183,64 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 
 ## 7.4. Continuous Monitoring
 
+El monitoreo continuo es una práctica fundamental en el ciclo de vida del desarrollo de software que garantiza la alta disponibilidad, estabilidad y rendimiento de las aplicaciones en entornos de producción. Mediante la supervisión automatizada y constante de la infraestructura y los servicios, es posible identificar anomalías de manera proactiva antes de que impacten directamente en la experiencia del usuario final. En este escenario académico, se implementa un sistema de monitoreo sintético periódico para vigilar de forma remota la salud del backend desplegado en la nube.
+
 ### 7.4.1. Tools and Practices
+
+Para la implementación del entorno de monitoreo continuo, se adoptó la práctica de Monitoreo Sintético Periódico (Synthetic Monitoring). Esta práctica consiste en simular peticiones controladas hacia los endpoints públicos de la aplicación para verificar su disponibilidad de red y tiempos de respuesta bajo un intervalo de tiempo definido.
+
+Las herramientas seleccionadas para orquestar este flujo son las siguientes:
+
+- Jenkins: Servidor de automatización y orquestación para programar, ejecutar y evaluar las tareas repetitivas de verificación sin generar costos adicionales de infraestructura.
+<img width="1896" height="891" alt="image" src="https://github.com/user-attachments/assets/8b285bcb-6cd7-4bc8-8e94-68ea6c2d63fd" />
+
+- cURL: Herramienta de línea de comandos integrada en el pipeline para interactuar con los protocolos de red y realizar peticiones HTTP directas hacia el backend.
+  
+- Servidor SMTP de Gmail: Pasarela de mensajería de Google empleada para el envío cifrado de alertas por correo electrónico hacia el equipo técnico.
+<img width="1813" height="721" alt="image" src="https://github.com/user-attachments/assets/5068a531-9539-4707-bd2b-deee545406aa" />
+
+- Webhooks integrados: Mecanismo de comunicación basado en eventos utilizado para acoplar la arquitectura de Jenkins con herramientas de mensajería instantánea del equipo, optimizando los tiempos de respuesta.
+<img width="1342" height="512" alt="image" src="https://github.com/user-attachments/assets/b2edb5b4-8122-43bb-9715-2049b0d98468" />
+
+<br>
 
 ### 7.4.2. Monitoring Pipeline Components
 
+El componente de monitoreo representa la primera fase del pipeline, encargada exclusivamente de la recolección de datos y la medición del estado del sistema. Sus especificaciones técnicas se detallan a continuación:
+
+- Mecanismo de Disparo (Trigger): Se configura un disparador cronológico en Jenkins utilizando la expresión H/5 * * * *. Esto instruye al sistema a inicializar la tarea de inspección de manera automática y cíclica cada 5 minutos durante las 24 horas del día.
+<img width="1877" height="892" alt="image" src="https://github.com/user-attachments/assets/a542a7a8-69d3-4b85-8820-d34f4373bad6" />
+
+- Acción de Inspección: El pipeline ejecuta una petición HTTP estructurada mediante el comando curl -f [URL_DEL_BACKEND]. La bandera -f (fail) es crucial en este componente, ya que obliga al comando a retornar un código de salida de error si el servidor responde con estados HTTP de falla (como 404 Not Found o 500 Internal Server Error)
+
+<img width="1895" height="647" alt="image" src="https://github.com/user-attachments/assets/cf687b10-46f5-4dbd-af2f-44db58548c85" />
+
+<img width="1247" height="851" alt="image" src="https://github.com/user-attachments/assets/43af7271-acff-457b-abcd-e593f62b74af" />
+<img width="1892" height="542" alt="image" src="https://github.com/user-attachments/assets/7da01fe6-5732-4abe-b96a-ef90ef856ae2" />
+
+<br>
+
 ### 7.4.3. Alerting Pipeline Components
 
+El componente de alerta actúa como el cerebro lógico y evaluador del pipeline. Su función principal no es enviar mensajes, sino analizar el resultado del componente de monitoreo y determinar si el estado operativo de la aplicación es correcto o requiere atención inmediata.
+
+- Lógica de Captura: Utiliza el operador lógico de control de flujo || (OR) en la consola de comandos. Si el componente de monitoreo (curl) falla en su misión debido a que el backend en Azure está apagado, pausado o inaccesible, el flujo normal se interrumpe de inmediato.
+
+- Gestión de Estados: El componente captura la excepción de red e invoca el comando exit 1. Esto fuerza explícitamente a Jenkins a registrar la ejecución con el estado de Fallo (Failure / Círculo Rojo) en su historial de construcciones, rompiendo la continuidad del pipeline.
+
+<br>
+
 ### 7.4.4. Notification Pipeline Components.
+
+El componente de notificación constituye la última fase del pipeline y se encarga de la traducción de la alerta técnica en un canal de comunicación humano. Su objetivo es asegurar que el equipo de ingeniería de software reciba visibilidad en tiempo real sobre la crisis detectada.
+
+Para garantizar la redundancia y efectividad de la comunicación, se implementa una estrategia de notificación multi-canal:
+
+- Notificación por Correo Electrónico (Gmail SMTP): Al dispararse la alerta, el script de PowerShell integrado interactúa de forma segura con el servidor smtp.gmail.com a través del puerto seguro TLS 587. Utilizando credenciales de aplicación cifradas, despacha un correo electrónico formal con el asunto "CRISIS: API Caída", detallando que el vigilante Jenkins ha detectado una interrupción en el backend.
+<img width="1861" height="722" alt="image" src="https://github.com/user-attachments/assets/cd6832ca-420b-445d-9dd3-19dc214442c8" />
+
+- Notificación Inmediata por Webhooks: En paralelo al correo electrónico, Jenkins utiliza un Webhook basado en peticiones POST de HTTP. Este mecanismo envía un JSON formateado directamente hacia la plataforma principal de chat del equipo de desarrollo (Discord). Esto asegura una alerta instantánea en los dispositivos móviles de los ingenieros, eliminando la dependencia de revisar la bandeja de entrada de forma manual.
+<img width="1472" height="935" alt="image" src="https://github.com/user-attachments/assets/a174e6d9-76ec-4532-8f00-13f561276820" />
 
 
 <div style="page-break-after: always;"></div>
