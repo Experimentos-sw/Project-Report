@@ -4963,7 +4963,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:** Albano Romero
 - **Edad:** 28
 - **Cargo / Rol en la empresa:**  Administrador de mantenimiento en sector minero
-- **Enlace del video:** [Validation Interview 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 0:00 s
 - **Fin:** 22:07 s
  <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
@@ -4972,7 +4972,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:** Samy Ramirez
 - **Edad:** 30
 - **Cargo / Rol en la empresa:** Administrador de Mantenimiento de sector medico
-- **Enlace del video:** [Validation Interview 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 22:08 s
 - **Fin:** 32:23 s
  <img src="img/interviews/entrevista-validacion-administrador-2.png">
@@ -4981,7 +4981,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:** Marcos Salazar
 - **Edad:** 35
 - **Cargo / Rol en la empresa:** Administrador de Mantenimiento en sector textil
-- **Enlace del video:** [Validation Interview 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 32:28 s
 - **Fin:** 52:08 s
  <img src="img/interviews/entrevista-validacion-administrador-3.png">
@@ -4992,7 +4992,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:**  Lucero Avalos
 - **Edad:**  27
 - **Puesto o función que desempeñas:** Técnica en sector de textiles
-- **Enlace del video:** [Validation Interview 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 52:08 s
 - **Fin:** 01:08:30 s
  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
@@ -5001,7 +5001,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:** Adriano Sanchez
 - **Edad:** 23
 - **Puesto o función que desempeñas:** Técnico de mantenimiento en maquinaria textil
-- **Enlace del video:** [Validation Interview 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:08 :30 s
 - **Fin:** 01:23 :14 s
  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
@@ -5010,7 +5010,7 @@ Para Técnicos de Mantenimiento
 - **Nombre completo:** Luis Gomez
 - **Edad:** 23 años  
 - **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
-- **Enlace del video:** [Validation Interview 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311053_upc_edu_pe/EbdxQ6H8_WpFpmp_VpUuPJQBSRnF4ci9ezYww8Y3j3C_gw?e=FAvhpB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Enlace del video:** [Validation Interview 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:23 :14 s
 - **Fin:** 01:40 :08 s
  <img src="img/interviews/entrevista-validacion-tecnico-3.png">
