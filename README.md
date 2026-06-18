@@ -5261,21 +5261,337 @@ Para garantizar la redundancia y efectividad de la comunicación, se implementa 
 
 ## 8.2. Experiment Design
 
+La fase de diseño del experimento convierte las preguntas priorizadas en un plan de investigación ejecutable, medible y controlado. Para Mecanaut, el diseño se centra en el experimento **EC-01: Guided Maintenance Plan Creation**, seleccionado en la sección 8.1.5 por su relación directa con el valor principal del producto: permitir que los administradores de mantenimiento creen planes preventivos completos, claros y orientados a indicadores.
+
+El experimento no busca probar una funcionalidad decorativa ni un cambio visual aislado. Busca medir si un cambio en el flujo de creación de planes mejora un comportamiento relevante del usuario: completar correctamente la planificación preventiva. Por ello, el diseño combina evidencia de interacción en frontend, confirmación de creación en backend y métricas del dominio de mantenimiento industrial.
+
+Para mantener el alcance implementable dentro del repositorio actual, el experimento se ejecutará como un piloto controlado con tracking simple, no como un sistema completo de A/B testing en producción. Esto significa que no se requiere implementar randomización automática, dashboard analítico avanzado ni una infraestructura compleja de experimentación. La variante experimental puede activarse mediante una ruta, parámetro, feature flag simple o configuración local, y la confirmación de éxito se realizará usando el flujo existente de creación de planes de mantenimiento.
+
+Los experimentos EC-02 y EC-03 se mantienen como candidatos secundarios, pero no se ejecutarán junto con EC-01 para evitar contaminación de resultados. El diseño principal queda concentrado en el flujo guiado de creación de planes de mantenimiento.
+
 ### 8.2.1. Hypotheses.
+
+Las hipótesis se redactan como afirmaciones falsificables, medibles y comparables contra una hipótesis nula. En esta sección no se asume que el cambio será exitoso; se define qué evidencia permitiría considerar que la intervención aporta valor frente a la condición actual.
+
+El experimento principal evalúa si un flujo guiado para crear planes de mantenimiento preventivo mejora la finalización del proceso. Esta hipótesis se relaciona con el problema central de Mecanaut: muchas empresas industriales dependen de procesos manuales o dispersos para planificar mantenimiento, lo cual genera errores, retrasos y baja trazabilidad.
+
+| Experiment ID | Research Question                                                                                                                                 | Working Hypothesis                                                                                                                                                                    | Null Hypothesis                                                                                                                            | Expected Evidence                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| EC-01         | ¿Un flujo guiado de creación de planes de mantenimiento aumenta la tasa de planes completados por los administradores frente al flujo actual?     | Si los administradores usan un flujo guiado paso a paso, entonces completarán más planes de mantenimiento preventivo y cometerán menos errores de validación que con el flujo actual. | No existe diferencia significativa entre el flujo actual y el flujo guiado; cualquier variación en finalización o errores se debe al azar. | Aumento de la tasa de finalización, reducción de errores de validación y mantenimiento de un tiempo de tarea aceptable. |
+| EC-02         | ¿Una lista de verificación para ejecución de órdenes mejora la completitud del reporte técnico sin incrementar excesivamente el tiempo de cierre? | Si los técnicos usan una lista de verificación durante el cierre de órdenes, entonces los reportes tendrán mayor completitud documental.                                              | La lista de verificación no produce diferencias relevantes en la completitud del reporte técnico frente al cierre actual.                  | Mayor proporción de órdenes cerradas con tareas, observaciones y estado final completo.                                 |
+| EC-03         | ¿Una alerta de inventario antes de ejecutar una orden reduce la cantidad de trabajos bloqueados por falta de repuestos?                           | Si el sistema muestra una alerta de disponibilidad de repuestos antes de iniciar una orden, entonces disminuirán los bloqueos por inventario insuficiente.                            | Las alertas de inventario no reducen la proporción de órdenes bloqueadas por falta de repuestos.                                           | Menor cantidad de órdenes detenidas por materiales faltantes y mayor preparación antes de ejecución.                    |
+
+Para la ejecución inicial se prioriza **EC-01**. Las hipótesis EC-02 y EC-03 quedan documentadas para mantener trazabilidad con el Question Backlog, pero no se mezclarán en la misma prueba principal. Ejecutar varios experimentos simultáneos sobre procesos cercanos podría dificultar la interpretación de resultados y aumentar el esfuerzo de implementación.
 
 ### 8.2.2. Domain Business Metrics
 
+Las métricas de dominio definen cómo se evaluará el impacto de los experimentos en el negocio de Mecanaut. No se consideran métricas de vanidad, como número total de visitas o clics aislados, porque no explican si el producto mejora la planificación, ejecución o control del mantenimiento industrial.
+
+Cada métrica definida en esta sección incluye fórmula, fuente de datos, técnica de recolección y meta deseada. Las medidas usadas en las Experiment Cards y en el Tracking Plan deben referenciar estas métricas para evitar datos ad-hoc no definidos previamente.
+
+| Metric                                        | Business Purpose                                                          | Formula                                                            | Data Source                                     | Collection Technique                                    | Desired Target                                                     |
+| --------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ |
+| Maintenance Plan Completion Rate              | Medir si los administradores completan la creación de planes preventivos. | Completed maintenance plans / Started maintenance plan flows × 100 | Frontend events + backend plan creation records | Tracking de eventos y confirmación de creación en API   | Incrementar al menos 20 puntos porcentuales frente al control.     |
+| Maintenance Plan Validation Error Rate        | Medir fricción durante la creación del plan.                              | Validation errors / Started maintenance plan flows                 | Frontend form events                            | Registro de errores por paso y campo                    | Reducir al menos 25% frente al control.                            |
+| Maintenance Plan Creation Time                | Medir eficiencia del flujo de creación.                                   | Timestamp of plan completed - timestamp of plan started            | Frontend events                                 | Medición automática de duración por sesión              | No aumentar más de 15% respecto al control.                        |
+| Preventive Maintenance Schedule Adoption Rate | Medir si los planes creados llegan a calendario operativo.                | Plans added to calendar / Completed maintenance plans × 100        | Backend maintenance planning records            | Validación en API y base de datos                       | Lograr al menos 80% de planes completados agregados al calendario. |
+| Work Order Report Completeness Rate           | Medir calidad del cierre técnico de órdenes.                              | Complete work order reports / Closed work orders × 100             | Backend work order records                      | Verificación de campos requeridos y estado final        | Alcanzar al menos 75% de reportes completos.                       |
+| Inventory Blockage Rate                       | Medir bloqueo operativo por falta de repuestos.                           | Work orders blocked by missing parts / Started work orders × 100   | Backend work order + inventory records          | Registro de estados de orden y disponibilidad de stock  | Reducir al menos 20% frente al control.                            |
+| KPI Dashboard Usage Rate                      | Medir si los administradores consultan indicadores operativos.            | Users who viewed KPI dashboard / Active administrator users × 100  | Frontend events                                 | Tracking de visualización de dashboard y filtros usados | Alcanzar al menos 60% de administradores activos.                  |
+| Task Success Satisfaction Score               | Medir percepción posterior a la tarea crítica.                            | Average post-task score from 1 to 5                                | In-app micro-survey                             | Pregunta breve después de completar o abandonar tarea   | Promedio mínimo de 4.0/5.                                          |
+
+Para EC-01, las métricas principales serán **Maintenance Plan Completion Rate**, **Maintenance Plan Validation Error Rate** y **Maintenance Plan Creation Time**. Las demás métricas se mantienen como soporte para experimentos posteriores o para verificar que el cambio no afecte negativamente procesos relacionados.
+
 ### 8.2.3. Measures.
+
+Las medidas seleccionadas buscan recopilar solo la evidencia necesaria para responder las preguntas del experimento. El objetivo no es rastrear toda la actividad del sistema, sino medir los cambios directamente relacionados con la hipótesis. Esto reduce ruido, costo de análisis y riesgos de privacidad.
+
+Para EC-01, la medida primaria será la tasa de finalización del flujo de creación de planes. Esta métrica es representativa porque el flujo guiado solo puede considerarse útil si logra que más administradores terminen el proceso con un plan válido en el sistema.
+
+| Experiment ID | Primary Measure                     | Secondary Measures                                                                                      | Guardrail Measures                                                                          |
+| ------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| EC-01         | Maintenance Plan Completion Rate    | Validation Error Rate, Creation Time, Step Abandonment Rate, Post-task Satisfaction Score               | API error rate, excessive increase in completion time, duplicate or incomplete plan records |
+| EC-02         | Work Order Report Completeness Rate | Work Order Closing Time, Missing Field Rate, Technician Satisfaction Score                              | Increase in unfinished orders, excessive reporting time                                     |
+| EC-03         | Inventory Blockage Rate             | Inventory Alert Response Rate, Time to Resolve Missing Part, Number of Orders Prepared Before Execution | False alert rate, unnecessary interruption of work order flow                               |
+
+#### Primary Measure for EC-01
+
+**Maintenance Plan Completion Rate** será calculada comparando el número de planes creados correctamente contra el número de flujos iniciados. Se considerará que un plan fue completado solo cuando el backend registre un plan válido asociado a activos, frecuencia, tareas y fecha o rango de programación.
+
+Esta medida evita contar como éxito a usuarios que solo avanzan por la interfaz, pero no generan un plan persistido. Por ello, se debe confirmar el evento en backend y no depender únicamente del evento visual del frontend.
+
+#### Secondary Measures for EC-01
+
+Las medidas secundarias ayudarán a explicar por qué ocurre o no ocurre una mejora. Si la tasa de finalización aumenta, pero el tiempo de creación se incrementa demasiado, la mejora podría no ser aceptable para el contexto operativo. Si los errores bajan, pero los usuarios siguen abandonando en el último paso, el problema podría estar en la revisión final o confirmación.
+
+Las medidas secundarias serán:
+
+* **Validation Error Rate:** cantidad de errores por intento de creación.
+* **Creation Time:** duración total desde inicio del flujo hasta confirmación.
+* **Step Abandonment Rate:** porcentaje de usuarios que abandona cada paso.
+* **Post-task Satisfaction Score:** valoración breve del usuario después de completar o abandonar la tarea.
+
+#### Guardrail Measures
+
+Las medidas de control evitan interpretar como éxito una mejora parcial que perjudica otros aspectos del sistema. Para EC-01, el flujo experimental no debe aumentar de forma considerable los errores de API, no debe crear planes duplicados y no debe elevar el tiempo de creación más allá de un umbral aceptable.
+
+Se considerará que el experimento presenta una señal negativa si el flujo guiado mejora la finalización, pero produce registros inconsistentes, tiempos excesivos o fallas técnicas que afecten la operación normal.
 
 ### 8.2.4. Conditions.
 
+Las condiciones definen qué comparaciones permitirán interpretar la respuesta del experimento. Para preguntas impulsadas por creencias se establece una condición de control y una condición experimental. Para preguntas exploratorias se delimitan los participantes, contexto y tarea observada.
+
+El experimento EC-01 usará una comparación entre el flujo actual de creación de planes y una variante guiada. Ambas condiciones deberán trabajar con el mismo escenario de prueba: una empresa industrial con líneas de producción, máquinas, activos, tareas preventivas y frecuencias predefinidas.
+
+| Element            | Control Condition                                                             | Experimental Condition                                       |
+| ------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| User segment       | Administrador de mantenimiento                                                | Administrador de mantenimiento                               |
+| Product area       | Current maintenance plan creation flow                                        | Guided maintenance plan creation flow                        |
+| Task               | Crear un plan preventivo para una línea de producción y sus activos asociados | Crear el mismo tipo de plan usando pasos guiados             |
+| Data set           | Mismos activos, líneas, tareas y frecuencias disponibles                      | Mismos activos, líneas, tareas y frecuencias disponibles     |
+| Interface support  | Formulario actual sin guía progresiva                                         | Wizard con pasos, validaciones contextuales y revisión final |
+| Success event      | Plan registrado correctamente en backend                                      | Plan registrado correctamente en backend                     |
+| Observation source | Frontend tracking + backend confirmation                                      | Frontend tracking + backend confirmation                     |
+
+#### Inclusion Criteria
+
+Participarán usuarios que representen al segmento administrador de mantenimiento o usuarios evaluadores capaces de ejecutar tareas equivalentes: registrar planes, seleccionar activos, asignar frecuencia y confirmar programación. La sesión deberá realizarse en un entorno controlado con datos de prueba consistentes.
+
+#### Exclusion Criteria
+
+No se incluirán resultados de usuarios que no completen la sesión por fallas externas al producto, interrupciones no relacionadas con Mecanaut o datos de prueba incompletos. Tampoco se mezclarán sesiones donde el usuario haya recibido instrucciones adicionales en una condición y no en la otra, porque eso introduciría sesgo en la comparación.
+
+#### Practical Implementation Condition
+
+Para facilitar la implementación, la condición experimental no requiere un motor de experimentación productivo. Se puede habilitar mediante una ruta separada, un parámetro de consulta, una variable de entorno o un feature flag simple. Por ejemplo, el equipo puede comparar el flujo actual de creación de planes contra una vista alternativa guiada que reutilice el mismo servicio de creación de planes.
+
+La evidencia mínima requerida será:
+
+1. Evento de inicio del flujo.
+2. Evento de avance o abandono por paso.
+3. Evento de error de validación.
+4. Confirmación de plan creado correctamente.
+5. Tiempo total de la tarea.
+
+#### Ethical and Data Conditions
+
+El tracking del experimento no recolectará datos personales innecesarios. Los identificadores de empresa, usuario, activo y plan deberán almacenarse como valores internos o anonimizados. La finalidad de la recolección será mejorar el producto y evaluar hipótesis de uso, no monitorear desempeño individual de trabajadores.
+
 ### 8.2.5. Scale Calculations and Decisions.
+
+La escala define cuánta evidencia se necesita para tomar una decisión razonable. En EC-01, la métrica primaria es una proporción: usuarios que completan el plan sobre usuarios que inician el flujo. Por ello, el cálculo principal se plantea como una comparación de dos proporciones independientes: condición de control vs condición experimental.
+
+#### Statistical Reference Scale
+
+Para el cálculo ideal de escala se utilizarán los siguientes parámetros:
+
+| Parameter                       | Selected Value       | Justification                                                                                                   |
+| ------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Significance level (α)          | 0.05                 | Reduce la probabilidad de error Tipo I, es decir, concluir que existe diferencia cuando podría deberse al azar. |
+| Statistical power               | 0.80                 | Reduce la probabilidad de error Tipo II, aceptando un estándar mínimo frecuente para experimentos aplicados.    |
+| Minimum Detectable Effect (MDE) | 20 percentage points | Se considera que una mejora menor podría no justificar rediseñar el flujo principal de planificación.           |
+| Baseline completion rate        | 55%                  | Supuesto conservador inicial hasta contar con datos históricos reales del flujo actual.                         |
+| Expected completion rate        | 75%                  | Meta mínima para considerar que el flujo guiado aporta una mejora operacional relevante.                        |
+| Allocation                      | 1:1                  | Mismo número de observaciones en control y experimental.                                                        |
+
+Con estos parámetros, el experimento requeriría aproximadamente **88 intentos por condición**, es decir, **176 intentos totales de creación de planes**, para detectar una diferencia de 20 puntos porcentuales entre 55% y 75% con α = 0.05 y potencia de 80%.
+
+#### Practical Scale for the Course Delivery
+
+Debido al contexto académico y a la disponibilidad limitada de usuarios reales, el equipo tomará el cálculo estadístico como una escala ideal de referencia. Para la ejecución del curso se realizará un **piloto controlado con usuarios representativos**, interpretando los resultados como evidencia preliminar y no como inferencia estadística concluyente.
+
+La escala práctica será:
+
+* **Mínimo aceptable:** 8 participantes representativos, cada uno ejecutando una tarea de creación de plan.
+* **Escala recomendada:** 12 a 20 participantes representativos.
+* **Ejecución por condición:** cada participante puede trabajar con un flujo asignado, o el equipo puede dividir la muestra entre control y experimental de forma balanceada.
+* **Unidad de análisis:** intento de creación de plan de mantenimiento.
+* **Evidencia esperada:** tasa observada de finalización, errores, tiempo, abandono por paso y comentarios breves posteriores a la tarea.
+
+Esta decisión mantiene rigor conceptual sin prometer una escala que el equipo probablemente no pueda alcanzar durante el periodo de entrega. Los resultados del piloto servirán para decidir si el flujo guiado debe implementarse por completo en el To-Be Product Backlog o si necesita una iteración previa.
+
+#### Decision Rules
+
+Para EC-01, la hipótesis recibirá evidencia favorable si se cumplen las siguientes condiciones:
+
+* La tasa de finalización del flujo experimental supera a la condición de control.
+* La diferencia observada se aproxima al MDE definido de 20 puntos porcentuales.
+* La tasa de errores de validación disminuye al menos 25%.
+* El tiempo promedio o mediano de creación no aumenta más de 15%.
+* No se detectan inconsistencias graves en los planes creados.
+
+La hipótesis se considerará no apoyada si el flujo guiado no mejora la finalización o si la mejora se obtiene a costa de mayor tiempo, más errores técnicos o mayor confusión del usuario. Si los resultados son mixtos, se clasificará como aprendizaje inconcluso y se propondrá una iteración focalizada en el paso con mayor abandono.
 
 ### 8.2.6. Methods Selection.
 
+El método debe ser la forma más simple y útil de obtener evidencia suficiente, sin sobrediseñar el experimento ni causar interferencia innecesaria en el producto. Para EC-01 se selecciona un **controlled A/B task test** con tracking de eventos, porque permite comparar dos condiciones del flujo bajo una tarea equivalente.
+
+No se selecciona únicamente una entrevista, porque las opiniones declaradas no bastan para medir finalización, errores o tiempo. Tampoco se selecciona una prueba A/B abierta en producción como primera alternativa, porque el producto puede no contar todavía con tráfico suficiente ni con una base estable de usuarios reales para distribuir variantes automáticamente.
+
+| Method                     | Use in Mecanaut                                                         | Strength                                                                 | Limitation                                                            | Decision              |
+| -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------- |
+| Controlled A/B Task Test   | Usuarios ejecutan una tarea equivalente en flujo actual o flujo guiado. | Permite comparar comportamiento observable con condiciones equivalentes. | Requiere preparar datos de prueba y controlar sesgos de instrucción.  | Selected for EC-01.   |
+| Usability Observation      | Se observa dónde dudan, fallan o abandonan los usuarios.                | Explica causas de fricción que los eventos no muestran por sí solos.     | No reemplaza métricas cuantitativas.                                  | Complementary method. |
+| Backend Event Confirmation | Se confirma si el plan fue creado realmente.                            | Evita contar eventos visuales como éxito sin persistencia.               | Requiere revisar respuesta de API o registrar evento de confirmación. | Required.             |
+| Post-task Question         | Usuario califica facilidad después de la tarea.                         | Agrega percepción de esfuerzo y claridad.                                | Puede estar sesgada por cortesía o deseo de agradar.                  | Complementary method. |
+| Open Production A/B Test   | Distribución real de variantes a usuarios de producción.                | Alta validez ecológica si hay suficiente tráfico.                        | No viable si la muestra es baja o el producto aún está en validación. | Deferred.             |
+
+#### Selected Method
+
+El método seleccionado será una prueba controlada A/B, apoyada por analítica de eventos y confirmación de backend. Cada participante recibirá una tarea concreta: crear un plan preventivo para una línea de producción con activos y tareas dadas. La condición de control usará el flujo actual; la condición experimental usará el flujo guiado.
+
+Para mantener el alcance implementable, la primera versión puede registrar eventos de forma simple en consola, almacenamiento local, archivo exportable o endpoint liviano. Si el equipo cuenta con tiempo suficiente, se puede implementar un endpoint `POST /api/v1/experiment-events`; si no, el piloto sigue siendo válido siempre que los eventos se recolecten de manera consistente y verificable.
+
+#### Implementation Scope
+
+El experimento puede implementarse sin modificar profundamente la arquitectura del sistema. La versión mínima requiere:
+
+1. Reutilizar el servicio existente de creación de planes de mantenimiento.
+2. Crear una vista o flujo alternativo guiado para la variante experimental.
+3. Agregar un helper de tracking en frontend para registrar eventos clave.
+4. Confirmar el éxito con la respuesta del backend cuando el plan se crea correctamente.
+5. Exportar o consolidar los eventos para análisis en 8.4.
+
+No se requiere implementar un dashboard analítico completo para esta fase. La finalidad es obtener evidencia suficiente para decidir si el flujo guiado merece incorporarse como mejora del producto.
+
+#### Ethical Considerations
+
+El experimento no debe causar daño operativo ni afectar datos reales de producción. Se ejecutará con datos de prueba o en entorno controlado. Los eventos recolectados no incluirán datos sensibles personales ni información privada de clientes. Los resultados se analizarán a nivel agregado, no como evaluación individual de administradores o técnicos.
+
 ### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
 
+La preparación analítica conecta objetivos de negocio, KPIs y métricas observables. Para Mecanaut, la analítica debe responder si el producto ayuda a planificar, ejecutar y controlar mantenimiento de forma más eficiente. Por ello, las métricas seleccionadas se relacionan con finalización de tareas, calidad del registro y uso de indicadores.
+
+| Business Goal                                        | KPI                         | Metric                                        | Target                                    | Data Source                            | Frequency                        |
+| ---------------------------------------------------- | --------------------------- | --------------------------------------------- | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+| Mejorar la eficiencia de planificación preventiva.   | Maintenance Plan Completion | Maintenance Plan Completion Rate              | +20 puntos porcentuales frente al control | Frontend events + backend records      | Por sesión y consolidado semanal |
+| Reducir fricción en creación de planes.              | Form Friction               | Maintenance Plan Validation Error Rate        | -25% frente al control                    | Frontend validation events             | Por sesión                       |
+| Mantener eficiencia operativa del administrador.     | Task Efficiency             | Maintenance Plan Creation Time                | No aumentar más de 15%                    | Frontend timestamps                    | Por sesión                       |
+| Asegurar que los planes creados lleguen a operación. | Schedule Adoption           | Preventive Maintenance Schedule Adoption Rate | ≥ 80%                                     | Backend planning records               | Semanal                          |
+| Mejorar trazabilidad técnica.                        | Report Quality              | Work Order Report Completeness Rate           | ≥ 75%                                     | Backend work order records             | Semanal                          |
+| Reducir interrupciones por inventario.               | Inventory Readiness         | Inventory Blockage Rate                       | -20% frente al control                    | Backend inventory + work order records | Semanal                          |
+| Impulsar toma de decisiones basada en datos.         | KPI Engagement              | KPI Dashboard Usage Rate                      | ≥ 60% de administradores activos          | Frontend dashboard events              | Semanal                          |
+| Evaluar percepción del usuario.                      | Task Satisfaction           | Task Success Satisfaction Score               | ≥ 4.0/5                                   | In-app micro-survey                    | Por sesión                       |
+
+#### Analytics Interpretation
+
+Para EC-01, el análisis principal comparará la tasa de finalización entre control y experimental. Si el flujo guiado aumenta la finalización, se revisarán las métricas secundarias para entender si la mejora se debe a menos errores, menor abandono o mayor claridad del proceso. Si la tasa no mejora, el análisis por paso permitirá identificar dónde se concentra la fricción.
+
+El equipo no tomará decisiones basadas solo en satisfacción declarada. La satisfacción será útil como medida complementaria, pero la decisión principal dependerá de comportamiento observable y resultados persistidos en el backend.
+
+#### Data Quality Rules
+
+Para asegurar calidad de datos, se aplicarán las siguientes reglas:
+
+* Cada evento debe incluir `experiment_id`, `variant`, `user_role`, `session_id` y timestamp.
+* Los eventos de éxito deben confirmarse con registros backend, no solo con interacción visual.
+* No se deben almacenar nombres personales, documentos, correos ni datos sensibles en eventos analíticos.
+* Los eventos duplicados dentro de la misma sesión deberán filtrarse durante el análisis.
+* Las sesiones incompletas por falla externa deberán marcarse como excluidas y documentarse.
+
 ### 8.2.8. Web and Mobile Tracking Plan.
+
+El Tracking Plan define qué eventos serán recolectados, en qué plataforma, con qué parámetros y para qué métrica serán usados. El objetivo es mantener un rastreo focalizado en los flujos críticos de Mecanaut, evitando recolectar datos innecesarios.
+
+Para la implementación inicial de EC-01, el tracking obligatorio será el de la experiencia web de creación de planes de mantenimiento. El tracking mobile se mantiene planificado para flujos de técnicos y ejecución de órdenes, pero no es obligatorio para ejecutar el primer experimento si el alcance del sprint se concentra en el administrador de mantenimiento.
+
+#### Common Event Parameters
+
+Todos los eventos del experimento deberán incluir parámetros comunes:
+
+| Parameter         | Description                                                                 |
+| ----------------- | --------------------------------------------------------------------------- |
+| `experiment_id`   | Identificador del experimento, por ejemplo `EC-01`.                         |
+| `variant`         | Variante asignada: `control` o `guided_flow`.                               |
+| `user_role`       | Rol del usuario: `maintenance_admin` o `technician`.                        |
+| `session_id`      | Identificador de sesión anónimo.                                            |
+| `company_id_hash` | Identificador anonimizado de empresa, si aplica.                            |
+| `device_type`     | `desktop`, `tablet` o `mobile`.                                             |
+| `timestamp`       | Fecha y hora del evento.                                                    |
+| `module`          | Módulo donde ocurre el evento.                                              |
+| `entity_id_hash`  | Identificador anonimizado de plan, orden, activo o repuesto cuando aplique. |
+
+#### Web Tracking Plan
+
+| Event Name                          | Trigger                                                                                   | Required Parameters                                                  | Related Metric                         |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
+| `maintenance_plan_started`          | El administrador inicia el flujo de creación de plan.                                     | `experiment_id`, `variant`, `user_role`, `session_id`, `device_type` | Maintenance Plan Completion Rate       |
+| `maintenance_plan_step_viewed`      | El usuario visualiza un paso del flujo guiado o una sección equivalente del flujo actual. | `step_name`, `step_number`, `variant`                                | Step Abandonment Rate                  |
+| `maintenance_plan_validation_error` | El sistema muestra un error de validación.                                                | `field_name`, `error_code`, `step_name`                              | Maintenance Plan Validation Error Rate |
+| `maintenance_plan_step_completed`   | El usuario completa correctamente un paso.                                                | `step_name`, `duration_seconds`                                      | Creation Time, Step Completion         |
+| `maintenance_plan_review_opened`    | El usuario llega a la revisión final antes de confirmar.                                  | `asset_count`, `task_count`, `frequency_type`                        | Flow Progression                       |
+| `maintenance_plan_created`          | El backend confirma que el plan fue creado correctamente.                                 | `plan_id_hash`, `asset_count`, `task_count`                          | Maintenance Plan Completion Rate       |
+| `maintenance_plan_abandoned`        | El usuario abandona el flujo o cierra la vista antes de completar.                        | `last_step_name`, `elapsed_seconds`                                  | Step Abandonment Rate                  |
+| `kpi_preview_viewed`                | El usuario abre o visualiza la previsualización de indicadores.                           | `kpi_type`, `variant`                                                | KPI Dashboard Usage Rate               |
+| `post_task_survey_submitted`        | El usuario responde la pregunta de satisfacción posterior a la tarea.                     | `score`, `task_name`, `variant`                                      | Task Success Satisfaction Score        |
+
+#### Mobile Tracking Plan
+
+El tracking móvil aplica a la experiencia mobile o responsive de Mecanaut, especialmente para técnicos que consultan órdenes, registran ejecución y reportan incidencias desde planta. Para la primera ejecución de EC-01, estos eventos quedan como plan de instrumentación para experimentos posteriores, especialmente EC-02 y EC-03.
+
+| Event Name                            | Trigger                                              | Required Parameters                                  | Related Metric                      |
+| ------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ----------------------------------- |
+| `work_order_opened`                   | El técnico abre una orden asignada.                  | `work_order_id_hash`, `user_role`, `device_type`     | Work Order Engagement               |
+| `work_order_checklist_started`        | El técnico inicia la lista de verificación.          | `work_order_id_hash`, `checklist_id_hash`            | Work Order Report Completeness Rate |
+| `work_order_checklist_item_completed` | El técnico marca una tarea como realizada.           | `item_id_hash`, `work_order_id_hash`                 | Report Completeness                 |
+| `work_order_observation_added`        | El técnico registra una observación.                 | `work_order_id_hash`, `text_length_range`            | Report Completeness                 |
+| `work_order_closed`                   | El backend confirma cierre de orden.                 | `work_order_id_hash`, `status`, `duration_seconds`   | Work Order Report Completeness Rate |
+| `inventory_part_warning_shown`        | El sistema muestra alerta por repuesto insuficiente. | `part_id_hash`, `stock_status`, `work_order_id_hash` | Inventory Blockage Rate             |
+| `inventory_part_requested`            | El técnico solicita o marca un repuesto faltante.    | `part_id_hash`, `quantity_requested`                 | Inventory Alert Response Rate       |
+| `mobile_error_shown`                  | Se muestra un error operativo en mobile.             | `error_code`, `module`, `screen_name`                | Guardrail Measures                  |
+
+#### Backend Confirmation Events
+
+Algunos eventos deben confirmarse desde backend porque representan resultados de negocio, no solo interacción visual.
+
+| Backend Event                 | When It Is Recorded                                           | Purpose                                              |
+| ----------------------------- | ------------------------------------------------------------- | ---------------------------------------------------- |
+| `plan_persisted`              | Cuando la API guarda un plan válido.                          | Confirmar que el flujo terminó en un resultado real. |
+| `plan_added_to_calendar`      | Cuando el plan queda asociado al calendario de mantenimiento. | Medir adopción operativa del plan.                   |
+| `work_order_status_changed`   | Cuando una orden cambia de estado.                            | Medir ejecución y cierre de órdenes.                 |
+| `report_completed`            | Cuando una orden cerrada contiene campos mínimos completos.   | Medir calidad documental.                            |
+| `inventory_blockage_detected` | Cuando una orden queda detenida por falta de repuestos.       | Medir impacto de inventario.                         |
+
+#### Minimal Tracking Implementation
+
+Para que el plan sea implementable sin sobrecargar el repositorio, la versión mínima del tracking puede funcionar con un helper de frontend que capture eventos y los almacene temporalmente. Esta primera versión puede exportarse como JSON o imprimirse en consola durante el piloto, siempre que los datos queden disponibles para el análisis posterior.
+
+La estructura mínima sugerida para un evento es:
+
+```json
+{
+  "event_name": "maintenance_plan_created",
+  "experiment_id": "EC-01",
+  "variant": "guided_flow",
+  "user_role": "maintenance_admin",
+  "session_id": "anonymous-session-id",
+  "company_id_hash": "hashed-company-id",
+  "device_type": "desktop",
+  "module": "dynamic_maintenance_planning",
+  "entity_id_hash": "hashed-plan-id",
+  "timestamp": "2026-06-17T00:00:00Z",
+  "properties": {
+    "asset_count": 4,
+    "task_count": 6,
+    "duration_seconds": 420
+  }
+}
+```
+
+Si el equipo decide implementar persistencia en backend, el alcance recomendado es un endpoint simple para registrar eventos de experimento. Sin embargo, esta persistencia no es obligatoria para validar el piloto controlado, siempre que los eventos puedan ser recolectados y revisados de forma consistente.
+
+#### Tracking Quality Criteria
+
+El Tracking Plan se considerará correctamente implementado si cumple con los siguientes criterios:
+
+* Cada evento crítico del flujo EC-01 se registra con `experiment_id` y `variant`.
+* Los eventos de éxito del frontend tienen confirmación equivalente en backend.
+* Los eventos permiten calcular las métricas definidas en 8.2.2 sin crear métricas nuevas no documentadas.
+* Los identificadores sensibles se almacenan anonimizados o como referencias internas no expuestas.
+* El volumen de eventos es suficiente para responder la pregunta experimental sin rastrear acciones irrelevantes.
+
+Con este plan, Mecanaut podrá medir el impacto del flujo guiado de creación de planes de mantenimiento y generar aprendizaje continuo para decidir si la intervención debe implementarse, ajustarse o descartarse.
+
 
 ## 8.3. Experimentation
 
