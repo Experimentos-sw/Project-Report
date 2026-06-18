@@ -234,6 +234,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [1.2.2. Lean UX Process.](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
@@ -300,33 +301,47 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management.](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-  - [5.2. Product Implementation & Deployment.](#52-product-implementation--deployment)
+  - [5.2. Product Implementation \& Deployment.](#52-product-implementation--deployment)
     - [5.2.1. Sprint Backlogs.](#521-sprint-backlogs)
     - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
     - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
+      - [Machinery Form View](#machinery-form-view)
     - [5.2.4. Acuerdo de Servicio - SaaS](#524-acuerdo-de-servicio---saas)
     - [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence)
     - [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence)
     - [5.2.7. RESTful API documentation](#527-restful-api-documentation)
     - [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights)
   - [5.3. Video About-the-Product.](#53-video-about-the-product)
-- [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
-  - [6.1. Testing Suites & Validation](#61-testing-suites--validation)
+- [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
+  - [6.1. Testing Suites \& Validation](#61-testing-suites--validation)
     - [6.1.1. Core Entities Unit Tests.](#611-core-entities-unit-tests)
     - [6.1.2. Core Integration Tests.](#612-core-integration-tests)
     - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
     - [6.1.4. Core System Tests.](#614-core-system-tests)
-  - [6.2. Static testing & Verification](#62-static-testing--verification)
+  - [6.2. Static testing \& Verification](#62-static-testing--verification)
     - [6.2.1. Static Code Analysis](#621-static-code-analysis)
-      - [6.2.1.1. Coding standard & Code conventions.](#6211-coding-standard--code-conventions)
-      - [6.2.1.2. Code Quality & Code Security.](#6212-code-quality--code-security)
+      - [6.2.1.1. Coding standard \& Code conventions.](#6211-coding-standard--code-conventions)
+      - [6.2.1.2. Code Quality \& Code Security.](#6212-code-quality--code-security)
     - [6.2.2. Reviews](#622-reviews)
   - [6.3. Validation Interviews.](#63-validation-interviews)
     - [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
     - [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
+    - [Segmento 1: Administradores de Mantenimiento](#segmento-1-administradores-de-mantenimiento)
+      - [Entrevista #1](#entrevista-1)
+      - [Entrevista #2](#entrevista-2)
+      - [Entrevista #3](#entrevista-3)
+    - [Segmento 2: Técnicos Operativos](#segmento-2-técnicos-operativos)
+      - [Entrevista #1](#entrevista-1-1)
+      - [Entrevista #2](#entrevista-2-1)
+      - [Entrevista #3](#entrevista-3-1)
     - [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-según-heurísticas)
+    - [Escala de severidad](#escala-de-severidad)
+    - [Tabla resumen](#tabla-resumen)
+    - [Descripción de problemas](#descripción-de-problemas)
+      - [**PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page](#problema-1-ausencia-de-canal-directo-para-contacto-en-la-landing-page)
+      - [**PROBLEMA #2:** El registro de cuenta está limitado a administradores](#problema-2-el-registro-de-cuenta-está-limitado-a-administradores)
   - [6.4. Auditoría de Experiencias de Usuario.](#64-auditoría-de-experiencias-de-usuario)
     - [6.4.1. Auditoría realizada.](#641-auditoría-realizada)
       - [6.4.1.1. Información del grupo auditado.](#6411-información-del-grupo-auditado)
@@ -340,7 +355,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 - [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
   - [7.1. Continuous Integration](#71-continuous-integration)
     - [7.1.1. Tools and Practices.](#711-tools-and-practices)
-    - [7.1.2. Build & Test Suite Pipeline Components.](#712-build--test-suite-pipeline-components)
+    - [7.1.2. Build \& Test Suite Pipeline Components.](#712-build--test-suite-pipeline-components)
   - [7.2. Continuous Delivery](#72-continuous-delivery)
     - [7.2.1. Tools and Practices.](#721-tools-and-practices)
     - [7.2.2. Stages Deployment Pipeline Components.](#722-stages-deployment-pipeline-components)
@@ -353,21 +368,60 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)
     - [7.4.4. Notification Pipeline Components.](#744-notification-pipeline-components)
 - [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
-  - [8.1. Experiment Planning](#81-experiment-planning)
-    - [8.1.1. As-Is Summary.](#811-as-is-summary)
-    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
-    - [8.1.3. Experiment-Ready Questions.](#813-experiment-ready-questions)
-    - [8.1.4. Question Backlog.](#814-question-backlog)
-    - [8.1.5. Experiment Cards.](#815-experiment-cards)
+- [8.1. Experiment Planning](#81-experiment-planning)
+  - [8.1.1. As-Is Summary](#811-as-is-summary)
+  - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [Ideas](#ideas)
+    - [Claims](#claims)
+    - [Assumptions](#assumptions)
+    - [Knowledge Gaps](#knowledge-gaps)
+  - [8.1.3. Experiment-Ready Questions](#813-experiment-ready-questions)
+    - [Belief-led Questions](#belief-led-questions)
+    - [Exploratory Questions](#exploratory-questions)
+  - [8.1.4. Question Backlog](#814-question-backlog)
+  - [8.1.5. Experiment Cards](#815-experiment-cards)
+    - [Experiment Card EC-01: Guided Maintenance Plan Creation](#experiment-card-ec-01-guided-maintenance-plan-creation)
+    - [Front Side](#front-side)
+    - [What — Simplest Useful Thing](#what--simplest-useful-thing)
+    - [Back Side](#back-side)
+    - [Experiment Card EC-02: Work Order Execution Checklist](#experiment-card-ec-02-work-order-execution-checklist)
+    - [Front Side](#front-side-1)
+    - [What — Simplest Useful Thing](#what--simplest-useful-thing-1)
+    - [Back Side](#back-side-1)
+    - [Experiment Card EC-03: Inventory Availability Warning](#experiment-card-ec-03-inventory-availability-warning)
+    - [Front Side](#front-side-2)
+    - [What — Simplest Useful Thing](#what--simplest-useful-thing-2)
+    - [Back Side](#back-side-2)
   - [8.2. Experiment Design](#82-experiment-design)
     - [8.2.1. Hypotheses.](#821-hypotheses)
     - [8.2.2. Domain Business Metrics](#822-domain-business-metrics)
     - [8.2.3. Measures.](#823-measures)
+      - [Primary Measure for EC-01](#primary-measure-for-ec-01)
+      - [Secondary Measures for EC-01](#secondary-measures-for-ec-01)
+      - [Guardrail Measures](#guardrail-measures)
     - [8.2.4. Conditions.](#824-conditions)
+      - [Inclusion Criteria](#inclusion-criteria)
+      - [Exclusion Criteria](#exclusion-criteria)
+      - [Practical Implementation Condition](#practical-implementation-condition)
+      - [Ethical and Data Conditions](#ethical-and-data-conditions)
     - [8.2.5. Scale Calculations and Decisions.](#825-scale-calculations-and-decisions)
+      - [Statistical Reference Scale](#statistical-reference-scale)
+      - [Practical Scale for the Course Delivery](#practical-scale-for-the-course-delivery)
+      - [Decision Rules](#decision-rules)
     - [8.2.6. Methods Selection.](#826-methods-selection)
+      - [Selected Method](#selected-method)
+      - [Implementation Scope](#implementation-scope)
+      - [Ethical Considerations](#ethical-considerations)
     - [8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.](#827-data-analytics-goals-kpis-and-metrics-selection)
+      - [Analytics Interpretation](#analytics-interpretation)
+      - [Data Quality Rules](#data-quality-rules)
     - [8.2.8. Web and Mobile Tracking Plan.](#828-web-and-mobile-tracking-plan)
+      - [Common Event Parameters](#common-event-parameters)
+      - [Web Tracking Plan](#web-tracking-plan)
+      - [Mobile Tracking Plan](#mobile-tracking-plan)
+      - [Backend Confirmation Events](#backend-confirmation-events)
+      - [Minimal Tracking Implementation](#minimal-tracking-implementation)
+      - [Tracking Quality Criteria](#tracking-quality-criteria)
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories.](#831-to-be-user-stories)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
@@ -5247,17 +5301,278 @@ Para garantizar la redundancia y efectividad de la comunicación, se implementa 
 
 # Capítulo VIII: Experiment-Driven Development
 
-## 8.1. Experiment Planning
+# 8.1. Experiment Planning
 
-### 8.1.1. As-Is Summary.
+## 8.1.1. As-Is Summary
 
-### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+Mecanaut es una plataforma orientada a la gestión integral del mantenimiento industrial que permite administrar activos, planificar mantenimientos preventivos, ejecutar órdenes de trabajo y controlar inventario de repuestos. Actualmente, el sistema dispone de un flujo para la creación de planes de mantenimiento preventivo mediante formularios convencionales.
 
-### 8.1.3. Experiment-Ready Questions.
+Sin embargo, durante el análisis del producto se identificó que el proceso de creación de planes puede resultar complejo para algunos administradores debido a la cantidad de información solicitada, la ausencia de una secuencia guiada y la necesidad de comprender conceptos de planificación preventiva. Estas dificultades pueden ocasionar errores de validación, abandono del flujo o la creación incompleta de planes de mantenimiento.
 
-### 8.1.4. Question Backlog.
+El proceso actual requiere que el administrador configure líneas de producción, seleccione activos, defina frecuencias de mantenimiento y asocie tareas preventivas dentro de una misma interfaz, lo que incrementa la carga cognitiva y dificulta la adopción del sistema en organizaciones con baja madurez digital.
 
-### 8.1.5. Experiment Cards.
+Debido a ello, antes de invertir esfuerzo en nuevas funcionalidades o mejoras complejas, el equipo decidió identificar las principales incertidumbres del producto y diseñar experimentos que permitan validar supuestos relacionados con la experiencia de planificación preventiva.
+
+## 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+La planificación experimental inicia recopilando información proveniente de decisiones de diseño, funcionalidades implementadas, retroalimentación obtenida y expectativas del equipo respecto al comportamiento de los usuarios.
+
+### Ideas
+
+Las ideas representan posibles cambios en el producto que podrían mejorar la experiencia de administradores y técnicos de mantenimiento. Sin embargo, en esta fase no se asume que dichas ideas sean correctas; se analizan para identificar qué premisas deben comprobarse.
+
+| ID   | Idea                                                                                | Premisa subyacente                                                                                          |
+| ---- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| I-01 | Implementar un flujo guiado para crear planes de mantenimiento preventivo.          | Si el administrador recibe una secuencia clara de pasos, completará más planes con menos errores.           |
+| I-02 | Mostrar una previsualización de KPIs durante la creación del plan.                  | Si el administrador visualiza el impacto esperado del plan, tomará decisiones más orientadas a indicadores. |
+| I-03 | Incorporar una lista de verificación para técnicos durante la ejecución de órdenes. | Si el técnico dispone de instrucciones estructuradas, mejorará la calidad del registro técnico.             |
+| I-04 | Alertar sobre repuestos insuficientes antes de iniciar una orden.                   | Si el sistema detecta faltantes oportunamente, disminuirán los trabajos bloqueados.                         |
+
+### Claims
+
+Las afirmaciones son declaraciones sobre el producto, su valor o sus usuarios. Pueden provenir del análisis del problema, entrevistas, decisiones de diseño, historias de usuario o acuerdos de servicio. Estas afirmaciones deben tratarse como hipótesis potenciales, no como hechos definitivos.
+
+| ID   | Claim                                                                                                    | Implicancia para experimentación                                                                   |
+| ---- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| C-01 | Mecanaut reduce tiempos de inactividad mediante una mejor gestión del mantenimiento.                     | Debe comprobarse si los usuarios logran planificar mantenimiento de manera más eficiente.          |
+| C-02 | Los administradores necesitan visualizar KPIs para tomar mejores decisiones.                             | Debe evaluarse si la visualización de indicadores influye realmente en la configuración de planes. |
+| C-03 | Los técnicos requieren instrucciones claras para ejecutar órdenes sin depender de comunicación informal. | Debe medirse si una guía estructurada reduce omisiones en la documentación técnica.                |
+| C-04 | El control de inventario es esencial para evitar retrasos operativos.                                    | Debe analizarse si las alertas de disponibilidad reducen órdenes detenidas por falta de repuestos. |
+
+### Assumptions
+
+Las suposiciones son creencias del equipo sobre los usuarios y el producto. Algunas tienen respaldo parcial en la investigación previa, pero todavía requieren evidencia directa mediante experimentación.
+
+| ID   | Assumption                                                                                       | Riesgo si es falsa                                                           |
+| ---- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| A-01 | Los administradores completarán más planes preventivos si el flujo se divide en pasos guiados.   | El equipo podría desarrollar una funcionalidad que no genere mejoras reales. |
+| A-02 | La previsualización de KPIs motivará mejores decisiones de planificación.                        | Los indicadores podrían convertirse en elementos meramente decorativos.      |
+| A-03 | Los técnicos aceptarán una lista de verificación si no incrementa demasiado el tiempo de cierre. | La funcionalidad podría percibirse como una carga administrativa.            |
+| A-04 | Las alertas de inventario serán útiles antes de ejecutar una orden.                              | Las alertas podrían aparecer demasiado tarde dentro del proceso operativo.   |
+
+### Knowledge Gaps
+
+Las brechas de conocimiento representan información que el equipo todavía no conoce con precisión. Estas brechas dan origen a preguntas exploratorias o complementan preguntas impulsadas por creencias.
+
+| ID    | Knowledge Gap                                                                                | Pregunta asociada                                             |
+| ----- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| KG-01 | No se conoce la tasa actual de finalización del flujo de creación de planes.                 | ¿Qué porcentaje de usuarios completa el flujo actual?         |
+| KG-02 | No se conoce qué campos generan más errores o abandono.                                      | ¿En qué paso ocurre la mayor fricción?                        |
+| KG-03 | No se conoce si los administradores comprenden y utilizan los KPIs durante la planificación. | ¿Los indicadores modifican la forma de configurar un plan?    |
+| KG-04 | No se conoce el dispositivo preferido por técnicos y administradores.                        | ¿Desktop, tablet o móvil ofrecen mejor experiencia operativa? |
+
+A partir de este material bruto, el equipo priorizará preguntas orientadas a validar comportamientos reales de los usuarios y no únicamente opiniones declaradas.
+
+## 8.1.3. Experiment-Ready Questions
+
+Las preguntas listas para experimentar se formularon tomando como base las ideas, suposiciones, afirmaciones y brechas de conocimiento anteriores. Se distinguen dos tipos de preguntas: las preguntas impulsadas por creencias, que buscan probar una premisa concreta, y las preguntas exploratorias, que buscan obtener información cuando todavía no existe suficiente certeza.
+
+Para convertir el material bruto en preguntas experimentables se aplicó una revisión basada en Who, What, Where, When, Why y How. Esto permitió definir quién será observado, qué comportamiento se medirá, en qué módulo ocurrirá, durante qué tarea, por qué importa para el negocio y cómo se podría recolectar evidencia.
+
+### Belief-led Questions
+
+**Q-01.** ¿Un flujo guiado de creación de planes de mantenimiento aumenta la tasa de planes completados por los administradores frente al flujo actual?
+
+Esta pregunta busca comprobar la suposición de que dividir el proceso en pasos reduce la carga cognitiva y evita abandono. Es relevante porque la creación de planes preventivos es una actividad central para que Mecanaut genere valor operativo. Si los administradores no completan planes, el sistema no puede apoyar adecuadamente la programación preventiva ni la generación de órdenes futuras.
+
+**Q-02.** ¿La previsualización de KPIs durante la creación del plan mejora la calidad de las decisiones de planificación?
+
+Esta pregunta busca comprobar si los indicadores no solo se consultan después, sino que influyen durante la configuración del mantenimiento. La pregunta es importante porque Mecanaut promete apoyar decisiones basadas en datos; por ello, los KPIs deben tener impacto en tareas críticas como seleccionar activos, tareas, frecuencias y prioridades.
+
+**Q-03.** ¿Una lista de verificación para ejecución de órdenes mejora la completitud del reporte técnico sin incrementar excesivamente el tiempo de cierre?
+
+Esta pregunta evalúa si una guía estructurada ayuda al técnico a registrar mejor el trabajo realizado. Es relevante porque una orden cerrada sin evidencia suficiente reduce la trazabilidad y limita la utilidad del historial de mantenimiento.
+
+**Q-04.** ¿Una alerta de inventario antes de ejecutar una orden reduce la cantidad de trabajos bloqueados por falta de repuestos?
+
+Esta pregunta prueba si la integración entre inventario y órdenes de trabajo produce un beneficio operativo medible. Es relevante porque un mantenimiento puede retrasarse si el técnico descubre tarde que no cuenta con materiales necesarios.
+
+### Exploratory Questions
+
+**Q-05.** ¿Qué paso del flujo de creación de planes genera mayor fricción para el administrador?
+
+Esta pregunta busca descubrir dónde se concentran errores, dudas o abandono dentro del flujo. No asume una causa específica, sino que permite identificar oportunidades de mejora antes de implementar cambios mayores.
+
+**Q-06.** ¿Qué dispositivo resulta más adecuado para técnicos y administradores durante tareas operativas de mantenimiento?
+
+Esta pregunta explora el contexto real de uso de Mecanaut. Aunque la plataforma web puede usarse desde computadora o tablet, la ejecución de mantenimiento ocurre en planta y puede requerir una experiencia móvil o responsive más simple.
+
+**Q-07.** ¿Qué eventos de uso son indispensables para medir aprendizaje continuo sin recolectar información innecesaria?
+
+Esta pregunta permite definir una estrategia de analítica responsable. El objetivo no es rastrear todo, sino identificar eventos mínimos que permitan medir hipótesis de producto y comportamiento sin generar ruido ni riesgos innecesarios de privacidad.
+
+Estas preguntas servirán como insumo para construir un backlog de incertidumbres priorizadas y seleccionar el experimento inicial.
+
+## 8.1.4. Question Backlog
+
+El Question Backlog organiza las preguntas de investigación según su valor para el aprendizaje del producto. A diferencia de un Product Backlog, este backlog no prioriza funcionalidades, sino incertidumbres que deben resolverse para tomar mejores decisiones de negocio y diseño.
+
+Para priorizar las preguntas se emplean cuatro criterios:
+
+* **Confidence**
+* **Risk**
+* **Impact**
+* **Interest**
+
+La prioridad se calcula mediante:
+
+**Priority Score = (6 − Confidence) + Risk + Impact + Interest**
+
+De esta forma, las preguntas con menor confianza, mayor riesgo, mayor impacto y mayor interés reciben mayor prioridad. En caso de empate, se prioriza la pregunta con mayor riesgo, porque una incertidumbre riesgosa puede llevar a invertir esfuerzo en una dirección incorrecta.
+
+| Priority | ID   | Type        | Confidence | Risk | Impact | Interest | Score  |
+| -------- | ---- | ----------- | ---------- | ---- | ------ | -------- | ------ |
+| 1        | Q-01 | Belief-led  | 2          | 5    | 5      | 5        | **19** |
+| 2        | Q-03 | Belief-led  | 3          | 4    | 5      | 4        | **16** |
+| 3        | Q-02 | Belief-led  | 2          | 3    | 4      | 4        | **15** |
+| 4        | Q-04 | Belief-led  | 3          | 4    | 4      | 4        | **15** |
+| 5        | Q-05 | Exploratory | 2          | 3    | 3      | 4        | **14** |
+| 6        | Q-07 | Exploratory | 2          | 3    | 3      | 3        | **13** |
+| 7        | Q-06 | Exploratory | 3          | 2    | 3      | 3        | **11** |
+
+La pregunta prioritaria será **Q-01**, ya que se relaciona directamente con el principal valor ofrecido por Mecanaut: facilitar la planificación preventiva mediante procesos digitales claros, medibles y ejecutables.
+
+Las preguntas Q-03 y Q-02 quedan como experimentos complementarios. Q-03 se orienta al técnico y a la ejecución de órdenes; Q-02 se orienta a la toma de decisiones basada en KPIs. Q-04, aunque importante, depende de que el flujo de órdenes e inventario esté suficientemente integrado y estable. Las preguntas exploratorias Q-05, Q-06 y Q-07 servirán como soporte para definir mediciones, diseño de interacción y alcance de tracking.
+
+## 8.1.5. Experiment Cards
+
+### Experiment Card EC-01: Guided Maintenance Plan Creation
+
+### Front Side
+
+**Question**
+
+¿Un flujo guiado de creación de planes de mantenimiento aumenta la tasa de planes completados por los administradores frente al flujo actual?
+
+**Why**
+
+La creación de planes preventivos es una actividad fundamental dentro de Mecanaut. Si los administradores abandonan el proceso o generan configuraciones incorrectas, disminuye la capacidad del sistema para programar mantenimientos futuros y reducir tiempos de inactividad.
+
+**Hypothesis**
+
+Creemos que implementar un flujo guiado paso a paso para crear planes de mantenimiento preventivo aumentará la tasa de planes completados y reducirá los errores de validación respecto al flujo actual.
+
+Sabremos que esto es cierto cuando observemos una mayor tasa de finalización, una disminución de errores y tiempos de creación aceptables durante una prueba controlada.
+
+### What — Simplest Useful Thing
+
+Se desarrollará una versión mínima del flujo guiado que incluya:
+
+1. Selección de línea de producción.
+2. Selección de máquinas o activos.
+3. Definición de frecuencia de mantenimiento.
+4. Registro de tareas preventivas.
+5. Revisión final y confirmación del plan.
+
+No se incorporarán recomendaciones automáticas ni análisis predictivos en esta primera iteración.
+
+### Back Side
+
+**Measures**
+
+La medida principal será la tasa de finalización del plan de mantenimiento. Como medidas secundarias se registrará el tiempo promedio para completar el flujo, número de errores de validación, paso donde ocurre abandono y número de planes creados correctamente. También se observará la percepción del usuario mediante una pregunta breve posterior a la tarea.
+
+**Conditions**
+
+La condición de control será el flujo actual de creación de planes. La condición experimental será el flujo guiado paso a paso. Ambas condiciones deberán usar el mismo conjunto de datos de prueba: líneas de producción, activos, máquinas, tareas y frecuencias equivalentes.
+
+**Scale**
+
+La escala preliminar será un piloto controlado con usuarios representativos del segmento administrador de mantenimiento. Si no se cuenta con una muestra amplia de usuarios reales, se realizará una prueba controlada con participantes que ejecuten la misma tarea en ambos flujos, registrando eventos de interacción y resultados de finalización.
+
+**Expected Learning**
+
+El equipo espera aprender si la mayor fricción está en la estructura del flujo, en los datos solicitados o en la comprensión de conceptos de mantenimiento. Si el flujo guiado mejora la finalización, se priorizará su implementación en como parte del To-Be Product Backlog.
+
+### Experiment Card EC-02: Work Order Execution Checklist
+
+### Front Side
+
+**Question**
+
+¿Una lista de verificación para ejecución de órdenes mejora la completitud del reporte técnico sin incrementar excesivamente el tiempo de cierre?
+
+**Why**
+
+El técnico necesita instrucciones claras para ejecutar una orden de trabajo y dejar evidencia suficiente. Si el cierre de la orden no contiene tareas completadas, observaciones, evidencia o repuestos utilizados, el historial de mantenimiento pierde valor para análisis futuro. Esta pregunta permite comprobar si una lista de verificación mejora la calidad del registro operativo.
+
+**Hypothesis**
+
+Creemos que una lista de verificación durante la ejecución de órdenes de trabajo aumentará la completitud del reporte técnico. 
+
+Sabremos que esto es cierto cuando más órdenes finalizadas incluyan tareas marcadas, observaciones y evidencia mínima, sin que el tiempo de cierre aumente de forma que afecte negativamente la experiencia del técnico.
+
+### What — Simplest Useful Thing
+
+Se implementará una lista de verificación mínima para órdenes de trabajo con tres elementos:
+
+1. Confirmación de tarea realizada.
+2. Registro de observación breve.
+3. Marcado de repuestos o materiales utilizados.
+
+La primera versión no incluirá carga obligatoria de imágenes ni firma digital, porque eso aumentaría el esfuerzo inicial y podría ocultar si la lista básica ya produce mejora.
+
+### Back Side
+
+**Measures**
+
+La medida principal será la tasa de reportes completos. Se considerará reporte completo aquel que incluya tareas marcadas, observación técnica y estado final de la orden. Como medidas secundarias se registrará tiempo de cierre, campos omitidos, número de órdenes devueltas por información insuficiente y satisfacción percibida por el técnico.
+
+**Conditions**
+
+La condición de control será el cierre de orden con el flujo actual. La condición experimental será el cierre con lista de verificación. Se evaluará con órdenes de trabajo equivalentes en dificultad y duración estimada.
+
+**Scale**
+
+La escala preliminar será una prueba controlada con técnicos o participantes representativos ejecutando casos simulados de mantenimiento. La escala definitiva dependerá del número de usuarios disponibles y de la estabilidad del módulo de órdenes de trabajo.
+
+**Expected Learning**
+
+El equipo espera identificar si la estructura del checklist mejora la documentación sin generar carga operativa excesiva. Si el resultado es positivo, se podrá extender la lista con evidencia fotográfica, repuestos utilizados y validación de supervisor.
+
+### Experiment Card EC-03: Inventory Availability Warning
+
+### Front Side
+
+**Question**
+
+¿Una alerta de inventario antes de ejecutar una orden reduce la cantidad de trabajos bloqueados por falta de repuestos?
+
+**Why**
+
+El mantenimiento no depende solo de asignar una orden; también requiere que los recursos estén disponibles antes de la ejecución. Si un técnico inicia una intervención y descubre tarde que no hay repuestos o materiales suficientes, la orden puede retrasarse y aumentar el tiempo de inactividad del activo. Esta pregunta conecta el módulo de inventario con el flujo operativo de mantenimiento
+
+**Hypothesis**
+
+Creemos que mostrar una alerta de disponibilidad de repuestos antes de iniciar una orden de trabajo reducirá los casos en los que la ejecución queda bloqueada por falta de materiales. 
+
+Sabremos que esto es cierto cuando los usuarios identifiquen faltantes antes de iniciar la tarea y disminuya la cantidad de órdenes marcadas como detenidas por inventario insuficiente.
+
+### What — Simplest Useful Thing
+
+Se implementará una validación mínima que revise si los repuestos asociados a una orden tienen stock disponible. Si falta un material, el sistema mostrará una advertencia antes de iniciar la ejecución. No se implementará todavía compra automática, predicción de stock ni integración con proveedores.
+
+### Back Side
+
+**Measures**
+
+La medida principal será la tasa de órdenes bloqueadas por falta de repuestos. Como medidas secundarias se registrará número de alertas mostradas, número de alertas atendidas, repuestos agregados antes de ejecución y tiempo entre alerta y resolución.
+
+**Conditions**
+
+La condición de control será el flujo actual sin advertencia previa. La condición experimental será el flujo con alerta de inventario. Los casos de prueba deberán incluir órdenes con materiales suficientes y órdenes con materiales insuficientes para comprobar ambos escenarios.
+
+**Scale**
+
+La escala preliminar será una prueba controlada con órdenes simuladas y datos de inventario preparados. La escala definitiva se ajustará según la cantidad de órdenes reales o simuladas disponibles durante la ejecución del experimento
+
+**Expected Learning**
+
+El equipo espera comprobar si una advertencia temprana cambia el comportamiento del administrador o técnico antes de iniciar una orden. Si el experimento muestra utilidad, se podrá priorizar una integración más profunda entre inventario, planificación y órdenes de trabajo.
+
+De las tres tarjetas propuestas, el experimento seleccionado para el diseño inicial será EC-01: Guided Maintenance Plan Creation. Esta decisión se justifica porque responde a la pregunta con mayor puntaje en el Question Backlog y se relaciona directamente con el valor principal de Mecanaut: permitir que los administradores transformen el mantenimiento preventivo en planes digitales claros, ejecutables y medibles. 
+
+Los experimentos EC-02 y EC-03 se mantendrán como candidatos posteriores. EC-02 permitirá evaluar la calidad de la ejecución técnica, mientras que EC-03 permitirá evaluar la integración entre mantenimiento e inventario. Sin embargo, ambos dependen de que primero exista una planificación suficientemente clara y completa. Por ello, el flujo guiado de creación de planes será la primera intervención a desarrollar, medir y analizar.
 
 ## 8.2. Experiment Design
 
