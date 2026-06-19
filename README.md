@@ -429,7 +429,6 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-
 ---
 
 <div style="page-break-after: always;"></div>
@@ -452,41 +451,47 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Lideré el Capítulo IV: Product Design. Reconocí mi responsabilidad ética al asegurar que las interfaces fueran accesibles y usables para distintos perfiles de usuario, cuidando que el diseño no excluyera a nadie.
 
 – **TB1:** Al desarrollar el Capítulo IV: Product Design, reconocí mi responsabilidad ética y profesional al proponer interfaces claras, accesibles y coherentes con las necesidades de los usuarios, evitando diseños confusos o excluyentes.
-      </p>
+
+</p>
 <br>
-      <p><strong>Claudia Valeria Belledonne Espinoza</strong> 
+<p><strong>Claudia Valeria Belledonne Espinoza</strong>
 
 – **AV1:** Lideré el Capítulo II: Requirements Elicitation & Analysis. Asumí responsabilidad profesional al realizar entrevistas y análisis competitivo con rigor, cuidando la confidencialidad y evitando sesgos en la interpretación.
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
+
 </p>
 
 <br>
-      <p><strong>Mauricio Daniel Elera Rodríguez</strong> 
+      <p><strong>Mauricio Daniel Elera Rodríguez</strong>
 
 – **AV1:** Lideré el Capítulo V: Product Implementation. Reconocí mi responsabilidad ética al aplicar buenas prácticas de configuración y despliegue, asegurando que el software fuera seguro y confiable.
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
-      </p>
+
+</p>
 <br>
-      <p><strong>Ricardo Fernando Cárdenas Minaya</strong> 
+<p><strong>Ricardo Fernando Cárdenas Minaya</strong>
 
 – **AV1:** Lideré el Capítulo I: Introducción. Asumí responsabilidad ética al definir el problema y representar fielmente a los segmentos objetivo, evitando exageraciones y manteniendo precisión profesional.
 
 – **TB1:** Al desarrollar el Capítulo I: Introducción, asumió responsabilidad ética al definir el problema, la propuesta de solución y los segmentos objetivo de manera realista, evitando exagerar el alcance del producto y manteniendo claridad profesional.
-      </p>
+
+</p>
 <br>
-      <p><strong>Mariano Moisés Oblitas Dávila</strong>
-      
+<p><strong>Mariano Moisés Oblitas Dávila</strong>
+
 – **AV1:** Lideré el Capítulo III: Requirements Specification. Reconocí mi responsabilidad ética al definir historias de usuario y backlog, cuidando que las prioridades reflejaran necesidades reales y no intereses personales.
 
 – **TB1:** Al trabajar el Capítulo III: Requirements Specification, reconoció su responsabilidad ética al formular historias de usuario, backlog e impact mapping alineados con necesidades reales, priorizando el valor para el usuario y no solo intereses técnicos del equipo.
-      </p>
+
+</p>
 <br>
-    </td>
-    <td>
-      <p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
-      <p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
+</td>
+<td>
+<p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+<p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
+
 </p>
     </td>
   </tr>
@@ -498,30 +503,34 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Emití juicios informados sobre el impacto social del diseño de interfaces, considerando la inclusión y accesibilidad como factores clave para distintos contextos.
 
 – **TB1:** Al desarrollar el Capítulo IV: Product Design, emití juicios informados sobre el impacto social de las interfaces, considerando que el diseño debía ser claro, accesible y usable para distintos tipos de usuarios.
+
   </p>
 <br>
 
-  <p><strong>Claudia Valeria Belledonne Espinoza</strong> 
+  <p><strong>Claudia Valeria Belledonne Espinoza</strong>
 
 – **AV1:** Evalué el impacto económico y competitivo de la solución, emitiendo juicios sobre la sostenibilidad del proyecto en el mercado.
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, evalué el contexto competitivo y las necesidades del mercado, considerando el impacto económico y social que podía tener la solución propuesta.
+
   </p>
 <br>
 
-  <p><strong>Mauricio Daniel Elera Rodríguez</strong> 
+  <p><strong>Mauricio Daniel Elera Rodríguez</strong>
 
 – **AV1:** Consideré el impacto ambiental y social en la implementación, proponiendo prácticas de despliegue eficientes y seguras que redujeran riesgos.
 
 – **TB1:** Al desarrollar el Capítulo V: Product Implementation, consideré el impacto técnico y social de la implementación, priorizando una configuración ordenada, segura y eficiente para reducir riesgos en el uso del sistema.
+
   </p>
 <br>
 
-  <p><strong>Ricardo Fernando Cárdenas Minaya</strong> 
+  <p><strong>Ricardo Fernando Cárdenas Minaya</strong>
 
 – **AV1:** Emití juicios informados sobre el impacto global de las entrevistas y el needfinding, asegurando que las soluciones fueran aplicables en distintos contextos.
 
 – **TB1:** Al desarrollar el Capítulo I: Introducción, emití juicios informados sobre el impacto social y económico del problema identificado, procurando que la propuesta de solución fuera realista y aplicable al contexto de los usuarios.
+
   </p>
 <br>
 
@@ -530,6 +539,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Evalué el impacto económico y organizacional de las especificaciones, considerando la viabilidad y sostenibilidad futura del proyecto.
 
 – **TB1:** Al trabajar el Capítulo III: Requirements Specification, evalué el impacto organizacional de las historias de usuario, backlog e impact mapping, asegurando que los requerimientos fueran viables y aportaran valor al proyecto.
+
   </p>
 <br>
 
@@ -1974,7 +1984,7 @@ Landing Page en Inglés
 
 ![imagemobile](img/mobile-wireframes/Gestión%20de%20Maquinarias.png)
 
-![imagemobile](img/mobile-wireframes/Nueva%20Línea%20de%20Producción%20(Modal).png)
+![imagemobile](<img/mobile-wireframes/Nueva%20Línea%20de%20Producción%20(Modal).png>)
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams.
 
@@ -4388,12 +4398,12 @@ Se seleccionó Azure como plataforma de despliegue por su facilidad de integraci
 <img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/5ee0888c-2466-4a2e-a9c1-94529608f4ef" />
 
 2. Configuración de Repositorios y Automatización de Deployment (CI/CD)
-<img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/9ab2d96d-fdb6-4d47-aa96-d5015d11bc6a" />
-<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/d3030575-4840-4ac5-bee1-2fe8e97e147a" />
+   <img width="1600" height="774" alt="image" src="https://github.com/user-attachments/assets/9ab2d96d-fdb6-4d47-aa96-d5015d11bc6a" />
+   <img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/d3030575-4840-4ac5-bee1-2fe8e97e147a" />
 
 3. Deployment de la Aplicación Web
-<img width="872" height="253" alt="image" src="https://github.com/user-attachments/assets/ca884187-858d-4374-a144-3813911bbe7d" />
-<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/114c3112-a378-4548-8d3b-8cd19c7d88ef" />
+   <img width="872" height="253" alt="image" src="https://github.com/user-attachments/assets/ca884187-858d-4374-a144-3813911bbe7d" />
+   <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/114c3112-a378-4548-8d3b-8cd19c7d88ef" />
 
 <br>
 
@@ -4492,22 +4502,22 @@ Se seleccionó Azure como plataforma de despliegue por su facilidad de integraci
 Proceso de despliegue:
 
 - Creacion de recurso de base de datos en Azure
-<img width="704" height="569" alt="image" src="https://github.com/user-attachments/assets/e6f45d05-4f5d-4b9e-a0b5-29356618a35d" />
-<img width="665" height="592" alt="image" src="https://github.com/user-attachments/assets/01aac897-581b-4023-9eed-f7098eb14dd8" />
+  <img width="704" height="569" alt="image" src="https://github.com/user-attachments/assets/e6f45d05-4f5d-4b9e-a0b5-29356618a35d" />
+  <img width="665" height="592" alt="image" src="https://github.com/user-attachments/assets/01aac897-581b-4023-9eed-f7098eb14dd8" />
 
 - Configuracion del proyecto para despliegue y evidencias
-<img width="487" height="530" alt="image" src="https://github.com/user-attachments/assets/e228873d-65e7-4983-b0f3-0104e5d212df" />
-<img width="495" height="307" alt="image" src="https://github.com/user-attachments/assets/eb101ecf-e999-4ed9-b189-b13c301787d3" />
-<img width="701" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb64704-0715-4cdf-914b-b9d3b8a68b80" />
-<img width="705" height="241" alt="image" src="https://github.com/user-attachments/assets/251bcb56-d5a4-467d-bfa4-c615c9210b34" />
+  <img width="487" height="530" alt="image" src="https://github.com/user-attachments/assets/e228873d-65e7-4983-b0f3-0104e5d212df" />
+  <img width="495" height="307" alt="image" src="https://github.com/user-attachments/assets/eb101ecf-e999-4ed9-b189-b13c301787d3" />
+  <img width="701" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb64704-0715-4cdf-914b-b9d3b8a68b80" />
+  <img width="705" height="241" alt="image" src="https://github.com/user-attachments/assets/251bcb56-d5a4-467d-bfa4-c615c9210b34" />
 
 - Configuración de recurso en Azure
-<img width="506" height="628" alt="image" src="https://github.com/user-attachments/assets/9f9d9360-0046-46f9-87d5-1cfd8e0ddd29" />
-<img width="581" height="606" alt="image" src="https://github.com/user-attachments/assets/0df1be44-78c0-43e5-b2e8-c8a33727382a" />
-<img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/ced4fe02-3e4e-4e9f-8929-f3b0b853b91f" />
-<img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/d54e8e25-0f24-4780-bfb8-541497502fd9" />
-<img width="679" height="391" alt="image" src="https://github.com/user-attachments/assets/9e4f432a-c31e-45f4-bb2e-08816af652f4" />
-<img width="696" height="335" alt="image" src="https://github.com/user-attachments/assets/80c3ed80-2a25-416f-a22a-b2884aa81598" />
+  <img width="506" height="628" alt="image" src="https://github.com/user-attachments/assets/9f9d9360-0046-46f9-87d5-1cfd8e0ddd29" />
+  <img width="581" height="606" alt="image" src="https://github.com/user-attachments/assets/0df1be44-78c0-43e5-b2e8-c8a33727382a" />
+  <img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/ced4fe02-3e4e-4e9f-8929-f3b0b853b91f" />
+  <img width="578" height="629" alt="image" src="https://github.com/user-attachments/assets/d54e8e25-0f24-4780-bfb8-541497502fd9" />
+  <img width="679" height="391" alt="image" src="https://github.com/user-attachments/assets/9e4f432a-c31e-45f4-bb2e-08816af652f4" />
+  <img width="696" height="335" alt="image" src="https://github.com/user-attachments/assets/80c3ed80-2a25-416f-a22a-b2884aa81598" />
 
 <br>
 
@@ -4787,21 +4797,22 @@ Para validar el Backend en .NET, se empleó `WebApplicationFactory` interactuand
 | **User Story:** US01 - Registro de Maquinaria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Descripción:** Este escenario valida que el sistema pueda registrar correctamente un nuevo activo industrial (maquinaria) cuando se envían datos válidos mediante el método POST. Se verifica el flujo completo desde la solicitud HTTP, la autenticación previa, hasta la persistencia en la base de datos en memoria. Se comprueba la integración entre el controlador de _Machines_, los servicios de aplicación del módulo de _AssetManagement_, el agregado `Machine` y los repositorios de Entity Framework Core. Esta validación es importante porque asegura que la creación de activos mantenga la consistencia de los identificadores (`SerialNumber`) para futuras planificaciones. |
 | <img src="img/testing/integrationtest1.png" alt="Evidencia Test Integración US01">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
 <br>
 
-| Escenario 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Story:** US04 - Asignación de Personal Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Escenario 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Story:** US04 - Asignación de Personal Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Descripción:** Este escenario comprueba el comportamiento del sistema al asignar técnicos a una orden de trabajo existente. Se prepara la base de datos inyectando una orden semilla y posteriormente se simula el llamado HTTP con el ID del técnico a asignar. La prueba valida que la respuesta sea exitosa y que, al consultar nuevamente la base de datos, el arreglo de `TechnicianIds` dentro del agregado `WorkOrder` contenga la nueva asignación[cite: 900]. Esto garantiza la correcta comunicación e integridad de datos en el módulo de _WorkOrders_. |
-| <img src="img/testing/integrationtest2.png" alt="Evidencia Test Integración US04">                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| <img src="img/testing/integrationtest2.png" alt="Evidencia Test Integración US04">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 <br>
 
-| Escenario 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **User Story:** US09 - Creación de Plan de Mantenimiento                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Escenario 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Story:** US09 - Creación de Plan de Mantenimiento                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Descripción:** Este escenario evalúa la capacidad del sistema para recibir un _payload_ complejo que incluye métricas de condición, maquinarias y tareas, y transformarlo en un plan de mantenimiento estructurado. Valida la integración entre la API de _DynamicMaintenancePlanning_ y la base de datos, asegurando que los datos de planificación a largo plazo se inserten y persistan exitosamente en el sistema, lo cual es vital para el motor de prevención de fallas de Mecanaut. |
-| <img src="img/testing/integrationtest3.png" alt="Evidencia Test Integración US09">                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| <img src="img/testing/integrationtest3.png" alt="Evidencia Test Integración US09">                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 <br>
 
@@ -4817,26 +4828,28 @@ Para validar el Backend en .NET, se empleó `WebApplicationFactory` interactuand
 
 <img src="img/testing/integrationtestevidence.png" alt="Evidencia Testing">
 
-| Escenario 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Story:** US01 - Registro de Maquinaria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Escenario 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **User Story:** US01 - Registro de Maquinaria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Descripción:** Este escenario valida bidireccionalmente la capa de comunicación HTTP, se simula la interacción del usuario con el formulario de registro de maquinaria. La prueba verifica que el frontend serialice y estructure correctamente el _payload_ JSON y ejecute la petición POST hacia el endpoint `/api/v1/machines`. Asimismo, comprueba que la interfaz de usuario procese adecuadamente la respuesta del servidor (HTTP 201 Created), confirmando la robustez de la interacción entre la interfaz cliente y la API. |
-| <img src="img/testing/integrationtest5.png" alt="Evidencia Test Integración Frontend">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-<br>
-
-| Escenario 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Story:** US23 - Simulación de Registro de Métricas de Maquinarias (Frontend)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Descripción:** Este escenario valida la capa de integración del cliente web para uno de los procesos más críticos del _Core Domain_: el registro de métricas de monitoreo de condición. Se simula la interacción de un administrador ingresando una nueva métrica operativa. La prueba garantiza que el frontend serialice el _payload_ correctamente y ejecute la petición hacia la API, además de confirmar que la interfaz de usuario se actualice en tiempo real mostrando las confirmaciones de éxito al recibir una respuesta HTTP favorable del servidor, sin necesidad de recargar la aplicación.         |
-| <img src="img/testing/integrationtest6.png" alt="Evidencia Test Integración Frontend US23">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <img src="img/testing/integrationtest5.png" alt="Evidencia Test Integración Frontend">                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <br>
 
-| Escenario 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Story:** US22 - Inicio de sesión (Integración Frontend-Backend)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Escenario 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Story:** US23 - Simulación de Registro de Métricas de Maquinarias (Frontend)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Descripción:** Este escenario valida la capa de integración del cliente web para uno de los procesos más críticos del _Core Domain_: el registro de métricas de monitoreo de condición. Se simula la interacción de un administrador ingresando una nueva métrica operativa. La prueba garantiza que el frontend serialice el _payload_ correctamente y ejecute la petición hacia la API, además de confirmar que la interfaz de usuario se actualice en tiempo real mostrando las confirmaciones de éxito al recibir una respuesta HTTP favorable del servidor, sin necesidad de recargar la aplicación. |
+| <img src="img/testing/integrationtest6.png" alt="Evidencia Test Integración Frontend US23">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+<br>
+
+| Escenario 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Story:** US22 - Inicio de sesión (Integración Frontend-Backend)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Descripción:** Este escenario complementa las pruebas de integración validando la seguridad y el control de acceso desde el cliente web. Se aísla el componente de autenticación y se simula la comunicación HTTP con el servicio de identidad (IAM). La prueba verifica que, ante credenciales válidas, el frontend envíe el _payload_ correcto, intercepte el Token JWT de la respuesta y lo almacene de manera segura en el `localStorage` antes de redirigir al panel. Adicionalmente, comprueba que el sistema reaccione defensivamente bloqueando el acceso y mostrando alertas visuales si el servidor retorna un error de autorización (HTTP 401). |
-| <img src="img/testing/integrationtest7.png" alt="Evidencia Test Integración Frontend US22">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| <img src="img/testing/integrationtest7.png" alt="Evidencia Test Integración Frontend US22">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
 <br>
 
 **Evidencia de testing Frontend:**
@@ -4920,29 +4933,167 @@ Para lograr esto, se utilizó el framework de automatización **Cypress**, el cu
 | **Flujo:** Registro completo de Activos en Planta (Aplicación Móvil - US01)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Descripción:** Para dar cumplimiento a la validación integral del sistema en diferentes entornos, este escenario simula la interacción _End-to-End_ en la aplicación móvil desarrollada con Flutter/Dart. Utilizando el framework nativo `integration_test` y configurando una resolución de pantalla adaptativa para el emulador, se automatiza el comportamiento de un Administrador desde el trabajo de campo. El script valida el flujo secuencial y dependiente: inicio de sesión seguro (US22), creación de una Planta, creación de una Línea de Producción, y finalmente, el registro de una Maquinaria (US01). La prueba asegura que la interfaz nativa procese los formularios correctamente, se comunique con la API de .NET (validando las respuestas HTTP 201 Created) y renderice los mensajes de éxito (`SnackBar`) sin errores de ciclo de vida. |
 | **Código de la Prueba:**<br><br> <img src="img/testing/e2e_mobile_codigo.png" alt="Código Flutter E2E US01">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Ejecución de la Prueba:**<br> https://youtu.be/QSfOc5dEHPo <br> <img src="img/testing/e2e_mobile_ejecucion.png" alt="Ejecución Flutter E2E en Emulador">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+| **Ejecución de la Prueba:**<br> https://youtu.be/QSfOc5dEHPo <br> <img src="img/testing/e2e_mobile_ejecucion.png" alt="Ejecución Flutter E2E en Emulador">  
 <br>
 
 ## 6.2. Static testing & Verification
 
+En esta sección se abordan las prácticas, metodologías y herramientas aplicadas por el equipo para evaluar la calidad del software. El objetivo principal es identificar vulnerabilidades de forma temprana, auditar la complejidad y asegurar que el código de Mecanaut cumpla con los lineamientos arquitectónicos antes de pasar a los entornos de producción.
+
 ### 6.2.1. Static Code Analysis
+
+Acontinuación, se documenta la revisión automatizada del código fuente de Mecanaut. Mediante el uso de linters y analizadores, el equipo validó el cumplimiento de las buenas prácticas de desarrollo en cada entorno, garantizando una base de software limpia y estandarizada.
 
 #### 6.2.1.1. Coding standard & Code conventions.
 
+<strong>Frontend Web - Vue.js</strong>
+
+Mecanaut se alinea con las convenciones oficiales de Vue 3, estructurándose mediante una arquitectura basada en componentes reutilizables y modulares. Para garantizar el mantenimiento a largo plazo y la escalabilidad del proyecto, el equipo implementa estrictamente el patrón de Archivos de un Solo Componente. Esta práctica asegura una separación clara de responsabilidades en cada archivo, donde la lógica de negocio y la gestión del estado se aíslan dentro de la etiqueta script, mientras que la interfaz de usuario y el renderizado se confinan en la etiqueta template.
+
+<img src="img/code-analysis/front3.png" width="600px">
+
+Respecto a las convenciones de nomenclatura, el proyecto mantiene una consistencia rigurosa para evitar ambigüedades. A nivel lógico, los nombres internos de los componentes se declaran utilizando el estándar PascalCase. Esta convención es fundamental para el registro adecuado de los componentes y facilita enormemente la trazabilidad y depuración dentro de las herramientas de desarrollo del ecosistema Vue.
+
+<img src="img/code-analysis/front1.png" width="600px">
+
+Esta misma regla de PascalCase se extiende y aplica de manera estricta al momento de instanciar componentes hijos dentro de las plantillas HTML. El uso de esta sintaxis específica permite a los desarrolladores del equipo diferenciar visualmente, de forma inmediata, las etiquetas HTML nativas estándar (como div, span o button) de los componentes personalizados y complejos de la aplicación, lo que mejora drásticamente la legibilidad del árbol de elementos.
+
+<img src="img/code-analysis/front4.png" width="200px">
+
+Finalmente, para asegurar la estabilidad del sistema y prevenir caídas de la interfaz frente a fallos de red o errores del servidor, se estableció un estándar innegociable para el manejo de la asincronía. Todas las interacciones y peticiones a los servicios de la API se gestionan obligatoriamente mediante el uso de async/await. Estas operaciones se encapsulan sistemáticamente dentro de bloques try-catch, garantizando que cualquier excepción sea capturada de manera controlada para proveer retroalimentación adecuada sin interrumpir la experiencia del usuario.
+
+<img src="img/code-analysis/front2.png" width="600px">
+
+<strong>Landing Page</strong>
+
+En la construcción de la Landing Page de Mecanaut, el equipo aplicó estándares estrictos de HTML para asegurar un código limpio y accesible. Se estableció el uso de minúsculas para todas las etiquetas y sus atributos. Además, nos aseguramos de cerrar correctamente todos los elementos, incluyendo las etiquetas simples mediante el uso de la barra diagonal (como en el caso de las imágenes). También definimos como regla obligatoria el uso del atributo alt en todas las imágenes y el uso exclusivo de comillas dobles para los valores de los atributos.
+
+<img src="img/code-analysis/landing1.png" width="600px">
+
+Para manejar los estilos de forma ordenada, evitamos usar nombres de clases genéricos que pudieran generar conflictos. En su lugar, implementamos la metodología BEM (Block, Element, Modifier) combinada con el formato kebab-case para las clases CSS. Como se observa en la estructura de nuestros componentes, utilizamos un nombre de bloque principal, doble guion bajo para identificar los elementos internos que dependen de él, y doble guion medio para aplicar modificadores o cambios de estado visual.
+
+<img src="img/code-analysis/landing2.png" width="600px">
+
+Esta convención para nombrar las clases nos permite encapsular el diseño de cada componente de manera segura. Al no mezclar estilos globales con los locales, garantizamos que la vista no se rompa de forma accidental al agregar nuevas secciones, y le permitimos a cualquier desarrollador entender la jerarquía visual del proyecto con solo leer el código del archivo.
+
+<strong>Backend - .NET / C#</strong>
+
+El backend de Mecanaut fue desarrollado en .NET utilizando el lenguaje C#, implementando convenciones rigurosas basadas en los estándares oficiales de Microsoft y las mejores prácticas de la arquitectura Domain-Driven Design (DDD). A nivel de nomenclatura, el código mantiene una consistencia estricta para asegurar su legibilidad: se utiliza PascalCase para definir los nombres de las clases, interfaces, registros (records) y métodos públicos, mientras que para las variables locales, parámetros y campos privados se emplea camelCase. Esta distinción visual permite a los desarrolladores identificar rápidamente el alcance y la responsabilidad de cada elemento dentro de la lógica de negocio.
+
+<img src="img/code-analysis/backend1.png" width="600px">
+
+Para garantizar un bajo acoplamiento entre los distintos Bounded Contexts y facilitar el proceso de pruebas unitarias, el equipo aplicó el principio de inversión de dependencias. Se prohibió la instanciación manual de servicios utilizando la palabra clave new dentro de la lógica operativa. En su lugar, todas las dependencias necesarias, tales como repositorios o servicios de comandos, se inyectan exclusivamente a través de los constructores mediante sus respectivas interfaces (IWorkOrderCommandService, IWorkOrderQueryService, etc.), garantizando la inmutabilidad de los componentes.
+
+<img src="img/code-analysis/backend2.png" width="600px">
+
+Por último, dado que el sistema Mecanaut maneja operaciones de alta concurrencia como la creación de órdenes de trabajo y consultas de inventario, se estableció un manejo robusto de la asincronía. Todas las operaciones de entrada/salida y las transacciones hacia la base de datos se ejecutan de forma asíncrona utilizando async/await y retornos de tipo Task o Task<T>. Esta implementación previene el bloqueo de los hilos del servidor, optimizando el rendimiento general de la API al atender múltiples peticiones de manera simultánea.
+
+<img src="img/code-analysis/backend3.png" width="600px">
+
+<strong>Móvil - Flutter / Dart</strong>
+
+Para la aplicación móvil de los técnicos operativos, el equipo siguió de cerca las guías de estilo oficiales recomendadas por Google para el lenguaje Dart y el framework Flutter. Para asegurar la consistencia y legibilidad en toda la base de código, aplicamos reglas estrictas de nomenclatura. Todos los componentes de la interfaz (Widgets) y clases estructurales se declaran obligatoriamente usando UpperCamelCase. Por otro lado, las variables de estado, propiedades y métodos internos mantienen el formato lowerCamelCase. Esta separación visual es clave para que cualquier desarrollador pueda diferenciar rápidamente cuándo se está definiendo un tipo de dato o Widget, y cuándo se está utilizando una variable local.
+
+<img src="img/code-analysis/mobile1.png" width="600px">
+
+A nivel de interfaz de usuario, uno de los mayores desafíos en el desarrollo con Flutter es evitar la anidación excesiva de código, comúnmente conocida como "Widget Hell". Para solucionar esto y mantener una arquitectura limpia, el equipo estableció como regla fundamental mantener el método build principal lo más limpio y corto posible. Toda la lógica compleja de presentación se extrae y delega a métodos constructores modulares. De esta manera, el árbol principal actúa simplemente como un esqueleto que invoca funciones más pequeñas encargadas de renderizar cada sección de la pantalla, evaluando correctamente los estados de carga o error.
+
+<img src="img/code-analysis/mobile2.png" width="600px">
+
+Esta misma estrategia de modularización se aplica rigurosamente en el renderizado de listas y tarjetas de datos. En lugar de saturar el constructor de una vista de lista (ListView) con cientos de líneas de diseño visual, la interfaz se fragmenta delegando el diseño individual de cada ítem a funciones específicas. Esto no solo hace que el código sea mucho más fácil de inspeccionar y mantener, sino que establece bases sólidas para la futura reutilización de estos componentes visuales en otras partes de la aplicación.
+
+<img src="img/code-analysis/mobile3.png" width="600px">
+
 #### 6.2.1.2. Code Quality & Code Security.
 
+Durante el desarrollo del sistema **Mecanaut**, se aplicaron prácticas orientadas a garantizar la calidad del código, su mantenibilidad y la protección de los datos en todos los entornos. Las medidas implementadas combinan el uso de herramientas de análisis estático con patrones arquitectónicos defensivos.
+
+**Herramientas de Análisis Estático y Métricas Monitoreadas**
+
+| Herramienta           | Propósito                                        | Configuración y Métricas de Calidad                                                                             |
+| :-------------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| **Roslyn Compiler**   | Análisis estático para .NET / C#                 | Detección de referencias nulas y _code smells_. Objetivo: 0 Errores, 0 Advertencias críticas.                   |
+| **Dart Analyzer**     | Análisis estático para Flutter                   | Configuración estricta. Evaluación de código muerto, variables huérfanas y tipado dinámico. Objetivo: 0 issues. |
+| **ESLint & Prettier** | Calidad en JavaScript / Vue.js                   | Formateo automático de código y detección de complejidad.                                                       |
+| **npm audit (SCA)**   | Detección de vulnerabilidades (Frontend/Landing) | Monitoreo del árbol de dependencias para aislar inyecciones XSS y DoS en librerías de terceros.                 |
+
+<br>
+
+**Backend - .NET / C#**
+La calidad en el backend se asegura mediante la estricta separación de capas (Domain-Driven Design) y la Inyección de Dependencias, reduciendo la deuda técnica. El análisis estático garantiza compilaciones limpias libres de advertencias operativas.
+
+<img src="img/code-analysis/backendQuality.png" width="550px" alt="Análisis Backend .NET">
+
+En el ámbito de la seguridad a nivel de código, el sistema backend destaca por:
+
+- **Control de Acceso:** Integración de seguridad mediante tokens JWT. Los endpoints están protegidos por roles (Administrador, Técnico), asegurando que solo usuarios autorizados accedan a recursos críticos.
+- **Manejo Seguro de Excepciones:** Implementación de bloques `try-catch` globales para evitar la exposición de _stack traces_ o consultas explícitas, previniendo ataques de Inyección SQL.
+- **Gestión de Secretos:** Configuración hermética utilizando el archivo `appsettings.json` (excluido del repositorio) para almacenar cadenas de conexión a Azure y claves API.
+
+**Frontend Web & Landing Page - Vue.js**
+La calidad del frontend se basa en una arquitectura modular por componentes (SFC) y validación continua mediante ESLint. En términos de seguridad y estabilidad, se aplican las siguientes prácticas:
+
+- **SCA y Saneamiento de Dependencias:** Ejecución periódica de auditorías de seguridad (`npm audit`) para detectar vulnerabilidades heredadas (como _Cross-Site Scripting_ o _Denial of Service_). Como se evidencia a continuación, el equipo detecta los riesgos y ejecuta remediaciones automáticas (`npm audit fix`) para aislar el código vulnerable antes del _build_.
+
+<img src="img/code-analysis/frontQuality1.png" width="600px" alt="Detección de vulnerabilidades en el Frontend">
+
+<img src="img/code-analysis/frontQuality3.png" width="600px" alt="Remediación automática de dependencias">
+
+- **Aislamiento de Entorno:** Uso estricto de variables de entorno (`.env`) para gestionar las URLs de redirección y consumo de la API, previniendo filtraciones en producción.
+- **Manejo Reactivo y Defensivo:** Confianza en los mecanismos nativos de Vue para sanitizar el DOM, junto con un manejo robusto de promesas (`async/await` en `try-catch`) para evitar caídas de la interfaz ante fallos de red.
+
+**Frontend Móvil - Flutter / Dart**
+El aplicativo móvil mantiene estándares de calidad basados en la modularización de _Widgets_ para evitar anidaciones excesivas (_Widget Hell_), favoreciendo la mantenibilidad.
+
+- **Análisis y Tipado Estricto:** Se utiliza _Dart Analyzer_ (`flutter analyze`) para aplicar un tipado fuerte que elimina errores en tiempo de compilación, asegurando que no existan variables sin uso o fugas de memoria.
+
+<img src="img/code-analysis/mobileQuality.png" width="550px" alt="Análisis estático en Flutter">
+
+- **Navegación y Autenticación Segura:** El código gestiona de forma segura los tokens de sesión en el almacenamiento local del dispositivo, validando la vigencia de los mismos antes de permitir el enrutamiento hacia las pantallas de ejecución de órdenes de trabajo.
+
 ### 6.2.2. Reviews
+
+A la par de las validaciones automatizadas, el desarrollo del sistema **Mecanaut** se respaldó con un proceso continuo de revisiones manuales e iterativas. Estas revisiones humanas fueron fundamentales para detectar errores lógicos, validar el cumplimiento de los requerimientos de los usuarios (Administradores y Técnicos) y asegurar la cohesión del equipo. Las prácticas implementadas se resumen a continuación:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left; width: 25%;">Práctica de Revisión</th>
+      <th style="text-align: left; width: 75%;">Descripción y Objetivos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Sprint Reviews</b></td>
+      <td>Al finalizar cada ciclo de desarrollo, el equipo realizó demostraciones en vivo de las Historias de Usuario completadas (ej. gestión de inventario, métricas de activos). Se validó la alineación con los requerimientos iniciales y se recolectó <i>feedback</i> para priorizar mejoras en el siguiente ciclo.</td>
+    </tr>
+    <tr>
+      <td><b>Peer Code Reviews</b></td>
+      <td>Regla estricta de <i>Pull Request</i> (PR): ninguna funcionalidad se integra a la rama principal sin validación cruzada. Se evaluó la aplicación de DDD, convenciones de nomenclatura, legibilidad (evitando el <i>Widget Hell</i>) y seguridad en el manejo de excepciones.</td>
+    </tr>
+    <tr>
+      <td><b>Collaborative Code Sessions</b></td>
+      <td>Debido al modelo de trabajo ágil, la validación cruzada se realizó mediante sesiones de <i>pair programming</i> y supervisión compartida. El equipo validaba de forma conjunta la aplicación de DDD, la consistencia en la nomenclatura, la legibilidad del código (evitando el <i>Widget Hell</i>) y la seguridad en el manejo de excepciones.</td>
+    </tr>
+    <tr>
+      <td><b>Design & Architecture Reviews</b></td>
+      <td>Revisiones periódicas enfocadas en la consistencia técnica. Los desarrolladores validaron que los contratos de API y DTOs estuvieran sincronizados entre el Backend (.NET) y los clientes (Vue.js/Flutter), previniendo cuellos de botella en la integración.</td>
+    </tr>
+  </tbody>
+</table>
+
+Estas revisiones no solo elevaron el estándar de calidad del código, sino que también fomentaron una cultura de aprendizaje compartido, asegurando que el modelo de datos y la arquitectura del sistema reflejaran fielmente el _Core Domain_ de Mecanaut.
 
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
 
-
 Se llevaron a cabo entrevistas breves con usuarios finales de los dos perfiles clave en la plataforma: técnicos de mantenimiento y administradores de mantenimiento. Estas entrevistas tienen como finalidad validar la claridad, utilidad y usabilidad general de la aplicación web y su landing page, considerando los flujos de usuario más relevantes para cada perfil.
 
 Durante las sesiones, se mostró a los entrevistados tanto la landing page como una versión funcional de la aplicación web. A partir de ello, se les invitó a realizar tareas específicas y responder preguntas diseñadas para recoger percepciones sobre navegación, comprensión de funcionalidades y barreras de uso.
 
-**Preguntas sobre la Landing Page** 
+**Preguntas sobre la Landing Page**
 
 1. ¿La información presentada en la página inicial te parece útil y relevante para entender la solución?
 
@@ -4961,40 +5112,35 @@ Durante las sesiones, se mostró a los entrevistados tanto la landing page como 
 **Para Administradores de Mantenimiento**
 Se considerará los userflows de:
 
-* Registro e inicio de sesión
+- Registro e inicio de sesión
 
-* Gestión del personal técnico
+- Gestión del personal técnico
 
-* Registro de nuevos planes de mantenimiento
+- Registro de nuevos planes de mantenimiento
 
-* Registro de repuestos y solicitud de órdenes de adquisición
+- Registro de repuestos y solicitud de órdenes de adquisición
 
 1. ¿Te pareció clara y sencilla la experiencia de creación de cuenta para tu empresa?
 
 2. ¿Qué agregarías o quitarías para facilitar este registro inicial?
- 
-3. ¿Te resultó intuitivo el proceso para agregar una nueva línea de producción?
- 
-4. ¿Fue fácil identificar dónde registrar una nueva máquina?
- 
-5. ¿La funcionalidad para generar el plan mensual es clara y fácil de usar?
- 
-6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
 
+3. ¿Te resultó intuitivo el proceso para agregar una nueva línea de producción?
+
+4. ¿Fue fácil identificar dónde registrar una nueva máquina?
+
+5. ¿La funcionalidad para generar el plan mensual es clara y fácil de usar?
+
+6. ¿Te parece que la organización de la aplicación se entiende y comprende fácilmente?
 
 **Para Técnicos de Mantenimiento**
 Para Técnicos de Mantenimiento
 
-* Registro e inicio de sesión
+- Registro e inicio de sesión
 
-* Visualización de maquinaria asignada
-  
-* Consulta y edición de información de maquinaria
-  
-* Consulta de planes de mantenimiento activos
-  
-* Revisión del calendario semanal y mensual con tareas asignadas
-
+- Visualización de maquinaria asignada
+- Consulta y edición de información de maquinaria
+- Consulta de planes de mantenimiento activos
+- Revisión del calendario semanal y mensual con tareas asignadas
 
 1. ¿Pudiste crear tu cuenta e iniciar sesión sin inconvenientes?
 
@@ -5008,115 +5154,119 @@ Para Técnicos de Mantenimiento
 
 6. ¿Hubo algún punto del proceso en el que te sentiste confundido o desorientado?
 
-
 ### 6.3.2. Registro de Entrevistas.
 
 ### Segmento 1: Administradores de Mantenimiento
 
 #### Entrevista #1
+
 - **Nombre completo:** Albano Romero
 - **Edad:** 28
-- **Cargo / Rol en la empresa:**  Administrador de mantenimiento en sector minero
+- **Cargo / Rol en la empresa:** Administrador de mantenimiento en sector minero
 - **Enlace del video:** [Validation Interview 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 0:00 s
 - **Fin:** 22:07 s
- <img src="img/interviews/entrevista-validacion-administrador-1.png"> 
+  <img src="img/interviews/entrevista-validacion-administrador-1.png">
 
 #### Entrevista #2
+
 - **Nombre completo:** Samy Ramirez
 - **Edad:** 30
 - **Cargo / Rol en la empresa:** Administrador de Mantenimiento de sector medico
 - **Enlace del video:** [Validation Interview 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 22:08 s
 - **Fin:** 32:23 s
- <img src="img/interviews/entrevista-validacion-administrador-2.png">
+  <img src="img/interviews/entrevista-validacion-administrador-2.png">
 
 #### Entrevista #3
+
 - **Nombre completo:** Marcos Salazar
 - **Edad:** 35
 - **Cargo / Rol en la empresa:** Administrador de Mantenimiento en sector textil
 - **Enlace del video:** [Validation Interview 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 32:28 s
 - **Fin:** 52:08 s
- <img src="img/interviews/entrevista-validacion-administrador-3.png">
+  <img src="img/interviews/entrevista-validacion-administrador-3.png">
 
 ### Segmento 2: Técnicos Operativos
 
 #### Entrevista #1
-- **Nombre completo:**  Lucero Avalos
-- **Edad:**  27
+
+- **Nombre completo:** Lucero Avalos
+- **Edad:** 27
 - **Puesto o función que desempeñas:** Técnica en sector de textiles
 - **Enlace del video:** [Validation Interview 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 52:08 s
 - **Fin:** 01:08:30 s
- <img src="img/interviews/entrevista-validacion-tecnico-1.png">
+  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
 
 #### Entrevista #2
+
 - **Nombre completo:** Adriano Sanchez
 - **Edad:** 23
 - **Puesto o función que desempeñas:** Técnico de mantenimiento en maquinaria textil
 - **Enlace del video:** [Validation Interview 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:08 :30 s
 - **Fin:** 01:23 :14 s
- <img src="img/interviews/entrevista-validacion-tecnico-2.png">
+  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
 
 #### Entrevista #3
+
 - **Nombre completo:** Luis Gomez
-- **Edad:** 23 años  
-- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico  
+- **Edad:** 23 años
+- **Puesto o función que desempeñas:** Técnico de mantenimiento mecánico
 - **Enlace del video:** [Validation Interview 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:23 :14 s
 - **Fin:** 01:40 :08 s
- <img src="img/interviews/entrevista-validacion-tecnico-3.png">
-
+  <img src="img/interviews/entrevista-validacion-tecnico-3.png">
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
+**Sitio o Aplicación Evaluada:** MecaNaut
 
-**Sitio o Aplicación Evaluada:** MecaNaut  
-
-**Tareas evaluadas:**  
+**Tareas evaluadas:**
 
 La presente evaluación de usabilidad se centró en analizar la experiencia de usuario al completar las siguientes funcionalidades dentro de la plataforma:
 
-- Ingreso a la aplicación desde la landing page  
-- Registro de cuenta en la plataforma  
-- Proceso de inicio de sesión  
-- Acceso y visualización de la pantalla principal  
-- Navegación por el calendario (semanal y mensual)  
-- Consulta del inventario (repuestos y solicitudes de adquisición)  
-- Gestión de activos (maquinarias y líneas de producción)  
-- Revisión de órdenes de trabajo  
-- Consulta y seguimiento de planes de mantenimiento  
-- Gestión del personal técnico  
-- Acceso a la configuración de cuenta  
+- Ingreso a la aplicación desde la landing page
+- Registro de cuenta en la plataforma
+- Proceso de inicio de sesión
+- Acceso y visualización de la pantalla principal
+- Navegación por el calendario (semanal y mensual)
+- Consulta del inventario (repuestos y solicitudes de adquisición)
+- Gestión de activos (maquinarias y líneas de producción)
+- Revisión de órdenes de trabajo
+- Consulta y seguimiento de planes de mantenimiento
+- Gestión del personal técnico
+- Acceso a la configuración de cuenta
 
 Quedan fuera del alcance de esta evaluación:
 
-- Recuperación de contraseña o cuenta  
-- Visualización de reportes e indicadores  
-- Funcionalidades específicas del perfil técnico  
+- Recuperación de contraseña o cuenta
+- Visualización de reportes e indicadores
+- Funcionalidades específicas del perfil técnico
 
 ---
 
-### Escala de severidad  
-*Los hallazgos fueron clasificados con base en la siguiente escala de severidad:*  
+### Escala de severidad
 
-|***Nivel***|***Descripción***|
-| :-: | :-: |
-|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
-|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
-|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
-|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+_Los hallazgos fueron clasificados con base en la siguiente escala de severidad:_
+
+| **_Nivel_** |                                                                                        **_Descripción_**                                                                                         |
+| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     _1_     |          _Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo._          |
+|     _2_     | _Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase_ |
+|     _3_     |                _Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta._                 |
+|     _4_     |               _Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento._                |
 
 ---
 
 ### Tabla resumen
 
-|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
-| :- | :- | :- | :- |
-|1| No existe un medio directo de contacto en la landing page | 3 | Usability: Help and documentation |
-|2| El formulario de registro está restringido solo a usuarios administradores | 4 | Usability: Flexibility and efficiency of use |
+| **#** | **Problema**                                                               | **Escala de severidad** | **Heurística/principio violada(o)**          |
+| :---- | :------------------------------------------------------------------------- | :---------------------- | :------------------------------------------- |
+| 1     | No existe un medio directo de contacto en la landing page                  | 3                       | Usability: Help and documentation            |
+| 2     | El formulario de registro está restringido solo a usuarios administradores | 4                       | Usability: Flexibility and efficiency of use |
 
 ---
 
@@ -5124,10 +5274,10 @@ Quedan fuera del alcance de esta evaluación:
 
 ---
 
-#### **PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page  
+#### **PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page
 
 **Severidad:** 3  
-**Heurística violada:** Usability: Help and documentation  
+**Heurística violada:** Usability: Help and documentation
 
 **Descripción:**  
 La página de inicio del sistema cuenta con una sección de preguntas frecuentes, sin embargo, no brinda una forma directa de contacto como un formulario, correo visible o botón de soporte. Esta omisión puede dificultar que usuarios potenciales aclaren dudas específicas, reduciendo la posibilidad de conversión o retención inicial.
@@ -5140,10 +5290,10 @@ Implementar un formulario de contacto sencillo con campos como nombre, correo y 
 
 ---
 
-#### **PROBLEMA #2:** El registro de cuenta está limitado a administradores  
+#### **PROBLEMA #2:** El registro de cuenta está limitado a administradores
 
 **Severidad:** 4  
-**Heurística violada:** Usability: Flexibility and efficiency of use  
+**Heurística violada:** Usability: Flexibility and efficiency of use
 
 **Descripción:**  
 Actualmente, la opción de registro está diseñada únicamente para administradores, impidiendo que los técnicos creen sus propias cuentas. Esta limitación obliga a que el administrador registre a todos los técnicos manualmente, lo cual genera fricción en el proceso de adopción y uso inicial de la plataforma.
@@ -5153,7 +5303,6 @@ Actualmente, la opción de registro está diseñada únicamente para administrad
 
 **Recomendación:**  
 Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el formulario de registro inicial. Esto facilitaría que cada usuario se incorpore según su rol correspondiente, sin depender de terceros, y promueve una experiencia más fluida y autónoma.
-
 
 ## 6.4. Auditoría de Experiencias de Usuario.
 
@@ -5175,15 +5324,16 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
 
-
 <div style="page-break-after: always;"></div>
 
 # Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration
+
 <p>La Integración Continua (CI) es una práctica de desarrollo de software donde los miembros de nuestro equipo integran su trabajo frecuentemente en un repositorio compartido. Cada integración es verificada por una construcción automática para detectar errores de integración lo más rápido posible.</p>
 
 ### 7.1.1. Tools and Practices.
+
 <p>Para asegurar una integración fluida y un control de versiones riguroso, hemos implementado las siguientes herramientas y prácticas:</p>
 <ul>
     <li><strong>GitHub:</strong> Utilizamos esta plataforma para el control de versiones, permitiéndonos gestionar ramas de desarrollo (development) y producción (main) de forma organizada.</li>
@@ -5191,6 +5341,7 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 </ul>
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+
 <p>El componente principal de nuestro pipeline de construcción y prueba incluye análisis automatizados para garantizar la calidad del código:</p>
 <ul>
     <li><strong>GitHub Actions:</strong> Utilizamos flujos de trabajo automatizados en GitHub para ejecutar procesos de verificación cada vez que se realiza un <i>push</i> o un <i>pull request</i>, garantizando que el código sea compilable.</li>
@@ -5198,9 +5349,11 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 </ul>
 
 ## 7.2. Continuous Delivery
+
 <p>La Entrega Continua (CD) es la capacidad de realizar cambios de cualquier tipo (nuevas características, configuraciones, correcciones de errores) en producción o en manos de los usuarios de manera segura y rápida.</p>
 
 ### 7.2.1. Tools and Practices.
+
 <p>Nuestras prácticas de entrega se centran en la automatización y eficiencia de los pipelines:</p>
 <ul>
     <li><strong>Azure App Service (Continuous Deployment):</strong> Para el backend, hemos configurado un pipeline de despliegue continuo vinculado directamente a nuestro repositorio de GitHub. Azure detecta automáticamente los cambios en la rama principal, iniciando el proceso de <i>build</i> y <i>deploy</i> sin intervención manual.</li>
@@ -5210,6 +5363,7 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 </ul>
 
 ### 7.2.2. Stages Deployment Pipeline Components.
+
 <p>El pipeline de entrega consta de las siguientes etapas críticas para validar el software antes de su liberación:</p>
 <ul>
     <li><strong>Compilación (Build):</strong> El código fuente se compila y genera los artefactos necesarios para el entorno de pre-producción.</li>
@@ -5218,9 +5372,11 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 </ul>
 
 ## 7.3. Continuous deployment
+
 <p>El Despliegue Continuo lleva la automatización un paso más allá, donde cada cambio que pasa todas las etapas de producción se despliega automáticamente en el entorno final sin intervención manual humana.</p>
 
 ### 7.3.1. Tools and Practices.
+
 <p>Para lograr un despliegue sin fricciones en producción, utilizamos las siguientes prácticas:</p>
 <ul>
     <li><strong>Azure Static Web Apps / Vercel:</strong> Herramientas utilizadas para el despliegue automatizado de nuestra Landing Page y aplicaciones frontend directamente desde los lanzamientos (releases) de GitHub.</li>
@@ -5228,6 +5384,7 @@ Permitir la selección del tipo de cuenta (Administrador o Técnico) desde el fo
 </ul>
 
 ### 7.3.2. Production Deployment Pipeline Components.
+
 <p>Los componentes clave para el despliegue seguro en el entorno real son:</p>
 <ul>
     <li><strong>Production Environment:</strong> El entorno final donde los usuarios acceden a la plataforma de gestión de activos.</li>
@@ -5246,15 +5403,14 @@ Para la implementación del entorno de monitoreo continuo, se adoptó la prácti
 Las herramientas seleccionadas para orquestar este flujo son las siguientes:
 
 - Jenkins: Servidor de automatización y orquestación para programar, ejecutar y evaluar las tareas repetitivas de verificación sin generar costos adicionales de infraestructura.
-<img width="1896" height="891" alt="image" src="https://github.com/user-attachments/assets/8b285bcb-6cd7-4bc8-8e94-68ea6c2d63fd" />
+  <img width="1896" height="891" alt="image" src="https://github.com/user-attachments/assets/8b285bcb-6cd7-4bc8-8e94-68ea6c2d63fd" />
 
 - cURL: Herramienta de línea de comandos integrada en el pipeline para interactuar con los protocolos de red y realizar peticiones HTTP directas hacia el backend.
-  
 - Servidor SMTP de Gmail: Pasarela de mensajería de Google empleada para el envío cifrado de alertas por correo electrónico hacia el equipo técnico.
-<img width="1813" height="721" alt="image" src="https://github.com/user-attachments/assets/5068a531-9539-4707-bd2b-deee545406aa" />
+  <img width="1813" height="721" alt="image" src="https://github.com/user-attachments/assets/5068a531-9539-4707-bd2b-deee545406aa" />
 
 - Webhooks integrados: Mecanismo de comunicación basado en eventos utilizado para acoplar la arquitectura de Jenkins con herramientas de mensajería instantánea del equipo, optimizando los tiempos de respuesta.
-<img width="1342" height="512" alt="image" src="https://github.com/user-attachments/assets/b2edb5b4-8122-43bb-9715-2049b0d98468" />
+  <img width="1342" height="512" alt="image" src="https://github.com/user-attachments/assets/b2edb5b4-8122-43bb-9715-2049b0d98468" />
 
 <br>
 
@@ -5262,8 +5418,8 @@ Las herramientas seleccionadas para orquestar este flujo son las siguientes:
 
 El componente de monitoreo representa la primera fase del pipeline, encargada exclusivamente de la recolección de datos y la medición del estado del sistema. Sus especificaciones técnicas se detallan a continuación:
 
-- Mecanismo de Disparo (Trigger): Se configura un disparador cronológico en Jenkins utilizando la expresión H/5 * * * *. Esto instruye al sistema a inicializar la tarea de inspección de manera automática y cíclica cada 5 minutos durante las 24 horas del día.
-<img width="1877" height="892" alt="image" src="https://github.com/user-attachments/assets/a542a7a8-69d3-4b85-8820-d34f4373bad6" />
+- Mecanismo de Disparo (Trigger): Se configura un disparador cronológico en Jenkins utilizando la expresión H/5 \* \* \* \*. Esto instruye al sistema a inicializar la tarea de inspección de manera automática y cíclica cada 5 minutos durante las 24 horas del día.
+  <img width="1877" height="892" alt="image" src="https://github.com/user-attachments/assets/a542a7a8-69d3-4b85-8820-d34f4373bad6" />
 
 - Acción de Inspección: El pipeline ejecuta una petición HTTP estructurada mediante el comando curl -f [URL_DEL_BACKEND]. La bandera -f (fail) es crucial en este componente, ya que obliga al comando a retornar un código de salida de error si el servidor responde con estados HTTP de falla (como 404 Not Found o 500 Internal Server Error)
 
@@ -5291,11 +5447,10 @@ El componente de notificación constituye la última fase del pipeline y se enca
 Para garantizar la redundancia y efectividad de la comunicación, se implementa una estrategia de notificación multi-canal:
 
 - Notificación por Correo Electrónico (Gmail SMTP): Al dispararse la alerta, el script de PowerShell integrado interactúa de forma segura con el servidor smtp.gmail.com a través del puerto seguro TLS 587. Utilizando credenciales de aplicación cifradas, despacha un correo electrónico formal con el asunto "CRISIS: API Caída", detallando que el vigilante Jenkins ha detectado una interrupción en el backend.
-<img width="1861" height="722" alt="image" src="https://github.com/user-attachments/assets/cd6832ca-420b-445d-9dd3-19dc214442c8" />
+  <img width="1861" height="722" alt="image" src="https://github.com/user-attachments/assets/cd6832ca-420b-445d-9dd3-19dc214442c8" />
 
 - Notificación Inmediata por Webhooks: En paralelo al correo electrónico, Jenkins utiliza un Webhook basado en peticiones POST de HTTP. Este mecanismo envía un JSON formateado directamente hacia la plataforma principal de chat del equipo de desarrollo (Discord). Esto asegura una alerta instantánea en los dispositivos móviles de los ingenieros, eliminando la dependencia de revisar la bandeja de entrada de forma manual.
-<img width="1472" height="935" alt="image" src="https://github.com/user-attachments/assets/a174e6d9-76ec-4532-8f00-13f561276820" />
-
+  <img width="1472" height="935" alt="image" src="https://github.com/user-attachments/assets/a174e6d9-76ec-4532-8f00-13f561276820" />
 
 <div style="page-break-after: always;"></div>
 
@@ -5409,10 +5564,10 @@ El Question Backlog organiza las preguntas de investigación según su valor par
 
 Para priorizar las preguntas se emplean cuatro criterios:
 
-* **Confidence**
-* **Risk**
-* **Impact**
-* **Interest**
+- **Confidence**
+- **Risk**
+- **Impact**
+- **Interest**
 
 La prioridad se calcula mediante:
 
@@ -5498,7 +5653,7 @@ El técnico necesita instrucciones claras para ejecutar una orden de trabajo y d
 
 **Hypothesis**
 
-Creemos que una lista de verificación durante la ejecución de órdenes de trabajo aumentará la completitud del reporte técnico. 
+Creemos que una lista de verificación durante la ejecución de órdenes de trabajo aumentará la completitud del reporte técnico.
 
 Sabremos que esto es cierto cuando más órdenes finalizadas incluyan tareas marcadas, observaciones y evidencia mínima, sin que el tiempo de cierre aumente de forma que afecte negativamente la experiencia del técnico.
 
@@ -5544,7 +5699,7 @@ El mantenimiento no depende solo de asignar una orden; también requiere que los
 
 **Hypothesis**
 
-Creemos que mostrar una alerta de disponibilidad de repuestos antes de iniciar una orden de trabajo reducirá los casos en los que la ejecución queda bloqueada por falta de materiales. 
+Creemos que mostrar una alerta de disponibilidad de repuestos antes de iniciar una orden de trabajo reducirá los casos en los que la ejecución queda bloqueada por falta de materiales.
 
 Sabremos que esto es cierto cuando los usuarios identifiquen faltantes antes de iniciar la tarea y disminuya la cantidad de órdenes marcadas como detenidas por inventario insuficiente.
 
@@ -5570,7 +5725,7 @@ La escala preliminar será una prueba controlada con órdenes simuladas y datos 
 
 El equipo espera comprobar si una advertencia temprana cambia el comportamiento del administrador o técnico antes de iniciar una orden. Si el experimento muestra utilidad, se podrá priorizar una integración más profunda entre inventario, planificación y órdenes de trabajo.
 
-De las tres tarjetas propuestas, el experimento seleccionado para el diseño inicial será EC-01: Guided Maintenance Plan Creation. Esta decisión se justifica porque responde a la pregunta con mayor puntaje en el Question Backlog y se relaciona directamente con el valor principal de Mecanaut: permitir que los administradores transformen el mantenimiento preventivo en planes digitales claros, ejecutables y medibles. 
+De las tres tarjetas propuestas, el experimento seleccionado para el diseño inicial será EC-01: Guided Maintenance Plan Creation. Esta decisión se justifica porque responde a la pregunta con mayor puntaje en el Question Backlog y se relaciona directamente con el valor principal de Mecanaut: permitir que los administradores transformen el mantenimiento preventivo en planes digitales claros, ejecutables y medibles.
 
 Los experimentos EC-02 y EC-03 se mantendrán como candidatos posteriores. EC-02 permitirá evaluar la calidad de la ejecución técnica, mientras que EC-03 permitirá evaluar la integración entre mantenimiento e inventario. Sin embargo, ambos dependen de que primero exista una planificación suficientemente clara y completa. Por ello, el flujo guiado de creación de planes será la primera intervención a desarrollar, medir y analizar.
 
@@ -5641,10 +5796,10 @@ Las medidas secundarias ayudarán a explicar por qué ocurre o no ocurre una mej
 
 Las medidas secundarias serán:
 
-* **Validation Error Rate:** cantidad de errores por intento de creación.
-* **Creation Time:** duración total desde inicio del flujo hasta confirmación.
-* **Step Abandonment Rate:** porcentaje de usuarios que abandona cada paso.
-* **Post-task Satisfaction Score:** valoración breve del usuario después de completar o abandonar la tarea.
+- **Validation Error Rate:** cantidad de errores por intento de creación.
+- **Creation Time:** duración total desde inicio del flujo hasta confirmación.
+- **Step Abandonment Rate:** porcentaje de usuarios que abandona cada paso.
+- **Post-task Satisfaction Score:** valoración breve del usuario después de completar o abandonar la tarea.
 
 #### Guardrail Measures
 
@@ -5717,11 +5872,11 @@ Debido al contexto académico y a la disponibilidad limitada de usuarios reales,
 
 La escala práctica será:
 
-* **Mínimo aceptable:** 8 participantes representativos, cada uno ejecutando una tarea de creación de plan.
-* **Escala recomendada:** 12 a 20 participantes representativos.
-* **Ejecución por condición:** cada participante puede trabajar con un flujo asignado, o el equipo puede dividir la muestra entre control y experimental de forma balanceada.
-* **Unidad de análisis:** intento de creación de plan de mantenimiento.
-* **Evidencia esperada:** tasa observada de finalización, errores, tiempo, abandono por paso y comentarios breves posteriores a la tarea.
+- **Mínimo aceptable:** 8 participantes representativos, cada uno ejecutando una tarea de creación de plan.
+- **Escala recomendada:** 12 a 20 participantes representativos.
+- **Ejecución por condición:** cada participante puede trabajar con un flujo asignado, o el equipo puede dividir la muestra entre control y experimental de forma balanceada.
+- **Unidad de análisis:** intento de creación de plan de mantenimiento.
+- **Evidencia esperada:** tasa observada de finalización, errores, tiempo, abandono por paso y comentarios breves posteriores a la tarea.
 
 Esta decisión mantiene rigor conceptual sin prometer una escala que el equipo probablemente no pueda alcanzar durante el periodo de entrega. Los resultados del piloto servirán para decidir si el flujo guiado debe implementarse por completo en el To-Be Product Backlog o si necesita una iteración previa.
 
@@ -5729,11 +5884,11 @@ Esta decisión mantiene rigor conceptual sin prometer una escala que el equipo p
 
 Para EC-01, la hipótesis recibirá evidencia favorable si se cumplen las siguientes condiciones:
 
-* La tasa de finalización del flujo experimental supera a la condición de control.
-* La diferencia observada se aproxima al MDE definido de 20 puntos porcentuales.
-* La tasa de errores de validación disminuye al menos 25%.
-* El tiempo promedio o mediano de creación no aumenta más de 15%.
-* No se detectan inconsistencias graves en los planes creados.
+- La tasa de finalización del flujo experimental supera a la condición de control.
+- La diferencia observada se aproxima al MDE definido de 20 puntos porcentuales.
+- La tasa de errores de validación disminuye al menos 25%.
+- El tiempo promedio o mediano de creación no aumenta más de 15%.
+- No se detectan inconsistencias graves en los planes creados.
 
 La hipótesis se considerará no apoyada si el flujo guiado no mejora la finalización o si la mejora se obtiene a costa de mayor tiempo, más errores técnicos o mayor confusión del usuario. Si los resultados son mixtos, se clasificará como aprendizaje inconcluso y se propondrá una iteración focalizada en el paso con mayor abandono.
 
@@ -5798,11 +5953,11 @@ El equipo no tomará decisiones basadas solo en satisfacción declarada. La sati
 
 Para asegurar calidad de datos, se aplicarán las siguientes reglas:
 
-* Cada evento debe incluir `experiment_id`, `variant`, `user_role`, `session_id` y timestamp.
-* Los eventos de éxito deben confirmarse con registros backend, no solo con interacción visual.
-* No se deben almacenar nombres personales, documentos, correos ni datos sensibles en eventos analíticos.
-* Los eventos duplicados dentro de la misma sesión deberán filtrarse durante el análisis.
-* Las sesiones incompletas por falla externa deberán marcarse como excluidas y documentarse.
+- Cada evento debe incluir `experiment_id`, `variant`, `user_role`, `session_id` y timestamp.
+- Los eventos de éxito deben confirmarse con registros backend, no solo con interacción visual.
+- No se deben almacenar nombres personales, documentos, correos ni datos sensibles en eventos analíticos.
+- Los eventos duplicados dentro de la misma sesión deberán filtrarse durante el análisis.
+- Las sesiones incompletas por falla externa deberán marcarse como excluidas y documentarse.
 
 ### 8.2.8. Web and Mobile Tracking Plan.
 
@@ -5899,14 +6054,13 @@ Si el equipo decide implementar persistencia en backend, el alcance recomendado 
 
 El Tracking Plan se considerará correctamente implementado si cumple con los siguientes criterios:
 
-* Cada evento crítico del flujo EC-01 se registra con `experiment_id` y `variant`.
-* Los eventos de éxito del frontend tienen confirmación equivalente en backend.
-* Los eventos permiten calcular las métricas definidas en 8.2.2 sin crear métricas nuevas no documentadas.
-* Los identificadores sensibles se almacenan anonimizados o como referencias internas no expuestas.
-* El volumen de eventos es suficiente para responder la pregunta experimental sin rastrear acciones irrelevantes.
+- Cada evento crítico del flujo EC-01 se registra con `experiment_id` y `variant`.
+- Los eventos de éxito del frontend tienen confirmación equivalente en backend.
+- Los eventos permiten calcular las métricas definidas en 8.2.2 sin crear métricas nuevas no documentadas.
+- Los identificadores sensibles se almacenan anonimizados o como referencias internas no expuestas.
+- El volumen de eventos es suficiente para responder la pregunta experimental sin rastrear acciones irrelevantes.
 
 Con este plan, Mecanaut podrá medir el impacto del flujo guiado de creación de planes de mantenimiento y generar aprendizaje continuo para decidir si la intervención debe implementarse, ajustarse o descartarse.
-
 
 ## 8.3. Experimentation
 
@@ -5914,9 +6068,7 @@ Con este plan, Mecanaut podrá medir el impacto del flujo guiado de creación de
 
 ### 8.3.2. To-Be Product Backlog
 
-
 <div style="page-break-after: always;"></div>
-
 
 # Conclusiones
 
