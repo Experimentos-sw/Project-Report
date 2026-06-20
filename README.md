@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-    <strong>Mayo, 2026</strong>
+    <strong>Junio, 2026</strong>
 </p>
 <br>
 
@@ -164,6 +164,36 @@
     <td>14/05/2025</td>
     <td>Equipo de proyecto</td>
     <td>Consolidación final del informe con los avances de los capítulos III, V, VI y VII, asegurando coherencia entre requerimientos, implementación, validación y prácticas DevOps.</td>
+</tr>
+<tr>
+    <td>2.1</td>
+    <td>27/05/2026</td>
+    <td>Ricardo Cárdenas, Claudia Belledonne</td>
+    <td>Inicio del desarrollo del AV2. Redacción del Experiment Planning completo (Capítulo VIII) e inicio del diseño y registro de Validation Interviews (Capítulo VI).</td>
+</tr>
+<tr>
+    <td>2.2</td>
+    <td>02/06/2026</td>
+    <td>Mariano Oblitas, Ariana Agreda</td>
+    <td>Definición del Experiment Design (Hipótesis, Métricas de negocio y Tracking Plan). Inicio del análisis de código estático (Static Testing & Verification).</td>
+</tr>
+<tr>
+    <td>2.3</td>
+    <td>08/06/2026</td>
+    <td>Claudia Belledonne, Ariana Agreda</td>
+    <td>Configuración y documentación del Continuous Monitoring (Pipelines de monitoreo y alertas). Ejecución de la auditoría de Experiencia de Usuario (realizada).</td>
+</tr>
+<tr>
+    <td>2.4</td>
+    <td>14/06/2026</td>
+    <td>Mauricio Elera</td>
+    <td>Registro de la auditoría de UX recibida, resumen de modificaciones y estructuración de la actualización ágil post-experimento (To-Be User Stories y Backlog).</td>
+</tr>
+<tr>
+    <td>3.0</td>
+    <td>19/06/2026</td>
+    <td>Equipo de proyecto</td>
+    <td>Consolidación final para el AV2. Integración de los capítulos VI, VII y VIII, actualización transversal del Student Outcome y revisión de commits colaborativos.</td>
 </tr>
 </table>
 
@@ -452,6 +482,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al desarrollar el Capítulo IV: Product Design, reconocí mi responsabilidad ética y profesional al proponer interfaces claras, accesibles y coherentes con las necesidades de los usuarios, evitando diseños confusos o excluyentes.
 
+– **AV2:** Al asumir el análisis de código estático y la auditoría de UX, reconocí mi responsabilidad ética al reportar vulnerabilidades y problemas de usabilidad de forma transparente y objetiva, sin ocultar defectos que pudieran perjudicar la experiencia del usuario final.
+
 </p>
 <br>
 <p><strong>Claudia Valeria Belledonne Espinoza</strong>
@@ -459,6 +491,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Lideré el Capítulo II: Requirements Elicitation & Analysis. Asumí responsabilidad profesional al realizar entrevistas y análisis competitivo con rigor, cuidando la confidencialidad y evitando sesgos en la interpretación.
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
+
+– **AV2:** Reconocí mi responsabilidad profesional al conducir las entrevistas de validación y configurar el monitoreo continuo en producción, garantizando la estricta privacidad de los datos de los usuarios entrevistados y la seguridad de la información monitoreada.
 
 </p>
 
@@ -469,6 +503,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
 
+– **AV2:** Asumí responsabilidad ética al procesar la auditoría UX recibida y estructurar el _To-Be Product Backlog_, aceptando las críticas de diseño constructivamente e integrando mejoras orientadas genuinamente a resolver las verdaderas necesidades del usuario.
+
 </p>
 <br>
 <p><strong>Ricardo Fernando Cárdenas Minaya</strong>
@@ -476,6 +512,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Lideré el Capítulo I: Introducción. Asumí responsabilidad ética al definir el problema y representar fielmente a los segmentos objetivo, evitando exageraciones y manteniendo precisión profesional.
 
 – **TB1:** Al desarrollar el Capítulo I: Introducción, asumió responsabilidad ética al definir el problema, la propuesta de solución y los segmentos objetivo de manera realista, evitando exagerar el alcance del producto y manteniendo claridad profesional.
+
+– **AV2:** Reconocí mi responsabilidad profesional al estructurar la fase de _Experiment Planning_, definiendo preguntas de investigación y asunciones libres de sesgos, buscando descubrir hechos reales sobre el uso del sistema en lugar de forzar la validación de ideas preestablecidas.
 
 </p>
 <br>
@@ -485,14 +523,16 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al trabajar el Capítulo III: Requirements Specification, reconoció su responsabilidad ética al formular historias de usuario, backlog e impact mapping alineados con necesidades reales, priorizando el valor para el usuario y no solo intereses técnicos del equipo.
 
+– **AV2:** Asumí responsabilidad ética durante el _Experiment Design_, estableciendo métricas (KPIs), cálculos y condiciones de forma transparente y rigurosa, evitando la manipulación de datos empíricos para asegurar resultados precisos y honestos.
+
 </p>
 <br>
 </td>
 <td>
 <p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
 <p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
-
 </p>
+<p>- **AV2:** En esta entrega garantizamos la integridad durante el diseño, planificación y validación de nuestros experimentos, reportando auditorías con honestidad y protegiendo los datos durante el monitoreo en producción.</p>
     </td>
   </tr>
   <tr>
@@ -504,6 +544,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al desarrollar el Capítulo IV: Product Design, emití juicios informados sobre el impacto social de las interfaces, considerando que el diseño debía ser claro, accesible y usable para distintos tipos de usuarios.
 
+– **AV2:** Emití juicios informados sobre el impacto de la mantenibilidad del código y la accesibilidad UX, comprendiendo que un código limpio y una interfaz inclusiva extienden la vida útil del producto y reducen barreras de adopción.
+
   </p>
 <br>
 
@@ -512,6 +554,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Evalué el impacto económico y competitivo de la solución, emitiendo juicios sobre la sostenibilidad del proyecto en el mercado.
 
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, evalué el contexto competitivo y las necesidades del mercado, considerando el impacto económico y social que podía tener la solución propuesta.
+
+– **AV2:** Evalué el impacto operativo y social configurando pipelines de _Continuous Monitoring_ y alertas, asegurando que la solución garantice una alta disponibilidad y no interrumpa las labores críticas de los técnicos en las fábricas.
 
   </p>
 <br>
@@ -522,6 +566,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al desarrollar el Capítulo V: Product Implementation, consideré el impacto técnico y social de la implementación, priorizando una configuración ordenada, segura y eficiente para reducir riesgos en el uso del sistema.
 
+– **AV2:** Emití juicios informados sobre el impacto económico al formular el rediseño ágil (_To-Be Product Backlog_), seleccionando mejoras post-auditoría que optimizan el retorno de inversión y la eficiencia del flujo de trabajo de los usuarios.
+
   </p>
 <br>
 
@@ -530,6 +576,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **AV1:** Emití juicios informados sobre el impacto global de las entrevistas y el needfinding, asegurando que las soluciones fueran aplicables en distintos contextos.
 
 – **TB1:** Al desarrollar el Capítulo I: Introducción, emití juicios informados sobre el impacto social y económico del problema identificado, procurando que la propuesta de solución fuera realista y aplicable al contexto de los usuarios.
+
+– **AV2:** Consideré el impacto organizacional y económico durante la planificación de los experimentos (_Experiment Planning_), garantizando que las hipótesis a evaluar mitigaran riesgos reales de negocio para la industria manufacturera.
 
   </p>
 <br>
@@ -540,6 +588,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **TB1:** Al trabajar el Capítulo III: Requirements Specification, evalué el impacto organizacional de las historias de usuario, backlog e impact mapping, asegurando que los requerimientos fueran viables y aportaran valor al proyecto.
 
+– **AV2:** Emití juicios informados sobre el impacto a través del _Experiment Design_, seleccionando _Domain Business Metrics_ que reflejen adecuadamente la eficiencia económica, operativa y la optimización de recursos dentro del sector industrial.
+
   </p>
 <br>
 
@@ -548,6 +598,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     <p> – AV1: Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos. </p>
         <p> - TB1: Como equipo, en la TB1 emitimos juicios informados considerando el impacto social, económico y organizacional de la solución. Esto nos permitió tomar decisiones más realistas, viables y alineadas con las necesidades de los usuarios y el contexto del proyecto.
 </p>
+<p> - **AV2:** Como equipo en el AV2, basamos nuestras decisiones de diseño experimental, monitoreo y auditorías en juicios informados sobre cómo nuestra solución afectará operativa y económicamente a las empresas manufactureras, promoviendo la confiabilidad industrial.</p>
     </td>
   </tr>
 </table>
