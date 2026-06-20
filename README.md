@@ -4955,9 +4955,9 @@ Mecanaut se alinea con las convenciones oficiales de Vue 3, estructurándose med
 
 Respecto a las convenciones de nomenclatura, el proyecto mantiene una consistencia rigurosa para evitar ambigüedades. A nivel lógico, los nombres internos de los componentes se declaran utilizando el estándar PascalCase. Esta convención es fundamental para el registro adecuado de los componentes y facilita enormemente la trazabilidad y depuración dentro de las herramientas de desarrollo del ecosistema Vue.
 
-<img src="img/code-analysis/front1.png" width="600px">
+Esta misma regla de PascalCase se extiende y aplica de manera estricta al momento de instanciar componentes hijos dentro de las plantillas HTML. El uso de esta sintaxis específica permite a los desarrolladores del equipo diferenciar visualmente, de forma inmediata, las etiquetas HTML nativas estándar (como div, span o button) de los componentes personalizados y complejos de la aplicación, lo que mejora drásticamente la legibilidad del árbol de elementos. Por otro lado, para la declaración de archivos y estructura de directorios, se utiliza exclusivamente kebab-case, manteniendo el proyecto ordenado y libre de conflictos de compatibilidad entre sistemas operativos.
 
-Esta misma regla de PascalCase se extiende y aplica de manera estricta al momento de instanciar componentes hijos dentro de las plantillas HTML. El uso de esta sintaxis específica permite a los desarrolladores del equipo diferenciar visualmente, de forma inmediata, las etiquetas HTML nativas estándar (como div, span o button) de los componentes personalizados y complejos de la aplicación, lo que mejora drásticamente la legibilidad del árbol de elementos.
+<img src="img/code-analysis/front1.png" width="600px">
 
 <img src="img/code-analysis/front4.png" width="200px">
 
@@ -5069,12 +5069,8 @@ A la par de las validaciones automatizadas, el desarrollo del sistema **Mecanaut
       <td>Al finalizar cada ciclo de desarrollo, el equipo realizó demostraciones en vivo de las Historias de Usuario completadas (ej. gestión de inventario, métricas de activos). Se validó la alineación con los requerimientos iniciales y se recolectó <i>feedback</i> para priorizar mejoras en el siguiente ciclo.</td>
     </tr>
     <tr>
-      <td><b>Peer Code Reviews</b></td>
-      <td>Regla estricta de <i>Pull Request</i> (PR): ninguna funcionalidad se integra a la rama principal sin validación cruzada. Se evaluó la aplicación de DDD, convenciones de nomenclatura, legibilidad (evitando el <i>Widget Hell</i>) y seguridad en el manejo de excepciones.</td>
-    </tr>
-    <tr>
       <td><b>Collaborative Code Sessions</b></td>
-      <td>Debido al modelo de trabajo ágil, la validación cruzada se realizó mediante sesiones de <i>pair programming</i> y supervisión compartida. El equipo validaba de forma conjunta la aplicación de DDD, la consistencia en la nomenclatura, la legibilidad del código (evitando el <i>Widget Hell</i>) y la seguridad en el manejo de excepciones.</td>
+      <td>Debido al modelo de trabajo ágil, la validación cruzada se realizó mediante sesiones de <i>pair programming</i> y supervisión compartida. El equipo validaba de forma conjunta la aplicación de DDD, la consistencia en la nomenclatura, la legibilidad del código y la seguridad en el manejo de excepciones.</td>
     </tr>
     <tr>
       <td><b>Design & Architecture Reviews</b></td>
@@ -5944,7 +5940,7 @@ A continuación, se detallan los 6 hallazgos principales y las acciones correcti
     <tr>
       <td><b>Navegación confusa:</b> Menú lateral basado únicamente en íconos, dificultando el reconocimiento de funcionalidades.</td>
       <td>4 (Crítico)</td>
-      <td>Se refactorizó el componente <code>sidebar-mecanaut.component.vue</code> implementando renderizado condicional (<code>v-if="isExpanded"</code>) para mostrar etiquetas de texto y se utilizó la pseudoclase <code>.router-link-active</code> para resaltar visualmente la ruta activa.</td>
+      <td>Se refactorizó el componente <code>sidebar-mecanaut.component.vue</code> implementando renderizado condicional para mostrar etiquetas de texto y se utilizó la pseudoclase <code>.router-link-active</code> para resaltar visualmente la ruta activa.</td>
       <td style="text-align: center;">Resuelto</td>
     </tr>
     <tr>
