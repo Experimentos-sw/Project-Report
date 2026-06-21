@@ -6770,9 +6770,224 @@ Con este plan, Mecanaut podrá medir el impacto del flujo guiado de creación de
 
 ## 8.3. Experimentation
 
+Esta sección consolida el aprendizaje obtenido durante la fase de experimentación de Mecanaut. A partir del diseño experimental (secciones 8.1 y 8.2), las entrevistas de validación (6.3), la evaluación heurística propia (6.3.3) y la auditoría UX recibida (6.4.2), el equipo refinó las historias de usuario y priorizó un nuevo backlog orientado a reducir fricción en la planificación preventiva, mejorar la ejecución técnica y facilitar la adopción del sistema.
+
+Las historias To-Be no reemplazan el Product Backlog original del Capítulo III; lo complementan con mejoras derivadas de evidencia empírica y validación con usuarios reales.
+
 ### 8.3.1. To-Be User Stories.
 
+Basándose en los insights del piloto controlado **EC-01**, las preguntas priorizadas del Question Backlog y los hallazgos de validación aún pendientes, se refinan las siguientes historias de usuario:
+
+#### Refined User Stories Post-Experiment
+
+**US09-R: Flujo guiado para creación de planes preventivos**
+
+Como administrador de mantenimiento,
+Quiero crear un plan de mantenimiento preventivo mediante un flujo guiado paso a paso,
+Para completar la planificación con menos errores y sin abandonar el proceso.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que accedo al módulo de planificación de mantenimiento
+- **WHEN** selecciono la opción de crear un nuevo plan preventivo
+- **THEN** el sistema me guía secuencialmente por cinco pasos: línea de producción, activos, frecuencia, tareas preventivas y revisión final
+- **AND** cada paso valida los campos obligatorios antes de permitir avanzar
+- **AND** la revisión final muestra un resumen del plan antes de confirmar
+- **AND** al confirmar, el plan queda registrado en backend y visible en el calendario
+
+**Vínculo:** EC-01 (Q-01) — Refinamiento de US09 (Cap. III)
+
+**Resultado del Experimento:**
+
+- ✅ Tasa de finalización: 74% en flujo guiado vs. 52% en control (baseline estimado: 55%, objetivo: +20 pp)
+- ✅ Errores de validación: reducción del 30% frente al flujo actual (objetivo: −25%)
+- ✅ Tiempo de creación: incremento del 8% respecto al control (límite aceptable: +15%)
+- ✅ Satisfacción post-tarea: 4.2/5 (objetivo mínimo: 4.0/5)
+
+---
+
+**US07-R: Previsualización de KPIs durante la creación del plan**
+
+Como administrador de mantenimiento,
+Quiero visualizar una previsualización de indicadores (MTBF, MTTR) mientras configuro un plan preventivo,
+Para tomar decisiones de planificación orientadas a métricas operativas.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que estoy en el flujo de creación de un plan de mantenimiento
+- **WHEN** selecciono activos y defino la frecuencia de mantenimiento
+- **THEN** el sistema muestra una previsualización estimada de KPIs impactados por la configuración
+- **AND** los indicadores se actualizan al modificar activos, tareas o frecuencia
+- **AND** la previsualización utiliza colores semafóricos para facilitar la interpretación
+
+**Vínculo:** EC-01 + Idea I-02 (Q-02)
+
+**Resultado del Experimento:**
+
+- ✅ 68% de administradores consultaron la previsualización de KPIs durante el piloto
+- ✅ Satisfacción con claridad de indicadores: 4.1/5
+- 📊 Adopción en calendario operativo: 82% de planes completados agregados al calendario (objetivo: 80%)
+
+---
+
+**US34-R: Micro-encuesta post-tarea de planificación**
+
+Como administrador de mantenimiento,
+Quiero responder una breve encuesta al finalizar o abandonar la creación de un plan,
+Para que el equipo pueda medir la facilidad percibida del flujo.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que completo o abandono el flujo de creación de plan de mantenimiento
+- **WHEN** cierro la vista o confirmo el plan
+- **THEN** el sistema muestra una pregunta breve de satisfacción (escala 1–5)
+- **AND** la respuesta se registra asociada al experimento y variante (control/guiado)
+- **AND** la encuesta no bloquea la navegación ni interrumpe el flujo operativo
+
+**Vínculo:** EC-01 — Tracking Plan (8.2.8), métrica Task Success Satisfaction Score
+
+**Resultado del Experimento:**
+
+- ✅ Tasa de respuesta de encuesta: 91% de sesiones registraron `post_task_survey_submitted`
+- ✅ Promedio global de satisfacción: 4.2/5 en variante guiada vs. 3.4/5 en control
+
+---
+
+**US08-R: Lista de verificación en cierre de órdenes de trabajo**
+
+Como técnico operativo,
+Quiero completar una lista de verificación al cerrar una orden de trabajo,
+Para asegurar que el reporte técnico incluya tareas, observaciones y repuestos utilizados.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que estoy ejecutando una orden de trabajo asignada
+- **WHEN** inicio el proceso de cierre de la orden
+- **THEN** el sistema presenta una checklist con: confirmación de tarea realizada, observación breve y repuestos utilizados
+- **AND** no permite cerrar la orden si faltan campos mínimos obligatorios de la checklist
+- **AND** el tiempo de cierre no incrementa más del 15% respecto al flujo actual
+
+**Vínculo:** EC-02 (Q-03) — Refinamiento de US08 y US18 (Cap. III)
+
+**Resultado del Experimento:** (Pendiente de ejecución — priorizado como segundo experimento en To-Be Backlog)
+
+📊 Objetivo: alcanzar ≥75% de reportes completos (Work Order Report Completeness Rate)
+
+---
+
+**US11-R: Alerta de inventario antes de ejecutar una orden**
+
+Como técnico operativo,
+Quiero recibir una advertencia cuando los repuestos necesarios no están disponibles antes de iniciar una orden,
+Para evitar bloqueos operativos por falta de materiales.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que tengo una orden de trabajo con repuestos asociados
+- **WHEN** intento iniciar la ejecución de la orden
+- **THEN** el sistema valida la disponibilidad de stock en inventario
+- **AND** si hay faltantes, muestra una alerta visible antes de permitir continuar
+- **AND** la alerta indica qué repuestos faltan y su cantidad requerida vs. disponible
+
+**Vínculo:** EC-03 (Q-04) — Refinamiento de US11 y US12 (Cap. III)
+
+**Resultado del Experimento:** (Pendiente de ejecución — priorizado como tercer experimento en To-Be Backlog)
+
+📊 Objetivo: reducir ≥20% la tasa de órdenes bloqueadas por inventario (Inventory Blockage Rate)
+
+---
+
+**US20-R: Registro de cuenta con selección de rol**
+
+Como usuario interesado (administrador o técnico),
+Quiero seleccionar mi tipo de cuenta al registrarme en la plataforma,
+Para acceder al sistema de forma autónoma según mi rol operativo.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que accedo al formulario de registro desde la landing page o la aplicación web
+- **WHEN** completo mis datos de registro
+- **THEN** puedo seleccionar explícitamente si me registro como Administrador o Técnico
+- **AND** el sistema asigna permisos y vistas acordes al rol seleccionado
+- **AND** se muestran mensajes de error claros si faltan campos obligatorios según el rol
+
+**Vínculo:** Validación heurística 6.3.3 — Problema #2 (severidad 4) — Refinamiento de US20 (Cap. III)
+
+**Resultado de Validación:**
+
+- ⚠️ 100% de entrevistados técnicos indicaron fricción al depender del administrador para crear su cuenta
+- 📊 Prioridad alta por impacto directo en adopción inicial del sistema
+
+---
+
+**US33-R: Formulario de contacto en landing page**
+
+Como usuario interesado,
+Quiero contar con un canal directo de contacto en la landing page,
+Para resolver dudas específicas que no cubre la sección de preguntas frecuentes.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que navego por la landing page de Mecanaut
+- **WHEN** accedo a la sección de contacto o al footer
+- **THEN** encuentro un formulario con campos de nombre, correo y mensaje
+- **AND** al enviar el formulario recibo una confirmación visual de recepción
+- **AND** también se muestran canales alternativos (correo de soporte o enlace de contacto)
+
+**Vínculo:** Validación heurística 6.3.3 — Problema #1 (severidad 3) — Complementa US15 y US17 (Cap. III)
+
+**Resultado de Validación:**
+
+- ⚠️ Entrevistados reportaron que la FAQ no sustituye un canal directo para consultas comerciales o técnicas
+- 📊 Mejora esperada en conversión de visitantes interesados a registros de prueba
+
+---
+
+**US35-R: Plantillas reutilizables para planes de mantenimiento**
+
+Como administrador de mantenimiento,
+Quiero crear planes de mantenimiento a partir de plantillas predefinidas o configuraciones previas,
+Para agilizar tareas repetitivas de planificación sin rellenar todos los campos manualmente.
+
+**Criterios de Aceptación:**
+
+- **GIVEN** que accedo al módulo de creación de planes de mantenimiento
+- **WHEN** selecciono la opción de usar plantilla o copiar un plan existente
+- **THEN** el sistema precarga línea de producción, activos, frecuencia y tareas según la plantilla elegida
+- **AND** puedo modificar los campos precargados antes de confirmar
+- **AND** puedo guardar una configuración actual como nueva plantilla reutilizable
+
+**Vínculo:** Auditoría UX recibida 6.4.2 — Problema #2 (severidad 2) — Complementa mejora parcial en app móvil (6.4.2.4)
+
+**Resultado de Validación:**
+
+- 📊 Hallazgo de auditoría: formularios repetitivos sin autocompletado ni reutilización en flujos web de planificación
+- 📊 Prioridad media — mejora eficiencia para administradores frecuentes
+
+---
+
 ### 8.3.2. To-Be Product Backlog
+
+A continuación se presenta el backlog de producto To-Be correspondiente a Mecanaut, derivado de las historias refinadas en la sección 8.3.1. Cada ítem está priorizado según su valor para el aprendizaje experimental, impacto en el negocio y esfuerzo estimado. Este backlog orienta la siguiente iteración del producto y no duplica el Product Backlog original del Capítulo III.
+
+| #Orden | User Story ID | Título | Descripción | Épica | Fuente | Prioridad | Story Points |
+| ------ | ------------- | ------ | ----------- | ----- | ------ | --------- | ------------ |
+| 1 | US09-R | Flujo guiado para creación de planes preventivos | Como administrador, quiero crear planes de mantenimiento mediante un wizard de cinco pasos con validación progresiva, para completar la planificación sin abandonar el flujo. | EP02 — Gestión y planificación del plan de mantenimiento | EC-01 | Alta | 8 |
+| 2 | US20-R | Registro de cuenta con selección de rol | Como usuario interesado, quiero registrarme como Administrador o Técnico, para acceder al sistema de forma autónoma según mi rol. | EP09 — Gestión de cuentas e inicio de sesión | Validación 6.3.3 | Alta | 5 |
+| 3 | US07-R | Previsualización de KPIs durante la creación del plan | Como administrador, quiero ver indicadores estimados (MTBF, MTTR) mientras configuro un plan, para tomar decisiones basadas en datos. | EP03 — Métricas de desempeño | EC-01 + I-02 | Alta | 5 |
+| 4 | US33-R | Formulario de contacto en landing page | Como visitante interesado, quiero un formulario de contacto directo, para resolver dudas no cubiertas por la FAQ. | EP07 — Sitio web informativo | Validación 6.3.3 | Alta | 3 |
+| 5 | US34-R | Micro-encuesta post-tarea de planificación | Como administrador, quiero responder una breve encuesta al finalizar la creación de un plan, para medir la facilidad percibida del flujo. | EP02 — Gestión y planificación del plan de mantenimiento | EC-01 — Tracking 8.2.8 | Media | 2 |
+| 6 | US08-R | Lista de verificación en cierre de órdenes de trabajo | Como técnico, quiero completar una checklist al cerrar una orden, para asegurar reportes técnicos completos. | EP04 — Ejecución técnica | EC-02 | Media | 5 |
+| 7 | US11-R | Alerta de inventario antes de ejecutar una orden | Como técnico, quiero recibir advertencia de repuestos faltantes antes de iniciar una orden, para evitar bloqueos operativos. | EP06 — Gestión de inventario | EC-03 | Media | 5 |
+| 8 | US35-R | Plantillas reutilizables para planes de mantenimiento | Como administrador, quiero usar plantillas o copiar planes existentes, para agilizar la planificación repetitiva. | EP02 — Gestión y planificación del plan de mantenimiento | Auditoría 6.4.2 | Baja | 5 |
+
+**Notas de priorización:**
+
+- **US09-R** lidera el backlog porque EC-01 demostró evidencia favorable en el piloto controlado y responde directamente al valor central de Mecanaut: facilitar la planificación preventiva digital.
+- **US20-R** y **US33-R** abordan hallazgos de severidad 4 y 3 de la validación heurística propia, con impacto directo en adopción y conversión.
+- **US08-R** y **US11-R** corresponden a EC-02 y EC-03, documentados como experimentos secundarios pendientes de ejecución para evitar contaminación de resultados con EC-01.
+- **US35-R** complementa la mejora parcial ya aplicada en la app móvil (valores predeterminados) extendiendo eficiencia al flujo web de planificación.
+- Los hallazgos de la auditoría UX recibida (6.4.2.4) — sidebar con etiquetas, modales estandarizados, KPIs semafóricos, contraste WCAG — ya fueron subsanados en código y no requieren ítems pendientes en este backlog.
 
 <div style="page-break-after: always;"></div>
 
