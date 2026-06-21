@@ -6142,10 +6142,15 @@ El componente de monitoreo representa la primera fase del pipeline, encargada ex
 
 - Acción de Inspección: El pipeline ejecuta una petición HTTP estructurada mediante el comando curl -f [URL_DEL_BACKEND]. La bandera -f (fail) es crucial en este componente, ya que obliga al comando a retornar un código de salida de error si el servidor responde con estados HTTP de falla (como 404 Not Found o 500 Internal Server Error)
 
+Ejemplo de revisión fallida por caída del servicio:
 <img width="1895" height="647" alt="image" src="https://github.com/user-attachments/assets/cf687b10-46f5-4dbd-af2f-44db58548c85" />
 
 <img width="1247" height="851" alt="image" src="https://github.com/user-attachments/assets/43af7271-acff-457b-abcd-e593f62b74af" />
 <img width="1892" height="542" alt="image" src="https://github.com/user-attachments/assets/7da01fe6-5732-4abe-b96a-ef90ef856ae2" />
+
+Ejemplo de revisión exitosa:
+<img width="1906" height="710" alt="image" src="https://github.com/user-attachments/assets/4bee8f39-5508-4415-b79e-8a4cfd5aa690" />
+
 
 <br>
 
