@@ -5213,7 +5213,10 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 0:00 s
 - **Fin:** 22:07 s
-  <img src="img/interviews/entrevista-validacion-administrador-1.png">
+
+<img width="1895" height="1020" alt="image" src="https://github.com/user-attachments/assets/e6c2a248-a46b-48b2-bcec-f0270ca3eda7" />
+
+
 
 #### Entrevista #2
 
@@ -5223,7 +5226,10 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 22:08 s
 - **Fin:** 32:23 s
-  <img src="img/interviews/entrevista-validacion-administrador-2.png">
+
+<img width="1841" height="1079" alt="image" src="https://github.com/user-attachments/assets/40af2807-fbc5-4aac-8324-bfd79e4e4689" />
+
+
 
 #### Entrevista #3
 
@@ -5233,7 +5239,10 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 32:28 s
 - **Fin:** 52:08 s
-  <img src="img/interviews/entrevista-validacion-administrador-3.png">
+
+<img width="1907" height="938" alt="image" src="https://github.com/user-attachments/assets/fea544dc-26c3-4944-b7b6-22c9978c8cff" />
+
+
 
 ### Segmento 2: Técnicos Operativos
 
@@ -5245,7 +5254,9 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 52:08 s
 - **Fin:** 01:08:30 s
-  <img src="img/interviews/entrevista-validacion-tecnico-1.png">
+
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/01445d44-e2d2-42c8-aafb-b02b7a859b3d" />
+
 
 #### Entrevista #2
 
@@ -5255,7 +5266,9 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:08 :30 s
 - **Fin:** 01:23 :14 s
-  <img src="img/interviews/entrevista-validacion-tecnico-2.png">
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/5b06def8-5925-49a2-aed3-e63c3184326b" />
+
 
 #### Entrevista #3
 
@@ -5265,7 +5278,10 @@ Para Técnicos de Mantenimiento
 - **Enlace del video:** [Validation Interview 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQDPY7jQXpjVT4Ug9HBERR7hAR6JwLbhe-7arHyU4X53Q2k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wNePYp)
 - **Inicio:** 01:23 :14 s
 - **Fin:** 01:40 :08 s
-  <img src="img/interviews/entrevista-validacion-tecnico-3.png">
+
+<img width="1821" height="914" alt="image" src="https://github.com/user-attachments/assets/6afeaf80-9341-41fe-8266-d2397bd6ed14" />
+
+
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
