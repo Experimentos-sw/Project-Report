@@ -5185,9 +5185,9 @@ Para Técnicos de Mantenimiento
 
 ### 6.3.2. Registro de Entrevistas.
 
-### Segmento 1: Administradores de Mantenimiento
+Segmento 1: Administradores de Mantenimiento
 
-#### Entrevista #1
+Entrevista #1
 
 - **Nombre completo:** Albano Romero
 - **Edad:** 28
@@ -5200,7 +5200,7 @@ Para Técnicos de Mantenimiento
 
 
 
-#### Entrevista #2
+Entrevista #2
 
 - **Nombre completo:** Samy Ramirez
 - **Edad:** 30
@@ -5213,7 +5213,7 @@ Para Técnicos de Mantenimiento
 
 
 
-#### Entrevista #3
+Entrevista #3
 
 - **Nombre completo:** Marcos Salazar
 - **Edad:** 35
@@ -5226,9 +5226,9 @@ Para Técnicos de Mantenimiento
 
 
 
-### Segmento 2: Técnicos Operativos
+Segmento 2: Técnicos Operativos
 
-#### Entrevista #1
+Entrevista #1
 
 - **Nombre completo:** Lucero Avalos
 - **Edad:** 27
@@ -5240,7 +5240,7 @@ Para Técnicos de Mantenimiento
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/01445d44-e2d2-42c8-aafb-b02b7a859b3d" />
 
 
-#### Entrevista #2
+Entrevista #2
 
 - **Nombre completo:** Adriano Sanchez
 - **Edad:** 23
@@ -5252,7 +5252,7 @@ Para Técnicos de Mantenimiento
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/5b06def8-5925-49a2-aed3-e63c3184326b" />
 
 
-#### Entrevista #3
+Entrevista #3
 
 - **Nombre completo:** Luis Gomez
 - **Edad:** 23 años
@@ -5293,7 +5293,7 @@ Quedan fuera del alcance de esta evaluación:
 
 ---
 
-### Escala de severidad
+Escala de severidad
 
 _Los hallazgos fueron clasificados con base en la siguiente escala de severidad:_
 
@@ -5315,11 +5315,11 @@ _Los hallazgos fueron clasificados con base en la siguiente escala de severidad:
 
 ---
 
-### Descripción de problemas
+ Descripción de problemas
 
 ---
 
-#### **PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page
+**PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page
 
 **Severidad:** 3  
 **Heurística violada:** Usability: Help and documentation
@@ -5335,7 +5335,7 @@ Implementar un formulario de contacto sencillo con campos como nombre, correo y 
 
 ---
 
-#### **PROBLEMA #2:** El registro de cuenta está limitado a administradores
+**PROBLEMA #2:** El registro de cuenta está limitado a administradores
 
 **Severidad:** 4  
 **Heurística violada:** Usability: Flexibility and efficiency of use
