@@ -401,27 +401,9 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 - [8.1. Experiment Planning](#81-experiment-planning)
   - [8.1.1. As-Is Summary](#811-as-is-summary)
   - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
-    - [Ideas](#ideas)
-    - [Claims](#claims)
-    - [Assumptions](#assumptions)
-    - [Knowledge Gaps](#knowledge-gaps)
   - [8.1.3. Experiment-Ready Questions](#813-experiment-ready-questions)
-    - [Belief-led Questions](#belief-led-questions)
-    - [Exploratory Questions](#exploratory-questions)
   - [8.1.4. Question Backlog](#814-question-backlog)
   - [8.1.5. Experiment Cards](#815-experiment-cards)
-    - [Experiment Card EC-01: Guided Maintenance Plan Creation](#experiment-card-ec-01-guided-maintenance-plan-creation)
-    - [Front Side](#front-side)
-    - [What — Simplest Useful Thing](#what--simplest-useful-thing)
-    - [Back Side](#back-side)
-    - [Experiment Card EC-02: Work Order Execution Checklist](#experiment-card-ec-02-work-order-execution-checklist)
-    - [Front Side](#front-side-1)
-    - [What — Simplest Useful Thing](#what--simplest-useful-thing-1)
-    - [Back Side](#back-side-1)
-    - [Experiment Card EC-03: Inventory Availability Warning](#experiment-card-ec-03-inventory-availability-warning)
-    - [Front Side](#front-side-2)
-    - [What — Simplest Useful Thing](#what--simplest-useful-thing-2)
-    - [Back Side](#back-side-2)
   - [8.2. Experiment Design](#82-experiment-design)
     - [8.2.1. Hypotheses.](#821-hypotheses)
     - [8.2.2. Domain Business Metrics](#822-domain-business-metrics)
@@ -6196,7 +6178,7 @@ Debido a ello, antes de invertir esfuerzo en nuevas funcionalidades o mejoras co
 
 La planificación experimental inicia recopilando información proveniente de decisiones de diseño, funcionalidades implementadas, retroalimentación obtenida y expectativas del equipo respecto al comportamiento de los usuarios.
 
-### Ideas
+**Ideas**
 
 Las ideas representan posibles cambios en el producto que podrían mejorar la experiencia de administradores y técnicos de mantenimiento. Sin embargo, en esta fase no se asume que dichas ideas sean correctas; se analizan para identificar qué premisas deben comprobarse.
 
@@ -6207,7 +6189,7 @@ Las ideas representan posibles cambios en el producto que podrían mejorar la ex
 | I-03 | Incorporar una lista de verificación para técnicos durante la ejecución de órdenes. | Si el técnico dispone de instrucciones estructuradas, mejorará la calidad del registro técnico.             |
 | I-04 | Alertar sobre repuestos insuficientes antes de iniciar una orden.                   | Si el sistema detecta faltantes oportunamente, disminuirán los trabajos bloqueados.                         |
 
-### Claims
+**Claims**
 
 Las afirmaciones son declaraciones sobre el producto, su valor o sus usuarios. Pueden provenir del análisis del problema, entrevistas, decisiones de diseño, historias de usuario o acuerdos de servicio. Estas afirmaciones deben tratarse como hipótesis potenciales, no como hechos definitivos.
 
@@ -6218,7 +6200,7 @@ Las afirmaciones son declaraciones sobre el producto, su valor o sus usuarios. P
 | C-03 | Los técnicos requieren instrucciones claras para ejecutar órdenes sin depender de comunicación informal. | Debe medirse si una guía estructurada reduce omisiones en la documentación técnica.                |
 | C-04 | El control de inventario es esencial para evitar retrasos operativos.                                    | Debe analizarse si las alertas de disponibilidad reducen órdenes detenidas por falta de repuestos. |
 
-### Assumptions
+**Assumptions**
 
 Las suposiciones son creencias del equipo sobre los usuarios y el producto. Algunas tienen respaldo parcial en la investigación previa, pero todavía requieren evidencia directa mediante experimentación.
 
@@ -6229,7 +6211,7 @@ Las suposiciones son creencias del equipo sobre los usuarios y el producto. Algu
 | A-03 | Los técnicos aceptarán una lista de verificación si no incrementa demasiado el tiempo de cierre. | La funcionalidad podría percibirse como una carga administrativa.            |
 | A-04 | Las alertas de inventario serán útiles antes de ejecutar una orden.                              | Las alertas podrían aparecer demasiado tarde dentro del proceso operativo.   |
 
-### Knowledge Gaps
+**Knowledge Gaps**
 
 Las brechas de conocimiento representan información que el equipo todavía no conoce con precisión. Estas brechas dan origen a preguntas exploratorias o complementan preguntas impulsadas por creencias.
 
@@ -6248,7 +6230,7 @@ Las preguntas listas para experimentar se formularon tomando como base las ideas
 
 Para convertir el material bruto en preguntas experimentables se aplicó una revisión basada en Who, What, Where, When, Why y How. Esto permitió definir quién será observado, qué comportamiento se medirá, en qué módulo ocurrirá, durante qué tarea, por qué importa para el negocio y cómo se podría recolectar evidencia.
 
-### Belief-led Questions
+**Belief-led Questions**
 
 **Q-01.** ¿Un flujo guiado de creación de planes de mantenimiento aumenta la tasa de planes completados por los administradores frente al flujo actual?
 
@@ -6266,7 +6248,7 @@ Esta pregunta evalúa si una guía estructurada ayuda al técnico a registrar me
 
 Esta pregunta prueba si la integración entre inventario y órdenes de trabajo produce un beneficio operativo medible. Es relevante porque un mantenimiento puede retrasarse si el técnico descubre tarde que no cuenta con materiales necesarios.
 
-### Exploratory Questions
+**Exploratory Questions**
 
 **Q-05.** ¿Qué paso del flujo de creación de planes genera mayor fricción para el administrador?
 
@@ -6315,9 +6297,9 @@ Las preguntas Q-03 y Q-02 quedan como experimentos complementarios. Q-03 se orie
 
 ## 8.1.5. Experiment Cards
 
-### Experiment Card EC-01: Guided Maintenance Plan Creation
+**Experiment Card EC-01: Guided Maintenance Plan Creation**
 
-### Front Side
+**Front Side**
 
 **Question**
 
@@ -6333,7 +6315,7 @@ Creemos que implementar un flujo guiado paso a paso para crear planes de manteni
 
 Sabremos que esto es cierto cuando observemos una mayor tasa de finalización, una disminución de errores y tiempos de creación aceptables durante una prueba controlada.
 
-### What — Simplest Useful Thing
+**What — Simplest Useful Thing**
 
 Se desarrollará una versión mínima del flujo guiado que incluya:
 
@@ -6345,7 +6327,7 @@ Se desarrollará una versión mínima del flujo guiado que incluya:
 
 No se incorporarán recomendaciones automáticas ni análisis predictivos en esta primera iteración.
 
-### Back Side
+**Back Side**
 
 **Measures**
 
@@ -6363,9 +6345,9 @@ La escala preliminar será un piloto controlado con usuarios representativos del
 
 El equipo espera aprender si la mayor fricción está en la estructura del flujo, en los datos solicitados o en la comprensión de conceptos de mantenimiento. Si el flujo guiado mejora la finalización, se priorizará su implementación en como parte del To-Be Product Backlog.
 
-### Experiment Card EC-02: Work Order Execution Checklist
+**Experiment Card EC-02: Work Order Execution Checklist**
 
-### Front Side
+**Front Side**
 
 **Question**
 
@@ -6381,7 +6363,7 @@ Creemos que una lista de verificación durante la ejecución de órdenes de trab
 
 Sabremos que esto es cierto cuando más órdenes finalizadas incluyan tareas marcadas, observaciones y evidencia mínima, sin que el tiempo de cierre aumente de forma que afecte negativamente la experiencia del técnico.
 
-### What — Simplest Useful Thing
+**What — Simplest Useful Thing**
 
 Se implementará una lista de verificación mínima para órdenes de trabajo con tres elementos:
 
@@ -6391,7 +6373,7 @@ Se implementará una lista de verificación mínima para órdenes de trabajo con
 
 La primera versión no incluirá carga obligatoria de imágenes ni firma digital, porque eso aumentaría el esfuerzo inicial y podría ocultar si la lista básica ya produce mejora.
 
-### Back Side
+**Back Side**
 
 **Measures**
 
@@ -6409,9 +6391,9 @@ La escala preliminar será una prueba controlada con técnicos o participantes r
 
 El equipo espera identificar si la estructura del checklist mejora la documentación sin generar carga operativa excesiva. Si el resultado es positivo, se podrá extender la lista con evidencia fotográfica, repuestos utilizados y validación de supervisor.
 
-### Experiment Card EC-03: Inventory Availability Warning
+**Experiment Card EC-03: Inventory Availability Warning**
 
-### Front Side
+**Front Side**
 
 **Question**
 
@@ -6427,11 +6409,11 @@ Creemos que mostrar una alerta de disponibilidad de repuestos antes de iniciar u
 
 Sabremos que esto es cierto cuando los usuarios identifiquen faltantes antes de iniciar la tarea y disminuya la cantidad de órdenes marcadas como detenidas por inventario insuficiente.
 
-### What — Simplest Useful Thing
+**What — Simplest Useful Thing**
 
 Se implementará una validación mínima que revise si los repuestos asociados a una orden tienen stock disponible. Si falta un material, el sistema mostrará una advertencia antes de iniciar la ejecución. No se implementará todavía compra automática, predicción de stock ni integración con proveedores.
 
-### Back Side
+**Back Side**
 
 **Measures**
 
