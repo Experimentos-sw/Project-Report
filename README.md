@@ -6995,6 +6995,244 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 #### 8.3.3.1. To-Be Sprint Backlogs
 
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint To-Be 1 (Release Final & Proyectado)</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+    
+  <tr>
+    <th rowspan="3">US09-R</th>
+    <th rowspan="3">Flujo guiado para creación de planes preventivos</th>
+    <td>1</td>
+    <td align="justify">Maquetar wizard en web (Vue 3)</td>
+    <td align="justify">Implementar la interfaz del flujo secuencial de 5 pasos en el portal web con validación progresiva.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td align="justify">Desarrollar flujo en móvil (Flutter)</td>
+    <td align="justify">Crear la experiencia equivalente del wizard paso a paso adaptada a la vista móvil para técnicos/supervisores.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td align="justify">Conectar clientes con backend</td>
+    <td align="justify">Integrar ambas plataformas con el endpoint POST en .NET para registrar el plan correctamente.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US20-R</th>
+    <th rowspan="3">Registro de cuenta con selección de rol</th>
+    <td>4</td>
+    <td align="justify">Agregar selector de rol en UI</td>
+    <td align="justify">Añadir un selector de rol (Administrador/Técnico) en el formulario de registro.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td align="justify">Adaptar endpoint de registro</td>
+    <td align="justify">Actualizar la API POST para recibir y asignar el nuevo rol en la base de datos.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td align="justify">Implementar redirección por rol</td>
+    <td align="justify">Configurar el ruteo en el frontend para redirigir según el rol del usuario tras el login.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US07-R</th>
+    <th rowspan="3">Previsualización de KPIs durante la creación del plan</th>
+    <td>7</td>
+    <td align="justify">Crear componente semafórico (Vue 3)</td>
+    <td align="justify">Desarrollar componente visual en el frontend web para mostrar estimaciones de MTBF y MTTR.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td align="justify">Crear widget de métricas (Flutter)</td>
+    <td align="justify">Diseñar el widget correspondiente en la app móvil para visualizar el impacto de los KPIs en tiempo real.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td align="justify">Integrar lógica asíncrona multiplataforma</td>
+    <td align="justify">Implementar debounce y consumo de la API de estimación desde ambos clientes durante la planificación.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US33-R</th>
+    <th rowspan="3">Formulario de contacto en landing page</th>
+    <td>10</td>
+    <td align="justify">Diseñar UI del formulario de contacto</td>
+    <td align="justify">Maquetar formulario de contacto responsivo con campos de nombre, correo y mensaje.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td align="justify">Implementar servicio de envío</td>
+    <td align="justify">Configurar servicio backend para procesar el envío de correos al equipo comercial.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td align="justify">Configurar feedback visual</td>
+    <td align="justify">Implementar feedback visual (loading, éxito, error) tras el envío del formulario.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US34-R</th>
+    <th rowspan="3">Micro-encuesta post-tarea de planificación</th>
+    <td>13</td>
+    <td align="justify">Diseñar modal de encuesta (Vue 3)</td>
+    <td align="justify">Crear modal no intrusivo con escala Likert (1-5) para medir satisfacción en el portal web.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td align="justify">Implementar bottom-sheet (Flutter)</td>
+    <td align="justify">Desarrollar un panel inferior deslizable en la app móvil para recolectar el feedback del usuario.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td align="justify">Conectar triggers al endpoint de métricas</td>
+    <td align="justify">Configurar eventos en ambas apps para lanzar la encuesta y guardar los resultados en la API .NET.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US08-R</th>
+    <th rowspan="3">Lista de verificación en cierre de órdenes de trabajo</th>
+    <td>16</td>
+    <td align="justify">Desarrollar checklist web (Vue 3)</td>
+    <td align="justify">Integrar la lista de verificación obligatoria en la vista de ejecución técnica del portal web.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td align="justify">Desarrollar checklist móvil (Flutter)</td>
+    <td align="justify">Integrar los checkboxes para tareas, repuestos y observaciones en la interfaz móvil.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td align="justify">Bloquear cierre y validar payload</td>
+    <td align="justify">Implementar bloqueo de botón en ambos frontends si faltan campos y asegurar validación estricta en el backend.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US11-R</th>
+    <th rowspan="3">Alerta de inventario antes de ejecutar una orden</th>
+    <td>19</td>
+    <td align="justify">Crear endpoint de verificación de stock</td>
+    <td align="justify">Crear API GET para consultar stock en tiempo real de repuestos asignados.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td align="justify">Maquetar alerta modal móvil</td>
+    <td align="justify">Diseñar alerta visual en Flutter mostrando stock requerido vs. disponible.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td align="justify">Integrar bloqueo preventivo en ejecución</td>
+    <td align="justify">Interceptar inicio de orden para validar stock y lanzar alerta en caso de faltantes.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US35-R</th>
+    <th rowspan="3">Plantillas reutilizables para planes de mantenimiento</th>
+    <td>22</td>
+    <td align="justify">Adaptar modelo BD para plantillas</td>
+    <td align="justify">Añadir flag en base de datos para marcar un plan como plantilla reutilizable.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td align="justify">Crear API para listar plantillas</td>
+    <td align="justify">Crear endpoint GET para listar solo los planes guardados como plantillas.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td align="justify">Implementar autocompletado en UI</td>
+    <td align="justify">Implementar autocompletado en el wizard al seleccionar una plantilla existente.</td>
+    <td>4 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+
+</table>
+
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
