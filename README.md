@@ -6993,6 +6993,8 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
+Esta sección documenta la implementación de las mejoras definidas en el To-Be Product Backlog. Para lograrlo, el equipo consolidó el esfuerzo de desarrollo en un Sprint final (Sprint de Release), apoyándose en prácticas ágiles y entrega continua. De esta manera, se logró programar y publicar exitosamente todas las nuevas funcionalidades. Como resultado, la plataforma no solo integra las optimizaciones validadas durante el primer piloto (EC-01), sino que ya cuenta con las herramientas operativas listas para ejecutar los experimentos posteriores (EC-02 y EC-03).
+
 #### 8.3.3.1. To-Be Sprint Backlogs
 
 <table>
@@ -7158,7 +7160,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Integrar la lista de verificación obligatoria en la vista de ejecución técnica del portal web.</td>
     <td>3 hr</td>
     <td>Ariana Agreda</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>17</td>
@@ -7166,7 +7168,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Integrar los checkboxes para tareas, repuestos y observaciones en la interfaz móvil.</td>
     <td>3 hr</td>
     <td>Ariana Agreda</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>18</td>
@@ -7174,7 +7176,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Implementar bloqueo de botón en ambos frontends si faltan campos y asegurar validación estricta en el backend.</td>
     <td>3 hr</td>
     <td>Ariana Agreda</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -7185,7 +7187,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Crear API GET para consultar stock en tiempo real de repuestos asignados.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>20</td>
@@ -7193,7 +7195,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Diseñar alerta visual en Flutter mostrando stock requerido vs. disponible.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>21</td>
@@ -7201,7 +7203,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Interceptar inicio de orden para validar stock y lanzar alerta en caso de faltantes.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -7212,7 +7214,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Añadir flag en base de datos para marcar un plan como plantilla reutilizable.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>23</td>
@@ -7220,7 +7222,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Crear endpoint GET para listar solo los planes guardados como plantillas.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>24</td>
@@ -7228,7 +7230,7 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
     <td align="justify">Implementar autocompletado en el wizard al seleccionar una plantilla existente.</td>
     <td>4 hr</td>
     <td>Ricardo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
 </table>
@@ -7236,6 +7238,20 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+Flujo guiado para creación de planes preventivos<br>
+<img src="img/sprint-to-be/US09-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R2.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R3.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R4.png" width="500px"><br>
+Previsualización de KPIs durante la creación del plan <br>
+<img src="img/sprint-to-be/US07-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US07-R2.png" width="500px"><br>
+Micro-encuesta post-tarea de planificación <br>
+<img src="img/sprint-to-be/US34-R1.png" width="500px"><br>
+Lista de verificación en cierre de órdenes de trabajo<br>
+<img src="img/sprint-to-be/US08-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US08-R2.png" width="500px"><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
