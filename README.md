@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-    <strong>Junio, 2026</strong>
+    <strong>Julio, 2026</strong>
 </p>
 <br>
 
@@ -429,6 +429,25 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories.](#831-to-be-user-stories)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
+  - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+    - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+    - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+    - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+    - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+    - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+    - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
+  - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
+    - [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas)
+    - [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas)
+  - [8.4. Experiment Aftermath & Analysis](#84-experiment-aftermath--analysis)
+    - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
+    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
+  - [8.5. Continuous Learning](#85-continuous-learning)
+    - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
+  - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
+    - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
+- [Matriz de Evaluación Ética y de Impacto](#matriz-de-evaluación-ética-y-de-impacto)
+
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -5190,8 +5209,6 @@ Entrevista #1
 
 <img width="1895" height="1020" alt="image" src="https://github.com/user-attachments/assets/e6c2a248-a46b-48b2-bcec-f0270ca3eda7" />
 
-
-
 Entrevista #2
 
 - **Nombre completo:** Samy Ramirez
@@ -5203,8 +5220,6 @@ Entrevista #2
 
 <img width="1841" height="1079" alt="image" src="https://github.com/user-attachments/assets/40af2807-fbc5-4aac-8324-bfd79e4e4689" />
 
-
-
 Entrevista #3
 
 - **Nombre completo:** Marcos Salazar
@@ -5215,8 +5230,6 @@ Entrevista #3
 - **Fin:** 52:08 s
 
 <img width="1907" height="938" alt="image" src="https://github.com/user-attachments/assets/fea544dc-26c3-4944-b7b6-22c9978c8cff" />
-
-
 
 Segmento 2: Técnicos Operativos
 
@@ -5231,7 +5244,6 @@ Entrevista #1
 
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/01445d44-e2d2-42c8-aafb-b02b7a859b3d" />
 
-
 Entrevista #2
 
 - **Nombre completo:** Adriano Sanchez
@@ -5243,7 +5255,6 @@ Entrevista #2
 
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/5b06def8-5925-49a2-aed3-e63c3184326b" />
 
-
 Entrevista #3
 
 - **Nombre completo:** Luis Gomez
@@ -5254,8 +5265,6 @@ Entrevista #3
 - **Fin:** 01:40 :08 s
 
 <img width="1821" height="914" alt="image" src="https://github.com/user-attachments/assets/6afeaf80-9341-41fe-8266-d2397bd6ed14" />
-
-
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
@@ -5307,7 +5316,7 @@ _Los hallazgos fueron clasificados con base en la siguiente escala de severidad:
 
 ---
 
- Descripción de problemas
+Descripción de problemas
 
 ---
 
@@ -6124,7 +6133,6 @@ Ejemplo de revisión fallida por caída del servicio:
 
 Ejemplo de revisión exitosa:
 <img width="1906" height="710" alt="image" src="https://github.com/user-attachments/assets/4bee8f39-5508-4415-b79e-8a4cfd5aa690" />
-
 
 <br>
 
@@ -6962,16 +6970,16 @@ Para agilizar tareas repetitivas de planificación sin rellenar todos los campos
 
 A continuación se presenta el backlog de producto To-Be correspondiente a Mecanaut, derivado de las historias refinadas en la sección 8.3.1. Cada ítem está priorizado según su valor para el aprendizaje experimental, impacto en el negocio y esfuerzo estimado. Este backlog orienta la siguiente iteración del producto y no duplica el Product Backlog original del Capítulo III.
 
-| #Orden | User Story ID | Título | Descripción | Épica | Fuente | Prioridad | Story Points |
-| ------ | ------------- | ------ | ----------- | ----- | ------ | --------- | ------------ |
-| 1 | US09-R | Flujo guiado para creación de planes preventivos | Como administrador, quiero crear planes de mantenimiento mediante un wizard de cinco pasos con validación progresiva, para completar la planificación sin abandonar el flujo. | EP02 — Gestión y planificación del plan de mantenimiento | EC-01 | Alta | 8 |
-| 2 | US20-R | Registro de cuenta con selección de rol | Como usuario interesado, quiero registrarme como Administrador o Técnico, para acceder al sistema de forma autónoma según mi rol. | EP09 — Gestión de cuentas e inicio de sesión | Validación 6.3.3 | Alta | 5 |
-| 3 | US07-R | Previsualización de KPIs durante la creación del plan | Como administrador, quiero ver indicadores estimados (MTBF, MTTR) mientras configuro un plan, para tomar decisiones basadas en datos. | EP03 — Métricas de desempeño | EC-01 + I-02 | Alta | 5 |
-| 4 | US33-R | Formulario de contacto en landing page | Como visitante interesado, quiero un formulario de contacto directo, para resolver dudas no cubiertas por la FAQ. | EP07 — Sitio web informativo | Validación 6.3.3 | Alta | 3 |
-| 5 | US34-R | Micro-encuesta post-tarea de planificación | Como administrador, quiero responder una breve encuesta al finalizar la creación de un plan, para medir la facilidad percibida del flujo. | EP02 — Gestión y planificación del plan de mantenimiento | EC-01 — Tracking 8.2.8 | Media | 2 |
-| 6 | US08-R | Lista de verificación en cierre de órdenes de trabajo | Como técnico, quiero completar una checklist al cerrar una orden, para asegurar reportes técnicos completos. | EP04 — Ejecución técnica | EC-02 | Media | 5 |
-| 7 | US11-R | Alerta de inventario antes de ejecutar una orden | Como técnico, quiero recibir advertencia de repuestos faltantes antes de iniciar una orden, para evitar bloqueos operativos. | EP06 — Gestión de inventario | EC-03 | Media | 5 |
-| 8 | US35-R | Plantillas reutilizables para planes de mantenimiento | Como administrador, quiero usar plantillas o copiar planes existentes, para agilizar la planificación repetitiva. | EP02 — Gestión y planificación del plan de mantenimiento | Auditoría 6.4.2 | Baja | 5 |
+| #Orden | User Story ID | Título                                                | Descripción                                                                                                                                                                   | Épica                                                    | Fuente                 | Prioridad | Story Points |
+| ------ | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------- | --------- | ------------ |
+| 1      | US09-R        | Flujo guiado para creación de planes preventivos      | Como administrador, quiero crear planes de mantenimiento mediante un wizard de cinco pasos con validación progresiva, para completar la planificación sin abandonar el flujo. | EP02 — Gestión y planificación del plan de mantenimiento | EC-01                  | Alta      | 8            |
+| 2      | US20-R        | Registro de cuenta con selección de rol               | Como usuario interesado, quiero registrarme como Administrador o Técnico, para acceder al sistema de forma autónoma según mi rol.                                             | EP09 — Gestión de cuentas e inicio de sesión             | Validación 6.3.3       | Alta      | 5            |
+| 3      | US07-R        | Previsualización de KPIs durante la creación del plan | Como administrador, quiero ver indicadores estimados (MTBF, MTTR) mientras configuro un plan, para tomar decisiones basadas en datos.                                         | EP03 — Métricas de desempeño                             | EC-01 + I-02           | Alta      | 5            |
+| 4      | US33-R        | Formulario de contacto en landing page                | Como visitante interesado, quiero un formulario de contacto directo, para resolver dudas no cubiertas por la FAQ.                                                             | EP07 — Sitio web informativo                             | Validación 6.3.3       | Alta      | 3            |
+| 5      | US34-R        | Micro-encuesta post-tarea de planificación            | Como administrador, quiero responder una breve encuesta al finalizar la creación de un plan, para medir la facilidad percibida del flujo.                                     | EP02 — Gestión y planificación del plan de mantenimiento | EC-01 — Tracking 8.2.8 | Media     | 2            |
+| 6      | US08-R        | Lista de verificación en cierre de órdenes de trabajo | Como técnico, quiero completar una checklist al cerrar una orden, para asegurar reportes técnicos completos.                                                                  | EP04 — Ejecución técnica                                 | EC-02                  | Media     | 5            |
+| 7      | US11-R        | Alerta de inventario antes de ejecutar una orden      | Como técnico, quiero recibir advertencia de repuestos faltantes antes de iniciar una orden, para evitar bloqueos operativos.                                                  | EP06 — Gestión de inventario                             | EC-03                  | Media     | 5            |
+| 8      | US35-R        | Plantillas reutilizables para planes de mantenimiento | Como administrador, quiero usar plantillas o copiar planes existentes, para agilizar la planificación repetitiva.                                                             | EP02 — Gestión y planificación del plan de mantenimiento | Auditoría 6.4.2        | Baja      | 5            |
 
 **Notas de priorización:**
 
@@ -6980,6 +6988,44 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 - **US08-R** y **US11-R** corresponden a EC-02 y EC-03, documentados como experimentos secundarios pendientes de ejecución para evitar contaminación de resultados con EC-01.
 - **US35-R** complementa la mejora parcial ya aplicada en la app móvil (valores predeterminados) extendiendo eficiencia al flujo web de planificación.
 - Los hallazgos de la auditoría UX recibida (6.4.2.4) — sidebar con etiquetas, modales estandarizados, KPIs semafóricos, contraste WCAG — ya fueron subsanados en código y no requieren ítems pendientes en este backlog.
+
+<div style="page-break-after: always;"></div>
+
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+#### 8.3.3.1. To-Be Sprint Backlogs
+
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+
+#### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+#### 8.3.3.6. Team Collaboration Insights
+
+### 8.3.4. To-Be Validation Interviews
+
+#### 8.3.4.1. Diseño de Entrevistas.
+
+#### 8.3.4.2. Registro de Entrevistas.
+
+## 8.4. Experiment Aftermath & Analysis
+
+### 8.4.1. Analysis and Interpretation of Results
+
+### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+## 8.5. Continuous Learning
+
+### 8.5.1. Shareback Session Artifacts: Learning Workflow
+
+## 8.6. To-Be Software Platform Pre-launch
+
+### 8.6.1. About-the-Product Intro Video
+
+# Matriz de Evaluación Etica y de Impacto
 
 <div style="page-break-after: always;"></div>
 
