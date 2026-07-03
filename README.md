@@ -7257,6 +7257,17 @@ Lista de verificación en cierre de órdenes de trabajo<br>
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
+Recepción de la configuración de los 5 pasos del wizard en el flujo de creación de un plan de mantenimiento<br>
+<img src="img/sprint-to-be/US09-R1-back.png" width="500px"><br>
+Llamado de KPIs basados en los parámetros de un plan de mantenimiento<br>
+<img src="img/sprint-to-be/US07-R1-back.png" width="500px"><br>
+Envio de microencuesta post-tarea de planificación
+<br>
+<img src="img/sprint-to-be/US34-R1-back.png" width="500px"><br>
+Generación de orden de trabajo y cierre de esta misma con su validación<br>
+<img src="img/sprint-to-be/US08-R1-back.png" width="500px"><br>
+<img src="img/sprint-to-be/US08-R2-back.png" width="500px"><br>
+
 #### 8.3.3.6. Team Collaboration Insights
 
 ### 8.3.4. To-Be Validation Interviews
