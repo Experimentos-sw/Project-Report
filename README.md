@@ -359,11 +359,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     - [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
     - [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
     - [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-según-heurísticas)
-    - [Escala de severidad](#escala-de-severidad)
     - [Tabla resumen](#tabla-resumen)
-    - [Descripción de problemas](#descripción-de-problemas)
-      - [**PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page](#problema-1-ausencia-de-canal-directo-para-contacto-en-la-landing-page)
-      - [**PROBLEMA #2:** El registro de cuenta está limitado a administradores](#problema-2-el-registro-de-cuenta-está-limitado-a-administradores)
   - [6.4. Auditoría de Experiencias de Usuario.](#64-auditoría-de-experiencias-de-usuario)
     - [6.4.1. Auditoría realizada.](#641-auditoría-realizada)
       - [6.4.1.1. Información del grupo auditado.](#6411-información-del-grupo-auditado)
@@ -428,26 +424,26 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
       - [Tracking Quality Criteria](#tracking-quality-criteria)
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories.](#831-to-be-user-stories)
+      - [Refined User Stories Post-Experiment](#refined-user-stories-post-experiment)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
-  - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
-    - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
-    - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
-    - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
-    - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
-    - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
-    - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
-  - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
-    - [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas)
-    - [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas)
-  - [8.4. Experiment Aftermath & Analysis](#84-experiment-aftermath--analysis)
+    - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+      - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+      - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+      - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+      - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+      - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+      - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
+    - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
+      - [8.3.4.1. Diseño de Entrevistas.](#8341-diseño-de-entrevistas)
+      - [8.3.4.2. Registro de Entrevistas.](#8342-registro-de-entrevistas)
+  - [8.4. Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
     - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
     - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
   - [8.5. Continuous Learning](#85-continuous-learning)
     - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
   - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
     - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
-- [Matriz de Evaluación Ética y de Impacto](#matriz-de-evaluación-ética-y-de-impacto)
-
+- [Matriz de Evaluación Etica y de Impacto](#matriz-de-evaluación-etica-y-de-impacto)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -7237,6 +7233,10 @@ Esta sección documenta la implementación de las mejoras definidas en el To-Be 
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
+Apartado de Contacto para recibir consultas o preguntas de los usuarios interesados<br>
+<img src="img/sprint-to-be/US33-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US33-R2.png" width="500px"><br>
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
 Flujo guiado para creación de planes preventivos<br>
@@ -7252,6 +7252,12 @@ Micro-encuesta post-tarea de planificación <br>
 Lista de verificación en cierre de órdenes de trabajo<br>
 <img src="img/sprint-to-be/US08-R1.png" width="500px"><br>
 <img src="img/sprint-to-be/US08-R2.png" width="500px"><br>
+Implementacion de plantillas para planes de mantenimiento<br>
+<img src="img/sprint-to-be/US35-R1-front.png" width="500px"><br>
+<img src="img/sprint-to-be/US35-R2-front.png" width="500px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R1-front.png" width="500px"><br>
+<img src="img/sprint-to-be/US20-R2-front.png" width="500px"><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
@@ -7261,12 +7267,18 @@ Recepción de la configuración de los 5 pasos del wizard en el flujo de creaci�
 <img src="img/sprint-to-be/US09-R1-back.png" width="500px"><br>
 Llamado de KPIs basados en los parámetros de un plan de mantenimiento<br>
 <img src="img/sprint-to-be/US07-R1-back.png" width="500px"><br>
-Envio de microencuesta post-tarea de planificación
-<br>
+Envio de microencuesta post-tarea de planificación<br>
 <img src="img/sprint-to-be/US34-R1-back.png" width="500px"><br>
 Generación de orden de trabajo y cierre de esta misma con su validación<br>
 <img src="img/sprint-to-be/US08-R1-back.png" width="500px"><br>
 <img src="img/sprint-to-be/US08-R2-back.png" width="500px"><br>
+Implementacion de plantillas para planes de mantenimiento<br>
+<img src="img/sprint-to-be/US35-R1-back.png" width="500px"><br>
+<img src="img/sprint-to-be/US35-R2-back.png" width="500px"><br>
+Almacenamiento de las consultas y preguntas realizadas por los usuarios en el landing page<br>
+<img src="img/sprint-to-be/US33-R1-back.png" width="500px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R1-back.png" width="500px"><br>
 
 #### 8.3.3.6. Team Collaboration Insights
 
