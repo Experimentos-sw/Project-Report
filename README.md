@@ -7264,6 +7264,17 @@ Mensaje de error al intentar terminar una orden de trabajo cuando no hay suficie
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
+Flujo guiado para creación de planes preventivos<br>
+<img src="img/sprint-to-be/US09-R1-mobile.png" width="200px"><br>
+Previsualización de KPIs durante la creación del plan <br>
+<img src="img/sprint-to-be/US07-R1-mobile.png" width="200px"><br>
+Micro-encuesta post-tarea de planificación <br>
+<img src="img/sprint-to-be/US34-R1-mobile.png" width="200px"><br>
+Lista de verificación en cierre de órdenes de trabajo<br>
+<img src="img/sprint-to-be/US08-R1-mobile.png" width="200px"><br>
+<img src="img/sprint-to-be/US08-R2-mobile.png" width="200px"><br>
+<img src="img/sprint-to-be/US08-R3-mobile.png" width="200px"><br>
+
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
 Recepción de la configuración de los 5 pasos del wizard en el flujo de creación de un plan de mantenimiento<br>
@@ -7355,9 +7366,18 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 
 Para acceder a los diferentes recursos del proyecto, puedes visitar los siguientes enlaces:
 
-- Landing Page desplegado del proyecto: [https://mecanaut-landing-page.vercel.app/](https://mecanaut-landing-page.vercel.app/)
-- Repositorio de la Landing Page: [https://github.com/Experimentos-sw/mecanaut-landing-page](https://github.com/Experimentos-sw/mecanaut-landing-page)
 - Documentación del Proyecto: [https://github.com/Experimentos-sw/Project-Report](https://github.com/Experimentos-sw/Project-Report)
+- Landing Page Repositorio: https://github.com/Experimentos-sw/mecanaut-landing-page
+- Landing Page Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-landing-page
+- Landing Page desplegado del proyecto: https://mecanaut-landing-page.vercel.app/
+- Frontend Repositorio: https://github.com/Experimentos-sw/mecanaut-frontend
+- Frontend Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-frontend
+- Frontend desplegado del proyecto: https://mecanaut-front.vercel.app/login
+- Mobile Repositorio: https://github.com/Experimentos-sw/mecanaut-mobile
+- Mobile Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-mobile
+- Mobile desplegado del proyecto: https://github.com/Experimentos-sw/experiment-mecanaut-backend
+- Backend Repositorio: https://github.com/Experimentos-sw/mecanaut-backend
+- Backend Repositorio de Experimentos: https://mecanaut-experiment-backend-cscbg2hycucpdzds.eastus-01.azurewebsites.net/swagger/index.html
 - Backend desplegado del proyecto: https://mecanaut-api-csdaced4hjenb0d4.canadacentral-01.azurewebsites.net/swagger/index.html
 - Video About The product:
 - https://youtu.be/cW31cmfSuA8
