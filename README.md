@@ -7258,6 +7258,9 @@ Implementacion de plantillas para planes de mantenimiento<br>
 Apartado para ingresar Rol al momento de crear un usuario<br>
 <img src="img/sprint-to-be/US20-R1-front.png" width="500px"><br>
 <img src="img/sprint-to-be/US20-R2-front.png" width="500px"><br>
+Mensaje de error al intentar terminar una orden de trabajo cuando no hay suficientes repuestos
+<img src="img/sprint-to-be/US11-R2-front.png" width="500px"><br>
+<img src="img/sprint-to-be/US11-R1-front.png" width="500px"><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
