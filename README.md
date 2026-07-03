@@ -195,6 +195,36 @@
     <td>Equipo de proyecto</td>
     <td>Consolidación final para el AV2. Integración de los capítulos VI, VII y VIII, actualización transversal del Student Outcome y revisión de commits colaborativos.</td>
 </tr>
+<tr>
+        <td>3.1</td>
+        <td>25/06/2026</td>
+        <td>Ariana Agreda, Ricardo Cárdenas</td>
+        <td>Desarrollo del To-Be Software Platform Lifecycle (8.3.3): Documentación de To-Be Sprint Backlogs y todas las evidencias de implementación (Landing Page, Web Frontend, Native-Mobile, y API/Backend).</td>
+    </tr>
+    <tr>
+        <td>3.2</td>
+        <td>29/06/2026</td>
+        <td>Claudia Belledonne</td>
+        <td>Desarrollo de To-Be Validation Interviews (8.3.4): Inclusión del diseño de las entrevistas y el registro de la ejecución de las mismas.</td>
+    </tr>
+    <tr>
+        <td>3.3</td>
+        <td>30/06/2026</td>
+        <td>Mariano Oblitas</td>
+        <td>Redacción de Team Collaboration Insights (8.3.3.6), el Experiment Aftermath & Analysis completo (8.4.1 y 8.4.2), y elaboración de la Matriz de Evaluación Ética y de Impacto.</td>
+    </tr>
+    <tr>
+        <td>3.4</td>
+        <td>02/07/2026</td>
+        <td>Mauricio Elera</td>
+        <td>Documentación del Continuous Learning (8.5.1) y el pre-lanzamiento de la plataforma To-Be (8.6.1), incluyendo el About-the-Product Intro Video.</td>
+    </tr>
+    <tr>
+        <td>4.0</td>
+        <td>04/07/2026</td>
+        <td>Equipo de proyecto</td>
+        <td>Revisión final y consolidación del informe con las validaciones, análisis del experimento, evaluación ética y evidencias post-experimento. Integración final.</td>
+    </tr>
 </table>
 
 <br>
@@ -473,6 +503,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Al asumir el análisis de código estático y la auditoría de UX, reconocí mi responsabilidad ética al reportar vulnerabilidades y problemas de usabilidad de forma transparente y objetiva, sin ocultar defectos que pudieran perjudicar la experiencia del usuario final.
 
+– **TB2:** Asumí responsabilidad profesional al implementar y documentar las evidencias del ciclo de vida To-Be (Frontend, Mobile, Backend y Landing Page), garantizando que el código desarrollado siguiera estándares de calidad y seguridad, siendo transparentes con el alcance funcional de la plataforma.
+
 </p>
 <br>
 <p><strong>Claudia Valeria Belledonne Espinoza</strong>
@@ -482,6 +514,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
 
 – **AV2:** Reconocí mi responsabilidad profesional al conducir las entrevistas de validación y configurar el monitoreo continuo en producción, garantizando la estricta privacidad de los datos de los usuarios entrevistados y la seguridad de la información monitoreada.
+
+– **TB2:** Reconocí mi responsabilidad ética al diseñar y ejecutar las _To-Be Validation Interviews_, asegurando el consentimiento informado de los participantes, protegiendo su identidad y reportando el feedback (positivo y negativo) de forma totalmente honesta e imparcial.
 
 </p>
 
@@ -494,6 +528,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Asumí responsabilidad ética al procesar la auditoría UX recibida y estructurar el _To-Be Product Backlog_, aceptando las críticas de diseño constructivamente e integrando mejoras orientadas genuinamente a resolver las verdaderas necesidades del usuario.
 
+– **TB2:** Asumí mi responsabilidad profesional al estructurar el _Continuous Learning_ y el _Pre-launch_ (video promocional), asegurándome de comunicar las capacidades reales del producto con honestidad, sin realizar falsas promesas comerciales a los futuros usuarios.
+
 </p>
 <br>
 <p><strong>Ricardo Fernando Cárdenas Minaya</strong>
@@ -503,6 +539,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al desarrollar el Capítulo I: Introducción, asumió responsabilidad ética al definir el problema, la propuesta de solución y los segmentos objetivo de manera realista, evitando exagerar el alcance del producto y manteniendo claridad profesional.
 
 – **AV2:** Reconocí mi responsabilidad profesional al estructurar la fase de _Experiment Planning_, definiendo preguntas de investigación y asunciones libres de sesgos, buscando descubrir hechos reales sobre el uso del sistema en lugar de forzar la validación de ideas preestablecidas.
+
+– **TB2:** Reconocí mi responsabilidad ética al documentar los Sprint Backlogs y las evidencias de implementación (To-Be Software Platform), garantizando que las funcionalidades entregadas en el Frontend y Mobile reflejen exactamente lo comprometido y diseñado, respetando los estándares de la ingeniería.
 
 </p>
 <br>
@@ -514,14 +552,17 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Asumí responsabilidad ética durante el _Experiment Design_, estableciendo métricas (KPIs), cálculos y condiciones de forma transparente y rigurosa, evitando la manipulación de datos empíricos para asegurar resultados precisos y honestos.
 
+– **TB2:** Asumí una profunda responsabilidad ética al elaborar la Matriz de Evaluación Ética y de Impacto, así como al analizar los resultados post-experimento, asegurando un análisis riguroso y libre de manipulación de datos para repriorizar objetivamente el _Question Backlog_.
+
 </p>
 <br>
 </td>
 <td>
-<p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
-<p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
+<p>- AV1: En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+<p> - TB1: Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
 </p>
-<p>- **AV2:** En esta entrega garantizamos la integridad durante el diseño, planificación y validación de nuestros experimentos, reportando auditorías con honestidad y protegiendo los datos durante el monitoreo en producción.</p>
+<p>- AV2: En esta entrega garantizamos la integridad durante el diseño, planificación y validación de nuestros experimentos, reportando auditorías con honestidad y protegiendo los datos durante el monitoreo en producción.</p>
+    <p>- TB2: Como equipo en la entrega final, consolidamos nuestra responsabilidad profesional garantizando una implementación íntegra del software To-Be, realizando entrevistas con un marco ético sólido y evaluando el producto desde una perspectiva de transparencia técnica y comercial antes de su lanzamiento.</p>
     </td>
   </tr>
   <tr>
@@ -535,6 +576,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto de la mantenibilidad del código y la accesibilidad UX, comprendiendo que un código limpio y una interfaz inclusiva extienden la vida útil del producto y reducen barreras de adopción.
 
+– **TB2:** Emití juicios informados considerando cómo la correcta implementación tecnológica de nuestras Apps y Landing Page impactan económicamente en la viabilidad del negocio y facilitan la digitalización y adopción tecnológica en el contexto social de los usuarios objetivo.
+
   </p>
 <br>
 
@@ -545,6 +588,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, evalué el contexto competitivo y las necesidades del mercado, considerando el impacto económico y social que podía tener la solución propuesta.
 
 – **AV2:** Evalué el impacto operativo y social configurando pipelines de _Continuous Monitoring_ y alertas, asegurando que la solución garantice una alta disponibilidad y no interrumpa las labores críticas de los técnicos en las fábricas.
+
+– **TB2:** Evalué el impacto social a través del _To-Be Validation Interviews_, escuchando de primera mano cómo nuestra solución afectará la rutina laboral diaria de los usuarios, tomando decisiones fundamentadas para mejorar su calidad de trabajo y eficiencia operativa.
 
   </p>
 <br>
@@ -557,6 +602,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto económico al formular el rediseño ágil (_To-Be Product Backlog_), seleccionando mejoras post-auditoría que optimizan el retorno de inversión y la eficiencia del flujo de trabajo de los usuarios.
 
+– **TB2:** Emití juicios informados sobre el impacto global al sistematizar el _Continuous Learning_, comprendiendo que una correcta presentación del producto (Video Intro) tiene un impacto directo en la percepción de valor económico y en la escalabilidad del software en el mercado.
+
   </p>
 <br>
 
@@ -567,6 +614,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al desarrollar el Capítulo I: Introducción, emití juicios informados sobre el impacto social y económico del problema identificado, procurando que la propuesta de solución fuera realista y aplicable al contexto de los usuarios.
 
 – **AV2:** Consideré el impacto organizacional y económico durante la planificación de los experimentos (_Experiment Planning_), garantizando que las hipótesis a evaluar mitigaran riesgos reales de negocio para la industria manufacturera.
+
+– **TB2:** Emití juicios informados sobre el impacto económico de la arquitectura implementada, comprobando a través de las evidencias del Backend y Web Application que la plataforma es capaz de soportar las operaciones de los usuarios de manera sustentable y optimizando sus recursos a largo plazo.
 
   </p>
 <br>
@@ -579,6 +628,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto a través del _Experiment Design_, seleccionando _Domain Business Metrics_ que reflejen adecuadamente la eficiencia económica, operativa y la optimización de recursos dentro del sector industrial.
 
+– **TB2:** Emití juicios informados formales mediante la Matriz de Evaluación Ética y de Impacto, analizando cuantitativa y cualitativamente el Aftermath de los experimentos para determinar de qué manera la plataforma afectará económica y socialmente la productividad de los usuarios.
+
   </p>
 <br>
 
@@ -587,7 +638,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     <p> – AV1: Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos. </p>
         <p> - TB1: Como equipo, en la TB1 emitimos juicios informados considerando el impacto social, económico y organizacional de la solución. Esto nos permitió tomar decisiones más realistas, viables y alineadas con las necesidades de los usuarios y el contexto del proyecto.
 </p>
-<p> - **AV2:** Como equipo en el AV2, basamos nuestras decisiones de diseño experimental, monitoreo y auditorías en juicios informados sobre cómo nuestra solución afectará operativa y económicamente a las empresas manufactureras, promoviendo la confiabilidad industrial.</p>
+<p> - AV2: Como equipo en el AV2, basamos nuestras decisiones de diseño experimental, monitoreo y auditorías en juicios informados sobre cómo nuestra solución afectará operativa y económicamente a las empresas manufactureras, promoviendo la confiabilidad industrial.</p>
+<p> - TB2: En esta entrega, evaluamos en conjunto el impacto de nuestra solución validada, concluyendo que nuestra plataforma posee la madurez técnica, ética y operativa para insertarse en el mercado, generando un impacto económico positivo y mejorando el entorno laboral (social) de sus usuarios finales.</p>
     </td>
   </tr>
 </table>
