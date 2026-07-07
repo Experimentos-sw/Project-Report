@@ -7074,3 +7074,4 @@ El análisis permite reconocer riesgos, impactos positivos, impactos negativos, 
 | Revelación de peligros y responsabilidad | Ocultar vulnerabilidades, pérdida de datos o errores críticos sería una falta ética y profesional. | Usuarios, empresas, stakeholders y equipo de desarrollo. Magnitud alta. | Reportar riesgos, documentar fallas, priorizar correcciones críticas, mantener evidencias y asumir responsabilidad por decisiones técnicas. |
 
 Como conclusión del Anexo F, Mecanaut presenta impactos potencialmente positivos en productividad, trazabilidad, seguridad operativa y sostenibilidad del mantenimiento. Sin embargo, estos beneficios dependen de una implementación responsable. Por ello, el equipo debe mantener prácticas de validación, accesibilidad, seguridad, documentación y mejora continua durante las siguientes iteraciones del producto.
+
