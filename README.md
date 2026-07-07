@@ -439,19 +439,19 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
   - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
     - [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas)
     - [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas)
-  - [8.4. Experiment Aftermath & Analysis](#84-experiment-aftermath--analysis)
-    - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
-    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
+  - [8.4. Experiment Aftermath & Analysis](#section-84-experiment-aftermath-analysis)
+    - [8.4.1. Analysis and Interpretation of Results](#section-841-analysis-and-interpretation-of-results)
+    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#section-842-re-scored-and-re-prioritized-question-backlog)
   - [8.5. Continuous Learning](#85-continuous-learning)
     - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
   - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
     - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
-- [Matriz de Evaluación Ética y de Impacto](#matriz-de-evaluación-ética-y-de-impacto)
+- [Matriz de Evaluación Ética y de Impacto](#matriz-etica-impacto)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-  - [Anexo F. Matriz de Evaluación Ética y de Impacto](#anexo-f-matriz-de-evaluación-ética-y-de-impacto)
+  - [Anexo F. Matriz de Evaluación Ética y de Impacto](#anexo-f-matriz-etica-impacto)
 
 ---
 
@@ -6887,11 +6887,15 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 #### 8.3.4.2. Registro de Entrevistas.
 
+<a id="section-84-experiment-aftermath-analysis"></a>
+
 ## 8.4. Experiment Aftermath & Analysis
 
 Esta sección presenta el análisis posterior a la ejecución del experimento priorizado para Mecanaut. El objetivo es interpretar la evidencia recolectada, contrastarla con la hipótesis planteada en la fase de diseño y actualizar el Question Backlog con base en los aprendizajes obtenidos. El análisis no busca declarar una verdad absoluta sobre el producto, sino producir evidencia suficiente para tomar decisiones informadas sobre la evolución de la plataforma.
 
 El experimento ejecutado corresponde a la pregunta priorizada EC-01: Guided Maintenance Plan Creation. Esta pregunta buscó evaluar si un flujo guiado para la creación de planes de mantenimiento preventivo mejora la capacidad del usuario para completar correctamente la tarea, en comparación con un flujo menos asistido.
+
+<a id="section-841-analysis-and-interpretation-of-results"></a>
 
 ### 8.4.1. Analysis and Interpretation of Results
 
@@ -6941,6 +6945,8 @@ The second lesson is that product decisions in Mecanaut should not be based only
 
 The third lesson is that experiment-driven development helped the team reduce implementation risk. Instead of fully investing in a complex maintenance planning module without evidence, the team tested the simplest useful version and used the results to decide the next product increment.
 
+<a id="section-842-re-scored-and-re-prioritized-question-backlog"></a>
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
 After analyzing the results of EC-01, the Question Backlog was updated. The confidence score of the tested question increased because the team collected evidence supporting the guided flow. At the same time, its risk score decreased because the main uncertainty was partially resolved. As a result, new questions related to monitoring, dashboard interpretation and inventory support became more important for the next experimentation cycle.
@@ -6977,6 +6983,8 @@ As a result of this re-scoring, the team decides to continue with an experiment-
 ## 8.6. To-Be Software Platform Pre-launch
 
 ### 8.6.1. About-the-Product Intro Video
+
+<a id="matriz-etica-impacto"></a>
 
 # Matriz de Evaluación Ética y de Impacto
 
@@ -7046,6 +7054,8 @@ Para acceder a los diferentes recursos del proyecto, puedes visitar los siguient
 - Video About The product:
 - https://youtu.be/cW31cmfSuA8
 - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQZYuCOUrwROqPTL4T3q65kBQR6OupO11aRn8NsnEDmTSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pzeLdc
+
+<a id="anexo-f-matriz-etica-impacto"></a>
 
 ## Anexo F. Matriz de Evaluación Ética y de Impacto
 
