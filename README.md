@@ -6891,65 +6891,63 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 ## 8.4. Experiment Aftermath & Analysis
 
-Esta sección presenta el análisis posterior a la ejecución del experimento priorizado para Mecanaut. El objetivo es interpretar la evidencia recolectada, contrastarla con la hipótesis planteada en la fase de diseño y actualizar el Question Backlog con base en los aprendizajes obtenidos. El análisis no busca declarar una verdad absoluta sobre el producto, sino producir evidencia suficiente para tomar decisiones informadas sobre la evolución de la plataforma.
+Esta sección presenta el análisis posterior a la ejecución y revisión de los experimentos realizados para la versión To-Be de Mecanaut. A diferencia de una evaluación centrada en una sola funcionalidad, el análisis considera los principales frentes de la plataforma: Landing Page, Frontend-Web Application, Native-Mobile Application y RESTful API / Backend. Esta corrección es importante porque el ciclo de experimentación no solo evaluó el flujo guiado de planes preventivos, sino también hallazgos de validación, auditoría UX y evidencias de implementación que afectaron la adopción, la conversión y la confiabilidad técnica del producto.
 
-El experimento ejecutado corresponde a la pregunta priorizada EC-01: Guided Maintenance Plan Creation. Esta pregunta buscó evaluar si un flujo guiado para la creación de planes de mantenimiento preventivo mejora la capacidad del usuario para completar correctamente la tarea, en comparación con un flujo menos asistido.
+El análisis se basa en los resultados del experimento **EC-01: Guided Maintenance Plan Creation**, los refinamientos registrados en las historias To-Be, los hallazgos de validación heurística y la priorización del To-Be Product Backlog. Los experimentos **EC-02: Work Order Execution Checklist** y **EC-03: Inventory Availability Warning** se mantienen como experimentos posteriores, debido a que el propio backlog los documenta como pendientes de ejecución para evitar contaminación de resultados con EC-01.
 
 <a id="section-841-analysis-and-interpretation-of-results"></a>
 
 ### 8.4.1. Analysis and Interpretation of Results
 
-El experimento fue realizado mediante un piloto controlado con usuarios representativos del segmento objetivo de Mecanaut. Se compararon dos condiciones: una condición de control, basada en un flujo tradicional de registro de mantenimiento, y una condición experimental, basada en un flujo guiado con pasos secuenciales, validaciones visibles y mensajes de apoyo.
+El análisis posterior se organizó por alcance de producto para evitar que los resultados de una sola funcionalidad sean interpretados como evidencia suficiente para toda la plataforma. De esta forma, cada frente de Mecanaut se evaluó según su relación con las preguntas del experimento, las historias To-Be y las evidencias de validación.
 
-La hipótesis de trabajo fue la siguiente:
+| Scope | Experiment / validation source | Main evidence | Interpretation | Decision |
+|---|---|---|---|---|
+| Frontend-Web Application | EC-01: Guided Maintenance Plan Creation / US09-R | Tasa de finalización de 74% en flujo guiado frente a 52% en control; reducción de errores de validación del 30%; incremento de tiempo de 8%, dentro del límite aceptable de 15%; satisfacción post-tarea de 4.2/5. | El flujo guiado mejora la finalización de planes preventivos y reduce errores sin generar una carga operativa excesiva. La mejora es relevante porque la planificación preventiva es el núcleo funcional de Mecanaut. | Mantener el flujo guiado como dirección principal del módulo de planificación preventiva y pasar a product hardening. |
+| Frontend-Web Application | KPI Preview / US07-R | 68% de administradores consultaron la previsualización de KPIs durante el piloto; satisfacción de claridad de indicadores de 4.1/5; 82% de planes completados fueron agregados al calendario operativo. | La previsualización de indicadores sí aporta valor durante la toma de decisiones. No debe tratarse como elemento decorativo, sino como apoyo para planificación basada en datos. | Mantener la previsualización de KPIs y mejorar su integración con dashboard y calendario. |
+| Frontend-Web Application / Analytics | Micro-survey post-task / US34-R | 91% de sesiones registraron `post_task_survey_submitted`; satisfacción promedio de 4.2/5 en variante guiada frente a 3.4/5 en control. | La encuesta breve posterior a la tarea permitió obtener evidencia de percepción sin interrumpir el flujo. El resultado respalda el flujo guiado desde una perspectiva cuantitativa y cualitativa. | Mantener la micro-encuesta como instrumento de medición temporal durante siguientes iteraciones experimentales. |
+| Landing Page | Contact form validation / US33-R | Los entrevistados reportaron que la sección FAQ no reemplaza un canal directo para consultas comerciales o técnicas. El hallazgo proviene de la validación heurística con severidad 3. | La landing page tenía fricción de conversión: informaba el producto, pero no ofrecía un canal suficiente para resolver dudas específicas antes del registro. | Priorizar formulario de contacto en landing page y medir posteriormente tasa de envío, tasa de respuesta y conversión a registro. |
+| Frontend-Web Application | Role-based account registration / US20-R | 100% de entrevistados técnicos indicaron fricción al depender del administrador para crear su cuenta. El hallazgo se registró con severidad 4 por impacto directo en adopción inicial. | La ausencia de selección de rol en el registro limita la autonomía de técnicos y administradores. Esto afecta adopción, acceso inicial y percepción de control del usuario. | Mantener el registro con selección explícita de rol Administrador / Técnico y vincularlo con permisos y vistas según perfil. |
+| Native-Mobile Application | Mobile UX remediation / US35-R and audit findings | La mejora parcial en app móvil incorporó valores predeterminados para reducir repetición. Los hallazgos de auditoría relacionados con sidebar con etiquetas, modales estandarizados, KPIs semafóricos y contraste WCAG fueron subsanados en código. | La experiencia móvil requiere reducir carga manual y mejorar consistencia visual. Las correcciones fortalecen accesibilidad, comprensión y eficiencia operativa para usuarios en campo. | Mantener las correcciones móviles y extender plantillas reutilizables al flujo web para administradores frecuentes. |
+| RESTful API / Backend | Backend confirmation and tracking events | El flujo experimental vinculó eventos de frontend con confirmación backend para comprobar si el plan quedaba registrado y visible en calendario. | La medición no debe quedarse en clicks o eventos de interfaz. Para Mecanaut, el éxito real ocurre cuando el backend confirma la persistencia del plan y el calendario lo refleja. | Mantener eventos de confirmación backend y reforzar respuestas de API, validaciones y documentación OpenAPI. |
+| Work Order Execution | EC-02: Work Order Execution Checklist / US08-R | Experimento documentado como pendiente de ejecución. Objetivo: alcanzar al menos 75% de reportes completos. | La ejecución técnica todavía no tiene evidencia suficiente. No debe presentarse como resultado validado; debe priorizarse como siguiente experimento. | Mantener como experimento posterior de alta prioridad. |
+| Inventory Availability | EC-03: Inventory Availability Warning / US11-R | Experimento documentado como pendiente de ejecución. Objetivo: reducir al menos 20% la tasa de órdenes bloqueadas por inventario. | La integración entre inventario y órdenes es crítica, pero aún requiere una prueba controlada con datos de stock suficientes e insuficientes. | Mantener como experimento posterior de alta prioridad después de EC-02. |
 
-Si los usuarios de Mecanaut utilizan un flujo guiado para crear planes de mantenimiento preventivo, entonces aumentará la tasa de finalización correcta y disminuirán los errores de configuración, porque el usuario recibirá orientación progresiva durante la tarea y no dependerá únicamente de su conocimiento previo del proceso.
+A partir de esta lectura, el resultado más sólido sigue siendo EC-01, porque cuenta con comparación entre condición de control y condición experimental. Sin embargo, el análisis de Aftermath no debe limitarse a EC-01. Los hallazgos sobre contacto en landing page, registro con rol, micro-encuesta, KPI preview, mobile UX y confirmación backend también generan decisiones de producto, aunque provienen de validación heurística, auditoría UX, tracking plan o evidencias de implementación.
 
-La hipótesis nula fue la siguiente:
+El flujo guiado de creación de planes preventivos mostró una mejora clara frente al flujo de control. La tasa de finalización aumentó de 52% a 74%, superando el objetivo mínimo de mejora definido para el experimento. Asimismo, los errores de validación disminuyeron 30%, lo que indica que la estructura paso a paso ayudó a prevenir omisiones y configuraciones incompletas. El incremento de tiempo fue de 8%, inferior al límite aceptable de 15%, por lo que la mejora de precisión no sacrificó de manera significativa la eficiencia del usuario.
 
-El flujo guiado no produce una mejora relevante en la creación de planes de mantenimiento preventivo. Cualquier diferencia observada en tasa de finalización, errores o tiempo de ejecución se debe al azar o a variaciones individuales de los participantes.
+La previsualización de KPIs también generó evidencia favorable. El hecho de que 68% de administradores la consultara durante el piloto indica que los indicadores no fueron ignorados. Además, la satisfacción de claridad de 4.1/5 muestra que los usuarios pudieron interpretar los datos presentados. Esto confirma que la visualización de métricas puede apoyar la toma de decisiones durante la planificación, siempre que se mantenga simple y directamente conectada al flujo operativo.
 
-#### Summary of collected evidence
+La micro-encuesta post-tarea aportó una capa adicional de evidencia. La tasa de respuesta de 91% demuestra que el instrumento fue lo suficientemente liviano para no bloquear la navegación. Además, la diferencia entre satisfacción de variante guiada (4.2/5) y control (3.4/5) respalda la decisión de mantener el flujo guiado.
 
-| Measure | Control condition | Experimental condition | Difference | Interpretation |
-|---|---:|---:|---:|---|
-| Task completion rate | 50.00% | 87.50% | +37.50 pp | The guided flow increased successful task completion. |
-| Average configuration errors per user | 2.10 | 0.80 | -61.90% | The guided flow reduced preventable user mistakes. |
-| Average task completion time | 8.70 min | 5.20 min | -40.23% | The guided flow helped users complete the task faster. |
-| Perceived ease of use | 3.10 / 5 | 4.40 / 5 | +1.30 | Users perceived the guided version as clearer and easier to use. |
-| Backend confirmation success | 62.50% | 100.00% | +37.50 pp | The experimental flow produced more complete and valid records. |
+En la landing page, el hallazgo principal no corresponde a una métrica A/B, sino a una validación heurística: la sección FAQ no era suficiente para resolver dudas específicas de usuarios interesados. Esto afecta la conversión porque el visitante puede entender la propuesta de valor, pero abandonar si no encuentra un canal directo de contacto. Por ello, la historia US33-R se priorizó como mejora de alto impacto para el sitio informativo.
 
-The evidence suggests that the guided maintenance plan creation flow produced a positive effect on the main business and usability measures defined for the experiment. The largest improvements were observed in task completion rate, configuration error reduction and backend confirmation success. These results are relevant because Mecanaut targets industrial maintenance contexts where incomplete or incorrectly configured maintenance plans can generate operational delays, poor traceability and avoidable corrective work.
+En el registro de usuarios, el hallazgo fue más crítico. El 100% de los entrevistados técnicos manifestó fricción al depender de un administrador para crear su cuenta. Este resultado valida la necesidad de incorporar selección de rol durante el registro y de relacionar ese dato con permisos y vistas. Este cambio no solo mejora la experiencia inicial, sino que reduce una barrera directa de adopción.
 
-The completion rate increased from 50.00% in the control condition to 87.50% in the experimental condition. This indicates that the guided flow reduced the cognitive load required to understand the task sequence. Instead of asking users to infer the correct order of actions, the experimental version presented the process in smaller and more explicit steps.
+En la experiencia móvil, los hallazgos apuntan a reducir carga repetitiva y mejorar consistencia. La incorporación parcial de valores predeterminados en mobile y las correcciones de auditoría —sidebar con etiquetas, modales estandarizados, KPIs semafóricos y contraste WCAG— permiten mejorar accesibilidad y claridad visual. No obstante, esta evidencia debe tratarse como validación UX y no como experimento estadístico.
 
-The average number of configuration errors decreased from 2.10 to 0.80 errors per user. This result is especially important because errors in maintenance planning can affect the reliability of future work orders, the assignment of equipment, the scheduling of tasks and the interpretation of maintenance indicators. Therefore, the improvement is not only a usability gain, but also a reduction of operational risk.
+Finalmente, en el backend/API, el aprendizaje central es que la medición del éxito debe confirmar persistencia y consistencia de datos. Para Mecanaut, no basta con que el usuario complete un formulario; el plan debe quedar guardado correctamente, reflejarse en calendario y quedar disponible para el ciclo posterior de órdenes de trabajo. Por ello, los eventos de confirmación backend deben mantenerse en el tracking plan.
 
-The average completion time decreased from 8.70 minutes to 5.20 minutes. This suggests that the guided flow did not slow down users despite adding more visible instructions. On the contrary, the additional guidance reduced hesitation and rework. This is a relevant finding because one possible risk of guided interfaces is making expert users feel slower; however, in this pilot, the structured flow improved speed.
+#### Decision after the experiments
 
-The perceived ease of use increased from 3.10 to 4.40 out of 5. This qualitative result supports the quantitative evidence. Participants reported that the guided version made the process easier to understand, especially when choosing the machine, defining the frequency and confirming the preventive maintenance plan.
+Después del análisis, el equipo decide consolidar como cambios To-Be principales: el flujo guiado de planificación preventiva, la previsualización de KPIs, la micro-encuesta post-tarea, el registro con selección de rol, el formulario de contacto en landing page, las mejoras de accesibilidad móvil y los eventos de confirmación backend.
 
-However, the results must be interpreted with caution. The experiment was executed as a controlled pilot and not as a large-scale production experiment. Therefore, the evidence is strong enough to justify continuing with the guided flow, but it is not sufficient to generalize the exact percentages to all future users of the platform. A larger validation should be performed after deploying the feature to a broader group of industrial users.
-
-#### Decision after the experiment
-
-Based on the collected evidence, the team decides to keep the guided maintenance plan creation flow as the preferred direction for the To-Be version of Mecanaut. The feature should move from experimental implementation to product hardening. This means that the next iteration should focus on improving validation messages, strengthening accessibility, refining mobile responsiveness and connecting the flow with monitoring events that allow the team to continue measuring adoption.
-
-The team does not discard the control flow completely. Instead, it will be used as a reference for expert or advanced users only if later evidence shows that experienced maintenance managers prefer a faster compact mode. For the current release candidate, the guided flow is considered the safer and more valuable default.
+El equipo no debe presentar EC-02 ni EC-03 como experimentos ya validados. Ambos quedan priorizados para el siguiente ciclo de experimentación, porque la evidencia actual todavía no permite afirmar que el checklist mejore reportes técnicos ni que la alerta de inventario reduzca bloqueos operativos. Esta distinción es relevante para mantener honestidad experimental y evitar conclusiones no sustentadas.
 
 #### Lessons learned
 
-The main lesson is that the experiment helped the team avoid assuming that users already understood the maintenance planning process. Before the experiment, the team believed that presenting the required fields was enough for users to complete the task. The evidence showed that field availability alone is not sufficient. Users need sequence, context and validation.
+El principal aprendizaje es que Mecanaut necesita ser evaluado como plataforma completa, no como una única pantalla. El flujo guiado mejora la planificación, pero la adopción también depende de la landing page, el registro, la experiencia móvil, las métricas visibles y la confirmación técnica del backend.
 
-The second lesson is that product decisions in Mecanaut should not be based only on interface preferences. The most useful measures were those connected to business value: completion rate, error reduction and valid backend confirmation. These measures demonstrated whether the feature actually improved the maintenance workflow.
+El segundo aprendizaje es que no todas las evidencias tienen el mismo peso. EC-01 tiene mayor solidez porque compara una condición de control y una experimental. En cambio, las mejoras de landing page, registro y mobile provienen de validación heurística y auditoría, por lo que sirven para priorizar decisiones de diseño, pero no deben presentarse como prueba estadística.
 
-The third lesson is that experiment-driven development helped the team reduce implementation risk. Instead of fully investing in a complex maintenance planning module without evidence, the team tested the simplest useful version and used the results to decide the next product increment.
+El tercer aprendizaje es que las métricas de producto deben combinar datos de interfaz, percepción del usuario y confirmación técnica. Si solo se miden clicks, se puede sobreestimar el éxito; si solo se mide backend, se puede ignorar la fricción de experiencia. Para Mecanaut, el aprendizaje útil surge cuando se conectan eventos de usuario, resultados operativos y calidad del dato persistido.
 
 <a id="section-842-re-scored-and-re-prioritized-question-backlog"></a>
 
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
-After analyzing the results of EC-01, the Question Backlog was updated. The confidence score of the tested question increased because the team collected evidence supporting the guided flow. At the same time, its risk score decreased because the main uncertainty was partially resolved. As a result, new questions related to monitoring, dashboard interpretation and inventory support became more important for the next experimentation cycle.
+Después de analizar la evidencia recolectada, el Question Backlog fue re-priorizado. La pregunta asociada a EC-01 reduce su riesgo porque ya existe evidencia favorable para el flujo guiado. En cambio, las preguntas sobre ejecución técnica, inventario, conversión en landing page y adopción por rol aumentan su relevancia porque representan los siguientes puntos de incertidumbre para la plataforma.
 
 Scoring scale:
 
@@ -6957,23 +6955,27 @@ Scoring scale:
 - Risk: 1 = low risk, 5 = high risk.
 - Impact: 1 = low impact, 5 = high impact.
 - Interest: 1 = low learning value, 5 = high learning value.
+- Priority Score = (6 - Confidence) + Risk + Impact + Interest.
 
-| Priority | Question ID | Experiment-ready question | Confidence | Risk | Impact | Interest | Total | Decision |
-|---:|---|---|---:|---:|---:|---:|---:|---|
-| 1 | EC-02 | To what extent does a visual maintenance schedule improve users' ability to follow upcoming preventive tasks? | 3 | 5 | 5 | 5 | 18 | Prioritize next. |
-| 2 | EC-03 | To what extent does a dashboard with maintenance indicators improve decision-making for maintenance managers? | 3 | 4 | 5 | 5 | 17 | Prioritize after EC-02. |
-| 3 | EC-04 | To what extent do spare-part availability alerts reduce interruptions during maintenance planning? | 2 | 5 | 5 | 4 | 16 | Keep as high-value experiment. |
-| 4 | EC-01 | To what extent does guided maintenance plan creation improve correct task completion? | 4 | 3 | 5 | 3 | 15 | Move to product hardening. |
-| 5 | EC-05 | To what extent does onboarding reduce first-session confusion for new users? | 3 | 3 | 4 | 4 | 14 | Keep as support experiment. |
-| 6 | EC-06 | To what extent does bilingual terminology reduce confusion in maintenance-related tasks? | 2 | 4 | 4 | 3 | 13 | Keep for accessibility and internationalization review. |
+| Priority | Question ID | Platform scope | Experiment-ready question | Confidence | Risk | Impact | Interest | Score | Decision |
+|---:|---|---|---|---:|---:|---:|---:|---:|---|
+| 1 | EC-02 / Q-03 | Work Order / Mobile-Web execution | To what extent does a checklist improve technical report completeness without increasing closure time excessively? | 2 | 5 | 5 | 4 | 18 | Prioritize as next controlled experiment. |
+| 2 | EC-03 / Q-04 | Inventory + Work Order + Backend | To what extent does an inventory availability warning reduce work orders blocked by missing spare parts? | 2 | 5 | 5 | 4 | 18 | Prioritize after EC-02 with controlled stock scenarios. |
+| 3 | Q-02 | Frontend-Web / Dashboard | To what extent does KPI preview improve maintenance planning decisions and later dashboard usage? | 3 | 4 | 5 | 4 | 16 | Continue measuring in production-like sessions. |
+| 4 | VAL-01 / US20-R | Frontend-Web / Access management | To what extent does role-based registration reduce onboarding friction for technicians and administrators? | 4 | 4 | 5 | 3 | 14 | Move to implementation hardening and monitor adoption. |
+| 5 | VAL-02 / US33-R | Landing Page | To what extent does a direct contact form improve visitor conversion from information interest to product trial or registration? | 3 | 3 | 4 | 4 | 14 | Implement and track conversion events. |
+| 6 | EC-01 / Q-01 | Frontend-Web / Backend confirmation | To what extent does guided maintenance plan creation improve correct task completion? | 4 | 2 | 5 | 3 | 12 | Keep as accepted direction; harden implementation. |
+| 7 | UX-01 / US35-R | Native-Mobile + Frontend-Web | To what extent do templates and default values reduce repetitive data entry during maintenance planning? | 3 | 3 | 4 | 3 | 13 | Keep as efficiency improvement; validate after EC-02/EC-03. |
+| 8 | Q-06 | Global / Accessibility | To what extent does bilingual terminology reduce confusion in maintenance-related tasks? | 2 | 3 | 3 | 3 | 13 | Keep as support experiment for internationalization. |
 
-The backlog was re-prioritized because the main uncertainty around EC-01 was reduced. The next most important uncertainty is whether users can understand and follow upcoming preventive maintenance tasks after plans are created. For that reason, EC-02 becomes the highest-priority question. This decision is consistent with the lifecycle of the product: once users can create maintenance plans more reliably, the next risk is whether they can monitor, interpret and act on those plans.
+The re-prioritization shows that the next most important uncertainties are not the guided planning flow anymore. EC-01 already produced enough evidence to justify implementation hardening. The next risks are operational: whether technicians can close work orders with complete information and whether inventory warnings can prevent blocked maintenance activities.
 
-EC-03 remains highly relevant because Mecanaut is not only a data entry platform. Its value also depends on helping maintenance managers interpret operational information. If the dashboard does not support decision-making, the system may store data without producing enough business value.
+EC-02 becomes the highest-priority experiment because incomplete reports directly affect the quality of the maintenance history. Without complete reports, Mecanaut loses value as a source of operational knowledge. EC-03 receives the same score because inventory availability is a dependency for real maintenance execution; however, it should be executed after EC-02 so the team can avoid mixing reporting quality with material availability.
 
-EC-04 is also important because maintenance planning depends on the availability of spare parts. A technically correct plan can still fail operationally if the required parts are unavailable. This question should be explored after the team validates the schedule and dashboard flows.
+Q-02 remains relevant because KPI preview obtained favorable early evidence, but it still needs longer-term observation to determine whether users continue using indicators during real planning cycles. VAL-01 and VAL-02 move toward implementation hardening because they come from strong validation findings: role-based registration affects adoption, and the landing page contact form affects conversion.
 
-As a result of this re-scoring, the team decides to continue with an experiment-driven lifecycle instead of immediately adding more features. The next product decisions should remain connected to measurable questions, defined conditions and evidence-based interpretation.
+As a result, the team decides to continue the experiment-driven lifecycle with two immediate experimental priorities: **Work Order Execution Checklist** and **Inventory Availability Warning**. At the same time, the already validated improvements from EC-01, landing page validation, account role selection, mobile remediation and backend confirmation events should be integrated into the To-Be platform as part of the release candidate.
+
 
 
 ## 8.5. Continuous Learning
