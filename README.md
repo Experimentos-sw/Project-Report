@@ -7187,8 +7187,8 @@ Esta sección documenta la implementación de las mejoras definidas en el To-Be 
   </tr>
   <tr>
     <td>20</td>
-    <td align="justify">Maquetar alerta modal móvil</td>
-    <td align="justify">Diseñar alerta visual en Flutter mostrando stock requerido vs. disponible.</td>
+    <td align="justify">Implementar alerta en frontend</td>
+    <td align="justify">Diseñar alerta visual en Vue mostrando stock requerido vs. disponible.</td>
     <td>3 hr</td>
     <td>Ricardo Cardenas</td>
     <td>Done</td>
@@ -7258,9 +7258,8 @@ Implementacion de plantillas para planes de mantenimiento<br>
 Apartado para ingresar Rol al momento de crear un usuario<br>
 <img src="img/sprint-to-be/US20-R1-front.png" width="500px"><br>
 <img src="img/sprint-to-be/US20-R2-front.png" width="500px"><br>
-Mensaje de error al intentar terminar una orden de trabajo cuando no hay suficientes repuestos
-<img src="img/sprint-to-be/US11-R2-front.png" width="500px"><br>
-<img src="img/sprint-to-be/US11-R1-front.png" width="500px"><br>
+Mensaje de error al intentar iniciar una orden de trabajo cuando no hay suficientes repuestos
+<img src="img/sprint-to-be/US11-R2-front.jpg" width="500px"><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
@@ -7274,6 +7273,8 @@ Lista de verificación en cierre de órdenes de trabajo<br>
 <img src="img/sprint-to-be/US08-R1-mobile.png" width="200px"><br>
 <img src="img/sprint-to-be/US08-R2-mobile.png" width="200px"><br>
 <img src="img/sprint-to-be/US08-R3-mobile.png" width="200px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R-mobile.png" width="500px"><br>
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
@@ -7293,6 +7294,8 @@ Almacenamiento de las consultas y preguntas realizadas por los usuarios en el la
 <img src="img/sprint-to-be/US33-R1-back.png" width="500px"><br>
 Apartado para ingresar Rol al momento de crear un usuario<br>
 <img src="img/sprint-to-be/US20-R1-back.png" width="500px"><br>
+Error al intentar iniciar una orden de trabajo cuando no hay suficientes repuestos
+<img src="img/sprint-to-be/US11-R-back.png" width="500px"><br>
 
 #### 8.3.3.6. Team Collaboration Insights
 
