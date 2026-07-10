@@ -53,7 +53,6 @@
 <br>
 
 <div style="page-break-after: always;"></div>
-
 <h1 align="center">Registro de versiones del Informe</h1>
 </br>
 <table>
@@ -195,6 +194,36 @@
     <td>Equipo de proyecto</td>
     <td>Consolidación final para el AV2. Integración de los capítulos VI, VII y VIII, actualización transversal del Student Outcome y revisión de commits colaborativos.</td>
 </tr>
+<tr>
+        <td>3.1</td>
+        <td>25/06/2026</td>
+        <td>Ariana Agreda, Ricardo Cárdenas</td>
+        <td>Desarrollo del To-Be Software Platform Lifecycle (8.3.3): Documentación de To-Be Sprint Backlogs y todas las evidencias de implementación (Landing Page, Web Frontend, Native-Mobile, y API/Backend).</td>
+    </tr>
+    <tr>
+        <td>3.2</td>
+        <td>29/06/2026</td>
+        <td>Claudia Belledonne</td>
+        <td>Desarrollo de To-Be Validation Interviews (8.3.4): Inclusión del diseño de las entrevistas y el registro de la ejecución de las mismas.</td>
+    </tr>
+    <tr>
+        <td>3.3</td>
+        <td>30/06/2026</td>
+        <td>Mariano Oblitas</td>
+        <td>Redacción de Team Collaboration Insights (8.3.3.6), el Experiment Aftermath & Analysis completo (8.4.1 y 8.4.2), y elaboración de la Matriz de Evaluación Ética y de Impacto.</td>
+    </tr>
+    <tr>
+        <td>3.4</td>
+        <td>02/07/2026</td>
+        <td>Mauricio Elera</td>
+        <td>Documentación del Continuous Learning (8.5.1) y el pre-lanzamiento de la plataforma To-Be (8.6.1), incluyendo el About-the-Product Intro Video.</td>
+    </tr>
+    <tr>
+        <td>4.0</td>
+        <td>04/07/2026</td>
+        <td>Equipo de proyecto</td>
+        <td>Revisión final y consolidación del informe con las validaciones, análisis del experimento, evaluación ética y evidencias post-experimento. Integración final.</td>
+    </tr>
 </table>
 
 <br>
@@ -447,6 +476,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+  - [Anexo F. Matriz de Evaluación Ética y de Impacto](#anexo-f-matriz-etica-impacto)
 
 ---
 
@@ -473,6 +503,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Al asumir el análisis de código estático y la auditoría de UX, reconocí mi responsabilidad ética al reportar vulnerabilidades y problemas de usabilidad de forma transparente y objetiva, sin ocultar defectos que pudieran perjudicar la experiencia del usuario final.
 
+– **TB2:** Asumí responsabilidad profesional al implementar y documentar las evidencias del ciclo de vida To-Be (Frontend, Mobile, Backend y Landing Page), garantizando que el código desarrollado siguiera estándares de calidad y seguridad, siendo transparentes con el alcance funcional de la plataforma.
+
 </p>
 <br>
 <p><strong>Claudia Valeria Belledonne Espinoza</strong>
@@ -482,6 +514,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, asumí una responsabilidad ética al analizar entrevistas, competidores y necesidades reales con objetividad, procurando no distorsionar la información obtenida de los usuarios.
 
 – **AV2:** Reconocí mi responsabilidad profesional al conducir las entrevistas de validación y configurar el monitoreo continuo en producción, garantizando la estricta privacidad de los datos de los usuarios entrevistados y la seguridad de la información monitoreada.
+
+– **TB2:** Reconocí mi responsabilidad ética al diseñar y ejecutar las _To-Be Validation Interviews_, asegurando el consentimiento informado de los participantes, protegiendo su identidad y reportando el feedback (positivo y negativo) de forma totalmente honesta e imparcial.
 
 </p>
 
@@ -494,6 +528,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Asumí responsabilidad ética al procesar la auditoría UX recibida y estructurar el _To-Be Product Backlog_, aceptando las críticas de diseño constructivamente e integrando mejoras orientadas genuinamente a resolver las verdaderas necesidades del usuario.
 
+– **TB2:** Asumí mi responsabilidad profesional al estructurar el _Continuous Learning_ y el _Pre-launch_ (video promocional), asegurándome de comunicar las capacidades reales del producto con honestidad, sin realizar falsas promesas comerciales a los futuros usuarios.
+
 </p>
 <br>
 <p><strong>Ricardo Fernando Cárdenas Minaya</strong>
@@ -503,6 +539,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al desarrollar el Capítulo I: Introducción, asumió responsabilidad ética al definir el problema, la propuesta de solución y los segmentos objetivo de manera realista, evitando exagerar el alcance del producto y manteniendo claridad profesional.
 
 – **AV2:** Reconocí mi responsabilidad profesional al estructurar la fase de _Experiment Planning_, definiendo preguntas de investigación y asunciones libres de sesgos, buscando descubrir hechos reales sobre el uso del sistema en lugar de forzar la validación de ideas preestablecidas.
+
+– **TB2:** Reconocí mi responsabilidad ética al documentar los Sprint Backlogs y las evidencias de implementación (To-Be Software Platform), garantizando que las funcionalidades entregadas en el Frontend y Mobile reflejen exactamente lo comprometido y diseñado, respetando los estándares de la ingeniería.
 
 </p>
 <br>
@@ -514,14 +552,17 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Asumí responsabilidad ética durante el _Experiment Design_, estableciendo métricas (KPIs), cálculos y condiciones de forma transparente y rigurosa, evitando la manipulación de datos empíricos para asegurar resultados precisos y honestos.
 
+– **TB2:** Asumí una profunda responsabilidad ética al elaborar la Matriz de Evaluación Ética y de Impacto, así como al analizar los resultados post-experimento, asegurando un análisis riguroso y libre de manipulación de datos para repriorizar objetivamente el _Question Backlog_.
+
 </p>
 <br>
 </td>
 <td>
-<p>- **AV1:** En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
-<p> - **TB1:** Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
+<p>- AV1: En cada capítulo asumimos responsabilidades éticas y profesionales, asegurando que nuestras decisiones técnicas y de diseño respetaran principios de integridad, seguridad y accesibilidad.</p>
+<p> - TB1: Como equipo, en la TB1 reconocimos nuestra responsabilidad ética y profesional al trabajar con información real, tomar decisiones justificadas y priorizar una solución clara, accesible y útil para los usuarios.
 </p>
-<p>- **AV2:** En esta entrega garantizamos la integridad durante el diseño, planificación y validación de nuestros experimentos, reportando auditorías con honestidad y protegiendo los datos durante el monitoreo en producción.</p>
+<p>- AV2: En esta entrega garantizamos la integridad durante el diseño, planificación y validación de nuestros experimentos, reportando auditorías con honestidad y protegiendo los datos durante el monitoreo en producción.</p>
+    <p>- TB2: Como equipo en la entrega final, consolidamos nuestra responsabilidad profesional garantizando una implementación íntegra del software To-Be, realizando entrevistas con un marco ético sólido y evaluando el producto desde una perspectiva de transparencia técnica y comercial antes de su lanzamiento.</p>
     </td>
   </tr>
   <tr>
@@ -535,6 +576,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto de la mantenibilidad del código y la accesibilidad UX, comprendiendo que un código limpio y una interfaz inclusiva extienden la vida útil del producto y reducen barreras de adopción.
 
+– **TB2:** Emití juicios informados considerando cómo la correcta implementación tecnológica de nuestras Apps y Landing Page impactan económicamente en la viabilidad del negocio y facilitan la digitalización y adopción tecnológica en el contexto social de los usuarios objetivo.
+
   </p>
 <br>
 
@@ -545,6 +588,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al trabajar el Capítulo II: Requirements Elicitation & Analysis, evalué el contexto competitivo y las necesidades del mercado, considerando el impacto económico y social que podía tener la solución propuesta.
 
 – **AV2:** Evalué el impacto operativo y social configurando pipelines de _Continuous Monitoring_ y alertas, asegurando que la solución garantice una alta disponibilidad y no interrumpa las labores críticas de los técnicos en las fábricas.
+
+– **TB2:** Evalué el impacto social a través del _To-Be Validation Interviews_, escuchando de primera mano cómo nuestra solución afectará la rutina laboral diaria de los usuarios, tomando decisiones fundamentadas para mejorar su calidad de trabajo y eficiencia operativa.
 
   </p>
 <br>
@@ -557,6 +602,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto económico al formular el rediseño ágil (_To-Be Product Backlog_), seleccionando mejoras post-auditoría que optimizan el retorno de inversión y la eficiencia del flujo de trabajo de los usuarios.
 
+– **TB2:** Emití juicios informados sobre el impacto global al sistematizar el _Continuous Learning_, comprendiendo que una correcta presentación del producto (Video Intro) tiene un impacto directo en la percepción de valor económico y en la escalabilidad del software en el mercado.
+
   </p>
 <br>
 
@@ -567,6 +614,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 – **TB1:** Al desarrollar el Capítulo I: Introducción, emití juicios informados sobre el impacto social y económico del problema identificado, procurando que la propuesta de solución fuera realista y aplicable al contexto de los usuarios.
 
 – **AV2:** Consideré el impacto organizacional y económico durante la planificación de los experimentos (_Experiment Planning_), garantizando que las hipótesis a evaluar mitigaran riesgos reales de negocio para la industria manufacturera.
+
+– **TB2:** Emití juicios informados sobre el impacto económico de la arquitectura implementada, comprobando a través de las evidencias del Backend y Web Application que la plataforma es capaz de soportar las operaciones de los usuarios de manera sustentable y optimizando sus recursos a largo plazo.
 
   </p>
 <br>
@@ -579,6 +628,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
 
 – **AV2:** Emití juicios informados sobre el impacto a través del _Experiment Design_, seleccionando _Domain Business Metrics_ que reflejen adecuadamente la eficiencia económica, operativa y la optimización de recursos dentro del sector industrial.
 
+– **TB2:** Emití juicios informados formales mediante la Matriz de Evaluación Ética y de Impacto, analizando cuantitativa y cualitativamente el Aftermath de los experimentos para determinar de qué manera la plataforma afectará económica y socialmente la productividad de los usuarios.
+
   </p>
 <br>
 
@@ -587,7 +638,8 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     <p> – AV1: Emitimos juicios informados en cada capítulo, considerando impactos sociales, económicos, ambientales y globales. Esto permitió que nuestras soluciones fueran responsables, sostenibles y aplicables en diversos contextos. </p>
         <p> - TB1: Como equipo, en la TB1 emitimos juicios informados considerando el impacto social, económico y organizacional de la solución. Esto nos permitió tomar decisiones más realistas, viables y alineadas con las necesidades de los usuarios y el contexto del proyecto.
 </p>
-<p> - **AV2:** Como equipo en el AV2, basamos nuestras decisiones de diseño experimental, monitoreo y auditorías en juicios informados sobre cómo nuestra solución afectará operativa y económicamente a las empresas manufactureras, promoviendo la confiabilidad industrial.</p>
+<p> - AV2: Como equipo en el AV2, basamos nuestras decisiones de diseño experimental, monitoreo y auditorías en juicios informados sobre cómo nuestra solución afectará operativa y económicamente a las empresas manufactureras, promoviendo la confiabilidad industrial.</p>
+<p> - TB2: En esta entrega, evaluamos en conjunto el impacto de nuestra solución validada, concluyendo que nuestra plataforma posee la madurez técnica, ética y operativa para insertarse en el mercado, generando un impacto económico positivo y mejorando el entorno laboral (social) de sus usuarios finales.</p>
     </td>
   </tr>
 </table>
@@ -7305,11 +7357,94 @@ Error al intentar iniciar una orden de trabajo cuando no hay suficientes repuest
 
 #### 8.3.4.2. Registro de Entrevistas.
 
+<a id="section-84-experiment-aftermath-analysis"></a>
+
 ## 8.4. Experiment Aftermath & Analysis
+
+Esta sección presenta el análisis posterior a la ejecución y revisión de los experimentos realizados para la versión To-Be de Mecanaut. A diferencia de una evaluación centrada en una sola funcionalidad, el análisis considera los principales frentes de la plataforma: Landing Page, Frontend-Web Application, Native-Mobile Application y RESTful API / Backend. Esta corrección es importante porque el ciclo de experimentación no solo evaluó el flujo guiado de planes preventivos, sino también hallazgos de validación, auditoría UX y evidencias de implementación que afectaron la adopción, la conversión y la confiabilidad técnica del producto.
+
+El análisis se basa en los resultados del experimento **EC-01: Guided Maintenance Plan Creation**, los refinamientos registrados en las historias To-Be, los hallazgos de validación heurística y la priorización del To-Be Product Backlog. Los experimentos **EC-02: Work Order Execution Checklist** y **EC-03: Inventory Availability Warning** se mantienen como experimentos posteriores, debido a que el propio backlog los documenta como pendientes de ejecución para evitar contaminación de resultados con EC-01.
+
+<a id="section-841-analysis-and-interpretation-of-results"></a>
 
 ### 8.4.1. Analysis and Interpretation of Results
 
+El análisis posterior se organizó por alcance de producto para evitar que los resultados de una sola funcionalidad sean interpretados como evidencia suficiente para toda la plataforma. De esta forma, cada frente de Mecanaut se evaluó según su relación con las preguntas del experimento, las historias To-Be y las evidencias de validación.
+
+| Scope                                | Experiment / validation source                    | Main evidence                                                                                                                                                                                                                                       | Interpretation                                                                                                                                                                                                        | Decision                                                                                                                          |
+| ------------------------------------ | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend-Web Application             | EC-01: Guided Maintenance Plan Creation / US09-R  | Tasa de finalización de 74% en flujo guiado frente a 52% en control; reducción de errores de validación del 30%; incremento de tiempo de 8%, dentro del límite aceptable de 15%; satisfacción post-tarea de 4.2/5.                                  | El flujo guiado mejora la finalización de planes preventivos y reduce errores sin generar una carga operativa excesiva. La mejora es relevante porque la planificación preventiva es el núcleo funcional de Mecanaut. | Mantener el flujo guiado como dirección principal del módulo de planificación preventiva y pasar a product hardening.             |
+| Frontend-Web Application             | KPI Preview / US07-R                              | 68% de administradores consultaron la previsualización de KPIs durante el piloto; satisfacción de claridad de indicadores de 4.1/5; 82% de planes completados fueron agregados al calendario operativo.                                             | La previsualización de indicadores sí aporta valor durante la toma de decisiones. No debe tratarse como elemento decorativo, sino como apoyo para planificación basada en datos.                                      | Mantener la previsualización de KPIs y mejorar su integración con dashboard y calendario.                                         |
+| Frontend-Web Application / Analytics | Micro-survey post-task / US34-R                   | 91% de sesiones registraron `post_task_survey_submitted`; satisfacción promedio de 4.2/5 en variante guiada frente a 3.4/5 en control.                                                                                                              | La encuesta breve posterior a la tarea permitió obtener evidencia de percepción sin interrumpir el flujo. El resultado respalda el flujo guiado desde una perspectiva cuantitativa y cualitativa.                     | Mantener la micro-encuesta como instrumento de medición temporal durante siguientes iteraciones experimentales.                   |
+| Landing Page                         | Contact form validation / US33-R                  | Los entrevistados reportaron que la sección FAQ no reemplaza un canal directo para consultas comerciales o técnicas. El hallazgo proviene de la validación heurística con severidad 3.                                                              | La landing page tenía fricción de conversión: informaba el producto, pero no ofrecía un canal suficiente para resolver dudas específicas antes del registro.                                                          | Priorizar formulario de contacto en landing page y medir posteriormente tasa de envío, tasa de respuesta y conversión a registro. |
+| Frontend-Web Application             | Role-based account registration / US20-R          | 100% de entrevistados técnicos indicaron fricción al depender del administrador para crear su cuenta. El hallazgo se registró con severidad 4 por impacto directo en adopción inicial.                                                              | La ausencia de selección de rol en el registro limita la autonomía de técnicos y administradores. Esto afecta adopción, acceso inicial y percepción de control del usuario.                                           | Mantener el registro con selección explícita de rol Administrador / Técnico y vincularlo con permisos y vistas según perfil.      |
+| Native-Mobile Application            | Mobile UX remediation / US35-R and audit findings | La mejora parcial en app móvil incorporó valores predeterminados para reducir repetición. Los hallazgos de auditoría relacionados con sidebar con etiquetas, modales estandarizados, KPIs semafóricos y contraste WCAG fueron subsanados en código. | La experiencia móvil requiere reducir carga manual y mejorar consistencia visual. Las correcciones fortalecen accesibilidad, comprensión y eficiencia operativa para usuarios en campo.                               | Mantener las correcciones móviles y extender plantillas reutilizables al flujo web para administradores frecuentes.               |
+| RESTful API / Backend                | Backend confirmation and tracking events          | El flujo experimental vinculó eventos de frontend con confirmación backend para comprobar si el plan quedaba registrado y visible en calendario.                                                                                                    | La medición no debe quedarse en clicks o eventos de interfaz. Para Mecanaut, el éxito real ocurre cuando el backend confirma la persistencia del plan y el calendario lo refleja.                                     | Mantener eventos de confirmación backend y reforzar respuestas de API, validaciones y documentación OpenAPI.                      |
+| Work Order Execution                 | EC-02: Work Order Execution Checklist / US08-R    | Experimento documentado como pendiente de ejecución. Objetivo: alcanzar al menos 75% de reportes completos.                                                                                                                                         | La ejecución técnica todavía no tiene evidencia suficiente. No debe presentarse como resultado validado; debe priorizarse como siguiente experimento.                                                                 | Mantener como experimento posterior de alta prioridad.                                                                            |
+| Inventory Availability               | EC-03: Inventory Availability Warning / US11-R    | Experimento documentado como pendiente de ejecución. Objetivo: reducir al menos 20% la tasa de órdenes bloqueadas por inventario.                                                                                                                   | La integración entre inventario y órdenes es crítica, pero aún requiere una prueba controlada con datos de stock suficientes e insuficientes.                                                                         | Mantener como experimento posterior de alta prioridad después de EC-02.                                                           |
+
+A partir de esta lectura, el resultado más sólido sigue siendo EC-01, porque cuenta con comparación entre condición de control y condición experimental. Sin embargo, el análisis de Aftermath no debe limitarse a EC-01. Los hallazgos sobre contacto en landing page, registro con rol, micro-encuesta, KPI preview, mobile UX y confirmación backend también generan decisiones de producto, aunque provienen de validación heurística, auditoría UX, tracking plan o evidencias de implementación.
+
+El flujo guiado de creación de planes preventivos mostró una mejora clara frente al flujo de control. La tasa de finalización aumentó de 52% a 74%, superando el objetivo mínimo de mejora definido para el experimento. Asimismo, los errores de validación disminuyeron 30%, lo que indica que la estructura paso a paso ayudó a prevenir omisiones y configuraciones incompletas. El incremento de tiempo fue de 8%, inferior al límite aceptable de 15%, por lo que la mejora de precisión no sacrificó de manera significativa la eficiencia del usuario.
+
+La previsualización de KPIs también generó evidencia favorable. El hecho de que 68% de administradores la consultara durante el piloto indica que los indicadores no fueron ignorados. Además, la satisfacción de claridad de 4.1/5 muestra que los usuarios pudieron interpretar los datos presentados. Esto confirma que la visualización de métricas puede apoyar la toma de decisiones durante la planificación, siempre que se mantenga simple y directamente conectada al flujo operativo.
+
+La micro-encuesta post-tarea aportó una capa adicional de evidencia. La tasa de respuesta de 91% demuestra que el instrumento fue lo suficientemente liviano para no bloquear la navegación. Además, la diferencia entre satisfacción de variante guiada (4.2/5) y control (3.4/5) respalda la decisión de mantener el flujo guiado.
+
+En la landing page, el hallazgo principal no corresponde a una métrica A/B, sino a una validación heurística: la sección FAQ no era suficiente para resolver dudas específicas de usuarios interesados. Esto afecta la conversión porque el visitante puede entender la propuesta de valor, pero abandonar si no encuentra un canal directo de contacto. Por ello, la historia US33-R se priorizó como mejora de alto impacto para el sitio informativo.
+
+En el registro de usuarios, el hallazgo fue más crítico. El 100% de los entrevistados técnicos manifestó fricción al depender de un administrador para crear su cuenta. Este resultado valida la necesidad de incorporar selección de rol durante el registro y de relacionar ese dato con permisos y vistas. Este cambio no solo mejora la experiencia inicial, sino que reduce una barrera directa de adopción.
+
+En la experiencia móvil, los hallazgos apuntan a reducir carga repetitiva y mejorar consistencia. La incorporación parcial de valores predeterminados en mobile y las correcciones de auditoría —sidebar con etiquetas, modales estandarizados, KPIs semafóricos y contraste WCAG— permiten mejorar accesibilidad y claridad visual. No obstante, esta evidencia debe tratarse como validación UX y no como experimento estadístico.
+
+Finalmente, en el backend/API, el aprendizaje central es que la medición del éxito debe confirmar persistencia y consistencia de datos. Para Mecanaut, no basta con que el usuario complete un formulario; el plan debe quedar guardado correctamente, reflejarse en calendario y quedar disponible para el ciclo posterior de órdenes de trabajo. Por ello, los eventos de confirmación backend deben mantenerse en el tracking plan.
+
+#### Decision after the experiments
+
+Después del análisis, el equipo decide consolidar como cambios To-Be principales: el flujo guiado de planificación preventiva, la previsualización de KPIs, la micro-encuesta post-tarea, el registro con selección de rol, el formulario de contacto en landing page, las mejoras de accesibilidad móvil y los eventos de confirmación backend.
+
+El equipo no debe presentar EC-02 ni EC-03 como experimentos ya validados. Ambos quedan priorizados para el siguiente ciclo de experimentación, porque la evidencia actual todavía no permite afirmar que el checklist mejore reportes técnicos ni que la alerta de inventario reduzca bloqueos operativos. Esta distinción es relevante para mantener honestidad experimental y evitar conclusiones no sustentadas.
+
+#### Lessons learned
+
+El principal aprendizaje es que Mecanaut necesita ser evaluado como plataforma completa, no como una única pantalla. El flujo guiado mejora la planificación, pero la adopción también depende de la landing page, el registro, la experiencia móvil, las métricas visibles y la confirmación técnica del backend.
+
+El segundo aprendizaje es que no todas las evidencias tienen el mismo peso. EC-01 tiene mayor solidez porque compara una condición de control y una experimental. En cambio, las mejoras de landing page, registro y mobile provienen de validación heurística y auditoría, por lo que sirven para priorizar decisiones de diseño, pero no deben presentarse como prueba estadística.
+
+El tercer aprendizaje es que las métricas de producto deben combinar datos de interfaz, percepción del usuario y confirmación técnica. Si solo se miden clicks, se puede sobreestimar el éxito; si solo se mide backend, se puede ignorar la fricción de experiencia. Para Mecanaut, el aprendizaje útil surge cuando se conectan eventos de usuario, resultados operativos y calidad del dato persistido.
+
+<a id="section-842-re-scored-and-re-prioritized-question-backlog"></a>
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+Después de analizar la evidencia recolectada, el Question Backlog fue re-priorizado. La pregunta asociada a EC-01 reduce su riesgo porque ya existe evidencia favorable para el flujo guiado. En cambio, las preguntas sobre ejecución técnica, inventario, conversión en landing page y adopción por rol aumentan su relevancia porque representan los siguientes puntos de incertidumbre para la plataforma.
+
+Scoring scale:
+
+- Confidence: 1 = low confidence, 5 = high confidence.
+- Risk: 1 = low risk, 5 = high risk.
+- Impact: 1 = low impact, 5 = high impact.
+- Interest: 1 = low learning value, 5 = high learning value.
+- Priority Score = (6 - Confidence) + Risk + Impact + Interest.
+
+| Priority | Question ID     | Platform scope                      | Experiment-ready question                                                                                                        | Confidence | Risk | Impact | Interest | Score | Decision                                                    |
+| -------: | --------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------: | ---: | -----: | -------: | ----: | ----------------------------------------------------------- |
+|        1 | EC-02 / Q-03    | Work Order / Mobile-Web execution   | To what extent does a checklist improve technical report completeness without increasing closure time excessively?               |          2 |    5 |      5 |        4 |    18 | Prioritize as next controlled experiment.                   |
+|        2 | EC-03 / Q-04    | Inventory + Work Order + Backend    | To what extent does an inventory availability warning reduce work orders blocked by missing spare parts?                         |          2 |    5 |      5 |        4 |    18 | Prioritize after EC-02 with controlled stock scenarios.     |
+|        3 | Q-02            | Frontend-Web / Dashboard            | To what extent does KPI preview improve maintenance planning decisions and later dashboard usage?                                |          3 |    4 |      5 |        4 |    16 | Continue measuring in production-like sessions.             |
+|        4 | VAL-01 / US20-R | Frontend-Web / Access management    | To what extent does role-based registration reduce onboarding friction for technicians and administrators?                       |          4 |    4 |      5 |        3 |    14 | Move to implementation hardening and monitor adoption.      |
+|        5 | VAL-02 / US33-R | Landing Page                        | To what extent does a direct contact form improve visitor conversion from information interest to product trial or registration? |          3 |    3 |      4 |        4 |    14 | Implement and track conversion events.                      |
+|        6 | EC-01 / Q-01    | Frontend-Web / Backend confirmation | To what extent does guided maintenance plan creation improve correct task completion?                                            |          4 |    2 |      5 |        3 |    12 | Keep as accepted direction; harden implementation.          |
+|        7 | UX-01 / US35-R  | Native-Mobile + Frontend-Web        | To what extent do templates and default values reduce repetitive data entry during maintenance planning?                         |          3 |    3 |      4 |        3 |    13 | Keep as efficiency improvement; validate after EC-02/EC-03. |
+|        8 | Q-06            | Global / Accessibility              | To what extent does bilingual terminology reduce confusion in maintenance-related tasks?                                         |          2 |    3 |      3 |        3 |    13 | Keep as support experiment for internationalization.        |
+
+The re-prioritization shows that the next most important uncertainties are not the guided planning flow anymore. EC-01 already produced enough evidence to justify implementation hardening. The next risks are operational: whether technicians can close work orders with complete information and whether inventory warnings can prevent blocked maintenance activities.
+
+EC-02 becomes the highest-priority experiment because incomplete reports directly affect the quality of the maintenance history. Without complete reports, Mecanaut loses value as a source of operational knowledge. EC-03 receives the same score because inventory availability is a dependency for real maintenance execution; however, it should be executed after EC-02 so the team can avoid mixing reporting quality with material availability.
+
+Q-02 remains relevant because KPI preview obtained favorable early evidence, but it still needs longer-term observation to determine whether users continue using indicators during real planning cycles. VAL-01 and VAL-02 move toward implementation hardening because they come from strong validation findings: role-based registration affects adoption, and the landing page contact form affects conversion.
+
+As a result, the team decides to continue the experiment-driven lifecycle with two immediate experimental priorities: **Work Order Execution Checklist** and **Inventory Availability Warning**. At the same time, the already validated improvements from EC-01, landing page validation, account role selection, mobile remediation and backend confirmation events should be integrated into the To-Be platform as part of the release candidate.
 
 ## 8.5. Continuous Learning
 
@@ -7319,7 +7454,21 @@ Error al intentar iniciar una orden de trabajo cuando no hay suficientes repuest
 
 ### 8.6.1. About-the-Product Intro Video
 
-# Matriz de Evaluación Etica y de Impacto
+<a id="matriz-etica-impacto"></a>
+
+# Matriz de Evaluación Ética y de Impacto
+
+La presente matriz permite evaluar el impacto ético, profesional, social, económico, ambiental y global de Mecanaut como solución de ingeniería de software. Su propósito es evitar una visión meramente funcional del producto y demostrar que el equipo reconoce sus responsabilidades frente a los usuarios, las empresas, el entorno operativo y la sociedad.
+
+| Dimensión / Criterio a Evaluar                          | Identificación de riesgos e impactos positivos y negativos                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Evaluación del impacto                                                                                                                                                                                                                                                                                                       | Estrategias de mitigación y acciones de diseño                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Salud pública, seguridad y bienestar                 | Positivo: Mecanaut puede contribuir a mejorar la seguridad operativa al facilitar la planificación de mantenimiento preventivo, reduciendo la posibilidad de fallas inesperadas en máquinas industriales.<br><br>Negativo: Si una orden, plan o alerta de mantenimiento se registra de forma incorrecta, el usuario podría asumir que una máquina está correctamente atendida cuando todavía existe riesgo operativo. También puede existir sobreconfianza en la plataforma si los usuarios dejan de realizar verificaciones físicas. | Afectados: técnicos de mantenimiento, responsables de planta, operarios que usan equipos industriales y empresas que dependen de la continuidad operativa.<br><br>Magnitud: alta, porque los errores de mantenimiento pueden afectar seguridad laboral, continuidad de producción y confiabilidad de equipos.                | Diseñar validaciones obligatorias antes de confirmar planes de mantenimiento. Mostrar estados claros como pendiente, en proceso, completado y vencido. Incluir advertencias cuando falten datos críticos. Evitar que la plataforma sustituya inspecciones físicas obligatorias. Registrar trazabilidad de cambios para auditar quién creó, editó o cerró una actividad. |
+| 2. Inclusión y accesibilidad                            | Positivo: La solución puede facilitar el acceso a procesos de mantenimiento digital para empresas medianas que aún operan con hojas de cálculo o registros manuales.<br><br>Negativo: Usuarios con baja experiencia tecnológica, discapacidad visual, dificultades motrices o dispositivos de gama baja podrían tener problemas para usar la plataforma si la interfaz no es clara o si consume demasiados recursos.                                                                                                                  | Afectados: técnicos, supervisores y personal administrativo con distintos niveles de alfabetización digital. También usuarios con limitaciones visuales o que acceden desde equipos de bajo rendimiento.<br><br>Magnitud: media-alta, porque una mala experiencia puede excluir a usuarios clave del flujo de mantenimiento. | Aplicar criterios de accesibilidad en contraste, tamaño de texto, labels claros y navegación consistente. Usar atributos ARIA en la experiencia web. Mantener lenguaje simple y orientado al dominio. Optimizar rendimiento para equipos de gama media o baja. Validar la experiencia con usuarios representativos antes del lanzamiento.                               |
+| 3. Impacto social y cultural                            | Positivo: Mecanaut puede mejorar la organización del trabajo, reducir dependencia de conocimiento informal y facilitar colaboración entre responsables de mantenimiento.<br><br>Negativo: La digitalización puede generar resistencia en trabajadores acostumbrados a procesos manuales. También puede percibirse como una herramienta de control si la empresa usa los registros solo para fiscalizar al personal.                                                                                                                   | Afectados: técnicos de mantenimiento, jefes de planta, supervisores y equipos administrativos.<br><br>Magnitud: media, porque la herramienta puede modificar rutinas laborales y relaciones internas de responsabilidad.                                                                                                     | Presentar la plataforma como herramienta de soporte operativo, no como mecanismo punitivo. Incluir roles y permisos claros. Promover transparencia sobre qué datos se registran y para qué se usan. Diseñar reportes orientados a mejora de procesos y no únicamente a evaluación individual.                                                                           |
+| 4. Impacto económico                                    | Positivo: La solución puede reducir costos asociados a fallas no planificadas, tiempos muertos, duplicidad de registros, pérdida de información y mantenimiento reactivo.<br><br>Negativo: Empresas pequeñas o con bajo presupuesto podrían no adoptar la solución si el costo de implementación, capacitación o conectividad es alto. También existe riesgo económico si la empresa depende del sistema sin contar con procesos de respaldo.                                                                                         | Afectados: empresas industriales medianas, responsables de mantenimiento, áreas de operaciones y usuarios que deben dedicar tiempo a capacitación.<br><br>Magnitud: alta, porque el mantenimiento impacta directamente en productividad, costos operativos y continuidad del negocio.                                        | Proponer una adopción gradual por módulos. Mantener flujos simples para reducir tiempo de capacitación. Permitir exportación de información crítica. Diseñar planes escalables según tamaño de empresa. Priorizar funcionalidades de alto valor operativo antes de agregar características secundarias.                                                                 |
+| 5. Impacto ambiental                                    | Positivo: Al favorecer mantenimiento preventivo, Mecanaut puede extender la vida útil de equipos y reducir reemplazos prematuros, desperdicio de repuestos y consumo innecesario de recursos.<br><br>Negativo: El uso de infraestructura digital genera consumo energético. Además, una mala planificación podría producir actividades innecesarias o visitas técnicas repetidas.                                                                                                                                                     | Afectados: empresas usuarias, entorno urbano o industrial, proveedores de infraestructura tecnológica y medio ambiente.<br><br>Magnitud: media, porque el impacto ambiental es indirecto, pero relevante si la solución escala a varias empresas.                                                                            | Optimizar consultas y servicios backend para reducir consumo innecesario de recursos. Evitar recargas o peticiones excesivas. Diseñar alertas y reportes que ayuden a planificar mantenimiento solo cuando corresponda. Promover mantenimiento preventivo basado en datos para reducir desperdicio de piezas y equipos.                                                 |
+| 6. Enfoque global                                       | Positivo: Mecanaut puede adaptarse a empresas industriales de distintos países de Latinoamérica mediante internacionalización, lenguaje claro y procesos de mantenimiento comunes.<br><br>Negativo: La expansión a otros contextos puede generar problemas si no se consideran diferencias de idioma, normas laborales, requisitos de privacidad, formatos de fecha, unidades de medida o prácticas industriales locales.                                                                                                             | Afectados: usuarios de distintos países, empresas con operaciones regionales y equipos multiculturales.<br><br>Magnitud: media-alta, porque una solución global mal adaptada puede generar errores de interpretación y baja adopción.                                                                                        | Implementar internacionalización para inglés y español latinoamericano. Usar formatos regionales configurables. Evitar textos ambiguos. Diseñar arquitectura preparada para adaptación normativa. Considerar privacidad y protección de datos desde el diseño.                                                                                                          |
+| 7. Revelación de peligros y responsabilidad profesional | Riesgo: Si se identifica una vulnerabilidad, pérdida de datos, exposición de información industrial o error crítico en el registro de mantenimiento, ocultarlo para proteger la imagen del proyecto sería una falta ética.<br><br>Positivo: Un proceso responsable de comunicación y corrección fortalece la confianza en el producto.                                                                                                                                                                                                | Afectados: empresas usuarias, técnicos, administradores, equipo de desarrollo y stakeholders académicos o profesionales.<br><br>Magnitud: alta, porque los datos de mantenimiento pueden ser sensibles y un error crítico puede afectar operaciones reales.                                                                  | Documentar riesgos conocidos. Reportar fallas críticas al equipo y responsables correspondientes. Priorizar correcciones de seguridad y consistencia de datos antes que funcionalidades nuevas. Mantener control de versiones, revisiones y evidencias de corrección. Asumir responsabilidad por los artefactos entregados y por las decisiones técnicas tomadas.       |
 
 <div style="page-break-after: always;"></div>
 
@@ -7385,3 +7534,23 @@ Para acceder a los diferentes recursos del proyecto, puedes visitar los siguient
 - Video About The product:
 - https://youtu.be/cW31cmfSuA8
 - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/EQZYuCOUrwROqPTL4T3q65kBQR6OupO11aRn8NsnEDmTSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pzeLdc
+
+<a id="anexo-f-matriz-etica-impacto"></a>
+
+## Anexo F. Matriz de Evaluación Ética y de Impacto
+
+La matriz de evaluación ética y de impacto se incorpora como evidencia complementaria del Student Outcome 4. Esta matriz demuestra que el equipo no evaluó Mecanaut únicamente como una solución funcional, sino también como una intervención de ingeniería de software con efectos sobre usuarios, organizaciones, economía, ambiente y contextos globales.
+
+El análisis permite reconocer riesgos, impactos positivos, impactos negativos, usuarios afectados y acciones de mitigación. Asimismo, permite sustentar que las decisiones tomadas durante el ciclo de vida del proyecto consideran responsabilidad ética y profesional.
+
+| Dimensión / Criterio a Evaluar           | Riesgos e impactos identificados                                                                                                                                                                                 | Afectados y magnitud                                                                                                                    | Acciones de mitigación                                                                                                                      |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Salud pública, seguridad y bienestar     | La plataforma puede mejorar la seguridad operativa mediante mantenimiento preventivo. Sin embargo, un registro incorrecto podría generar falsa confianza sobre el estado de una máquina.                         | Técnicos, operarios, supervisores y empresas industriales. Magnitud alta por su relación con continuidad operativa y seguridad laboral. | Validaciones obligatorias, trazabilidad de cambios, estados visibles de mantenimiento y advertencias ante información incompleta.           |
+| Inclusión y accesibilidad                | La digitalización puede facilitar procesos, pero también excluir a usuarios con poca experiencia tecnológica, discapacidad visual o equipos limitados.                                                           | Técnicos, supervisores y personal administrativo con distintos niveles de alfabetización digital. Magnitud media-alta.                  | Diseño accesible, atributos ARIA, contraste adecuado, lenguaje simple, rendimiento optimizado y validación con usuarios representativos.    |
+| Impacto social y cultural                | La solución puede ordenar el trabajo colaborativo, pero también generar resistencia o percibirse como herramienta de vigilancia laboral.                                                                         | Equipos de mantenimiento, jefes de planta y personal administrativo. Magnitud media.                                                    | Comunicación transparente sobre uso de datos, roles claros, reportes orientados a mejora de procesos y no a sanción individual.             |
+| Impacto económico                        | Puede reducir costos por fallas, tiempos muertos y registros duplicados. El riesgo es que empresas pequeñas no puedan asumir implementación o capacitación.                                                      | Empresas industriales medianas, áreas de mantenimiento y operaciones. Magnitud alta.                                                    | Adopción gradual, módulos escalables, capacitación simple, exportación de datos y priorización de funcionalidades con valor operativo.      |
+| Impacto ambiental                        | El mantenimiento preventivo puede extender la vida útil de equipos y reducir desperdicios. El riesgo está en el consumo energético de infraestructura digital y actividades innecesarias por mala planificación. | Empresas, entorno industrial y medio ambiente. Magnitud media.                                                                          | Optimización backend, reducción de peticiones innecesarias, reportes útiles y planificación preventiva basada en información confiable.     |
+| Enfoque global                           | La solución puede escalar a empresas de Latinoamérica, pero debe adaptarse a idioma, formatos, unidades y normas locales.                                                                                        | Empresas con operaciones regionales y usuarios de distintos países. Magnitud media-alta.                                                | Internacionalización, formatos configurables, protección de datos, textos claros y arquitectura preparada para adaptación normativa.        |
+| Revelación de peligros y responsabilidad | Ocultar vulnerabilidades, pérdida de datos o errores críticos sería una falta ética y profesional.                                                                                                               | Usuarios, empresas, stakeholders y equipo de desarrollo. Magnitud alta.                                                                 | Reportar riesgos, documentar fallas, priorizar correcciones críticas, mantener evidencias y asumir responsabilidad por decisiones técnicas. |
+
+Como conclusión del Anexo F, Mecanaut presenta impactos potencialmente positivos en productividad, trazabilidad, seguridad operativa y sostenibilidad del mantenimiento. Sin embargo, estos beneficios dependen de una implementación responsable. Por ello, el equipo debe mantener prácticas de validación, accesibilidad, seguridad, documentación y mejora continua durante las siguientes iteraciones del producto.
