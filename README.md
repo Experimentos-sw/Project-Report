@@ -6881,7 +6881,34 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 #### 8.3.3.6. Team Collaboration Insights
 
- 
+Durante el sprint To-Be, la implementación se organizó por historias de usuario refinadas en el To-Be Product Backlog (8.3.2), abriendo una rama `feature/` por historia (por ejemplo `feature/US09-R`, `feature/US20-R`, `feature/US35-R`) tanto en el repositorio de la aplicación web como en el de la aplicación móvil, siguiendo el mismo modelo GitFlow descrito al inicio del informe (Github Collaboration Insights). En paralelo, la documentación del ciclo experimental y de aprendizaje continuo (Capítulo VIII completo) se trabajó en ramas dedicadas dentro del repositorio `Project-Report`, como `feature/sprint-to-be`, `feature/about-product-continuous-learning` y su iteración `-v2`.
+
+A continuación se presentan los analíticos de colaboración de GitHub obtenidos para los tres repositorios con actividad directa de código durante este sprint, junto con la interpretación del equipo.
+
+**Project-Report — Documentación del ciclo To-Be**
+
+<img src="img/sprint-4-insights/report-contribution.png" width="650px" alt="Contributors Project-Report">
+<img src="img/sprint-4-insights/report-network.png" width="650px" alt="Network graph Project-Report">
+
+El repositorio del informe concentró la actividad más distribuida del sprint: se registran 5 contribuyentes distintos en la rama `develop` durante el último mes (Cl4us-tb con 8 commits, Sigilo-dev con 6, RicardoCardenas con 5, Maur1xio con 4 y arii4w con 2), además de las ramas `feature/docs-version` y `feature/sprint-to-be` fusionadas antes de las ramas de Continuous Learning. Esto confirma que la redacción del Capítulo VIII no fue responsabilidad de una sola persona, sino un trabajo iterativo con múltiples fusiones a `develop` en semanas consecutivas, consistente con que cada integrante documentó la sección del ciclo experimental que lideró (Experiment Design, Aftermath & Analysis, Continuous Learning, entre otras).
+
+**Web Application (mecanaut-frontend)**
+
+<img src="img/sprint-4-insights/web-contribution.png" width="650px" alt="Contributors Web Application">
+<img src="img/sprint-4-insights/web-network.png" width="650px" alt="Network graph Web Application">
+
+En la aplicación web, el network graph muestra tres historias del To-Be Backlog integradas a `main` durante el sprint: `feature/US20-R` (registro con selección de rol), `feature/US35-R` (plantillas reutilizables) y `feature/US11-R` (alerta de inventario), además de una rama `feature/metricas` para el tracking de EC-01. En la ventana de últimos 3 meses, RicardoCardenas concentra 7 commits (2227 líneas añadidas, 447 eliminadas) y arii4w 1 commit (46 líneas añadidas), lo que indica que el grueso de la integración de estas historias al frontend web recayó en un desarrollador líder por módulo, con revisión y ajustes puntuales de un segundo integrante antes del merge a `main`.
+
+**Native-Mobile Application (Flutter)**
+
+<img src="img/sprint-4-insights/mobie-contribution.png" width="650px" alt="Contributors Native-Mobile Application">
+<img src="img/sprint-4-insights/mobile-network.png" width="650px" alt="Network graph Native-Mobile Application">
+
+El network graph de la aplicación móvil muestra un alcance más amplio de historias fusionadas a `main` en semanas previas del sprint: `feature/US09-R`, `feature/US34-R`, `feature/US08-R`, `feature/US20-R`, `feature/US35-R` y `feature/metricas`. Sin embargo, el gráfico de contribuyentes filtrado al último mes solo refleja 1 commit de RicardoCardenas (84 líneas añadidas, 1 eliminada), porque la ventana de tiempo seleccionada (`Last month`) no cubre las semanas en que se fusionaron la mayoría de esas ramas. Esto evidencia una limitación del filtro de fecha de GitHub Insights más que una falta de actividad real: el grueso del trabajo móvil de este sprint ocurrió antes del corte de la vista, y el commit visible corresponde únicamente al cierre o ajuste final del ciclo.
+
+**Interpretación general del equipo**
+
+Los tres repositorios muestran un patrón consistente con la naturaleza del sprint To-Be: las historias priorizadas por evidencia (EC-01, validación heurística 6.3.3 y auditoría UX 6.4.2) se implementaron en ramas independientes por historia de usuario, reduciendo el riesgo de mezclar cambios no relacionados antes de llegar a `main` o `develop`. La concentración de commits de código en pocos integrantes por repositorio no significa que el resto del equipo no participó en el sprint: como se documenta en el Student Outcome y en las secciones 8.1 a 8.5, el trabajo de diseño experimental, validación heurística, tracking plan, auditoría UX y redacción del aprendizaje continuo fue liderado por integrantes distintos a quienes concentraron la integración de código, y ese trabajo no siempre se refleja como commits en estos tres repositorios. El equipo reconoce esta distribución como una oportunidad de mejora para el siguiente ciclo: fomentar que más integrantes realicen commits directos sobre `mecanaut-frontend` y la aplicación móvil, en lugar de concentrar la integración final en un solo desarrollador por producto.
 
 ### 8.3.4. To-Be Validation Interviews
 
