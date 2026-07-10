@@ -7450,9 +7450,44 @@ As a result, the team decides to continue the experiment-driven lifecycle with t
 
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
+Tras consolidar los resultados de la sección 8.4.1, el equipo realizó una sesión de Shareback: una reunión donde se comparten los hallazgos del experimento y de las validaciones con todo el equipo, y se toma, por cada hipótesis o hallazgo, una decisión explícita de **Persevere** (continuar sin cambios de enfoque), **Pivot** (cambiar el enfoque manteniendo la dirección) o **Kill** (descartar la idea). Esta sesión cierra el ciclo de aprendizaje continuo y alimenta directamente al Question Backlog re-priorizado (8.4.2).
+
+<table>
+  <tr><td><strong>Sesión</strong></td><td>Shareback Session — Ciclo Experimental EC-01 / Validación TB2</td></tr>
+  <tr><td><strong>Date</strong></td><td>2026-06-18</td></tr>
+  <tr><td><strong>Time</strong></td><td>08:00 PM</td></tr>
+  <tr><td><strong>Location</strong></td><td>Reunión virtual vía Discord</td></tr>
+  <tr><td><strong>Prepared By</strong></td><td>Elera Rodríguez, Mauricio Daniel</td></tr>
+  <tr><td><strong>Attendees</strong></td><td>Agreda Sobrino, Ariana Cecilia / Belledonne Espinoza, Claudia Valeria / Cardenas Minaya, Ricardo Fernando / Elera Rodríguez, Mauricio Daniel / Oblitas Davila, Mariano Moises</td></tr>
+  <tr><td><strong>Agenda</strong></td><td>1) Repaso de los resultados de EC-01 y de las métricas de negocio asociadas (8.4.1). 2) Discusión abierta de hallazgos de validación heurística (6.3.3) y auditoría UX recibida (6.4.2). 3) Decisión Persevere/Pivot/Kill por hipótesis y hallazgo. 4) Traslado de conclusiones al Question Backlog re-priorizado (8.4.2) y al To-Be Product Backlog (8.3.2).</td></tr>
+</table>
+
+**Decisiones tomadas**
+
+| Hipótesis / Métrica | Resultado observado | Decisión | Justificación |
+|---|---|---|---|
+| EC-01 — Flujo guiado de creación de planes preventivos (US09-R) | Tasa de finalización de 74% en flujo guiado vs. 52% en control (meta: +20 pp); errores de validación −30% (meta: −25%); tiempo de creación +8% (límite aceptable: +15%); satisfacción post-tarea 4.2/5. | **Persevere** | Se cumplieron o superaron los cuatro criterios de decisión definidos en 8.2.5. El flujo guiado se mantiene sin cambios de enfoque y pasa a product hardening como release candidate. |
+| Previsualización de KPIs durante la creación del plan (US07-R / Q-02) | 68% de administradores consultó la previsualización; satisfacción de claridad 4.1/5; 82% de planes completados fueron agregados al calendario operativo (meta: 80%). | **Persevere, con Pivot en integración** | Los indicadores demostraron ser usados y no decorativos (Persevere). Sin embargo, para que aporten valor sostenido en ciclos de planificación reales, se pivota hacia una integración más profunda con el dashboard y el calendario operativo, en lugar de mantenerlos como una vista aislada dentro del wizard. |
+| Micro-encuesta post-tarea de planificación (US34-R) | Tasa de respuesta de 91%; satisfacción promedio de 4.2/5 en variante guiada frente a 3.4/5 en control. | **Persevere** | El instrumento fue lo suficientemente liviano para no interrumpir el flujo y aportó evidencia cualitativa consistente con la evidencia cuantitativa del backend. Se mantiene como mecanismo de medición para los siguientes experimentos (EC-02, EC-03). |
+| Registro de cuenta con selección de rol (US20-R / VAL-01) | 100% de los entrevistados técnicos manifestó fricción al depender de un administrador para crear su cuenta (severidad 4 en validación heurística 6.3.3). | **Pivot** | El diseño original de registro único administrado no resuelve la necesidad de autonomía de técnicos y administradores. Se pivota hacia un registro con selección explícita de rol, vinculado a permisos y vistas diferenciadas, priorizado como Alta en el To-Be Backlog. |
+| Formulario de contacto en landing page (US33-R / VAL-02) | Los entrevistados reportaron que la sección FAQ no sustituye un canal directo para consultas comerciales o técnicas (severidad 3 en validación heurística 6.3.3). | **Pivot** | La landing page dependía únicamente de contenido estático de autoservicio. Se pivota incorporando un canal de contacto directo para reducir la fricción de conversión de visitante interesado a registro. |
+| Mejoras de accesibilidad y consistencia móvil (US35-R + hallazgos de auditoría UX 6.4.2) | Seis hallazgos de severidad 2 a 4 (navegación solo por iconos, bajo contraste, modales inconsistentes, tarjetas de KPI sin contexto, entre otros) ya subsanados en la base de código (Vue.js y Flutter). | **Persevere** | Las correcciones ya están implementadas y verificadas en código. Se mantiene el resultado y se decide extender la lógica de plantillas/valores predeterminados también al flujo web de planificación (US35-R). |
+| Eventos de confirmación backend (Tracking Plan, 8.2.8) | El cruce entre eventos de frontend y confirmación backend (`plan_persisted`, `plan_added_to_calendar`) permitió comprobar que el plan quedaba realmente registrado y visible en calendario, y no solo completado visualmente. | **Persevere** | La medición de éxito de Mecanaut debe basarse en persistencia real de datos, no en interacción visual. Se mantiene y se refuerza en la documentación OpenAPI del backend para el release candidate. |
+| EC-02 — Work Order Execution Checklist (US08-R) y EC-03 — Inventory Availability Warning (US11-R) | Experimentos aún no ejecutados; quedaron documentados como pendientes con objetivos definidos (≥75% de reportes completos; −20% de órdenes bloqueadas por inventario). | **Diferir** | Ejecutarlos junto con EC-01 podría contaminar los resultados por compartir el módulo de órdenes de trabajo. Se priorizan como el siguiente ciclo experimental, con scores de 18 en el Question Backlog re-priorizado (8.4.2). |
+
+**Aprendizaje principal de la sesión:** Ninguna hipótesis fue descartada (Kill) en este ciclo. El experimento con mayor solidez estadística, EC-01, se perseveró sin cambios de enfoque porque cumplió sus cuatro criterios de decisión. Sin embargo, los hallazgos cualitativos de validación heurística y de auditoría UX demostraron que la adopción real de Mecanaut no depende únicamente del flujo de planificación: también depende de cómo se registra el usuario, de si existe un canal de contacto antes del registro, y de si el backend confirma la persistencia real de los datos. Por ello, el equipo decide perseverar en el núcleo experimental ya validado (flujo guiado, micro-encuesta, confirmación backend, correcciones móviles), pivotar en tres frentes con evidencia crítica (registro por rol, contacto en landing page, integración de KPIs con calendario) y diferir la ejecución de EC-02 y EC-03 al siguiente ciclo de experimentación, tal como quedó reflejado en el Question Backlog re-priorizado (8.4.2).
+
 ## 8.6. To-Be Software Platform Pre-launch
 
+Antes del lanzamiento de la versión To-Be de Mecanaut, el equipo consolidó los cambios validados durante el ciclo de experimentación (8.3 y 8.4) en una plataforma lista para presentarse a usuarios finales y stakeholders. Esta etapa de pre-lanzamiento no introduce nuevas hipótesis; su objetivo es comunicar de forma clara el valor ya evidenciado del producto: el flujo guiado de planificación preventiva, la previsualización de KPIs, el registro con selección de rol, el canal de contacto en la landing page y las mejoras de accesibilidad móvil.
+
 ### 8.6.1. About-the-Product Intro Video
+
+El video de introducción de Mecanaut es la pieza central de nuestra estrategia de prelanzamiento. Tiene como objetivo
+comunicar la propuesta de valor de forma directa y visual, conectando con las frustraciones operativas de nuestro público
+objetivo y demostrando lo fácil que es migrar hacia nuestra solución digital.
+
+link: https://drive.google.com/file/d/1YM4dKqLnE9AcmgQqUVko787NPB8t5VVa/view?usp=sharing
 
 <a id="matriz-etica-impacto"></a>
 
