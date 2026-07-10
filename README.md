@@ -7753,6 +7753,7 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 *Segmento objetivo: Técnicos de mantenimiento*
 
 *US08-R Validación de revisión de stock antes de ejecutar una orden*
+
 *Preguntas a evaluar:*
 
 * ¿Qué tan seguido te ocurre que inicias una orden de trabajo y tienes que detenerla a mitad de camino porque falta un repuesto?
