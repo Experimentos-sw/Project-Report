@@ -6881,6 +6881,8 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 #### 8.3.3.6. Team Collaboration Insights
 
+ 
+
 ### 8.3.4. To-Be Validation Interviews
 
 #### 8.3.4.1. Diseño de Entrevistas.
@@ -7019,7 +7021,7 @@ El video de introducción de Mecanaut es la pieza central de nuestra estrategia 
 comunicar la propuesta de valor de forma directa y visual, conectando con las frustraciones operativas de nuestro público
 objetivo y demostrando lo fácil que es migrar hacia nuestra solución digital.
 
-link: https://drive.google.com/file/d/1KtAzhoi_7EcgkQR__VLwiZWRmSIAj4je/view?usp=sharing
+link: https://www.youtube.com/watch?v=vuPohHzHz_g
 
 <a id="matriz-etica-impacto"></a>
 
