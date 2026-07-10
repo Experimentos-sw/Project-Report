@@ -388,11 +388,7 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
     - [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
     - [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
     - [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-según-heurísticas)
-    - [Escala de severidad](#escala-de-severidad)
     - [Tabla resumen](#tabla-resumen)
-    - [Descripción de problemas](#descripción-de-problemas)
-      - [**PROBLEMA #1:** Ausencia de canal directo para contacto en la landing page](#problema-1-ausencia-de-canal-directo-para-contacto-en-la-landing-page)
-      - [**PROBLEMA #2:** El registro de cuenta está limitado a administradores](#problema-2-el-registro-de-cuenta-está-limitado-a-administradores)
   - [6.4. Auditoría de Experiencias de Usuario.](#64-auditoría-de-experiencias-de-usuario)
     - [6.4.1. Auditoría realizada.](#641-auditoría-realizada)
       - [6.4.1.1. Información del grupo auditado.](#6411-información-del-grupo-auditado)
@@ -457,26 +453,26 @@ Los siguientes gráficos muestran analíticos en cuanto a los commits que cada i
       - [Tracking Quality Criteria](#tracking-quality-criteria)
   - [8.3. Experimentation](#83-experimentation)
     - [8.3.1. To-Be User Stories.](#831-to-be-user-stories)
+      - [Refined User Stories Post-Experiment](#refined-user-stories-post-experiment)
     - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
-  - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
-    - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
-    - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
-    - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
-    - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
-    - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
-    - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
-  - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
-    - [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas)
-    - [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas)
-  - [8.4. Experiment Aftermath & Analysis](#section-84-experiment-aftermath-analysis)
-    - [8.4.1. Analysis and Interpretation of Results](#section-841-analysis-and-interpretation-of-results)
-    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#section-842-re-scored-and-re-prioritized-question-backlog)
+    - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+      - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+      - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+      - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+      - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+      - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+      - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
+    - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
+      - [8.3.4.1. Diseño de Entrevistas.](#8341-diseño-de-entrevistas)
+      - [8.3.4.2. Registro de Entrevistas.](#8342-registro-de-entrevistas)
+  - [8.4. Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
+    - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
+    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
   - [8.5. Continuous Learning](#85-continuous-learning)
     - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
   - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
     - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
-- [Matriz de Evaluación Ética y de Impacto](#matriz-etica-impacto)
-
+- [Matriz de Evaluación Etica y de Impacto](#matriz-de-evaluación-etica-y-de-impacto)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -7045,15 +7041,313 @@ A continuación se presenta el backlog de producto To-Be correspondiente a Mecan
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
+Esta sección documenta la implementación de las mejoras definidas en el To-Be Product Backlog. Para lograrlo, el equipo consolidó el esfuerzo de desarrollo en un Sprint final (Sprint de Release), apoyándose en prácticas ágiles y entrega continua. De esta manera, se logró programar y publicar exitosamente todas las nuevas funcionalidades. Como resultado, la plataforma no solo integra las optimizaciones validadas durante el primer piloto (EC-01), sino que ya cuenta con las herramientas operativas listas para ejecutar los experimentos posteriores (EC-02 y EC-03).
+
 #### 8.3.3.1. To-Be Sprint Backlogs
+
+<table>
+  <tr>
+    <th colspan="2">Sprint #</th>
+    <th colspan="6">Sprint To-Be 1 (Release Final & Proyectado)</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+    
+  <tr>
+    <th rowspan="3">US09-R</th>
+    <th rowspan="3">Flujo guiado para creación de planes preventivos</th>
+    <td>1</td>
+    <td align="justify">Maquetar wizard en web (Vue 3)</td>
+    <td align="justify">Implementar la interfaz del flujo secuencial de 5 pasos en el portal web con validación progresiva.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td align="justify">Desarrollar flujo en móvil (Flutter)</td>
+    <td align="justify">Crear la experiencia equivalente del wizard paso a paso adaptada a la vista móvil para técnicos/supervisores.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td align="justify">Conectar clientes con backend</td>
+    <td align="justify">Integrar ambas plataformas con el endpoint POST en .NET para registrar el plan correctamente.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US20-R</th>
+    <th rowspan="3">Registro de cuenta con selección de rol</th>
+    <td>4</td>
+    <td align="justify">Agregar selector de rol en UI</td>
+    <td align="justify">Añadir un selector de rol (Administrador/Técnico) en el formulario de registro.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td align="justify">Adaptar endpoint de registro</td>
+    <td align="justify">Actualizar la API POST para recibir y asignar el nuevo rol en la base de datos.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td align="justify">Implementar redirección por rol</td>
+    <td align="justify">Configurar el ruteo en el frontend para redirigir según el rol del usuario tras el login.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US07-R</th>
+    <th rowspan="3">Previsualización de KPIs durante la creación del plan</th>
+    <td>7</td>
+    <td align="justify">Crear componente semafórico (Vue 3)</td>
+    <td align="justify">Desarrollar componente visual en el frontend web para mostrar estimaciones de MTBF y MTTR.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td align="justify">Crear widget de métricas (Flutter)</td>
+    <td align="justify">Diseñar el widget correspondiente en la app móvil para visualizar el impacto de los KPIs en tiempo real.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td align="justify">Integrar lógica asíncrona multiplataforma</td>
+    <td align="justify">Implementar debounce y consumo de la API de estimación desde ambos clientes durante la planificación.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US33-R</th>
+    <th rowspan="3">Formulario de contacto en landing page</th>
+    <td>10</td>
+    <td align="justify">Diseñar UI del formulario de contacto</td>
+    <td align="justify">Maquetar formulario de contacto responsivo con campos de nombre, correo y mensaje.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td align="justify">Implementar servicio de envío</td>
+    <td align="justify">Configurar servicio backend para procesar el envío de correos al equipo comercial.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td align="justify">Configurar feedback visual</td>
+    <td align="justify">Implementar feedback visual (loading, éxito, error) tras el envío del formulario.</td>
+    <td>2 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US34-R</th>
+    <th rowspan="3">Micro-encuesta post-tarea de planificación</th>
+    <td>13</td>
+    <td align="justify">Diseñar modal de encuesta (Vue 3)</td>
+    <td align="justify">Crear modal no intrusivo con escala Likert (1-5) para medir satisfacción en el portal web.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td align="justify">Implementar bottom-sheet (Flutter)</td>
+    <td align="justify">Desarrollar un panel inferior deslizable en la app móvil para recolectar el feedback del usuario.</td>
+    <td>2 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td align="justify">Conectar triggers al endpoint de métricas</td>
+    <td align="justify">Configurar eventos en ambas apps para lanzar la encuesta y guardar los resultados en la API .NET.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US08-R</th>
+    <th rowspan="3">Lista de verificación en cierre de órdenes de trabajo</th>
+    <td>16</td>
+    <td align="justify">Desarrollar checklist web (Vue 3)</td>
+    <td align="justify">Integrar la lista de verificación obligatoria en la vista de ejecución técnica del portal web.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td align="justify">Desarrollar checklist móvil (Flutter)</td>
+    <td align="justify">Integrar los checkboxes para tareas, repuestos y observaciones en la interfaz móvil.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td align="justify">Bloquear cierre y validar payload</td>
+    <td align="justify">Implementar bloqueo de botón en ambos frontends si faltan campos y asegurar validación estricta en el backend.</td>
+    <td>3 hr</td>
+    <td>Ariana Agreda</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US11-R</th>
+    <th rowspan="3">Alerta de inventario antes de ejecutar una orden</th>
+    <td>19</td>
+    <td align="justify">Crear endpoint de verificación de stock</td>
+    <td align="justify">Crear API GET para consultar stock en tiempo real de repuestos asignados.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td align="justify">Implementar alerta en frontend</td>
+    <td align="justify">Diseñar alerta visual en Vue mostrando stock requerido vs. disponible.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td align="justify">Integrar bloqueo preventivo en ejecución</td>
+    <td align="justify">Interceptar inicio de orden para validar stock y lanzar alerta en caso de faltantes.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">US35-R</th>
+    <th rowspan="3">Plantillas reutilizables para planes de mantenimiento</th>
+    <td>22</td>
+    <td align="justify">Adaptar modelo BD para plantillas</td>
+    <td align="justify">Añadir flag en base de datos para marcar un plan como plantilla reutilizable.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td align="justify">Crear API para listar plantillas</td>
+    <td align="justify">Crear endpoint GET para listar solo los planes guardados como plantillas.</td>
+    <td>3 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td align="justify">Implementar autocompletado en UI</td>
+    <td align="justify">Implementar autocompletado en el wizard al seleccionar una plantilla existente.</td>
+    <td>4 hr</td>
+    <td>Ricardo Cardenas</td>
+    <td>Done</td>
+  </tr>
+
+</table>
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
+Apartado de Contacto para recibir consultas o preguntas de los usuarios interesados<br>
+<img src="img/sprint-to-be/US33-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US33-R2.png" width="500px"><br>
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+Flujo guiado para creación de planes preventivos<br>
+<img src="img/sprint-to-be/US09-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R2.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R3.png" width="500px"><br>
+<img src="img/sprint-to-be/US09-R4.png" width="500px"><br>
+Previsualización de KPIs durante la creación del plan <br>
+<img src="img/sprint-to-be/US07-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US07-R2.png" width="500px"><br>
+Micro-encuesta post-tarea de planificación <br>
+<img src="img/sprint-to-be/US34-R1.png" width="500px"><br>
+Lista de verificación en cierre de órdenes de trabajo<br>
+<img src="img/sprint-to-be/US08-R1.png" width="500px"><br>
+<img src="img/sprint-to-be/US08-R2.png" width="500px"><br>
+Implementacion de plantillas para planes de mantenimiento<br>
+<img src="img/sprint-to-be/US35-R1-front.png" width="500px"><br>
+<img src="img/sprint-to-be/US35-R2-front.png" width="500px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R1-front.png" width="500px"><br>
+<img src="img/sprint-to-be/US20-R2-front.png" width="500px"><br>
+Mensaje de error al intentar iniciar una orden de trabajo cuando no hay suficientes repuestos
+<img src="img/sprint-to-be/US11-R2-front.jpg" width="500px"><br>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
+Flujo guiado para creación de planes preventivos<br>
+<img src="img/sprint-to-be/US09-R1-mobile.png" width="200px"><br>
+Previsualización de KPIs durante la creación del plan <br>
+<img src="img/sprint-to-be/US07-R1-mobile.png" width="200px"><br>
+Micro-encuesta post-tarea de planificación <br>
+<img src="img/sprint-to-be/US34-R1-mobile.png" width="200px"><br>
+Lista de verificación en cierre de órdenes de trabajo<br>
+<img src="img/sprint-to-be/US08-R1-mobile.png" width="200px"><br>
+<img src="img/sprint-to-be/US08-R2-mobile.png" width="200px"><br>
+<img src="img/sprint-to-be/US08-R3-mobile.png" width="200px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R-mobile.png" width="500px"><br>
+
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+Recepción de la configuración de los 5 pasos del wizard en el flujo de creación de un plan de mantenimiento<br>
+<img src="img/sprint-to-be/US09-R1-back.png" width="500px"><br>
+Llamado de KPIs basados en los parámetros de un plan de mantenimiento<br>
+<img src="img/sprint-to-be/US07-R1-back.png" width="500px"><br>
+Envio de microencuesta post-tarea de planificación<br>
+<img src="img/sprint-to-be/US34-R1-back.png" width="500px"><br>
+Generación de orden de trabajo y cierre de esta misma con su validación<br>
+<img src="img/sprint-to-be/US08-R1-back.png" width="500px"><br>
+<img src="img/sprint-to-be/US08-R2-back.png" width="500px"><br>
+Implementacion de plantillas para planes de mantenimiento<br>
+<img src="img/sprint-to-be/US35-R1-back.png" width="500px"><br>
+<img src="img/sprint-to-be/US35-R2-back.png" width="500px"><br>
+Almacenamiento de las consultas y preguntas realizadas por los usuarios en el landing page<br>
+<img src="img/sprint-to-be/US33-R1-back.png" width="500px"><br>
+Apartado para ingresar Rol al momento de crear un usuario<br>
+<img src="img/sprint-to-be/US20-R1-back.png" width="500px"><br>
+Error al intentar iniciar una orden de trabajo cuando no hay suficientes repuestos
+<img src="img/sprint-to-be/US11-R-back.png" width="500px"><br>
 
 #### 8.3.3.6. Team Collaboration Insights
 
@@ -7224,9 +7518,18 @@ McKinsey & Company. (2021). Innovación a través de la disrupción digital en s
 
 Para acceder a los diferentes recursos del proyecto, puedes visitar los siguientes enlaces:
 
-- Landing Page desplegado del proyecto: [https://mecanaut-landing-page.vercel.app/](https://mecanaut-landing-page.vercel.app/)
-- Repositorio de la Landing Page: [https://github.com/Experimentos-sw/mecanaut-landing-page](https://github.com/Experimentos-sw/mecanaut-landing-page)
 - Documentación del Proyecto: [https://github.com/Experimentos-sw/Project-Report](https://github.com/Experimentos-sw/Project-Report)
+- Landing Page Repositorio: https://github.com/Experimentos-sw/mecanaut-landing-page
+- Landing Page Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-landing-page
+- Landing Page desplegado del proyecto: https://mecanaut-landing-page.vercel.app/
+- Frontend Repositorio: https://github.com/Experimentos-sw/mecanaut-frontend
+- Frontend Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-frontend
+- Frontend desplegado del proyecto: https://mecanaut-front.vercel.app/login
+- Mobile Repositorio: https://github.com/Experimentos-sw/mecanaut-mobile
+- Mobile Repositorio de Experimentos: https://github.com/Experimentos-sw/experiment-mecanaut-mobile
+- Mobile desplegado del proyecto: https://github.com/Experimentos-sw/experiment-mecanaut-backend
+- Backend Repositorio: https://github.com/Experimentos-sw/mecanaut-backend
+- Backend Repositorio de Experimentos: https://mecanaut-experiment-backend-cscbg2hycucpdzds.eastus-01.azurewebsites.net/swagger/index.html
 - Backend desplegado del proyecto: https://mecanaut-api-csdaced4hjenb0d4.canadacentral-01.azurewebsites.net/swagger/index.html
 - Video About The product:
 - https://youtu.be/cW31cmfSuA8
