@@ -29,7 +29,7 @@
             <td>u202315044</td>
         </tr>
         <tr>
-            <td>Belledonne Espinoza, Claudia Valeria</td>
+            <td>Belledonne Espinoza, Claudia </td>
             <td>u202210259</td>
         </tr>
         <tr>
@@ -7808,6 +7808,8 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Inicio:** 00:01 seg
 - **Fin:** 06:53 min
 
+Para Gabriela, sus flujos actuales de planificación presentan problemas de claridad y reanudación, ya que le cuesta recordar el paso exacto al retomar tareas interrumpidas. Esto genera errores recurrentes en frecuencias y datos de activos. Valora la previsualización de KPIs para ajustar la programación según alertas visuales y responde activamente a las encuestas cortas porque no interfieren con su tiempo y cree que generan valor para ella. El ingreso manual repetitivo le genera un desgaste considerable, por lo que apoya las plantillas de duplicación. Además, considera indispensable tener el formulario de contacto visible en la página principal para evitar el abandono de la web. Como conclusión general, coincide plenamente en que el sistema debe guiar al usuario delimitando los pasos con claridad y previniendo errores de omisión.
+
 <br>
 
 **Entrevista 2**
@@ -7821,6 +7823,8 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Enlace del video:** [To-Be-Validation-Interview-2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
 - **Inicio:** 11:06 min
 - **Fin:** 18:34 min
+
+Alicia experimenta confusión y pérdida de tiempo al reconfigurar planes interrumpidos o ingresar datos desde cero para máquinas idénticas, lo que ocasiona registros incompletos. Ve en los indicadores de KPIs una herramienta útil para corregir frecuencias sobre la marcha y prefiere escalas rápidas de satisfacción para evaluar la agilidad de los procesos. En cuanto al acceso comercial, prefiere la inmediatez de un formulario directo en la landing page. Adicionalmente, destacó la gran utilidad que tendría registrarse directamente seleccionando un rol autónomo (como Administrador o Técnico), esperando que el sistema configure automáticamente los permisos necesarios y notifique de forma clara si falta algún dato obligatorio para validar su cuenta.
 
 <br>
 
@@ -7836,6 +7840,8 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Inicio:** 13:36 min
 - **Fin:** 20:20 min
 
+Como administrador de mantenimiento, Jorge destaca que la falta de un orden visual en las interfaces actuales genera confusión, retrabajo y omisión de datos obligatorios. Pierde un tiempo valioso copiando planes de manera manual y utiliza los datos históricos de KPIs para ajustar la disponibilidad de planta. Responde las micro-encuestas cuando el proceso ha sido notablemente fácil o complejo, y exige un formulario comercial directo en la página de inicio para no abandonar el sitio por frustración. En sus conclusiones generales, enfatiza la necesidad de automatizar la duplicación de configuraciones comunes y estructurar los flujos para evitar el cansancio del usuario en tareas rutinarias.
+
 <br>
 
 **Entrevista 4**
@@ -7849,18 +7855,22 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Inicio:** 20:23 min
 - **Fin:** 27:05 min
 
+Mauricio señala que la falta de estandarización real hace que cada técnico reporte de forma distinta, olvidando repuestos u observaciones clave. Aunque apoya una lista de verificación obligatoria para cerrar órdenes, condiciona su éxito a que sea un proceso ágil. Las alertas de inventario antes de iniciar una tarea le parecen fundamentales para evitar desplazamientos al taller en vano y optimizar sus tiempos de coordinación. Respecto a los canales de atención, prefiere el formulario directo en la interfaz principal para consultas rápidas. Concluye que las restricciones del sistema son positivas siempre y cuando protejan la calidad de la información sin burocratizar el trabajo operativo.
+
 <br>
 
 **Entrevista 5**
 
 <img width="742" height="337" alt="vale validation" src="https://github.com/user-attachments/assets/a2c88da7-2155-4877-b29c-fc28e62abe5d" />
 
-- **Nombre completo:** Valeria
+- **Nombre completo:** Valeria Castillo
 - **Edad:** 24 años
 - **Cargo / Rol en la empresa:** Técnico de mantenimiento industrial
 - **Enlace del video:** [To-Be-Validation-Interview-5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
 - **Inicio:** 27:17 min
 - **Fin:** 33:17 min
+
+Valeria prefiere un formulario de contacto directo en la página principal para enviar consultas comerciales al instante. Considera que las alertas de inventario mejoran sustancialmente la planificación de las órdenes y evitan dejar trabajos pendientes a medias. Asimismo, está totalmente a favor de que el sistema obligue de forma estricta a completar las listas de verificación al cerrar reportes, garantizando consistencia y previniendo futuras confusiones en los mantenimientos. También, ella prioriza la inmediatez; considera indispensable tener el formulario en la landing page para enviar consultas al instante y evitar la frustración de búsquedas innecesarias. Para cerrar, ve con un perfil muy positivo que la plataforma adapte dinámicamente las funciones según el perfil del usuario desde el primer momento, asegurando que un técnico visualice solo lo correspondiente a su labor sin trabas de acceso.
 
 <br>
 
@@ -7875,6 +7885,8 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Enlace del video:** [To-Be-Validation-Interview-6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GAeU3e)
 - **Inicio:** 33:18 min
 - **Fin:** 39:20 min
+
+A Vanessa le incomoda perder tiempo buscando medios de contacto, por lo que solicita el formulario visible en la página principal. En el ámbito operativo, afirma que la falta de repuestos detiene y retrasa su flujo de trabajo habitual, viendo las alertas previas como una solución ideal para reorganizar sus tareas antes de ir al taller. Apoya que el sistema bloquee el cierre de órdenes si faltan datos de materiales o tareas, argumentando que no es una molestia si el llenado es rápido. Como conclusión general, prioriza soluciones digitales que prevengan la pérdida de tiempo innecesaria y aseguren que los historiales de los equipos queden correctamente documentados. Para complementar, ella subraya que la falta de un formulario directo y visible en la página principal es una fuente de frustración que le hace perder tiempo innecesario, al punto de considerar cerrar la web si no encuentra cómo contactar rápido.
 
 <br>
 
