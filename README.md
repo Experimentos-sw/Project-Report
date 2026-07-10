@@ -8027,41 +8027,180 @@ La presente matriz permite evaluar el impacto ético, profesional, social, econ�
 
 # Conclusiones
 
-<h2> Conclusiones y recomendaciones.</h2>
-**Problema Principal**
-En la actualidad, muchas empresas industriales enfrentan problemas debido al uso de métodos manuales y herramientas dispersas para gestionar el mantenimiento de sus activos. Esto genera ineficiencias, paros no programados y decisiones basadas en información incompleta o errónea.
+<h2>Conclusiones y recomendaciones</h2>
 
-**La Solución de Mecanaut**
-Mecanaut proporciona una plataforma digital integral para gestionar el mantenimiento de activos de forma centralizada. Esto incluye la planificación de mantenimientos, gestión de inventarios, generación de reportes técnicos y registro de activos, todo en una sola interfaz amigable y fácil de usar.
+**Problema principal**
 
-**Beneficios Clave para los Usuarios**
+Actualmente, muchas empresas industriales gestionan el mantenimiento de sus activos mediante documentos físicos, hojas de cálculo y herramientas aisladas. Esta situación genera pérdida de información, dificultad para supervisar las actividades, retrasos en la atención de fallas, paradas no programadas y decisiones basadas en datos incompletos o desactualizados.
 
-- **Administradores**: Mejor toma de decisiones gracias a la automatización de procesos y visualización clara de KPIs. Esto permite una mayor eficiencia en la planificación y ejecución de mantenimiento.
-- **Técnicos**: Acceso en tiempo real a las órdenes de trabajo, tareas asignadas y un sistema claro para registrar y hacer seguimiento de las actividades. Esto optimiza la productividad y reduce los errores operativos.
+**La solución de Mecanaut**
 
-**Optimización de Procesos**
-La plataforma de Mecanaut mejora la eficiencia operativa al automatizar tareas repetitivas y ofrecer una visibilidad clara de los indicadores clave de rendimiento (KPIs), lo que permite decisiones más rápidas y basadas en datos.
+Mecanaut propone una plataforma digital integral para centralizar la gestión del mantenimiento industrial. La solución permite registrar activos y líneas de producción, administrar repuestos, generar órdenes de trabajo, crear planes de mantenimiento, asignar técnicos y consultar indicadores relacionados con el desempeño de las operaciones.
 
-**Enfoque en la Simplicidad**
-Mecanauts ha sido diseñado para ofrecer soluciones prácticas y de impacto inmediato. Se han evitado características que no generaban un valor directo, como sistemas de retroalimentación complejos, para centrarse en lo esencial.
+La integración de estas funciones en una sola plataforma reduce la fragmentación de la información y facilita el seguimiento de las actividades de mantenimiento.
 
-**Accesibilidad y Facilidad de Uso**
-La interfaz ha sido pensada para ser intuitiva, incluso para usuarios con poca experiencia en tecnología. El diseño visual con colores y tipografía claras facilita la navegación, especialmente en entornos industriales.
+**Beneficios para los usuarios**
 
-**Enfoque Centrado en el Usuario**
-Las mejoras están alineadas con las necesidades reales de los usuarios, basadas en entrevistas y en un análisis detallado de los flujos de trabajo actuales. La plataforma se adapta a las tareas diarias de los usuarios sin sobrecargarlo de funciones innecesarias.
+- **Administradores de mantenimiento:** disponen de herramientas para planificar actividades, asignar personal, controlar inventarios, supervisar órdenes de trabajo y consultar indicadores como MTBF, MTTR, costos y tiempos de inactividad.
+- **Técnicos operativos:** pueden consultar sus órdenes de trabajo, revisar tareas asignadas, registrar avances, completar listas de verificación y dejar evidencia de las actividades realizadas.
+- **Empresas:** obtienen mayor trazabilidad sobre sus activos, recursos y mantenimientos, lo que contribuye a reducir errores, retrabajos y tiempos de inactividad.
 
-**Mercado Potencial**
-Mecanauts tiene un mercado claro entre medianas empresas industriales de Latinoamérica que no han adoptado soluciones digitales completas para la gestión de mantenimiento, pero que buscan aumentar su eficiencia sin recurrir a sistemas demasiado complejos o costosos.
+**Optimización de procesos**
 
-**Visión a Futuro**
-Mecanauts no solo resuelve los problemas inmediatos de las empresas, sino que tiene el potencial de transformar la manera en que se gestionan los procesos de mantenimiento en la industria, ofreciendo una solución escalable que puede adaptarse al crecimiento de las empresas.
+Mecanaut mejora la eficiencia operativa al digitalizar procesos que anteriormente se realizaban de manera manual. La centralización de la información permite consultar el estado de los activos, las órdenes pendientes, los repuestos disponibles y las actividades programadas sin depender de diferentes documentos o canales de comunicación.
 
-<h2> Recomendaciones </h2>
+Asimismo, la visualización de indicadores facilita que los responsables del mantenimiento identifiquen tendencias, evalúen el desempeño de los activos y tomen decisiones sustentadas en información registrada dentro de la plataforma.
 
-**Fomentar la Colaboración Constante**: Es importante mantener una comunicación fluida entre todos los miembros del equipo durante todo el proceso de desarrollo. Utilizar herramientas de gestión de proyectos y reuniones regulares para asegurar que todos estén alineados con los objetivos y plazos.
+**Enfoque en la simplicidad**
 
-**Priorizar la Simplicidad en el Diseño**: Aunque la plataforma tiene múltiples funcionalidades, debemos asegurar que cada función esté diseñada de manera intuitiva y accesible para los usuarios, especialmente aquellos con poca experiencia tecnológica. El diseño debe ser limpio y fácil de navegar.
+La solución fue diseñada para priorizar las funcionalidades que aportan valor directo al proceso de mantenimiento. Se evitó incorporar elementos innecesarios que pudieran aumentar la complejidad de la plataforma o dificultar su adopción.
+
+Los formularios, listados, calendarios y órdenes de trabajo mantienen una estructura consistente, permitiendo que los usuarios reconozcan los patrones de interacción y completen sus tareas con una menor curva de aprendizaje.
+
+**Accesibilidad y facilidad de uso**
+
+La interfaz de Mecanaut utiliza una jerarquía visual clara, tipografía legible, colores consistentes, botones diferenciados y mensajes de retroalimentación. Estas decisiones favorecen la navegación de usuarios con distintos niveles de experiencia tecnológica.
+
+El diseño responsive permite utilizar la aplicación web desde diferentes tamaños de pantalla. Por su parte, la aplicación móvil desarrollada con Flutter mantiene una experiencia visual y funcional consistente en Android e iOS mediante una base de código compartida.
+
+**Enfoque centrado en el usuario**
+
+Las funcionalidades de Mecanaut se definieron a partir de entrevistas, User Personas, Empathy Maps, User Journey Maps, Scenario Maps y una matriz de tareas. Estos artefactos permitieron identificar las diferencias entre las necesidades de los administradores y los técnicos operativos.
+
+Los administradores requieren funciones relacionadas con planificación, supervisión y análisis, mientras que los técnicos necesitan acceso rápido a órdenes, tareas, instrucciones y recursos. Esta distinción permitió diseñar flujos específicos para cada tipo de usuario.
+
+**Especificación y trazabilidad de los requisitos**
+
+La definición de User Stories, criterios de aceptación, Product Backlog e Impact Mapping permitió relacionar las necesidades identificadas con funcionalidades concretas de la plataforma.
+
+Esta trazabilidad ayudó a priorizar los requerimientos según su valor para los usuarios y a evitar que las decisiones del proyecto se basaran únicamente en preferencias técnicas del equipo.
+
+**Diseño y arquitectura del sistema**
+
+La aplicación de Domain-Driven Design permitió organizar Mecanaut en contextos relacionados con seguridad, activos, planificación de mantenimientos, órdenes de trabajo, análisis, notificaciones y suscripciones.
+
+Esta separación mejora la comprensión del sistema, disminuye el acoplamiento entre responsabilidades y establece una base adecuada para incorporar nuevas funcionalidades sin afectar innecesariamente otros módulos.
+
+Los diagramas C4, diagramas de clases y el diseño de base de datos permitieron representar la estructura técnica de la solución y mantener coherencia entre los requerimientos, la arquitectura y la implementación.
+
+**Calidad y validación del producto**
+
+Las pruebas unitarias, de integración, de comportamiento y de sistema permitieron comprobar tanto componentes individuales como flujos completos de la plataforma.
+
+El análisis estático, las evaluaciones heurísticas, las entrevistas de validación y la auditoría de experiencia de usuario permitieron detectar problemas relacionados con calidad, consistencia, seguridad, accesibilidad y comprensión de los flujos.
+
+Estas actividades evidenciaron que la calidad del producto no depende únicamente de que las funcionalidades se ejecuten, sino también de que sean comprensibles, seguras y útiles para los usuarios finales.
+
+**Prácticas DevOps**
+
+La incorporación de prácticas de integración continua, entrega continua, despliegue continuo y monitoreo permitió automatizar actividades importantes del ciclo de vida del software.
+
+Los pipelines ayudan a comprobar el código antes de su integración y despliegue, mientras que las herramientas de monitoreo permiten observar el comportamiento de la plataforma e identificar fallas operativas.
+
+Estas prácticas disminuyen el riesgo de publicar versiones defectuosas, aunque requieren revisión y mantenimiento constante para conservar su efectividad.
+
+**Desarrollo basado en experimentos**
+
+El enfoque de Experiment-Driven Development permitió convertir suposiciones del equipo en preguntas, hipótesis, medidas y condiciones de evaluación.
+
+La ejecución de experimentos ayudó a analizar el comportamiento de los usuarios frente a los flujos propuestos y a tomar decisiones basadas en evidencia. Los resultados obtenidos permitieron conservar los elementos que demostraron utilidad, ajustar aquellos que generaron dificultades y repriorizar las preguntas que todavía requieren validación.
+
+Sin embargo, los resultados corresponden a un entorno controlado y deben complementarse con pruebas de mayor duración, más participantes y escenarios industriales reales antes de afirmar que representan el comportamiento de todo el mercado objetivo.
+
+**Aprendizaje continuo**
+
+El proceso de Continuous Learning permitió convertir los resultados de entrevistas, auditorías, métricas y experimentos en decisiones concretas para el producto.
+
+El equipo pudo identificar qué elementos debían mantenerse, cuáles necesitaban ajustes y qué funcionalidades debían evaluarse en experimentos posteriores. Esta práctica evita que la evolución de Mecanaut dependa únicamente de intuiciones y promueve una mejora continua sustentada en evidencia.
+
+**Responsabilidad ética y profesional**
+
+La Matriz de Evaluación Ética y de Impacto permitió analizar los beneficios y riesgos de Mecanaut desde una perspectiva social, económica, ambiental y profesional.
+
+La plataforma puede contribuir a reducir pérdidas, desorganización y uso innecesario de recursos. Sin embargo, también debe considerar riesgos relacionados con privacidad, seguridad de la información, accesibilidad, dependencia tecnológica y posible uso de los datos para vigilancia laboral.
+
+Por ello, Mecanaut debe mantener controles de acceso, trazabilidad de cambios, protección de credenciales, transparencia en el uso de información y mecanismos para corregir datos incorrectos.
+
+**Mercado potencial**
+
+Mecanaut posee un mercado potencial entre pequeñas y medianas empresas industriales de Latinoamérica que todavía administran sus actividades mediante procesos manuales o herramientas no integradas.
+
+La solución puede posicionarse como una alternativa accesible frente a plataformas más costosas o complejas, especialmente para organizaciones que necesitan digitalizar progresivamente su gestión de mantenimiento sin implementar una infraestructura tecnológica avanzada.
+
+**Visión a futuro**
+
+Mecanaut tiene el potencial de evolucionar hacia una plataforma más completa mediante la incorporación de mantenimiento predictivo, integración con sensores IoT, análisis avanzado de indicadores, notificaciones automáticas e interoperabilidad con otros sistemas empresariales.
+
+No obstante, esta evolución debe realizarse de forma progresiva y sustentada en evidencia, evitando añadir funcionalidades que incrementen la complejidad sin resolver necesidades comprobadas de los usuarios.
+
+**Conclusión general**
+
+Mecanaut constituye una propuesta técnicamente estructurada y alineada con necesidades reales del mantenimiento industrial. El proyecto integra investigación de usuarios, especificación de requisitos, diseño UX/UI, arquitectura de software, implementación, pruebas, prácticas DevOps, experimentación y evaluación ética.
+
+La solución demuestra que es posible centralizar y simplificar procesos relacionados con activos, personal, inventarios y mantenimientos. Sin embargo, antes de una adopción industrial a gran escala, será necesario ampliar las validaciones, utilizar datos reales durante periodos prolongados y comprobar el comportamiento de la plataforma en empresas con diferentes cantidades de activos, técnicos y líneas de producción.
+
+<h2>Recomendaciones</h2>
+
+**Mantener una colaboración constante**
+
+Es importante conservar una comunicación fluida entre los integrantes del equipo durante el desarrollo. Las reuniones periódicas, la revisión conjunta de avances y el uso de herramientas de gestión permiten detectar bloqueos, distribuir responsabilidades y mantener alineados los objetivos del proyecto.
+
+**Priorizar la simplicidad del diseño**
+
+Cada nueva funcionalidad debe evaluarse según el valor que aporta al usuario. La interfaz debe continuar siendo limpia, predecible y fácil de navegar, especialmente para usuarios con poca experiencia tecnológica.
+
+**Ampliar las validaciones**
+
+Se recomienda ejecutar nuevas pruebas con administradores y técnicos pertenecientes a empresas reales de diferentes tamaños y sectores industriales. Esto permitirá determinar si los resultados obtenidos se mantienen en entornos con más usuarios, activos y órdenes de trabajo.
+
+**Continuar con los experimentos pendientes**
+
+Los experimentos deben ejecutarse de manera independiente, con hipótesis, medidas, condiciones y reglas de decisión previamente definidas. De esta forma se evitará mezclar resultados o interpretar datos que no correspondan al objetivo evaluado.
+
+**Fortalecer la seguridad**
+
+Se recomienda implementar y revisar periódicamente:
+
+- Control de acceso basado en roles.
+- Cifrado de las comunicaciones.
+- Protección de credenciales.
+- Registros de auditoría.
+- Copias de seguridad.
+- Gestión segura de secretos.
+- Revisión de dependencias y vulnerabilidades.
+
+**Mejorar la accesibilidad**
+
+La plataforma debe continuar incorporando navegación mediante teclado, compatibilidad con lectores de pantalla, escalado de texto, contraste adecuado y mensajes que no dependan únicamente del color.
+
+Estas condiciones deben comprobarse mediante herramientas especializadas y pruebas con usuarios.
+
+**Medir el comportamiento real**
+
+Se recomienda registrar automáticamente métricas como:
+
+- Tiempo para completar tareas.
+- Tasa de finalización.
+- Errores de validación.
+- Frecuencia de uso.
+- Adopción por tipo de usuario.
+- Órdenes completadas.
+- Disponibilidad del servicio.
+- Uso de filtros y calendarios.
+
+Estas métricas permitirán evaluar la plataforma sin depender exclusivamente de opiniones declaradas.
+
+**Evitar el uso de la plataforma como mecanismo de vigilancia**
+
+La información registrada debe utilizarse para mejorar la planificación, la seguridad y la eficiencia del mantenimiento. Los usuarios deben conocer qué datos se recopilan, para qué se utilizan y durante cuánto tiempo se conservan.
+
+**Optimizar el uso de recursos**
+
+Se recomienda revisar periódicamente el consumo de almacenamiento, procesamiento, transferencia de datos y servicios de infraestructura. Esta optimización puede reducir los costos operativos y el impacto ambiental del sistema.
+
+**Mantener el aprendizaje continuo**
+
+Los resultados de entrevistas, monitoreo, auditorías y experimentos deben actualizar el Question Backlog, Product Backlog y roadmap de Mecanaut. Esto permitirá que la plataforma evolucione según evidencia verificable y necesidades reales de los usuarios.
 
 # Bibliografía
 
