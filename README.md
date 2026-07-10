@@ -1838,13 +1838,333 @@ Botones como “Filtro” emplean íconos sutiles y contornos en tonos morados. 
     </li>
 </ul>
 
+
+
 ### 4.1.2. Web Style Guidelines.
+
+Las Web Style Guidelines de Mecanaut definen los criterios visuales y de interacción aplicados en la aplicación web. El objetivo es mantener una experiencia clara, consistente y eficiente para administradores de mantenimiento y técnicos operativos.
+
+La experiencia web utiliza la identidad visual definida previamente: tipografía Montserrat, tonos azules y morados, fondos claros, bordes redondeados y rojo para alertas o acciones críticas.
+
+#### Diseño responsive
+
+La aplicación adopta un enfoque Desktop First, ya que las principales tareas administrativas requieren visualizar tablas, formularios, calendarios e indicadores. Sin embargo, los componentes se reorganizan para funcionar correctamente en pantallas pequeñas.
+
+| Dispositivo | Ancho de referencia | Adaptación |
+| --- | ---: | --- |
+| Desktop | 1200 px o más | Navegación lateral completa, tablas amplias y formularios en varias columnas. |
+| Laptop | 992 px a 1199 px | Reducción de márgenes y espacios. |
+| Tablet | 768 px a 991 px | Reorganización de columnas y controles. |
+| Mobile Web | Menos de 768 px | Contenido en una columna y navegación compacta. |
+
+En resoluciones pequeñas se prioriza la información principal y se evita el desplazamiento horizontal innecesario.
+
+#### Estructura de las pantallas
+
+Las vistas principales mantienen una organización consistente:
+
+- Barra lateral para navegar entre módulos.
+- Barra superior para acciones generales y perfil.
+- Título que identifica la pantalla actual.
+- Controles de búsqueda y filtros.
+- Botón de acción principal.
+- Área central con formularios, tarjetas, tablas o calendarios.
+- Mensajes de confirmación, advertencia o error.
+
+Esta estructura reduce la curva de aprendizaje, ya que el usuario encuentra los controles en posiciones similares dentro de todos los módulos.
+
+#### Jerarquía visual
+
+La interfaz diferencia claramente los niveles de información:
+
+| Elemento | Tratamiento |
+| --- | --- |
+| Título principal | Mayor tamaño y peso tipográfico. |
+| Subtítulo | Tamaño intermedio y negrita. |
+| Texto principal | Montserrat Regular. |
+| Texto auxiliar | Menor tamaño y color neutro. |
+| Acción principal | Botón relleno en azul o morado. |
+| Acción secundaria | Botón delineado. |
+| Acción destructiva | Botón rojo con confirmación previa. |
+
+#### Botones y acciones
+
+Los botones utilizan etiquetas breves y orientadas a la acción, como:
+
+- Guardar.
+- Agregar.
+- Crear.
+- Editar.
+- Filtrar.
+- Cancelar.
+- Eliminar.
+- Marcar como finalizada.
+
+Los controles incluyen estados `default`, `hover`, `focus`, `active`, `disabled` y `loading`. Las acciones irreversibles deben solicitar confirmación antes de ejecutarse.
+
+#### Formularios
+
+Los formularios web mantienen los siguientes criterios:
+
+- Etiquetas visibles y cercanas a los campos.
+- Campos obligatorios claramente identificados.
+- Mensajes de validación junto al dato incorrecto.
+- Agrupación de campos relacionados.
+- Botón principal al final del formulario.
+- Acción secundaria para cancelar o regresar.
+- Conservación de datos cuando ocurre un error recuperable.
+
+En pantallas amplias se pueden utilizar dos columnas. En pantallas pequeñas, los campos se reorganizan en una sola columna.
+
+#### Tablas y listados
+
+Las tablas se utilizan para gestionar maquinarias, repuestos, técnicos, líneas de producción y órdenes de trabajo.
+
+Deben incluir:
+
+- Encabezados diferenciados.
+- Datos principales al inicio.
+- Acciones ubicadas en una posición consistente.
+- Búsqueda y filtros.
+- Estados acompañados por texto y color.
+- Mensaje cuando no existen resultados.
+
+En dispositivos pequeños, las tablas pueden transformarse en tarjetas para mejorar su lectura.
+
+#### Ventanas modales
+
+Las ventanas modales se utilizan para tareas breves, como registrar una maquinaria, agregar un repuesto o confirmar una eliminación.
+
+Cada modal debe tener:
+
+- Título descriptivo.
+- Botón para cerrar.
+- Una tarea principal.
+- Acción de confirmación.
+- Acción para cancelar.
+- Advertencia cuando existan cambios sin guardar.
+
+#### Sistema de espaciado
+
+La interfaz utiliza una escala basada en múltiplos de 8 px:
+
+| Espaciado | Uso |
+| ---: | --- |
+| 8 px | Elementos relacionados. |
+| 16 px | Campos y controles. |
+| 24 px | Grupos de información. |
+| 32 px | Secciones principales. |
+
+#### Accesibilidad web
+
+La aplicación considera:
+
+- Contraste suficiente entre texto y fondo.
+- Navegación mediante teclado.
+- Indicadores de foco visibles.
+- Etiquetas asociadas a los formularios.
+- Texto alternativo en imágenes.
+- Mensajes que no dependan únicamente del color.
+- Uso de atributos ARIA cuando corresponda.
+- Compatibilidad con `en_US` y `es_419`.
+
+<p align="center">
+  <img
+    src="img/style-guidelines/colores.jpg"
+    alt="Paleta de colores de Mecanaut"
+    width="650">
+</p>
+
+<p align="center">
+  <em>Paleta cromática aplicada en la experiencia web y móvil.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/style-guidelines/botones.jpg"
+    alt="Sistema de botones de Mecanaut"
+    width="650">
+</p>
+
+<p align="center">
+  <em>Variantes de botones para acciones principales, secundarias y críticas.</em>
+</p>
 
 ### 4.1.3. Mobile Style Guidelines.
 
+La aplicación móvil de Mecanaut fue desarrollada con Flutter. Por ello, las versiones de Android e iOS comparten la misma base de código, estructura visual, navegación y componentes.
+
+El diseño móvil está orientado principalmente a técnicos operativos que necesitan consultar órdenes de trabajo, revisar tareas, verificar activos y registrar información desde la planta.
+
+#### Principios de diseño móvil
+
+La experiencia móvil considera:
+
+- Una tarea principal por pantalla.
+- Navegación simple y predecible.
+- Contenido en una sola columna.
+- Botones táctiles amplios.
+- Formularios breves.
+- Listados mediante tarjetas.
+- Retroalimentación inmediata.
+- Acciones críticas claramente diferenciadas.
+- Consistencia entre Android e iOS.
+
+#### Navegación
+
+La aplicación utiliza una navegación común implementada con Flutter:
+
+- Barra superior con el nombre de la pantalla.
+- Botón para regresar.
+- Menú principal para acceder a los módulos.
+- Navegación inferior cuando existen funciones frecuentes.
+- Ventanas de confirmación para acciones críticas.
+
+La estructura evita flujos extensos y permite acceder rápidamente a las funciones operativas.
+
+#### Formularios móviles
+
+Los formularios se presentan en una sola columna y utilizan controles adaptados al tipo de dato:
+
+- Teclado numérico para cantidades.
+- Teclado de correo para credenciales.
+- Selector de fecha para mantenimientos.
+- Listas desplegables para estados y categorías.
+- Cámara o galería para evidencias.
+
+Los errores se muestran debajo del campo correspondiente y los datos se conservan cuando la operación puede reintentarse.
+
+#### Listados y tarjetas
+
+En móvil, los registros se presentan mediante tarjetas. Cada tarjeta muestra:
+
+- Identificador.
+- Nombre.
+- Estado.
+- Información principal.
+- Acción para abrir el detalle.
+
+Este formato facilita la lectura y evita utilizar tablas extensas en pantallas pequeñas.
+
+#### Controles táctiles
+
+Los botones y campos mantienen áreas suficientemente amplias para evitar pulsaciones accidentales. Las acciones de eliminar o finalizar se separan de las acciones normales y requieren confirmación.
+
+#### Estados del sistema
+
+La aplicación comunica los siguientes estados:
+
+- Cargando.
+- Guardando.
+- Operación completada.
+- Error de validación.
+- Error de conexión.
+- Sin resultados.
+- Sin registros.
+- Sin conexión a internet.
+- Reintento disponible.
+
+Los mensajes combinan texto, iconos y color para mejorar su comprensión.
+
+#### Evidencias de las Mobile Style Guidelines
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-iniciar-sesion.jpg"
+    alt="Pantalla móvil de inicio de sesión de Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Inicio de sesión adaptado a dispositivos móviles.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-crear-cuenta.jpg"
+    alt="Pantalla móvil para crear una cuenta en Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Formulario móvil para la creación de una cuenta.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-gestion-maquinarias.jpg"
+    alt="Gestión móvil de maquinarias en Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Listado de maquinarias mediante tarjetas.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-gestion-maquinarias-form.jpg"
+    alt="Formulario móvil de maquinaria en Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Formulario para registrar o modificar una maquinaria.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-gestion-linea-produccion.jpg"
+    alt="Gestión móvil de líneas de producción en Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Listado móvil de líneas de producción.</em>
+</p>
+
+<p align="center">
+  <img
+    src="img/mobile-style/mockup-gestion-linea-produccion-form.jpg"
+    alt="Formulario móvil de línea de producción en Mecanaut"
+    width="300">
+</p>
+
+<p align="center">
+  <em>Formulario para registrar o modificar una línea de producción.</em>
+</p>
+
 #### 4.1.3.1. iOS Mobile Style Guidelines.
 
+La versión para iOS utiliza la misma interfaz desarrollada en Flutter. Se mantienen la tipografía, los colores, los formularios, las tarjetas y los flujos definidos para Mecanaut.
+
+Para conservar una interacción familiar en dispositivos Apple, se consideran:
+
+- Botón de retorno en la barra superior.
+- Gestos de desplazamiento y navegación compatibles con iOS.
+- Área táctil mínima aproximada de `44 × 44 pt`.
+- Compatibilidad con VoiceOver.
+- Soporte para ampliación de texto.
+- Respeto por el área segura del dispositivo.
+- Uso de selectores y diálogos compatibles con iOS.
+
 #### 4.1.3.2. Android Mobile Style Guidelines.
+
+La versión Android también utiliza la interfaz compartida de Flutter. Las diferencias se limitan principalmente al comportamiento del sistema operativo y a ciertos patrones de interacción nativos.
+
+Se consideran:
+
+- Botón de retroceso del sistema.
+- Área táctil mínima aproximada de `48 × 48 dp`.
+- Efecto visual al pulsar controles.
+- Compatibilidad con TalkBack.
+- Soporte para tamaños de fuente configurables.
+- Respeto por barras de navegación y estado.
+- Adaptación a distintas resoluciones y densidades.
+
+Al utilizar Flutter, Mecanaut mantiene una experiencia visual y funcional consistente en iOS y Android, reduciendo diferencias innecesarias entre plataformas y facilitando el mantenimiento de la aplicación.
+
+
 
 ## 4.2. Information Architecture.
 
