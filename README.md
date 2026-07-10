@@ -7876,6 +7876,14 @@ En esta sección, se presentan las entrevistas de validación realizadas a ambos
 - **Inicio:** 33:18 min
 - **Fin:** 39:20 min
 
+<br>
+
+**Resultados y Análisis de las entrevistas:**
+Los resultados obtenidos muestran una aceptación favorable de los escenarios To-Be planteados. En las entrevistas, los participantes coincidieron en que las principales dificultades actuales están relacionadas con procesos poco guiados, tareas repetitivas, reportes incompletos, falta de información oportuna y canales de comunicación insuficientes. Frente a estas necesidades, las funcionalidades propuestas fueron percibidas como mejoras que facilitarían el trabajo diario, reducirían errores y harían más eficiente la interacción con la plataforma.
+
+En conjunto, la evidencia recopilada permite concluir que los escenarios To-Be fueron validados satisfactoriamente, ya que responden a problemas reales identificados por los usuarios y se alinean con sus expectativas sobre una solución más intuitiva, eficiente y orientada a sus necesidades operativas. Asimismo, los resultados de los experimentos realizados y las respuestas obtenidas durante las entrevistas respaldan la continuidad de estas funcionalidades dentro del desarrollo de la plataforma.
+
+<br>
 
 ## 8.4. Experiment Aftermath & Analysis
 
