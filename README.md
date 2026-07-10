@@ -7704,9 +7704,177 @@ Los tres repositorios muestran un patrón consistente con la naturaleza del spri
 
 #### 8.3.4.1. Diseño de Entrevistas.
 
+
+En esta sección, se presentan las entrevistas de validación realizadas a ambos segmentos objetivo con el fin de evaluar la efectividad de los experimentos aplicados.
+
+*Segmento objetivo: Administradores de mantenimiento*
+
+*US09-R Validación de flujo guiado para creación de planes*
+
+*Preguntas a evaluar:*
+
+* Cuando dejas un plan a medias porque te interrumpieron, ¿qué tan difícil es retomar donde te quedaste?
+* ¿Cuáles son los errores u omisiones más comunes que detecta una vez que el plan de mantenimiento ya ha sido guardado e ingresado al sistema?
+* ¿Qué tan complejo resulta para el equipo adaptarse a las herramientas actuales cuando la interfaz no delimita claramente el orden de los datos que se deben ingresar?
+
+<br>
+
+*US07-R Validación de previsualización de KPIs para mantenimiento*
+
+*Preguntas a evaluar:*
+
+* Al definir la frecuencia de un mantenimiento, ¿bajo qué criterios o datos históricos determina si un activo necesita revisión cada cierto periodo de días?
+* ¿Cómo mide o proyecta actualmente el impacto que tendrá un nuevo plan en la disponibilidad de la planta antes de que este comience a ejecutarse?
+* Si al modificar la frecuencia de una tarea observa que el indicador de tiempo entre fallos cambia a color rojo, ¿qué acciones tomaría en ese momento dentro de la plataforma?
+
+<br>
+
+*US34-R Validación de micro-encuesta post-tarea*
+
+*Preguntas a evaluar:*
+
+* Cuando el sistema le presenta la pregunta de satisfacción al cerrar o confirmar un plan, ¿la responde analizando su experiencia o la cierra rápidamente para continuar con sus labores?
+* ¿Considera que una escala del 1 al 5 es suficiente para expresar si el proceso de planificación fue ágil, o preferiría un espacio breve para comentarios abiertos?
+
+<br>
+
+
+*US35-R Validación de plantillas reutilizables para planes de mantenimiento*
+
+*Preguntas a evaluar:*
+
+* ¿Cuánto tiempo estima que pierde actualmente al ingresar manualmente datos repetitivos para máquinas que comparten el mismo plan de mantenimiento?
+* Cuando un activo nuevo es idéntico a uno que ya está registrado en el sistema, ¿qué dificultades encuentra para duplicar o replicar su configuración de mantenimiento?
+* ¿Qué problemas o errores de digitación suelen ocurrir debido al cansancio de rellenar los mismos formularios una y otra vez?
+
+
+---
+
+*Segmento objetivo: Técnicos de mantenimiento*
+
+*US08-R Validación de revisión de stock antes de ejecutar una orden*
+*Preguntas a evaluar:*
+
+* ¿Qué tan seguido te ocurre que inicias una orden de trabajo y tienes que detenerla a mitad de camino porque falta un repuesto?
+* Cuando una orden no se puede realizar por falta de inventario, ¿cuánto tiempo o esfuerzo promedio se pierde gestionando ese problema?
+* Si te mostraran una alerta al iniciar, ¿sientes que te ahorra tiempo para no ir al taller en vano, o te estorba para trabajar?
+
+<br>
+
+*US08-R: Lista de verificación en cierre de órdenes de trabajo*
+
+*Preguntas a evaluar:*
+
+* ¿Qué información importante se suele olvidar u omitir cuando se cierra un reporte de trabajo? 
+* ¿Qué problemas causa que un reporte de mantenimiento quede incompleto o mal redactado?
+* ¿Cómo aseguran actualmente que todos los técnicos reporten sus actividades de la misma manera?
+* Si el sistema le impide cerrar una orden de trabajo hasta que complete una lista de verificación obligatoria (tareas, observaciones y repuestos), ¿considera que esta restricción asegura la calidad del reporte o que ralentiza el trabajo?
+
+---
+
+
+*Preguntas para ambos segmentos*
+
+*US33-R Validación de formulario de contacto en landing page*
+
+*Preguntas a evaluar:*
+
+* Cuando la sección de preguntas frecuentes no resuelve su duda específica, ¿qué canales suele buscar en una página web para comunicarse con la empresa?
+* ¿Qué tan frustrante resulta para usted no encontrar un formulario directo en la página principal cuando necesita cotizar o hacer una consulta comercial rápida?
+* ¿Considera que el formulario debe estar visible directamente en la página principal o prefiere que se encuentre en una pestaña o sección independiente?
+
+<br>
+
+*US20-R: Registro de cuenta con selección de rol*
+
+*Preguntas a evaluar:*
+
+* ¿Le resultaría útil poder registrarse directamente como Administrador o Técnico sin depender de otra persona?
+* ¿Considera importante que el sistema adapte automáticamente las funciones y permisos según el rol seleccionado durante el registro?
+* Si durante el registro faltara información obligatoria para su tipo de cuenta, ¿esperaría que el sistema le indique claramente qué debe completar?
+
 #### 8.3.4.2. Registro de Entrevistas.
 
-<a id="section-84-experiment-aftermath-analysis"></a>
+**Entrevista 1**
+
+<img width="747" height="382" alt="brenda validation" src="https://github.com/user-attachments/assets/5cb72130-e722-4793-bac5-2357eb530b95" />
+
+
+- **Nombre completo:** Gabriela de la Cruz
+- **Edad:** 27 años
+- **Cargo / Rol en la empresa:** Administradora de Mantenimiento
+- **Enlace del video:** [To-Be-Validation-Interview-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
+- **Inicio:** 00:01 seg
+- **Fin:** 06:53 min
+
+<br>
+
+**Entrevista 2**
+
+<img width="752" height="400" alt="ali varidation" src="https://github.com/user-attachments/assets/782622fb-909f-42ea-8902-0152494d14eb" />
+
+
+- **Nombre completo:** Alicia García
+- **Edad:** 27 años
+- **Cargo / Rol en la empresa:** Administradora de Mantenimiento
+- **Enlace del video:** [To-Be-Validation-Interview-2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
+- **Inicio:** 11:06 min
+- **Fin:** 18:34 min
+
+<br>
+
+**Entrevista 3**
+
+<img width="762" height="391" alt="jrge validation" src="https://github.com/user-attachments/assets/3e2ea5b0-a4cf-42d3-8954-03e2a39ec759" />
+
+
+- **Nombre completo:** Jorge Miranda
+- **Edad:** 26 años
+- **Cargo / Rol en la empresa:** Administrador de Mantenimiento
+- **Enlace del video:** [To-Be-Validation-Interview-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
+- **Inicio:** 13:36 min
+- **Fin:** 20:20 min
+
+<br>
+
+**Entrevista 4**
+
+<img width="732" height="337" alt="mau validation" src="https://github.com/user-attachments/assets/93ff3df6-8b2f-4975-af64-ee7e2d41a9d3" />
+
+- **Nombre completo:** Mauricio Iglesias
+- **Edad:** 23 años
+- **Cargo / Rol en la empresa:** Técnico de mantenimiento
+- **Enlace del video:** [To-Be-Validation-Interview-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
+- **Inicio:** 20:23 min
+- **Fin:** 27:05 min
+
+<br>
+
+**Entrevista 5**
+
+<img width="742" height="337" alt="vale validation" src="https://github.com/user-attachments/assets/a2c88da7-2155-4877-b29c-fc28e62abe5d" />
+
+- **Nombre completo:** Valeria
+- **Edad:** 24 años
+- **Cargo / Rol en la empresa:** Técnico de mantenimiento industrial
+- **Enlace del video:** [To-Be-Validation-Interview-5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MgoPKa)
+- **Inicio:** 27:17 min
+- **Fin:** 33:17 min
+
+<br>
+
+**Entrevista 6**
+
+<img width="737" height="340" alt="vane validation" src="https://github.com/user-attachments/assets/797ec126-7ea2-43c0-a731-60bd30ccceb6" />
+
+
+- **Nombre completo:** Vanessa Barrientos
+- **Edad:** 25 años
+- **Cargo / Rol en la empresa:** Técnica de mantenimiento
+- **Enlace del video:** [To-Be-Validation-Interview-6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210259_upc_edu_pe/IQD9GJYLmkHPSKA-tls1rQcJARVqK1Tzf4kU0BkZgdXjvgc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GAeU3e)
+- **Inicio:** 33:18 min
+- **Fin:** 39:20 min
+
 
 ## 8.4. Experiment Aftermath & Analysis
 
