@@ -7019,7 +7019,7 @@ El video de introducción de Mecanaut es la pieza central de nuestra estrategia 
 comunicar la propuesta de valor de forma directa y visual, conectando con las frustraciones operativas de nuestro público
 objetivo y demostrando lo fácil que es migrar hacia nuestra solución digital.
 
-link: https://drive.google.com/file/d/1YM4dKqLnE9AcmgQqUVko787NPB8t5VVa/view?usp=sharing
+link: https://drive.google.com/file/d/1KtAzhoi_7EcgkQR__VLwiZWRmSIAj4je/view?usp=sharing
 
 <a id="matriz-etica-impacto"></a>
 
